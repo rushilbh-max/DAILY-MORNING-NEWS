@@ -1,0 +1,10 @@
+{
+  "target_minutes": 30,
+  "voice": "en-IN-PrabhatNeural",
+  "rate": "+6%",
+  "max_sentences_per_item": 3,
+  "use_llm": false,
+  "llm_model": "claude-haiku-4-5-20251001",
+  "title": "Grace Bath World — Morning Brief",
+  "tz_offset_minutes": 330
+}

@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+episodes/_parts/
+episodes/_concat.txt

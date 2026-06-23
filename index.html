@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0B1026">
+<title>Morning Brief — Grace Bath World</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --ink:#0B1026; --night:#161B3C; --mist:rgba(255,255,255,.045);
+    --line:rgba(255,255,255,.10); --paper:#ECEAFB; --haze:#8B93C2;
+    --horizon:#FF8A3D; --glow:#FFD16B; --dawn:linear-gradient(135deg,#FF8A3D,#FFD16B);
+    --disp:"Space Grotesk",system-ui,sans-serif; --body:"Inter",system-ui,sans-serif;
+    --mono:"JetBrains Mono",ui-monospace,monospace;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0}
+  body{
+    font-family:var(--body); color:var(--paper); line-height:1.55;
+    background:
+      radial-gradient(120% 80% at 50% -10%, #25224d 0%, transparent 55%),
+      radial-gradient(140% 90% at 50% 120%, #2a1733 0%, transparent 50%),
+      var(--ink);
+    min-height:100dvh; -webkit-font-smoothing:antialiased;
+    padding:max(20px,env(safe-area-inset-top)) 18px calc(40px + env(safe-area-inset-bottom));
+  }
+  .wrap{max-width:480px;margin:0 auto}
+  .eyebrow{font-family:var(--mono);font-size:11px;letter-spacing:.22em;text-transform:uppercase;color:var(--haze)}
+  .dateline{font-family:var(--disp);font-weight:600;font-size:30px;line-height:1.08;margin:8px 0 2px}
+  .wordmark{font-family:var(--disp);font-weight:700;letter-spacing:.01em;font-size:14px;
+    background:var(--dawn);-webkit-background-clip:text;background-clip:text;color:transparent;text-transform:uppercase}
+  .meta{font-family:var(--mono);font-size:11.5px;color:var(--haze);margin-top:2px}
+
+  /* sunrise dial */
+  .stage{display:flex;flex-direction:column;align-items:center;margin:26px 0 6px}
+  .dial{position:relative;width:248px;height:248px;cursor:pointer;touch-action:manipulation}
+  .dial svg{transform:rotate(-90deg)}
+  .ring-bg{fill:none;stroke:var(--line);stroke-width:8}
+  .ring-fg{fill:none;stroke:url(#dawnGrad);stroke-width:8;stroke-linecap:round;
+    transition:stroke-dashoffset .15s linear}
+  .sun{position:absolute;inset:0;display:grid;place-items:center}
+  .play-btn{width:96px;height:96px;border-radius:50%;border:none;cursor:pointer;
+    background:var(--dawn);display:grid;place-items:center;
+    box-shadow:0 12px 40px -8px rgba(255,138,61,.55);transition:transform .12s ease}
+  .play-btn:active{transform:scale(.94)}
+  .play-btn svg{width:38px;height:38px;fill:#1a1030;transform:none}
+  .dialcap{font-family:var(--mono);font-size:11px;color:var(--haze);margin-top:14px;letter-spacing:.04em}
+
+  /* scrubber + controls */
+  .scrub{width:100%;height:34px;display:flex;align-items:center;margin-top:4px}
+  input[type=range]{-webkit-appearance:none;appearance:none;width:100%;height:5px;border-radius:99px;
+    background:var(--line);outline:none}
+  input[type=range]::-webkit-slider-thumb{-webkit-appearance:none;width:16px;height:16px;border-radius:50%;
+    background:var(--glow);box-shadow:0 0 0 4px rgba(255,209,107,.18);cursor:pointer}
+  input[type=range]::-moz-range-thumb{width:16px;height:16px;border:none;border-radius:50%;background:var(--glow);cursor:pointer}
+  .times{display:flex;justify-content:space-between;font-family:var(--mono);font-size:11px;color:var(--haze);margin-top:-2px}
+  .row{display:flex;gap:10px;justify-content:center;align-items:center;margin:16px 0 4px}
+  .ctl{background:var(--mist);border:1px solid var(--line);color:var(--paper);
+    font-family:var(--mono);font-size:12px;border-radius:12px;padding:10px 13px;cursor:pointer;
+    display:inline-flex;align-items:center;gap:6px}
+  .ctl:active{transform:scale(.96)}
+  .ctl svg{width:16px;height:16px;fill:currentColor}
+
+  h2.sec{font-family:var(--mono);font-size:11px;letter-spacing:.2em;text-transform:uppercase;
+    color:var(--haze);margin:30px 0 10px;display:flex;align-items:center;gap:10px}
+  h2.sec::after{content:"";flex:1;height:1px;background:var(--line)}
+
+  .order{list-style:none;margin:0;padding:0;border:1px solid var(--line);border-radius:16px;overflow:hidden;background:var(--mist)}
+  .order li{display:flex;gap:12px;align-items:baseline;padding:13px 15px;cursor:pointer;
+    border-top:1px solid var(--line);transition:background .15s}
+  .order li:first-child{border-top:none}
+  .order li:hover{background:rgba(255,255,255,.03)}
+  .order li.on{background:linear-gradient(90deg,rgba(255,138,61,.14),transparent)}
+  .order li.on .o-title{color:#fff}
+  .o-time{font-family:var(--mono);font-size:11px;color:var(--horizon);min-width:42px}
+  .o-title{font-weight:500;font-size:15px}
+  .o-count{font-family:var(--mono);font-size:10.5px;color:var(--haze);margin-left:auto;white-space:nowrap}
+
+  details{margin-top:16px;border:1px solid var(--line);border-radius:16px;background:var(--mist)}
+  summary{cursor:pointer;padding:14px 16px;font-family:var(--mono);font-size:11px;letter-spacing:.18em;
+    text-transform:uppercase;color:var(--haze);list-style:none}
+  summary::-webkit-details-marker{display:none}
+  summary::after{content:"＋";float:right;color:var(--horizon)}
+  details[open] summary::after{content:"－"}
+  .tx{padding:2px 16px 16px}
+  .tx h4{font-family:var(--disp);font-size:14px;margin:16px 0 4px;color:#fff}
+  .tx p{font-size:14px;color:#cfd0ec;margin:0 0 4px}
+
+  .arch li{display:flex;justify-content:space-between;padding:12px 16px;border-top:1px solid var(--line);cursor:pointer}
+  .arch li:hover{background:rgba(255,255,255,.03)}
+  .arch .d{font-weight:500}.arch .t{font-family:var(--mono);font-size:11px;color:var(--haze)}
+
+  .foot{font-family:var(--mono);font-size:10.5px;color:var(--haze);text-align:center;margin-top:26px;line-height:1.7}
+  .empty{border:1px dashed var(--line);border-radius:16px;padding:26px 18px;text-align:center;color:var(--haze);margin-top:24px}
+  .empty b{color:var(--paper);font-family:var(--disp)}
+  a{color:var(--glow)}
+  :focus-visible{outline:2px solid var(--glow);outline-offset:3px}
+  @media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+</head>
+<body>
+<div class="wrap" id="app">
+  <div class="eyebrow">Grace Bath World · Bhopal</div>
+  <div class="dateline" id="dateline">Loading…</div>
+  <div class="wordmark">Morning Brief</div>
+  <div class="meta" id="meta"></div>
+
+  <div id="player" hidden>
+    <div class="stage">
+      <div class="dial" id="dial" role="button" tabindex="0" aria-label="Play or pause briefing">
+        <svg width="248" height="248" viewBox="0 0 248 248">
+          <defs><linearGradient id="dawnGrad" x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0" stop-color="#FF8A3D"/><stop offset="1" stop-color="#FFD16B"/>
+          </linearGradient></defs>
+          <circle class="ring-bg" cx="124" cy="124" r="116"/>
+          <circle class="ring-fg" id="ring" cx="124" cy="124" r="116"/>
+        </svg>
+        <div class="sun">
+          <button class="play-btn" id="playBtn" aria-label="Play">
+            <svg id="ico" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+          </button>
+        </div>
+      </div>
+      <div class="dialcap" id="nowPlaying">Ready when you are</div>
+    </div>
+
+    <div class="scrub">
+      <input type="range" id="seek" min="0" max="1000" value="0" aria-label="Seek">
+    </div>
+    <div class="times"><span id="cur">0:00</span><span id="dur">0:00</span></div>
+
+    <div class="row">
+      <button class="ctl" id="back15" aria-label="Back 15 seconds"><svg viewBox="0 0 24 24"><path d="M12 5V1L7 6l5 5V7a6 6 0 1 1-6 6H4a8 8 0 1 0 8-8z"/></svg>15</button>
+      <button class="ctl" id="prevCh" aria-label="Previous topic">◀ topic</button>
+      <button class="ctl" id="nextCh" aria-label="Next topic">topic ▶</button>
+      <button class="ctl" id="fwd15" aria-label="Forward 15 seconds">15<svg viewBox="0 0 24 24"><path d="M12 5V1l5 5-5 5V7a6 6 0 1 0 6 6h2a8 8 0 1 1-8-8z"/></svg></button>
+      <button class="ctl" id="spd" aria-label="Playback speed">1.0×</button>
+    </div>
+
+    <h2 class="sec">Running order</h2>
+    <ul class="order" id="order"></ul>
+
+    <details id="txWrap">
+      <summary>Transcript</summary>
+      <div class="tx" id="tx"></div>
+    </details>
+
+    <details id="archWrap" hidden>
+      <summary>Past briefings</summary>
+      <ul class="order arch" id="arch"></ul>
+    </details>
+  </div>
+
+  <div class="empty" id="empty" hidden>
+    <b>No briefing yet.</b><br>
+    Your first brief builds automatically around 4:45 AM IST and appears here each morning.
+  </div>
+
+  <div class="foot" id="foot"></div>
+</div>
+
+<audio id="audio" preload="metadata"></audio>
+
+<script>
+const $ = s => document.querySelector(s);
+const audio = $("#audio");
+const RING_C = 2 * Math.PI * 116;
+$("#ring").style.strokeDasharray = RING_C;
+$("#ring").style.strokeDashoffset = RING_C;
+
+let ep = null, chapters = [], speeds = [1, 1.25, 1.5, 0.85], spi = 0;
+
+const fmt = s => {
+  s = Math.max(0, Math.floor(s || 0));
+  const m = Math.floor(s / 60), r = s % 60;
+  return m + ":" + String(r).padStart(2, "0");
+};
+
+async function load(meta) {
+  ep = meta;
+  $("#dateline").textContent = meta.dateline || meta.date;
+  $("#meta").textContent = `${(meta.sections||[]).reduce((n,s)=>n+(s.items?s.items.length:0),0)} stories · about ${Math.round((meta.duration_sec||meta.est_minutes*60)/60)} min`;
+  audio.src = meta.audio;
+  chapters = meta.chapters || [];
+  $("#player").hidden = false;
+  $("#empty").hidden = true;
+  renderOrder();
+  renderTranscript();
+  setupMediaSession();
+}
+
+function renderOrder() {
+  const ul = $("#order"); ul.innerHTML = "";
+  const counts = {};
+  (ep.sections || []).forEach(s => counts[s.title] = (s.items || []).length);
+  chapters.forEach((c, i) => {
+    const li = document.createElement("li");
+    li.dataset.i = i;
+    const n = counts[c.title];
+    li.innerHTML = `<span class="o-time">${fmt(c.start)}</span>
+      <span class="o-title">${c.title}</span>
+      ${n ? `<span class="o-count">${n} ${n>1?"stories":"story"}</span>` : ""}`;
+    li.onclick = () => { audio.currentTime = c.start + 0.05; if (audio.paused) play(); };
+    ul.appendChild(li);
+  });
+}
+
+function renderTranscript() {
+  const tx = $("#tx"); tx.innerHTML = "";
+  (ep.transcript || []).forEach(t => {
+    tx.insertAdjacentHTML("beforeend",
+      `<h4>${t.title}</h4><p>${t.text}</p>`);
+  });
+}
+
+function play(){ audio.play(); }
+function setIcon(playing){
+  $("#ico").innerHTML = playing
+    ? '<path d="M6 5h4v14H6zM14 5h4v14h-4z"/>'
+    : '<path d="M8 5v14l11-7z"/>';
+  $("#playBtn").setAttribute("aria-label", playing ? "Pause" : "Play");
+}
+
+audio.addEventListener("loadedmetadata", () => $("#dur").textContent = fmt(audio.duration));
+audio.addEventListener("play", () => { setIcon(true); $("#nowPlaying").textContent = currentChapter()?.title || "Playing"; });
+audio.addEventListener("pause", () => setIcon(false));
+audio.addEventListener("ended", () => { setIcon(false); $("#nowPlaying").textContent = "That's your brief — have a strong day"; });
+
+audio.addEventListener("timeupdate", () => {
+  const d = audio.duration || 1, p = audio.currentTime / d;
+  $("#ring").style.strokeDashoffset = RING_C * (1 - p);
+  $("#seek").value = Math.round(p * 1000);
+  $("#cur").textContent = fmt(audio.currentTime);
+  const ci = currentIndex();
+  document.querySelectorAll("#order li").forEach(li =>
+    li.classList.toggle("on", +li.dataset.i === ci));
+  const ch = chapters[ci];
+  if (ch && !audio.paused) $("#nowPlaying").textContent = ch.title;
+  if ("mediaSession" in navigator && audio.duration)
+    try { navigator.mediaSession.setPositionState(
+      {duration: audio.duration, position: audio.currentTime, playbackRate: audio.playbackRate}); } catch(e){}
+});
+
+function currentIndex(){
+  let idx = 0;
+  for (let i = 0; i < chapters.length; i++) if (audio.currentTime >= chapters[i].start - 0.2) idx = i;
+  return idx;
+}
+const currentChapter = () => chapters[currentIndex()];
+
+$("#dial").onclick = e => { if (e.target.closest("#playBtn")) return; audio.paused ? play() : audio.pause(); };
+$("#dial").onkeydown = e => { if (e.key === " " || e.key === "Enter"){ e.preventDefault(); audio.paused ? play() : audio.pause(); } };
+$("#playBtn").onclick = () => audio.paused ? play() : audio.pause();
+$("#back15").onclick = () => audio.currentTime = Math.max(0, audio.currentTime - 15);
+$("#fwd15").onclick  = () => audio.currentTime = Math.min(audio.duration||0, audio.currentTime + 15);
+$("#prevCh").onclick = () => seekChapter(-1);
+$("#nextCh").onclick = () => seekChapter(1);
+$("#spd").onclick = () => { spi = (spi+1)%speeds.length; audio.playbackRate = speeds[spi]; $("#spd").textContent = speeds[spi].toFixed(2).replace(/0$/,"")+"×"; };
+$("#seek").oninput = e => { if (audio.duration) audio.currentTime = (e.target.value/1000)*audio.duration; };
+
+function seekChapter(dir){
+  const i = currentIndex() + dir;
+  if (i >= 0 && i < chapters.length){ audio.currentTime = chapters[i].start + 0.05; if (audio.paused) play(); }
+}
+
+function setupMediaSession(){
+  if (!("mediaSession" in navigator)) return;
+  navigator.mediaSession.metadata = new MediaMetadata({
+    title: "Morning Brief — " + (ep.dateline || ep.date),
+    artist: "Grace Bath World",
+    album: "Daily News"
+  });
+  const m = navigator.mediaSession;
+  m.setActionHandler("play", () => play());
+  m.setActionHandler("pause", () => audio.pause());
+  m.setActionHandler("seekbackward", () => audio.currentTime -= 15);
+  m.setActionHandler("seekforward", () => audio.currentTime += 15);
+  m.setActionHandler("previoustrack", () => seekChapter(-1));
+  m.setActionHandler("nexttrack", () => seekChapter(1));
+  try { m.setActionHandler("seekto", d => { if (d.seekTime != null) audio.currentTime = d.seekTime; }); } catch(e){}
+}
+
+async function loadArchive(){
+  try{
+    const r = await fetch("episodes/index.json?ts=" + Date.now());
+    if (!r.ok) return;
+    const list = await r.json();
+    if (list.length <= 1) return;
+    const ul = $("#arch"); ul.innerHTML = "";
+    list.forEach(e => {
+      const li = document.createElement("li");
+      li.innerHTML = `<span class="d">${e.dateline||e.date}</span><span class="t">${Math.round((e.duration_sec||0)/60)} min</span>`;
+      li.onclick = async () => {
+        const jr = await fetch(e.json + "?ts=" + Date.now());
+        if (jr.ok){ await load(await jr.json()); window.scrollTo({top:0,behavior:"smooth"}); }
+      };
+      ul.appendChild(li);
+    });
+    $("#archWrap").hidden = false;
+  }catch(e){}
+}
+
+(async function init(){
+  $("#foot").innerHTML = "Auto-built every morning · pure RSS, no tracking";
+  try{
+    const r = await fetch("episodes/latest.json?ts=" + Date.now());
+    if (!r.ok) throw 0;
+    await load(await r.json());
+    loadArchive();
+  }catch(e){
+    $("#dateline").textContent = "Good morning";
+    $("#empty").hidden = false;
+  }
+})();
+</script>
+</body>
+</html>

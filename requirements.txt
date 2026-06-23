@@ -1,0 +1,6 @@
+feedparser>=6.0
+edge-tts>=6.1
+mutagen>=1.47
+beautifulsoup4>=4.12
+lxml>=5.0
+requests>=2.31
