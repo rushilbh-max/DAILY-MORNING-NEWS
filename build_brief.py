@@ -351,11 +351,18 @@ def mp3_seconds(path):
 
 def concat_mp3(parts, out_path):
     listing = out_path.parent / "_concat.txt"
-    listing.write_text("".join(f"file '{p.name}'\n" for p in parts))
-    subprocess.run(["ffmpeg", "-y", "-f", "concat", "-safe", "0",
-                    "-i", str(listing), "-c", "copy", str(out_path)],
-                   check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
-    listing.unlink(missing_ok=True)
+    # absolute paths so ffmpeg resolves them regardless of the list file's location
+    listing.write_text("".join(f"file '{p.resolve().as_posix()}'\n" for p in parts))
+    base = ["ffmpeg", "-y", "-f", "concat", "-safe", "0", "-i", str(listing)]
+    try:
+        subprocess.run(base + ["-c", "copy", str(out_path)],
+                       check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+    except subprocess.CalledProcessError:
+        print("  ! stream-copy concat failed, re-encoding", file=sys.stderr)
+        subprocess.run(base + ["-c:a", "libmp3lame", "-b:a", "64k", str(out_path)],
+                       check=True)
+    finally:
+        listing.unlink(missing_ok=True)
 
 # --------------------------------------------------------------------------- #
 # Main                                                                         #
@@ -376,7 +383,8 @@ def load_config():
 def main():
     no_audio = "--no-audio" in sys.argv
     cfg = load_config()
-    now = dt.datetime.utcnow() + dt.timedelta(minutes=cfg["tz_offset_minutes"])
+    now_utc = dt.datetime.now(dt.timezone.utc)
+    now = now_utc + dt.timedelta(minutes=cfg["tz_offset_minutes"])
     date_str = now.strftime("%Y-%m-%d")
     dateline = now.strftime("%A, %B ") + str(now.day)   # portable (no %-d / %#d)
     print(f"== Building brief for {date_str} (target {cfg['target_minutes']} min) ==")
@@ -446,7 +454,7 @@ def main():
         "duration_sec": round(duration, 1),
         "est_minutes": est_minutes,
         "word_count": full_words,
-        "generated_utc": dt.datetime.utcnow().isoformat(timespec="seconds") + "Z",
+        "generated_utc": now_utc.strftime("%Y-%m-%dT%H:%M:%SZ"),
         "chapters": chapters,
         "sections": [{"title": s["title"], "items": s["items"]} for s in sections],
         "transcript": transcript,
