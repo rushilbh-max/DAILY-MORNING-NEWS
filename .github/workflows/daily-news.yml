@@ -1,0 +1,49 @@
+name: Daily Morning Brief
+
+on:
+  schedule:
+    - cron: "15 23 * * *"      # 23:15 UTC = 04:45 IST — ready well before 6 AM
+  workflow_dispatch:            # lets you run it on demand from the Actions tab
+
+permissions:
+  contents: write               # needed to commit the new episode back to the repo
+
+concurrency:
+  group: morning-brief
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install ffmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Build today's brief
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          USE_LLM: ${{ vars.USE_LLM }}
+        run: python build_brief.py
+
+      - name: Commit episode
+        run: |
+          git config user.name  "gbw-brief-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add episodes/
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Brief for $(date -u +%Y-%m-%d)"
+            git push
+          fi
