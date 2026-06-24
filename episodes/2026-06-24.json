@@ -3,10 +3,10 @@
   "dateline": "Wednesday, June 24",
   "title": "Grace Bath World — Morning Brief",
   "audio": "episodes/2026-06-24.mp3",
-  "duration_sec": 2214.7,
-  "est_minutes": 30.3,
-  "word_count": 4544,
-  "generated_utc": "2026-06-24T00:09:04Z",
+  "duration_sec": 2188.7,
+  "est_minutes": 31.9,
+  "word_count": 4792,
+  "generated_utc": "2026-06-24T02:14:56Z",
   "chapters": [
     {
       "title": "Opening",
@@ -14,39 +14,39 @@
     },
     {
       "title": "Top headlines",
-      "start": 24.0
+      "start": 22.6
     },
     {
       "title": "Bhopal and Madhya Pradesh",
-      "start": 542.1
+      "start": 625.4
     },
     {
       "title": "Across India",
-      "start": 717.6
+      "start": 944.0
     },
     {
       "title": "Around the world",
-      "start": 1030.3
+      "start": 1363.7
     },
     {
       "title": "Business and markets",
-      "start": 1445.1
+      "start": 1761.3
     },
     {
       "title": "Money, tax and personal finance",
-      "start": 1563.3
+      "start": 2072.6
     },
     {
       "title": "Science and technology",
-      "start": 1774.4
+      "start": 2100.4
     },
     {
       "title": "Development and policy",
-      "start": 2037.6
+      "start": 2140.2
     },
     {
       "title": "Sign-off",
-      "start": 2209.2
+      "start": 2183.5
     }
   ],
   "sections": [
@@ -58,11 +58,23 @@
           "source": "Times of India"
         },
         {
-          "title": "Iran rushes to sell oil to India after Trump sanctions waiver - all you need to know",
+          "title": "Ronaldo ends 60-year wait, breaks Portugal World Cup record",
           "source": "Times of India"
         },
         {
-          "title": "A tale of two deals: Trump's 'infinity' inspections meets Iran's 'not so fast'",
+          "title": "Oracle layoffs: Company confirms how many employees got 6AM email from leadership",
+          "source": "Times of India"
+        },
+        {
+          "title": "Major fire breaks out in Delhi labour settlement near Udyog Bhawan, no injuries reported",
+          "source": "Times of India"
+        },
+        {
+          "title": "Indian student headed to US sent back from Amsterdam, unaware his F-1 visa had been revoked",
+          "source": "Times of India"
+        },
+        {
+          "title": "After 43 yrs, US family sells electrical firm for $1.7bn, makes 540 workers millionaires",
           "source": "Times of India"
         },
         {
@@ -70,7 +82,23 @@
           "source": "Times of India"
         },
         {
-          "title": "Oracle layoffs: Company confirms how many employees got 6AM email from leadership",
+          "title": "'Next question': Ronaldo refuses journalist's question about Messi",
+          "source": "Times of India"
+        },
+        {
+          "title": "'I will take the guarantee of Kohli, Rohit': Ex-India star makes bold 2027 ODI WC claim",
+          "source": "Times of India"
+        },
+        {
+          "title": "After laying off hundreds of engineers, GM now replaces more than 1,000 workers with 50 robots",
+          "source": "Times of India"
+        },
+        {
+          "title": "Pune realtor murder: Fiancée, lover arrested for pushing him off cliff; CCTV unravel conspiracy",
+          "source": "Times of India"
+        },
+        {
+          "title": "Delhi Capitals cricketer accused of sexual relationship under false promise of marriage",
           "source": "Times of India"
         },
         {
@@ -82,43 +110,7 @@
           "source": "Times of India"
         },
         {
-          "title": "Flu kills 1.2 lakh/year in India, senior citizens bear the brunt",
-          "source": "Times of India"
-        },
-        {
-          "title": "After 43 yrs, US family sells electrical firm for $1.7bn, makes 540 workers millionaires",
-          "source": "Times of India"
-        },
-        {
-          "title": "'She pushed him, then blamed a snake': Pune man's father claims fiancée's first murder bid failed",
-          "source": "Times of India"
-        },
-        {
-          "title": "Stampede-like situation at Ranchi stadium during Jharkhand T20 League final; several injured",
-          "source": "Times of India"
-        },
-        {
-          "title": "Overseas branches can lend to NRIs for deposits in India",
-          "source": "Times of India"
-        },
-        {
-          "title": "After laying off hundreds of engineers, GM now replaces more than 1,000 workers with 50 robots",
-          "source": "Times of India"
-        },
-        {
-          "title": "GE sends AI 171 engine analysis, final AAIB report likely in 2 months",
-          "source": "Times of India"
-        },
-        {
-          "title": "Guwahati dropped from Japan PM's itinerary; summit shifted to Delhi",
-          "source": "Times of India"
-        },
-        {
-          "title": "How proposed US citizenship fee hike will impact applicants; Indians among hardest hit",
-          "source": "Times of India"
-        },
-        {
-          "title": "Q-commerce growth: Flipkart, Amazon bet on large base",
+          "title": "IAF tender seeking support package for all 36 Rafales, debunks Pakistan's claim",
           "source": "Times of India"
         },
         {
@@ -130,24 +122,28 @@
           "source": "Times of India"
         },
         {
-          "title": "When breath turned pungent mid-sleep: Ammonia leak survivors recount ordeal",
+          "title": "A tale of two deals: Trump's 'infinity' inspections meets Iran's 'not so fast'",
           "source": "Times of India"
         },
         {
-          "title": "Tom Brady sends clear message after Gisele's alleged Father's Day snub",
+          "title": "Flu kills 1.2 lakh/year in India, senior citizens bear the brunt",
           "source": "Times of India"
         },
         {
-          "title": "Infosys sees $300-400billion AI opportunity by 2030",
+          "title": "Stampede-like situation at Ranchi stadium during Jharkhand T20 League final; several injured",
           "source": "Times of India"
         },
         {
-          "title": "Hundreds of schools plan closures ahead of red heat alerts",
+          "title": "Courts now face challenge of preserving public trust, says CJI",
+          "source": "Times of India"
+        },
+        {
+          "title": "Fields of work by foreign-funded NGOs outlined, proselytisation excluded",
+          "source": "Times of India"
+        },
+        {
+          "title": "No need to panic for England - but this was a reality check",
           "source": "BBC"
-        },
-        {
-          "title": "Illegal immigrants from Banglaesh, Myanmar | Pushback, detention and deportation laws explained",
-          "source": "The Hindu"
         }
       ]
     },
@@ -155,99 +151,95 @@
       "title": "Bhopal and Madhya Pradesh",
       "items": [
         {
-          "title": "MoS Dr L. Murugan to visit Madhya Pradesh on two-day tour from today - News On AIR",
+          "title": "MoS Dr L. Murugan to visit Madhya Pradesh on two-day tour from today",
           "source": "Local"
         },
         {
-          "title": "MP High Court Says Women Married in Madhya Pradesh Must Obtain State Caste Certificate to Claim OBC... - LawBeat",
+          "title": "Will Rahul Gandhi get relief? Madhya Pradesh High Court set for key hearing in defamation case against Congre",
           "source": "Local"
         },
         {
-          "title": "Madhya Pradesh May Bring Inter-Caste Tribal Marriages Under UCC; Draft Likely Within 10 Days - ETV Bharat",
+          "title": "Dug-up roads, unfinished projects threaten lives in MP: Bhopal, Ujjain and Indore may face waterlogging, tr",
           "source": "Local"
         },
         {
-          "title": "Traffic Curbs In Old City From June 24-26 For Muharram - The Times of India",
+          "title": "MP High Court Says Women Married in Madhya Pradesh Must Obtain State Caste Certificate to Claim OBC",
           "source": "Local"
         },
         {
-          "title": "How Madhya Pradesh is blending wildlife and tourism responsibly - India Today",
+          "title": "3 MP traditions eye UNESCO tag",
           "source": "Local"
         },
         {
-          "title": "CBI questions AIIMS doctors in Twisha case: Post-mortem team examined; every medical angle under probe - Bhaskar English",
+          "title": "Madhya Pradesh May Bring Inter-Caste Tribal Marriages Under UCC; Draft Likely Within 10 Days",
           "source": "Local"
         },
         {
-          "title": "Madhya Pradesh to ban liquor sale at 17 religious sites - News On AIR",
+          "title": "Congress slams Madhya Pradesh CM over land deals, Akhilesh sees 'BJP plot' to topple 3 CMs",
           "source": "Local"
         },
         {
-          "title": "3 MP traditions eye UNESCO tag - The Times of India",
+          "title": "How Madhya Pradesh is blending wildlife and tourism responsibly",
           "source": "Local"
         },
         {
-          "title": "President Murmu to attend International Yoga Day programme in Madhya Pradesh's Jabalpur - News On AIR",
+          "title": "Madhya Pradesh to ban liquor sale at 17 religious sites",
           "source": "Local"
         },
         {
-          "title": "Influencer booked, car seized over stunts - The Times of India",
+          "title": "Monsoon to reach Madhya Pradesh within two days: Rain and thunderstorms expected across 42 districts as pre",
           "source": "Local"
         },
         {
-          "title": "Madhya Pradesh CM Dr. Mohan Yadav congratulated Mohan Nagar and Bhagwan Das Raikwar on being conferred Padma Shri award | Akashvani News - News On AIR",
+          "title": "Traffic Curbs In Old City From June 24-26 For Muharram",
           "source": "Local"
         },
         {
-          "title": "Free temples from govt control, ensure audited trusts: Shankaracharya - The Times of India",
+          "title": "President Murmu to attend International Yoga Day programme in Madhya Pradesh's Jabalpur",
           "source": "Local"
         },
         {
-          "title": "Man keeps married daughter hostage; court asks cops to produce her - The Times of India",
+          "title": "Cheque bearer is bank customer too: MPHC",
           "source": "Local"
         },
         {
-          "title": "BJP rejects Congress charges against CM Mohan Yadav, calls them 'baseless' - The Times of India",
+          "title": "CBI questions AIIMS doctors in Twisha case: Post-mortem team examined; every medical angle under probe",
           "source": "Local"
         },
         {
-          "title": "Cheque bearer is bank customer too: MPHC - The Times of India",
+          "title": "Madhya Pradesh CM Dr. Mohan Yadav congratulated Mohan Nagar and Bhagwan Das Raikwar on being conferred Padma Shri award Akashvani News",
           "source": "Local"
         },
         {
-          "title": "Opposition seeks probe into alleged Ujjain land purchases - The Times of India",
+          "title": "Influencer booked, car seized over stunts",
           "source": "Local"
         },
         {
-          "title": "Parties Can't Blow Hot And Cold: Madhya Pradesh High Court Appoints Arbitrator Though Arbitration Clause... - Verdictum",
+          "title": "Free temples from govt control, ensure audited trusts: Shankaracharya",
           "source": "Local"
         },
         {
-          "title": "Anushka, Varun Start Shooting For Sui Dhaaga In Bhopal. See Pics - NDTV",
+          "title": "Man keeps married daughter hostage; court asks cops to produce her",
           "source": "Local"
         },
         {
-          "title": "Madhya Pradesh: Vijayvargiya's 'Kafir' Remarks Sparks Row, Congress Calls It 'Divisive Language' - Deccan Chronicle",
+          "title": "BJP rejects Congress charges against CM Mohan Yadav, calls them 'baseless'",
           "source": "Local"
         },
         {
-          "title": "Teacher brandishes rifle on govt school campus; FIR registered - The Times of India",
+          "title": "Parties Can't Blow Hot And Cold: Madhya Pradesh High Court Appoints Arbitrator Though Arbitration Clause",
           "source": "Local"
         },
         {
-          "title": "ED raids LNCT Group premises in Bhopal: rupees 200 crore fee and scholarship scam alleged; team examines documents - Bhaskar English",
+          "title": "Anushka, Varun Start Shooting For Sui Dhaaga In Bhopal. See Pics",
           "source": "Local"
         },
         {
-          "title": "Congress seeks high-level probe in alleged Ujjain land scam by Mohan Yadav family - The Hindu",
+          "title": "Opposition seeks probe into alleged Ujjain land purchases",
           "source": "Local"
         },
         {
-          "title": "Minister Lodha describes British monarch as 'King Kasab'",
-          "source": "Times of India"
-        },
-        {
-          "title": "A conman who impersonated as cop and cheated people claiming to recover stolen mobile arrested",
+          "title": "Mumbai rain fury: Season's heaviest overnight spell brings over 200 mm rain to several areas",
           "source": "Times of India"
         }
       ]
@@ -255,6 +247,10 @@
     {
       "title": "Across India",
       "items": [
+        {
+          "title": "Cabinet reshuffle buzz as minister Kurian resigns",
+          "source": "Times of India"
+        },
         {
           "title": "Cabbie abducts, rapes and kills 10-year-old in Delhi; shot by cops during escape bid",
           "source": "Times of India"
@@ -269,6 +265,10 @@
         },
         {
           "title": "Kolkata Port, Adani Ports sign MoU to restore iconic Kumartuli Ghat ahead of Durga Puja",
+          "source": "Times of India"
+        },
+        {
+          "title": "315 districts mapped for contingency measures to rescue farming operation as rain deficit rises to 43 percent",
           "source": "Times of India"
         },
         {
@@ -300,39 +300,15 @@
           "source": "Times of India"
         },
         {
-          "title": "315 districts mapped for contingency measures to rescue farming operation as rain deficit rises to 43 percent",
-          "source": "Times of India"
-        },
-        {
           "title": "Delhi CM orders graft probe against two senior health officials over medicine procurement",
           "source": "Times of India"
         },
         {
-          "title": "Shah directs Nafed, NCCF to eliminate middlemen, buy pulses and oilseeds directly from farmers",
-          "source": "Times of India"
-        },
-        {
-          "title": "Graduates 44 percent less likely to be hired in informal sector: Report",
-          "source": "Times of India"
-        },
-        {
-          "title": "Dhurandhars or traitors: How Eknath Shinde's 'Operation Tiger' has changed Maharashtra's power dynamics",
-          "source": "Times of India"
-        },
-        {
-          "title": "Gold loan default ratio shrinks as sanctions double",
-          "source": "Times of India"
-        },
-        {
-          "title": "PM Modi calls on President Droupadi Murmu amid Cabinet reshuffle buzz",
-          "source": "Times of India"
-        },
-        {
-          "title": "5 Arrested For Chicken-And-Beer Party On Boat In Varanasi's Ganga",
+          "title": "Weather LIVE Updates: Rain Brings Relief From Heat In Delhi, More Showers Predicted",
           "source": "NDTV"
         },
         {
-          "title": "Cliffs, 'Falls', And Lovers: Fort Murder's Parallels With Meghalaya Killing",
+          "title": "CBSE Class 10 Second Board Result 2026 Live: Scorecard Expected This Week, Check Latest Updates",
           "source": "NDTV"
         },
         {
@@ -340,19 +316,31 @@
           "source": "NDTV"
         },
         {
+          "title": "Honey-Trap, Suicide Attack Angles Emerge In Jaipur Woman's Jaish Links Probe",
+          "source": "NDTV"
+        },
+        {
+          "title": "Fuel Ready, But Not Pumps: The E100 Challenge",
+          "source": "NDTV"
+        },
+        {
+          "title": "Geography's Veto: The Limits of China's Economic Reach Into Nepal",
+          "source": "NDTV"
+        },
+        {
+          "title": "5 Arrested For Chicken-And-Beer Party On Boat In Varanasi's Ganga",
+          "source": "NDTV"
+        },
+        {
+          "title": "Cliffs, 'Falls', And Lovers: Pune Fort Murder's Parallels With Meghalaya Killing",
+          "source": "NDTV"
+        },
+        {
+          "title": "ICAI CA Intermediate Result 2026 LIVE Updates: Result Today, Check Scorecard Link Here",
+          "source": "NDTV"
+        },
+        {
           "title": "Ajit Doval Says Stable India-China Relations Key To Deeper Trust",
-          "source": "NDTV"
-        },
-        {
-          "title": "Kingpin In Fake Arms Licence Racket, 8 Others Arrested In Uttarakhand",
-          "source": "NDTV"
-        },
-        {
-          "title": "Weather Highlights: Delhi Records Maximum Temperature Of 38.4 Degrees, Air Quality Deteriorates To 'Poor'",
-          "source": "NDTV"
-        },
-        {
-          "title": "3 Injured In Stampede Outside Stadium In Ranchi",
           "source": "NDTV"
         }
       ]
@@ -361,7 +349,15 @@
       "title": "Around the world",
       "items": [
         {
+          "title": "UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls",
+          "source": "BBC World"
+        },
+        {
           "title": "Israeli troops kill two in south Lebanon after lull in fighting, authorities say",
+          "source": "BBC World"
+        },
+        {
+          "title": "Germany rail network briefly halted nationwide due to IT malfunction",
           "source": "BBC World"
         },
         {
@@ -373,11 +369,11 @@
           "source": "BBC World"
         },
         {
-          "title": "Zambia ex-president's family wins latest legal battle over what should happen to his body",
+          "title": "Chinese e-commerce giant Alibaba sues US government over defence blacklist",
           "source": "BBC World"
         },
         {
-          "title": "Chinese e-commerce giant Alibaba sues US government over defence blacklist",
+          "title": "Zambia ex-president's family wins latest legal battle over what should happen to his body",
           "source": "BBC World"
         },
         {
@@ -433,11 +429,7 @@
           "source": "BBC World"
         },
         {
-          "title": "Kenya minister halts construction of US-backed Ebola quarantine centre",
-          "source": "BBC World"
-        },
-        {
-          "title": "UN begins evacuation of 11,000 sailors stranded in Strait of Hormuz",
+          "title": "Syrians reject Trump's call for Syria to combat Hezbollah in Lebanon",
           "source": "Al Jazeera"
         },
         {
@@ -445,16 +437,12 @@
           "source": "The Guardian"
         },
         {
-          "title": "Ronaldo late to World Cup party but still able to steal the show",
+          "title": "Budimir gives Croatia a 1-0 win to eliminate Panama from the World Cup",
           "source": "Al Jazeera"
         },
         {
           "title": "UK prioritised ties with UAE over averting mass atrocities in Sudan, MPs to be told",
           "source": "The Guardian"
-        },
-        {
-          "title": "Protesters sentenced to decades in US prison over alleged antifa ties",
-          "source": "Al Jazeera"
         }
       ]
     },
@@ -462,11 +450,43 @@
       "title": "Business and markets",
       "items": [
         {
-          "title": "India to operationalise up to 60 mines in FY27",
+          "title": "India tells Pakistan to look in its own mirror",
           "source": "Economic Times"
         },
         {
-          "title": "Govt races to protect kharif output amid 42 percent rain",
+          "title": "US touts Iran deal as farm windfall; Tehran denies",
+          "source": "Economic Times"
+        },
+        {
+          "title": "SpaceX bond debut creates a $89 bn cosmic demand",
+          "source": "Economic Times"
+        },
+        {
+          "title": "UN starts evacuation of 11,000 seafarers in Hormuz",
+          "source": "Economic Times"
+        },
+        {
+          "title": "India-UK FTA gives birth to new 'law' of attraction",
+          "source": "Economic Times"
+        },
+        {
+          "title": "Post BrahMos, has India found its next bestseller?",
+          "source": "Economic Times"
+        },
+        {
+          "title": "WhatsApp's next big idea may come from India",
+          "source": "Economic Times"
+        },
+        {
+          "title": "Rubio arrives in UAE to head off Gulf Arab unease",
+          "source": "Economic Times"
+        },
+        {
+          "title": "US Senate joins House in voting to halt Iran war",
+          "source": "Economic Times"
+        },
+        {
+          "title": "India to operationalise up to 60 mines in FY27",
           "source": "Economic Times"
         },
         {
@@ -510,48 +530,12 @@
           "source": "Economic Times"
         },
         {
-          "title": "Can Kunal Shah crack WhatsApp's cash code?",
-          "source": "Economic Times"
-        },
-        {
           "title": "Brent it like Delhi? India shines while others struggle",
           "source": "Economic Times"
         },
         {
           "title": "US visa denied: \"Did you watch yesterday's match?\"",
           "source": "Economic Times"
-        },
-        {
-          "title": "Chalo Delhi NCR! Adani or Sobha eye capital",
-          "source": "Economic Times"
-        },
-        {
-          "title": "US plans citizenship fee hike; Indians hit hard",
-          "source": "Economic Times"
-        },
-        {
-          "title": "US will not accept Iranian tolls on Hormuz: Rubio",
-          "source": "Economic Times"
-        },
-        {
-          "title": "Trump: IAEA to inspect Iran sites at right time",
-          "source": "Economic Times"
-        },
-        {
-          "title": "Shopify's vape ban could shake up a $9 bn market",
-          "source": "Economic Times"
-        },
-        {
-          "title": "Andhra raises retirement age for PSUs",
-          "source": "Economic Times"
-        },
-        {
-          "title": "rupees 6 lakh crore wiped out as D-Street bleeds red",
-          "source": "Economic Times"
-        },
-        {
-          "title": "Infosys positioned to tap into an AI opportunity worth up to $400 billion by 2030: Nandan Nilekani",
-          "source": "The Hindu Business"
         }
       ]
     },
@@ -559,96 +543,16 @@
       "title": "Money, tax and personal finance",
       "items": [
         {
-          "title": "E-Way Bill Changes from 1st August 2026: Mandatory Ship-To GSTIN and New EWB Closure Facility - ClearTax",
+          "title": "Nifty100 Equal Weight",
           "source": "Tax & GST"
         },
         {
-          "title": "India Inc. backs GST as a trusted digital ecosystem; calls for continued structural and operational GST 2.0 reforms: Deloitte GST@9 survey - Deloitte",
+          "title": "Nifty Alpha 50",
           "source": "Tax & GST"
         },
         {
-          "title": "India Inc backs GST as trusted digital ecosystem, pushes for AI-led GST 2.0 reforms: Survey - ET CFO",
+          "title": "VinFast India and Shriram Finance Partner for EV Financing",
           "source": "Tax & GST"
-        },
-        {
-          "title": "India Inc Seeks Faster Refunds, Uniform Audits As GST Completes 9 Years: Deloitte Survey - NDTV Profit",
-          "source": "Tax & GST"
-        },
-        {
-          "title": "FPI inflows into govt bonds jump to rupees 35,000 crore in June after tax exemption; holdings rise to rupees 3.58 lakh crore - Fortune India",
-          "source": "Tax & GST"
-        },
-        {
-          "title": "Allahabad HC: GST Dept. Can't Deny Registration Restoration Merely Due to Pending Appeal - SAG Infotech Official Tax Blog",
-          "source": "Tax & GST"
-        },
-        {
-          "title": "Woman Sells Shares For rupees 26 Crore Profit, Builds Bungalow But Still Pays Zero Tax. Here's How - NDTV",
-          "source": "Tax & GST"
-        },
-        {
-          "title": "The Chamber of Tax Consultants Honours Eminent Luminaries at its Centenary Celebration - Business Standard",
-          "source": "Tax & GST"
-        },
-        {
-          "title": "Tax on US Stock Investing for Indian Residents – Complete Guide (2026) - HDFC Sky",
-          "source": "Tax & GST"
-        },
-        {
-          "title": "CII president R Mukundan projects 7 percent growth for India, seeks GST Council-like body to drive reforms - The Economic Times",
-          "source": "Tax & GST"
-        },
-        {
-          "title": "NSE IPO: Expected Date and Price, Issue Size, GMP, Review - ClearTax",
-          "source": "Tax & GST"
-        },
-        {
-          "title": "Tax reforms to play vital role in attracting global capital to India: Experts - BusinessLine",
-          "source": "Tax & GST"
-        },
-        {
-          "title": "International Copper Association of India calls for GST cut on copper scrap to formalise copper recycling sector - Fortune India",
-          "source": "Tax & GST"
-        },
-        {
-          "title": "India Inc backs GST as trusted digital tax ecosystem, seeks GST 2.0 reforms: Deloitte - Fortune India",
-          "source": "Tax & GST"
-        },
-        {
-          "title": "GST wins India Inc's vote, but businesses seek faster refunds and smarter reforms: Deloitte - The Economic Times",
-          "source": "Tax & GST"
-        },
-        {
-          "title": "GST Rates on Services in India 2026 (Complete List PDF) - Taxscan",
-          "source": "Tax & GST"
-        },
-        {
-          "title": "How to claim up to rupees 10 crore tax exemption on long-term gains - The Economic Times",
-          "source": "Tax & GST"
-        },
-        {
-          "title": "President Murmu meets IRS officer trainees, highlights role of direct taxes in nation-building - DD News",
-          "source": "Tax & GST"
-        },
-        {
-          "title": "Businesses seek uniform GST audits, fewer tax disputes: Deloitte survey - Business Standard",
-          "source": "Tax & GST"
-        },
-        {
-          "title": "FOMO about US stock market? How Indians can invest - routes, benefits, risks and tax implications explained - The Times of India",
-          "source": "Tax & GST"
-        },
-        {
-          "title": "India's liquor industry warns state tax breaks could hand imported spirits a double advantage - Vinetur",
-          "source": "Tax & GST"
-        },
-        {
-          "title": "GST at 9: Businesses seek legal clarity, faster refunds and AI-driven reforms - SME Futures",
-          "source": "Tax & GST"
-        },
-        {
-          "title": "8th Pay Commission salary: How minimum and maximum basic salaries have changed since 1947",
-          "source": "ET Wealth"
         }
       ]
     },
@@ -656,15 +560,7 @@
       "title": "Science and technology",
       "items": [
         {
-          "title": "What is Starfall? A look at SpaceX's mysterious new return capsule - Space",
-          "source": "Science"
-        },
-        {
-          "title": "India's patchy industrial climate strategy",
-          "source": "The Hindu Sci-Tech"
-        },
-        {
-          "title": "Introduction To The Chinese Space Station Survey Telescope (CSST) - astrobiology.com",
+          "title": "The US is leading the new space race",
           "source": "Science"
         },
         {
@@ -672,76 +568,8 @@
           "source": "The Hindu Sci-Tech"
         },
         {
-          "title": "The US is leading the new space race – but other countries are close behind - The Conversation",
-          "source": "Science"
-        },
-        {
-          "title": "Analysis: Stretching 'information' to include Telegram",
+          "title": "Reconnect public health with people's needs",
           "source": "The Hindu Sci-Tech"
-        },
-        {
-          "title": "Oracle Data Science Agent: Conversational Machine Learning in Autonomous AI Database - Oracle Blogs",
-          "source": "Science"
-        },
-        {
-          "title": "Samsung Partners With Alcedis To Advance Clinical Research Using Wearable-Based Endpoints - Samsung",
-          "source": "Science"
-        },
-        {
-          "title": "Sri Lanka to appoint military-led dengue monitoring unit amid surge in cases",
-          "source": "The Hindu Sci-Tech"
-        },
-        {
-          "title": "Next Stop the Future!: A Journey Through Tomorrow's Science - School Library Journal",
-          "source": "Science"
-        },
-        {
-          "title": "Seabed damaged by fishing showing signs of recovery",
-          "source": "BBC Science"
-        },
-        {
-          "title": "Congo's Ebola outbreak has most cases in first month of any African outbreak, WHO says",
-          "source": "The Hindu Sci-Tech"
-        },
-        {
-          "title": "ASM Joins the Trust Seal to Advance Confidence in Science - American Society for Microbiology",
-          "source": "Science"
-        },
-        {
-          "title": "BRICS space agencies meet begins in Bengaluru",
-          "source": "The Hindu Sci-Tech"
-        },
-        {
-          "title": "Empowering the Next Generation of Space Innovators - Lockheed Martin",
-          "source": "Science"
-        },
-        {
-          "title": "What are UV levels and how can you protect yourself?",
-          "source": "BBC Science"
-        },
-        {
-          "title": "Navigating stomach cancer risks and early detection in women",
-          "source": "The Hindu Sci-Tech"
-        },
-        {
-          "title": "Science, Food and a Friendship that Spans the Globe - Johns Hopkins Medicine",
-          "source": "Science"
-        },
-        {
-          "title": "Simpler, older version of Stonehenge found three miles from famous site",
-          "source": "BBC Science"
-        },
-        {
-          "title": "How safe is the knife that slices your bread? Hyderabad activist's four-year battle leads to FSSAI order on rusted food cutting equipment",
-          "source": "The Hindu Sci-Tech"
-        },
-        {
-          "title": "Telefónica provides immersive and accessible technology for the new museum space in Bermeo - Telefónica",
-          "source": "Science"
-        },
-        {
-          "title": "What is El Niño and why could it mean record temperatures?",
-          "source": "BBC Science"
         }
       ]
     },
@@ -749,87 +577,15 @@
       "title": "Development and policy",
       "items": [
         {
-          "title": "The digital sovereignty imperative in India's Viksit Bharat journey - KPMG",
+          "title": "The digital sovereignty imperative in India's Viksit Bharat journey",
           "source": "Policy"
         },
         {
-          "title": "India must become more competitive to achieve $10 trillion economy goal: CII President - ET CFO",
+          "title": "India must become more competitive to achieve $10 trillion economy goal: CII President",
           "source": "Policy"
         },
         {
-          "title": "India and Mongolia friendship project is making steady progress: EAM Dr S Jaishankar - News On AIR",
-          "source": "Policy"
-        },
-        {
-          "title": "Daimler India Commercial Vehicles (DICV) also joins the Government of India scheme to provide discounts for the replacement of old trucks and buses in Delhi-NCR - PIB",
-          "source": "Policy"
-        },
-        {
-          "title": "India to unveil battery minerals processing scheme; 58 recyclers selected under rupees 1,500 crore programme - Down To Earth",
-          "source": "Policy"
-        },
-        {
-          "title": "UK-Backed Climate Investments Cross $1 Billion Milestone in India - Spherical Insights",
-          "source": "Policy"
-        },
-        {
-          "title": "India's emerging technology ecosystem: Technologies shaping a Viksit Bharat - DD India",
-          "source": "Policy"
-        },
-        {
-          "title": "India needs to move from ease and cost to speed of doing business, CII president Mukundan says - The Hindu",
-          "source": "Policy"
-        },
-        {
-          "title": "India-US trade talks begin amid farmers' concerns over agriculture market - BusinessLine",
-          "source": "Policy"
-        },
-        {
-          "title": "India approves $17.4 mn aid for SED ethanol project - ALCHEMPro",
-          "source": "Policy"
-        },
-        {
-          "title": "Govt approves continuation of DISHA scheme - Manorama Yearbook",
-          "source": "Policy"
-        },
-        {
-          "title": "India, US hold high-level trade talks as two nations rework deal amid tariff changes - ThePrint",
-          "source": "Policy"
-        },
-        {
-          "title": "NHAI to set up India's first dedicated transport and logistics research centre in Delhi - The New Indian Express",
-          "source": "Policy"
-        },
-        {
-          "title": "Indias Core Infrastructure Sector Output Growth Falls to Seven-Month Low in May - TheWire.in",
-          "source": "Policy"
-        },
-        {
-          "title": "India's Haj Policy 2027 announced; applications open through Haj Committee portal and app - The Indian Awaaz",
-          "source": "Policy"
-        },
-        {
-          "title": "L and T Realty to launch housing project in Malad - Construction Week India",
-          "source": "Policy"
-        },
-        {
-          "title": "India ranks 13th globally in QS World Future Skills Index 2027, emerges as a leading AI-ready economy - The Times of India",
-          "source": "Policy"
-        },
-        {
-          "title": "Resilience becomes energy's new currency as India navigates post-Hormuz market shifts: S and P Global outlook - ET Government",
-          "source": "Policy"
-        },
-        {
-          "title": "Skill Development Minister Mangal Prabhat Lodha Lauds MIT India's Project-Based Learning Model at Industry-Institute Future Summit 2026 - Business Standard",
-          "source": "Policy"
-        },
-        {
-          "title": "India needs a stronger reform push to attract investment: CII chief - BusinessLine",
-          "source": "Policy"
-        },
-        {
-          "title": "Why India and Europe need to realise their potential - The New Indian Express",
+          "title": "India and Mongolia friendship project is making steady progress: EAM Dr S Jaishankar",
           "source": "Policy"
         }
       ]
@@ -842,35 +598,35 @@
     },
     {
       "title": "Top headlines",
-      "text": "First, the stories leading the news this morning. Delhi 10-yr-old rape and murder: How father's memory, digital trail led police to suspected cabbie. A father's fragmented memory of a white car and a yellow plate initiated a swift investigation. Investigators pieced together a digital trail, including CCTV footage and cab aggregator data, to track down Basu Kumar Singh, a driver accused of abducting, raping, and murdering a 10-year-old girl. The suspect was apprehended within seven hours of the initial report, later confessing to the heinous crime. Iran rushes to sell oil to India after Trump sanctions waiver - all you need to know. Data from Vortexa, combined with Bloomberg calculations, show that around 68 million barrels of crude and condensate were floating at sea as of June 22. More than 80 percent of that volume does not appear to have a confirmed destination, potentially making it available for sale. A tale of two deals: Trump's 'infinity' inspections meets Iran's 'not so fast'. After annus horribilis 2025, Indian DGCA to come under US FAA scanner this November. Oracle layoffs: Company confirms how many employees got 6AM email from leadership. Oracle has initiated significant layoffs globally, impacting thousands of employees across US, India, and other regions. These workforce reductions, attributed to management changes, AI adoption, and strategic shifts, resulted in a 13 percent drop in its workforce. The company incurred substantial restructuring costs, with severance packages reportedly less generous than industry peers. Bank of India wins rupees 100 crore case against Nirav Modi. FIFA WC: Ronaldo scripts history in Portugal's dominant 5-0 victory over Uzbekistan. Cristiano Ronaldo scored twice as Portugal crushed Uzbekistan 5-0 in Houston to strengthen their place in the FIFA World Cup 2026 knockout stages. The captain opened the scoring before adding a record-breaking second goal, becoming the first player to score in six consecutive World Cups and surpassing Eusébio as Portugal's all-time leading World Cup scorer. Flu kills 1.2 lakh/year in India, senior citizens bear the brunt. After 43 yrs, US family sells electrical firm for $1.7bn, makes 540 workers millionaires. A small-town US family has sold their Louisiana-based electrical-equipment company Fibrebond to power-management giant Eaton for $1.7 billion—and made sure their 540 full-time workers got a $240 million cut of it. Former CEO Graham Walker wrote a single clause into the deal: 15 percent of proceeds for the staff, none of whom held any equity. The average bonus works out to around $443,000 per worker. 'She pushed him, then blamed a snake': Pune man's father claims fiancée's first murder bid failed. A Pune businessman, initially thought to have died in a trekking accident, was allegedly murdered by his fiancée and her lover. Police arrested Siya Goyal and Chetan Chaudhary for pushing Ketan Agarwal into a gorge at Lohagad Fort. The couple was set to marry in November. Stampede-like situation at Ranchi stadium during Jharkhand T20 League final; several injured. Overseas branches can lend to NRIs for deposits in India. RBI Clarifies FCNR(B) Rules, NRI Inflows To Support Rupee After laying off hundreds of engineers, GM now replaces more than 1,000 workers with 50 robots. General Motors has introduced 50 collaborative robots at its Michigan Factory Zero, reportedly leading to over 1,000 job eliminations. This move, aimed at cost-cutting and efficiency, sparks criticism from the United Auto Workers union, which views it as a threat to jobs. GM claims the robots support human workers, but the UAW president calls it a \"fight for humanity\" amid broader automation concerns in the industry. GE sends AI 171 engine analysis, final AAIB report likely in 2 months. GE Aerospace has sent the analysis reports for the engines of AI171 that had crashed in Ahmedabad last June, killing 260 people. All eyes are now on the Aircraft Accident Investigation Bureau. \"Air accident investigations have to zero in on what could have happened. Guwahati dropped from Japan PM's itinerary; summit shifted to Delhi. How proposed US citizenship fee hike will impact applicants; Indians among hardest hit. US Citizenship and Immigration Services plans a significant hike in naturalisation application fees, potentially costing Indian immigrants much more to become American citizens. The proposed increase for the primary application form could reach $1,330, with reduced-fee options and waivers being eliminated. This comes as Indians remain a major group seeking US citizenship. Q-commerce growth: Flipkart, Amazon bet on large base. Taylor Swift is reportedly struggling with the Blake Lively fallout. Taylor Swift and Blake Lively's bond has only worsened over the last few months as rumors swirl about the actress being invited to the pop star's wedding to Travis Kelce which is set to happen in the next few weeks. While Taylor Swift and Travis Kelce focus on their wedding, it seems the pop star has gone through a wave of emotions. The Vikings and Lions are linked to a potential trade for Colts standout. The Indianapolis Colts' star player Anthony Richardson has been actively seeking a trade from the team since February 2026 which has raised eyebrows and sparked chaos about his future in the league. Amid this, the Detroit Lions and the Minnesota Vikings have emerged as potential landing spots for him ahead of the new season. When breath turned pungent mid-sleep: Ammonia leak survivors recount ordeal. A devastating ammonia leak at a seafood processing factory in Tiruvallur district left workers, many young women far from home, in critical condition. The gas, originating from the processing area, seeped into sleeping quarters, incapacitating those off-duty. Emergency services faced delays, with many suffering severe respiratory distress and other ailments. Tom Brady sends clear message after Gisele's alleged Father's Day snub. Tom Brady, the seven time Super Bowl champion, has had a pretty successful career but his past marriage with ex wife, Gisele Bundchen, has continued to dominate headlines even after years of their divorce. The Brazilian supermodel Gisele Bundchen recently made a controversial post for Father's Day and it seems the NFL legend Tom Brady has made it clear what his current priorities are. Infosys sees $300-400billion AI opportunity by 2030. Hundreds of schools plan closures ahead of red heat alerts. The temperature topped 34.6 C in Wisley, England, while Scotland and Northern Ireland saw their hottest days of the year. Illegal immigrants from Banglaesh, Myanmar | Pushback, detention and deportation laws explained. What is a pushback? Is it same as deportation? Is it legal?"
+      "text": "First, the stories leading the news this morning. Delhi 10-yr-old rape and murder: How father's memory, digital trail led police to suspected cabbie. A father's fragmented memory of a white car and a yellow plate initiated a swift investigation. Investigators pieced together a digital trail, including CCTV footage and cab aggregator data, to track down Basu Kumar Singh, a driver accused of abducting, raping, and murdering a 10-year-old girl. The suspect was apprehended within seven hours of the initial report, later confessing to the heinous crime. Ronaldo ends 60-year wait, breaks Portugal World Cup record. Cristiano Ronaldo scored twice as Portugal thrashed Uzbekistan 5-0 to strengthen their FIFA World Cup 2026 knockout hopes and rewrite national history. The 41-year-old became Portugal's all-time leading World Cup goalscorer with 10 goals, surpassing Eusébio's 60-year-old record, while also extending his own record as the first player to score in six different World Cup tournaments. Oracle layoffs: Company confirms how many employees got 6AM email from leadership. Oracle has initiated significant layoffs globally, impacting thousands of employees across US, India, and other regions. These workforce reductions, attributed to management changes, AI adoption, and strategic shifts, resulted in a 13 percent drop in its workforce. The company incurred substantial restructuring costs, with severance packages reportedly less generous than industry peers. Major fire breaks out in Delhi labour settlement near Udyog Bhawan, no injuries reported. A fire erupted in labour slums near Delhi's Udyog Bhawan on Wednesday, originating from an electric panel and spreading to temporary structures. Around 20 fire tenders battled the blaze, bringing it under control by 5:30 am. No casualties have been reported. Indian student headed to US sent back from Amsterdam, unaware his F-1 visa had been revoked. An Indian student recently shared a harrowing experience on his way to the US after a vacation in the US. After 43 yrs, US family sells electrical firm for $1.7bn, makes 540 workers millionaires. A small-town US family has sold their Louisiana-based electrical-equipment company Fibrebond to power-management giant Eaton for $1.7 billion, and made sure their 540 full-time workers got a $240 million cut of it. Former CEO Graham Walker wrote a single clause into the deal: 15 percent of proceeds for the staff, none of whom held any equity. The average bonus works out to around $443,000 per worker. After annus horribilis 2025, Indian DGCA to come under US FAA scanner this November. NEW DELHI: Come Nov and the Indian Directorate General of Civil Aviation (DGCA) will come under the US Federal Aviation Administration's (FAA) scanner. 'Next question': Ronaldo refuses journalist's question about Messi. Cristiano Ronaldo responded to criticism in emphatic fashion, scoring twice in Portugal's 5-0 World Cup victory over Uzbekistan to become the first player to score in six different World Cups and Portugal's all-time leading World Cup goalscorer. The veteran also dismissed retirement talk, declared \"I'm back,\" and showed little interest in discussing Lionel Messi after the match. 'I will take the guarantee of Kohli, Rohit': Ex-India star makes bold 2027 ODI WC claim. Former India cricketer Mohammad Kaif has backed Virat Kohli and Rohit Sharma to play in the 2027 ODI World Cup, citing Rohit's fitness, passion and improved batting approach. Kaif also believes India will be favourites for the tournament, with most members of the 2023 World Cup squad, including Bumrah, Gill, Rahul, Iyer and Kuldeep, expected to remain part of the team. After laying off hundreds of engineers, GM now replaces more than 1,000 workers with 50 robots. General Motors has introduced 50 collaborative robots at its Michigan Factory Zero, reportedly leading to over 1,000 job eliminations. This move, aimed at cost-cutting and efficiency, sparks criticism from the United Auto Workers union, which views it as a threat to jobs. GM claims the robots support human workers, but the UAW president calls it a \"fight for humanity\" amid broader automation concerns in the industry. Pune realtor murder: Fiancée, lover arrested for pushing him off cliff; CCTV unravel conspiracy. Pune: CCTV footage showing a man wearing a hoodie in peak summer and trailing a couple gave investigators the clue that untangled a 25-year-old Pune realtor's June 18 murder after his fiancée had everyone at home believe he \"accidentally\" fell to his death from Lohagad Fort while posing for a picture. Delhi Capitals cricketer accused of sexual relationship under false promise of marriage. Bengal and Delhi Capitals cricketer Abishek Porel faces serious allegations after a woman filed a police complaint accusing him of a broken promise of marriage, assault, and criminal intimidation. The woman claims a three-year relationship soured last year, with Porel allegedly backing out of marriage plans. Porel has vehemently denied the accusations, calling them baseless and suggesting they are timed with his recent cricketing success. Bank of India wins rupees 100 crore case against Nirav Modi. LONDON: A London high court judge ruled in Bank of India's favour on Tuesday, holding that fugitive diamond businessman Nirav Modi does owe the public sector bank over $10.7 million (a little over rupees 100 crore). FIFA WC: Ronaldo scripts history in Portugal's dominant 5-0 victory over Uzbekistan. Cristiano Ronaldo scored twice as Portugal crushed Uzbekistan 5-0 in Houston to strengthen their place in the FIFA World Cup 2026 knockout stages. The captain opened the scoring before adding a record-breaking second goal, becoming the first player to score in six consecutive World Cups and surpassing Eusébio as Portugal's all-time leading World Cup scorer. IAF tender seeking support package for all 36 Rafales, debunks Pakistan's claim. News News: NEW DELHI: A latest Indian Air Force (IAF) tender seeking 'bridge support' for all 36 Rafale fighter jets India bought from France has contradicted Pa. Taylor Swift is reportedly struggling with the Blake Lively fallout. Taylor Swift and Blake Lively's bond has only worsened over the last few months as rumors swirl about the actress being invited to the pop star's wedding to Travis Kelce which is set to happen in the next few weeks. While Taylor Swift and Travis Kelce focus on their wedding, it seems the pop star has gone through a wave of emotions. The Vikings and Lions are linked to a potential trade for Colts standout. The Indianapolis Colts' star player Anthony Richardson has been actively seeking a trade from the team since February 2026 which has raised eyebrows and sparked chaos about his future in the league. Amid this, the Detroit Lions and the Minnesota Vikings have emerged as potential landing spots for him ahead of the new season. A tale of two deals: Trump's 'infinity' inspections meets Iran's 'not so fast'. TOI correspondent from Washington: One side believes that it has come away with a deal. Flu kills 1.2 lakh/year in India, senior citizens bear the brunt. NEW DELHI: Influenza claims an estimated 1.2 lakh lives in India every year, with nearly two-thirds of the deaths occurring among people aged 65 years and above. Stampede-like situation at Ranchi stadium during Jharkhand T20 League final; several injured. NEW DELHI: A stampede-like situation was reported at the JSCA Stadium in Ranchi during the final of the Jharkhand T20 League after a large crowd gathered at the venue on Tuesday leaving several injured. Courts now face challenge of preserving public trust, says CJI. Chief Justice Surya Kant Tuesday acknowledged that the judiciary faced the challenge of preserving the public's faith in it and said the panacea lay in the judges' knowledge, integrity and commitment to expeditious and fair justice delivery. Fields of work by foreign-funded NGOs outlined, proselytisation excluded. NEW DELHI: Eliminating any room for ambiguity in activities permitted in the country with foreign contributions, the home ministry has notified a schedule of 105 purposes from which NGOs and associations, both ones seeking fresh registration and those already registered under the Foreign Contribution Regulation Act (FCRA), must choose while declaring their purpose or purposes of registration. No need to panic for England - but this was a reality check. England's drab goalless draw with Ghana is no cause to panic - but it does serve as a reality check, writes Phil McNulty."
     },
     {
       "title": "Bhopal and Madhya Pradesh",
-      "text": "Now, news closer to home in Bhopal and across Madhya Pradesh. MoS Dr L. Murugan to visit Madhya Pradesh on two-day tour from today - News On AIR. MP High Court Says Women Married in Madhya Pradesh Must Obtain State Caste Certificate to Claim OBC... - LawBeat. Madhya Pradesh May Bring Inter-Caste Tribal Marriages Under UCC; Draft Likely Within 10 Days - ETV Bharat. Traffic Curbs In Old City From June 24-26 For Muharram - The Times of India. How Madhya Pradesh is blending wildlife and tourism responsibly - India Today. CBI questions AIIMS doctors in Twisha case: Post-mortem team examined; every medical angle under probe - Bhaskar English. Madhya Pradesh to ban liquor sale at 17 religious sites - News On AIR. 3 MP traditions eye UNESCO tag - The Times of India. President Murmu to attend International Yoga Day programme in Madhya Pradesh's Jabalpur - News On AIR. Influencer booked, car seized over stunts - The Times of India. Madhya Pradesh CM Dr. Mohan Yadav congratulated Mohan Nagar and Bhagwan Das Raikwar on being conferred Padma Shri award | Akashvani News - News On AIR. Free temples from govt control, ensure audited trusts: Shankaracharya - The Times of India. Man keeps married daughter hostage; court asks cops to produce her - The Times of India. BJP rejects Congress charges against CM Mohan Yadav, calls them 'baseless' - The Times of India. Cheque bearer is bank customer too: MPHC - The Times of India. Opposition seeks probe into alleged Ujjain land purchases - The Times of India. Parties Can't Blow Hot And Cold: Madhya Pradesh High Court Appoints Arbitrator Though Arbitration Clause... - Verdictum. Anushka, Varun Start Shooting For Sui Dhaaga In Bhopal. See Pics - NDTV. Madhya Pradesh: Vijayvargiya's 'Kafir' Remarks Sparks Row, Congress Calls It 'Divisive Language' - Deccan Chronicle. Teacher brandishes rifle on govt school campus; FIR registered - The Times of India. ED raids LNCT Group premises in Bhopal: rupees 200 crore fee and scholarship scam alleged; team examines documents - Bhaskar English. Congress seeks high-level probe in alleged Ujjain land scam by Mohan Yadav family - The Hindu. Minister Lodha describes British monarch as 'King Kasab'. A conman who impersonated as cop and cheated people claiming to recover stolen mobile arrested."
+      "text": "Now, news closer to home in Bhopal and across Madhya Pradesh. MoS Dr L. Murugan to visit Madhya Pradesh on two-day tour from today. Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News. Will Rahul Gandhi get relief? Madhya Pradesh High Court set for key hearing in defamation case against Congre. Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News. Dug-up roads, unfinished projects threaten lives in MP: Bhopal, Ujjain and Indore may face waterlogging, tr. Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News. MP High Court Says Women Married in Madhya Pradesh Must Obtain State Caste Certificate to Claim OBC. Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News. 3 MP traditions eye UNESCO tag. 3 MP traditions eye UNESCO tag The Times of India Madhya Pradesh May Bring Inter-Caste Tribal Marriages Under UCC; Draft Likely Within 10 Days. Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News. Congress slams Madhya Pradesh CM over land deals, Akhilesh sees 'BJP plot' to topple 3 CMs. Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News. How Madhya Pradesh is blending wildlife and tourism responsibly. Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News. Madhya Pradesh to ban liquor sale at 17 religious sites. Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News. Monsoon to reach Madhya Pradesh within two days: Rain and thunderstorms expected across 42 districts as pre. Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News. Traffic Curbs In Old City From June 24-26 For Muharram. Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News. President Murmu to attend International Yoga Day programme in Madhya Pradesh's Jabalpur. Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News. Cheque bearer is bank customer too: MPHC. Cheque bearer is bank customer too: MPHC The Times of India CBI questions AIIMS doctors in Twisha case: Post-mortem team examined; every medical angle under probe. Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News. Madhya Pradesh CM Dr. Mohan Yadav congratulated Mohan Nagar and Bhagwan Das Raikwar on being conferred Padma Shri award Akashvani News. Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News. Influencer booked, car seized over stunts. Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News. Free temples from govt control, ensure audited trusts: Shankaracharya. Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News. Man keeps married daughter hostage; court asks cops to produce her. Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News. BJP rejects Congress charges against CM Mohan Yadav, calls them 'baseless'. Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News. Parties Can't Blow Hot And Cold: Madhya Pradesh High Court Appoints Arbitrator Though Arbitration Clause. Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News. Anushka, Varun Start Shooting For Sui Dhaaga In Bhopal. See Pics. Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News. Opposition seeks probe into alleged Ujjain land purchases. Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News. Mumbai rain fury: Season's heaviest overnight spell brings over 200 mm rain to several areas. Mumbai experienced a torrential overnight downpour, with several areas receiving over 200 mm of rain in just eight hours. Malwani, Malad, topped the charts with 271 mm. The intense rainfall caused waterlogging in low-lying areas, including Hindmata and Andheri Subway, but civic teams worked swiftly to clear the accumulation, largely restoring traffic flow by morning."
     },
     {
       "title": "Across India",
-      "text": "Turning to the big national stories. Cabbie abducts, rapes and kills 10-year-old in Delhi; shot by cops during escape bid. Ladakh bandh to protest 'breach' of agreement in Delhi talks. Poland donor's stem cells save Kashmir boy suffering from rare immune condition. Kolkata Port, Adani Ports sign MoU to restore iconic Kumartuli Ghat ahead of Durga Puja. rupees 89,000-crore import bill sparks fresh push for made-in-India medical devices. 'Students' blood on his hands': CJP chief Dipke hits back at Pradhan during Jantar Mantar protest. NHAI signs MoU with NCAER for research centre on economics of transportation, mobility and logistics. Qatar Emir dials PM Modi after Ras Laffan blast kills 12 Indians. 'Will face same fate as TMC and Shiv Sena': BJP claims several BJD leaders 'keen' to jump ship in Odisha. Voter ID row: Third non-bailable warrant issued against actor Prakash Raj. Cancelled Bali trip and a missing passport: Inside a fiancée and her lovers' plan to kill Pune man. 315 districts mapped for contingency measures to rescue farming operation as rain deficit rises to 43 percent. 111 districts identified as the most vulnerable due to low irrigation footprints. Delhi CM orders graft probe against two senior health officials over medicine procurement. Shah directs Nafed, NCCF to eliminate middlemen, buy pulses and oilseeds directly from farmers. Union Minister Amit Shah has directed Nafed and NCCF to procure all pulses and oilseeds directly from farmers, eliminating middlemen and ensuring payments within 48 hours. This initiative aims to guarantee fair prices, boost pulse cultivation, and achieve self-reliance. Shah also announced a two-year deadline for this direct farmer-to-organization sales model and highlighted Nafed's new digital auction platform, scholarship program, and inventory management tools. Graduates 44 percent less likely to be hired in informal sector: Report. Dhurandhars or traitors: How Eknath Shinde's 'Operation Tiger' has changed Maharashtra's power dynamics. Maharashtra's political scene is rapidly changing, as the recent defection of six Uddhav Sena MPs to Eknath Shinde's faction under 'Operation Tiger' highlights. This trend reflects a broader pattern seen in Trinamool Congress and AAP, where the anti-defection law is being sidestepped, and parties blatantly promote shifts in loyalty. The fear of the Samajwadi Party and the NCP being the next targets in this game of defections shows the vulnerability of regional parties in this political maneuvering. Gold loan default ratio shrinks as sanctions double. PM Modi calls on President Droupadi Murmu amid Cabinet reshuffle buzz. Speculation is rife about a Union Cabinet reshuffle following Prime Minister Narendra Modi's meeting with President Droupadi Murmu. Recent appointments of Union ministers to key BJP organizational roles, coupled with the resignation of George Kurian and the non-renomination of Ravneet Singh to the Rajya Sabha, have intensified these discussions. These developments suggest potential changes within the government's ministerial ranks. 5 Arrested For Chicken-And-Beer Party On Boat In Varanasi's Ganga. The police said that individuals involved were identified, sent to jail, and the boat was seized. Cliffs, 'Falls', And Lovers: Fort Murder's Parallels With Meghalaya Killing. For now, Sonam sits in jail awaiting her fate. What awaits Siya Goyal remains to be determined. US Envoy Underscores Positive Ties With India, Highlights Tamil Nadu's Role. Sergio Gor highlighted Tamil Nadu's growing importance in India Ajit Doval Says Stable India-China Relations Key To Deeper Trust. India hosted the two-day BRICS National Security Advisors' Meeting in New Delhi Kingpin In Fake Arms Licence Racket, 8 Others Arrested In Uttarakhand. Investigators said Sharma had provided many people with fake licences. Weather Highlights: Delhi Records Maximum Temperature Of 38.4 Degrees, Air Quality Deteriorates To 'Poor'. Weather Highlights: The forecast for today shows partly cloudy skies are expected in parts of Delhi. 3 Injured In Stampede Outside Stadium In Ranchi. The match was not interrupted due to the incident that occurred outside the stadium."
+      "text": "Turning to the big national stories. Cabinet reshuffle buzz as minister Kurian resigns. NEW DELHI: George Kurian's resignation as minister of state for minority affairs and PM Modi calling on the President re-ignited the buzz about the likelihood of a ministerial reshuffle before monsoon session of Parliament, slated for the second half of July. Cabbie abducts, rapes and kills 10-year-old in Delhi; shot by cops during escape bid. NEW DELHI: A 10-year-old girl was allegedly snatched from her family that was sleeping on a pavement in south Delhi, sexually assaulted and murdered by a cab driver early Monday morning, reports Abhay. Ladakh bandh to protest 'breach' of agreement in Delhi talks. SRINAGAR: A month after talks between Ladakh groups and a Union home ministry (MHA) panel in Delhi, the Union Territory observed Tuesday a complete shutdown against the Centre's alleged backtracking on understandings reached during the parleys. Poland donor's stem cells save Kashmir boy suffering from rare immune condition. SRINAGAR: The stem cell donor was from Poland. Kolkata Port, Adani Ports sign MoU to restore iconic Kumartuli Ghat ahead of Durga Puja. NEW DELHI: Syama Prasad Mookerjee Port Kolkata (SMPK) and Adani Ports and Special Economic Zone Limited (APSEZ) have signed a Memorandum of Understanding to restore and redevelop the historic Kumartuli Ghat riverfront in Kolkata, with work on the rupees 10-crore project set to be completed before this year's Durga Puja. 315 districts mapped for contingency measures to rescue farming operation as rain deficit rises to 43 percent. 111 districts identified as the most vulnerable due to low irrigation footprints. rupees 89,000-crore import bill sparks fresh push for made-in-India medical devices. NEW DELHI: From MRI machines and CT scanners to surgical implants and critical care equipment, India's dependence on imported medical devices is continuing to grow despite years of efforts to boost local manufacturing. 'Students' blood on his hands': CJP chief Dipke hits back at Pradhan during Jantar Mantar protest. NEW DELHI: Cockroach Janta Party (CJP) founder Abhijeet Dipke on Tuesday launched a sharp attack on Union education minister Dharmendra Pradhan during an ongoing protest at Delhi's Jantar Mantar, accusing him of being responsible for student deaths linked to alleged examination irregularities. NHAI signs MoU with NCAER for research centre on economics of transportation, mobility and logistics. NEW DELHI: National Highways Authority of India (NHAI) on Tuesday signed a memorandum of understanding with the National Council of Applied Economic Research (NCAER) to establish a research centre on transportation, mobility and logistics. Qatar Emir dials PM Modi after Ras Laffan blast kills 12 Indians. NEW DELHi: Prime Minister Narendra Modi on Tuesday spoke with Qatar's Emir, Sheikh Tamim bin Hamad Al Thani, following the explosion at the Ras Laffan Industrial City gas facility that killed 12 Indian nationals and left dozens injured. 'Will face same fate as TMC and Shiv Sena': BJP claims several BJD leaders 'keen' to jump ship in Odisha. NEW DELHI: The ruling BJP in Odisha on Tuesday claimed that several opposition leaders are keen to join the saffron camp, drawing sharp criticism from ex-CM Naveen Patnaik's Biju Janata Dal (BJD), which called it an attempt to \"divert\" attention from law and order issues in the state. Voter ID row: Third non-bailable warrant issued against actor Prakash Raj. NEW DELHI: A third non-bailable warrant was issued against Actor Prakash Raj after he failed to appear before a Bengaluru court in a case alleging that his name figured in four electoral rolls spread across three states. Cancelled Bali trip and a missing passport: Inside a fiancée and her lovers' plan to kill Pune man. NEW DELHI: A cancelled Bali holiday, a mysteriously missing passport and a trek that ended in death have emerged as key elements in the police investigation into the alleged murder of 26-year-old Pune resident Ketan Agarwal. Delhi CM orders graft probe against two senior health officials over medicine procurement. Chief minister Rekha Gupta has ordered a corruption probe against two senior Delhi Health Department officers over alleged irregularities in the procurement of medicines and other medical supplies for government hospitals, officials said on Tuesday. Weather LIVE Updates: Rain Brings Relief From Heat In Delhi, More Showers Predicted. Weather Updates Today: Rainfall lowers temperatures in Delhi CBSE Class 10 Second Board Result 2026 Live: Scorecard Expected This Week, Check Latest Updates. CBSE Class 10 Second Board Result 2026 expected soon at cbseresults.nic.in. US Envoy Underscores Positive Ties With India, Highlights Tamil Nadu's Role. Sergio Gor highlighted Tamil Nadu's growing importance in India Honey-Trap, Suicide Attack Angles Emerge In Jaipur Woman's Jaish Links Probe. Sources claim Babita remained in contact with Pakistan-based operatives through WhatsApp. Fuel Ready, But Not Pumps: The E100 Challenge. Unlike E20, E100 is not a blend. It is fuel made entirely from ethanol. Geography's Veto: The Limits of China's Economic Reach Into Nepal. China has plenty of promises and surveys, but all-year, all-weather throughput is not there. India provides Nepal contiguity, lowland railroad, and dozens of crossings. 5 Arrested For Chicken-And-Beer Party On Boat In Varanasi's Ganga. The police said that individuals involved were identified, sent to jail, and the boat was seized. Cliffs, 'Falls', And Lovers: Pune Fort Murder's Parallels With Meghalaya Killing. For now, Sonam sits in jail awaiting her fate. What awaits Siya Goyal remains to be determined. ICAI CA Intermediate Result 2026 LIVE Updates: Result Today, Check Scorecard Link Here. Ajit Doval Says Stable India-China Relations Key To Deeper Trust. India hosted the two-day BRICS National Security Advisors' Meeting in New Delhi"
     },
     {
       "title": "Around the world",
-      "text": "And here is what is happening around the world. Israeli troops kill two in south Lebanon after lull in fighting, authorities say. Israel's military says the two men were Hezbollah operatives, but the Iran-backed group accuses it of a ceasefire violation. Dozens of ships head through Strait of Hormuz after US-Iran deal. Traffic in the waterway has risen since the US and Iran signed a deal aimed at ending the war, including 42 ships on Saturday alone. UN commission of inquiry says Israel committing genocide in Gaza by deliberately targeting children. Israel rejects the new report by the three-member expert panel, calling it a \"libellous sham\". Zambia ex-president's family wins latest legal battle over what should happen to his body. Edgar Lungu's family and the Zambian government remained in dispute 12 months after he died. Chinese e-commerce giant Alibaba sues US government over defence blacklist. It is suing the US defence department after it was added to a list of firms with ties to the Chinese military. Spider which uses spring trap to capture prey discovered in Australia. Researchers say their hunting method - which allows them to prey on dangerous ants - is unprecedented. US top court says Rastafarian man cannot sue prison guards who cut his dreadlocks. The former Louisiana inmate argued his Rastafarian faith was violated after prison officials focibly shaved off his hair. Irish government to contribute £197m to cross-border rail services. The money will come from the last allocation from the Irish government's Shared Island Fund. Trump anticipates better relationship with Colombia under new leader. Abelardo de la Espriella, who preliminary results suggest is Colombia's next president, had Trump's endorsement. Montreal shooting leaves officer, civilian and suspect dead. It was the first time in 24 years that a Montreal police officer was killed in the line of duty, the city's police chief said. Ransom note claims Nancy Guthrie died after abduction. On Tuesday, Today show presenter Savannah Guthrie begged anyone with information to come forward, saying, \"We are in agony.\" Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back. Iran's foreign ministry says it made \"no new commitments\" on nuclear inspections after talks in Switzerland. Dettol apologises after ad to clean up 'toxic men' backfires in China. The ad sparked accusations of sexism in China, after featuring a man looking for a partner who is \"not tainted by other men\". Inquiry ordered after building fire kills 15 in north India city. Witnesses described people jumping from windows to escape, while rescue teams broke through a wall to save lives. Myanmar army killed over 700 civilians in six months, UN says. The new UN report says the 702 civilian deaths over six months last year included 153 children. Russian troop build-up threatens city seen as key to seizing Ukraine's Donbas. If Kostyantynivka falls, Russian forces would be able push towards Ukraine's last remaining strongholds in the east. Tesla crash that killed a woman under US federal investigation. A Tesla driver on Friday said he was using 'self-driving' technology after his vehicle sped into a Texas home. At least 13 killed and dozens injured after Qatar gas explosion. The city's main liquified natural gas (LNG) processing site suffered a \"technical accident\" in the Ras Laffan industrial zone. Kenya minister halts construction of US-backed Ebola quarantine centre. Aden Duale defied a High Court order to stop building work on a controversial US-funded facility. UN begins evacuation of 11,000 sailors stranded in Strait of Hormuz. The UN's maritime agency launched an operation to evacuate more than 11,000 sailors stranded in the Strait of Hormuz. Kenyan minister orders halt to construction of US Ebola facility. Decision comes after Aden Duale was held in contempt for ignoring previous high court ruling to stop work Kenya's health minister told a court he had ordered preparations for a US-run Ebola quarantine facility to stop, after being held in contempt for ignoring a previous order to end work. Many Kenyans strongly oppose the facility , with deadly protests erupting since the complex was announced in May for US citizens evacuated from the Democratic Republic of Congo, which is grappling with a widespread Ebola outbreak . Continue reading... Ronaldo late to World Cup party but still able to steal the show. Portugal coach Martinez says Ronaldo's rivalry with the likes of Messi drives both players to stay at their best. UK prioritised ties with UAE over averting mass atrocities in Sudan, MPs to be told. Foreign Office failed to act on warnings of genocide due to 'pressure' from emirates, Yale human rights investigator will tell a parliamentary select committee The British government had received intelligence that Ethiopia appeared to be supporting a genocidal militia in Sudan's civil war as far back as 2024 but did not go public with the news for fear of upsetting the United Arab Emirates (UAE), a parliamentary committee will hear. In May 2024, officials from the Foreign, Commonwealth and Development Office (FCDO) told Nathaniel Raymond , an American human rights investigator at Yale University, that \"significant private pressure\" from the UAE meant the UK would not publicly divulge information linking Ethiopia and the emirates to their support for the paramilitary Rapid Support Forces. Continue reading... Protesters sentenced to decades in US prison over alleged antifa ties. Civil liberties advocates have expressed alarm over the case involving a protest outside Prairieland Detention Center."
+      "text": "And here is what is happening around the world. UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls. US Secretary of State Marco Rubio warned Iran that no country can charge fees for ships to travel through the strait. Israeli troops kill two in south Lebanon after lull in fighting, authorities say. Israel's military says the two men were Hezbollah operatives, but the Iran-backed group accuses it of a ceasefire violation. Germany rail network briefly halted nationwide due to IT malfunction. Rail company Deutsche Bahn had to pause train services across the country for more than two-and-a-half hours. Dozens of ships head through Strait of Hormuz after US-Iran deal. Traffic in the waterway has risen since the US and Iran signed a deal aimed at ending the war, including 42 ships on Saturday alone. UN commission of inquiry says Israel committing genocide in Gaza by deliberately targeting children. Israel rejects the new report by the three-member expert panel, calling it a \"libellous sham\". Chinese e-commerce giant Alibaba sues US government over defence blacklist. It is suing the US defence department after it was added to a list of firms with ties to the Chinese military. Zambia ex-president's family wins latest legal battle over what should happen to his body. Edgar Lungu's family and the Zambian government remained in dispute 12 months after he died. Spider which uses spring trap to capture prey discovered in Australia. Researchers say their hunting method - which allows them to prey on dangerous ants - is unprecedented. US top court says Rastafarian man cannot sue prison guards who cut his dreadlocks. The former Louisiana inmate argued his Rastafarian faith was violated after prison officials focibly shaved off his hair. Irish government to contribute £197m to cross-border rail services. The money will come from the last allocation from the Irish government's Shared Island Fund. Trump anticipates better relationship with Colombia under new leader. Abelardo de la Espriella, who preliminary results suggest is Colombia's next president, had Trump's endorsement. Montreal shooting leaves officer, civilian and suspect dead. It was the first time in 24 years that a Montreal police officer was killed in the line of duty, the city's police chief said. Ransom note claims Nancy Guthrie died after abduction. On Tuesday, Today show presenter Savannah Guthrie begged anyone with information to come forward, saying, \"We are in agony.\" Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back. Iran's foreign ministry says it made \"no new commitments\" on nuclear inspections after talks in Switzerland. Dettol apologises after ad to clean up 'toxic men' backfires in China. The ad sparked accusations of sexism in China, after featuring a man looking for a partner who is \"not tainted by other men\". Inquiry ordered after building fire kills 15 in north India city. Witnesses described people jumping from windows to escape, while rescue teams broke through a wall to save lives. Myanmar army killed over 700 civilians in six months, UN says. The new UN report says the 702 civilian deaths over six months last year included 153 children. Russian troop build-up threatens city seen as key to seizing Ukraine's Donbas. If Kostyantynivka falls, Russian forces would be able push towards Ukraine's last remaining strongholds in the east. Tesla crash that killed a woman under US federal investigation. A Tesla driver on Friday said he was using 'self-driving' technology after his vehicle sped into a Texas home. At least 13 killed and dozens injured after Qatar gas explosion. The city's main liquified natural gas (LNG) processing site suffered a \"technical accident\" in the Ras Laffan industrial zone. Syrians reject Trump's call for Syria to combat Hezbollah in Lebanon. Residents in Damascus rejected US President Donald Trump's suggestion that Syria should confront Hezbollah in Lebanon. Kenyan minister orders halt to construction of US Ebola facility. Decision comes after Aden Duale was held in contempt for ignoring previous high court ruling to stop work Kenya's health minister told a court he had ordered preparations for a US-run Ebola quarantine facility to stop, after being held in contempt for ignoring a previous order to end work. Many Kenyans strongly oppose the facility , with deadly protests erupting since the complex was announced in May for US citizens evacuated from the Democratic Republic of Congo, which is grappling with a widespread Ebola outbreak . Continue reading... Budimir gives Croatia a 1-0 win to eliminate Panama from the World Cup. Croatia are third in Group L, with England and Ghana on four points each, heading into the final round of matches. UK prioritised ties with UAE over averting mass atrocities in Sudan, MPs to be told. Foreign Office failed to act on warnings of genocide due to 'pressure' from emirates, Yale human rights investigator will tell a parliamentary select committee The British government had received intelligence that Ethiopia appeared to be supporting a genocidal militia in Sudan's civil war as far back as 2024 but did not go public with the news for fear of upsetting the United Arab Emirates (UAE), a parliamentary committee will hear. In May 2024, officials from the Foreign, Commonwealth and Development Office (FCDO) told Nathaniel Raymond , an American human rights investigator at Yale University, that \"significant private pressure\" from the UAE meant the UK would not publicly divulge information linking Ethiopia and the emirates to their support for the paramilitary Rapid Support Forces. Continue reading..."
     },
     {
       "title": "Business and markets",
-      "text": "Moving to business, the economy and the markets. India to operationalise up to 60 mines in FY27. Govt races to protect kharif output amid 42 percent rain. India-US push trade pact as tariff clock ticks. India to resume train coach exports to Bangladesh. MoS Kurian's exit fuels Cabinet rejig buzz. India 13th in QS Future Skills Index 2027. SC halts early release of Bowbazar blast convict. Oman assures toll-free movement via Hormuz. SC asks Calcutta HC to hear SIR-linked ration plea. A test could make or break Trump's H-1B $100K fee. Gujarat sends classrooms on wheels to the Rann. Trump to present FIFA World Cup trophy. Can Kunal Shah crack WhatsApp's cash code?. Brent it like Delhi? India shines while others struggle. US visa denied: \"Did you watch yesterday's match?\". Chalo Delhi NCR! Adani or Sobha eye capital. US plans citizenship fee hike; Indians hit hard. US will not accept Iranian tolls on Hormuz: Rubio. Trump: IAEA to inspect Iran sites at right time. Shopify's vape ban could shake up a $9 bn market. Andhra raises retirement age for PSUs. rupees 6 lakh crore wiped out as D-Street bleeds red. Infosys positioned to tap into an AI opportunity worth up to $400 billion by 2030: Nandan Nilekani. 'Artificial Intelligence will not replace companies like ours; It will amplify those who move with purpose and adapt with speed'"
+      "text": "Moving to business, the economy and the markets. India tells Pakistan to look in its own mirror. India on Tuesday rejected Pakistan Defence Minister Khawaja Asifs remarks on Jammu and Kashmir, calling them an attempt to divert attention from Islamabads internal issues. US touts Iran deal as farm windfall; Tehran denies. A tentative US-Iran deal to end hostilities promises a financial boost for American farmers, with President Trump asserting frozen Iranian assets will fund US crop purchases. SpaceX bond debut creates a $89 bn cosmic demand. SpaceX is witnessing immense investor interest, with demand reaching approximately $89 billion for its inaugural US bond sale. UN starts evacuation of 11,000 seafarers in Hormuz. A major evacuation plan is now underway for over 11,000 seafarers aboard hundreds of ships stranded in the Gulf. India-UK FTA gives birth to new 'law' of attraction. Indian law firms are actively seeking UK partnerships ahead of a free trade agreement, anticipating a surge in cross-border legal work. Post BrahMos, has India found its next bestseller?. Indias defence export story, long centred on the BrahMos supersonic missile, may be expanding to include a new system gaining global attention. WhatsApp's next big idea may come from India. Meta's $900 million investment in Cred and the reported appointment of founder Kunal Shah to a global role at WhatsApp marks a significant shift in how the messaging platform may evolve. Rubio arrives in UAE to head off Gulf Arab unease. US Secretary of State Marco Rubio is in the UAE to address concerns over a new Iran deal. US Senate joins House in voting to halt Iran war. In a significant move, the U.S. India to operationalise up to 60 mines in FY27. India is set to launch 50 to 60 new mines this fiscal year, building on the 36 operationalized in the previous year. India-US push trade pact as tariff clock ticks. India and the US are pushing for an interim trade pact, with high-level talks led by Piyush Goyal and Jamieson Greer aiming for a deal before July 24. India to resume train coach exports to Bangladesh. India is set to export a train rake of up to 20 coaches to Bangladesh next month, marking a significant resumption of trade. MoS Kurian's exit fuels Cabinet rejig buzz. Union Minister of State for Minority Affairs George Kurian has resigned, sparking speculation of a Cabinet reshuffle. India 13th in QS Future Skills Index 2027. India has built formidable scale over the past decade, supported by rapid economic growth, a large pool of graduates and the world's largest IT workforce, according to global higher education expert Quacquarelli Symonds. SC halts early release of Bowbazar blast convict. The Supreme Court has halted the Delhi High Court's decision to grant premature release to Md Rashid Khan, a life convict in the 1993 Bowbazar blast. Oman assures toll-free movement via Hormuz. Oman has pledged toll-free passage through the Strait of Hormuz, a move welcomed by India. SC asks Calcutta HC to hear SIR-linked ration plea. The Supreme Court has directed a petitioner to take his plea challenging the exclusion of individuals from West Bengal's ration system to the Calcutta High Court. A test could make or break Trump's H-1B $100K fee. A US court blocked a $100,000 H-1B visa fee, deeming it an unconstitutional tax imposed by presidential authority without congressional approval. Gujarat sends classrooms on wheels to the Rann. Gujarat has launched 28 'Rannshala' buses, transforming them into mobile classrooms for children of salt pan workers in the Little Rann of Kutch. Trump to present FIFA World Cup trophy. FIFA President Gianni Infantino revealed plans for President Donald Trump to join him in presenting the World Cup Final trophy on July 19 in East Rutherford, New Jersey. Brent it like Delhi? India shines while others struggle. Shipping through the crucial Strait of Hormuz is showing signs of recovery, with daily transits increasing significantly, though still far below pre-war levels. US visa denied: \"Did you watch yesterday's match?\". A viral Reddit post detailing US visa interview experiences at the Delhi Consulate reveals that weak or unconvincing answers, not just documentation, can lead to rejections."
     },
     {
       "title": "Money, tax and personal finance",
-      "text": "Now to your money — taxes, savings and personal finance. E-Way Bill Changes from 1st August 2026: Mandatory Ship-To GSTIN and New EWB Closure Facility - ClearTax. India Inc. backs GST as a trusted digital ecosystem; calls for continued structural and operational GST 2.0 reforms: Deloitte GST@9 survey - Deloitte. India Inc backs GST as trusted digital ecosystem, pushes for AI-led GST 2.0 reforms: Survey - ET CFO. India Inc Seeks Faster Refunds, Uniform Audits As GST Completes 9 Years: Deloitte Survey - NDTV Profit. FPI inflows into govt bonds jump to rupees 35,000 crore in June after tax exemption; holdings rise to rupees 3.58 lakh crore - Fortune India. Allahabad HC: GST Dept. Can't Deny Registration Restoration Merely Due to Pending Appeal - SAG Infotech Official Tax Blog. Woman Sells Shares For rupees 26 Crore Profit, Builds Bungalow But Still Pays Zero Tax. Here's How - NDTV. The Chamber of Tax Consultants Honours Eminent Luminaries at its Centenary Celebration - Business Standard. Tax on US Stock Investing for Indian Residents – Complete Guide (2026) - HDFC Sky. CII president R Mukundan projects 7 percent growth for India, seeks GST Council-like body to drive reforms - The Economic Times. NSE IPO: Expected Date and Price, Issue Size, GMP, Review - ClearTax. Tax reforms to play vital role in attracting global capital to India: Experts - BusinessLine. International Copper Association of India calls for GST cut on copper scrap to formalise copper recycling sector - Fortune India. India Inc backs GST as trusted digital tax ecosystem, seeks GST 2.0 reforms: Deloitte - Fortune India. GST wins India Inc's vote, but businesses seek faster refunds and smarter reforms: Deloitte - The Economic Times. GST Rates on Services in India 2026 (Complete List PDF) - Taxscan. How to claim up to rupees 10 crore tax exemption on long-term gains - The Economic Times. President Murmu meets IRS officer trainees, highlights role of direct taxes in nation-building - DD News. Businesses seek uniform GST audits, fewer tax disputes: Deloitte survey - Business Standard. FOMO about US stock market? How Indians can invest - routes, benefits, risks and tax implications explained - The Times of India. India's liquor industry warns state tax breaks could hand imported spirits a double advantage - Vinetur. GST at 9: Businesses seek legal clarity, faster refunds and AI-driven reforms - SME Futures. 8th Pay Commission salary: How minimum and maximum basic salaries have changed since 1947."
+      "text": "Now to your money — taxes, savings and personal finance. Nifty100 Equal Weight. Nifty100 Equal Weight The Economic Times Marathi Nifty Alpha 50. Nifty Alpha 50 The Economic Times Marathi VinFast India and Shriram Finance Partner for EV Financing. Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "title": "Science and technology",
-      "text": "Next, science and technology. What is Starfall? A look at SpaceX's mysterious new return capsule - Space. India's patchy industrial climate strategy. Balancing industrial growth on the one hand and population-driven consumption demand on the other with national emission reduction objectives requires highly targeted policies Introduction To The Chinese Space Station Survey Telescope (CSST) - astrobiology.com. India's experience in diabetes care could guide other developing countries: V. Mohan. In an article in Diabetologia, the Chennai-based specialist argues for local solutions and integrated care; recommends tech interventions such as an AI chatbot, telemedicine, and a physician decision support tool The US is leading the new space race – but other countries are close behind - The Conversation. Analysis: Stretching 'information' to include Telegram. By reading entire platforms run by companies, which were legal entities by their own nature, under the ambit of 'information' under the Act, the government has effectively weaponised the content-blocking provision of Section 69A Oracle Data Science Agent: Conversational Machine Learning in Autonomous AI Database - Oracle Blogs. Samsung Partners With Alcedis To Advance Clinical Research Using Wearable-Based Endpoints - Samsung. Sri Lanka to appoint military-led dengue monitoring unit amid surge in cases. Health authorities have reported a total of 46,037 cases across the island, as of June 20 Next Stop the Future!: A Journey Through Tomorrow's Science - School Library Journal. Seabed damaged by fishing showing signs of recovery. Campaigners say improvements to the area trashed by illegal dredging show that marine protection works. Congo's Ebola outbreak has most cases in first month of any African outbreak, WHO says. The Bundibugyo outbreak in the Democratic Republic ‌of Congo that has infected over 1,000 people and killed 267 ‌was detected late and experts say ‌the ⁠virus had already been circulating ⁠for months before it was officially declared on May 15 ASM Joins the Trust Seal to Advance Confidence in Science - American Society for Microbiology. BRICS space agencies meet begins in Bengaluru. Heads and senior representatives of the space agencies of the 11 BRICS member countries attended the meeting Empowering the Next Generation of Space Innovators - Lockheed Martin. What are UV levels and how can you protect yourself?. Some UV exposure is essential for our wellbeing, but too much is damaging and can cause skin cancer. Navigating stomach cancer risks and early detection in women. Passive smoke has, so far, only a weak documented link with stomach cancer. Why, then, are so many women diagnosed with advanced stomach cancer? The answer largely lies in symptom dismissal and delayed diagnosis Science, Food and a Friendship that Spans the Globe - Johns Hopkins Medicine. Simpler, older version of Stonehenge found three miles from famous site. The structure consisted of two posts that lined up with the solstices 5,000 years ago. How safe is the knife that slices your bread? Hyderabad activist's four-year battle leads to FSSAI order on rusted food cutting equipment. The advisory, issued by the FSSAI on June 15, directs Food Business Operators to use only food-grade, corrosion-resistant knives, blades and cutting equipment in food handling and processing operations Telefónica provides immersive and accessible technology for the new museum space in Bermeo - Telefónica. What is El Niño and why could it mean record temperatures?. Global temperatures are expected to rise in the coming months as El Niño begins."
+      "text": "Next, science and technology. The US is leading the new space race. The US is leading the new space race – but other countries are close behind The Conversation India's experience in diabetes care could guide other developing countries: V. Mohan. In an article in Diabetologia, the Chennai-based specialist argues for local solutions and integrated care; recommends tech interventions such as an AI chatbot, telemedicine, and a physician decision support tool Reconnect public health with people's needs. Access to curative care and stronger institutions must anchor India's health policy"
     },
     {
       "title": "Development and policy",
-      "text": "And finally, development, infrastructure and government policy. The digital sovereignty imperative in India's Viksit Bharat journey - KPMG. India must become more competitive to achieve $10 trillion economy goal: CII President - ET CFO. India and Mongolia friendship project is making steady progress: EAM Dr S Jaishankar - News On AIR. Daimler India Commercial Vehicles (DICV) also joins the Government of India scheme to provide discounts for the replacement of old trucks and buses in Delhi-NCR - PIB. India to unveil battery minerals processing scheme; 58 recyclers selected under rupees 1,500 crore programme - Down To Earth. UK-Backed Climate Investments Cross $1 Billion Milestone in India - Spherical Insights. India's emerging technology ecosystem: Technologies shaping a Viksit Bharat - DD India. India needs to move from ease and cost to speed of doing business, CII president Mukundan says - The Hindu. India-US trade talks begin amid farmers' concerns over agriculture market - BusinessLine. India approves $17.4 mn aid for SED ethanol project - ALCHEMPro. Govt approves continuation of DISHA scheme - Manorama Yearbook. India, US hold high-level trade talks as two nations rework deal amid tariff changes - ThePrint. NHAI to set up India's first dedicated transport and logistics research centre in Delhi - The New Indian Express. Indias Core Infrastructure Sector Output Growth Falls to Seven-Month Low in May - TheWire.in. India's Haj Policy 2027 announced; applications open through Haj Committee portal and app - The Indian Awaaz. L and T Realty to launch housing project in Malad - Construction Week India. India ranks 13th globally in QS World Future Skills Index 2027, emerges as a leading AI-ready economy - The Times of India. Resilience becomes energy's new currency as India navigates post-Hormuz market shifts: S and P Global outlook - ET Government. Skill Development Minister Mangal Prabhat Lodha Lauds MIT India's Project-Based Learning Model at Industry-Institute Future Summit 2026 - Business Standard. India needs a stronger reform push to attract investment: CII chief - BusinessLine. Why India and Europe need to realise their potential - The New Indian Express."
+      "text": "And finally, development, infrastructure and government policy. The digital sovereignty imperative in India's Viksit Bharat journey. Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News. India must become more competitive to achieve $10 trillion economy goal: CII President. Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News. India and Mongolia friendship project is making steady progress: EAM Dr S Jaishankar. Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "title": "Sign-off",
