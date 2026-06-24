@@ -45,7 +45,7 @@ EPISODES_DIR = ROOT / "episodes"
 DEFAULTS = {
     "target_minutes": 30,
     "words_per_minute": 150,           # edge-tts neural voice ~ this rate
-    "voice": "en-IN-PrabhatNeural",    # Indian-English male; see VOICES note in README
+    "voice": "en-IN-NeerjaNeural",     # clearer Indian-English; en-IN-PrabhatNeural = male
     "rate": "+6%",                     # speak a touch faster to fit more news
     "max_sentences_per_item": 3,       # how much of each story to read
     "max_pool_per_section": 22,        # how many candidate stories to gather
@@ -138,8 +138,24 @@ def speakable(text):
                 .replace("&", " and ").replace("%", " percent ")
                 .replace("“", '"').replace("”", '"').replace("’", "'").replace("‘", "'"))
     text = re.sub(r"\bRead more\b.*$", "", text, flags=re.I)
+    text = re.sub(r"\bGovt\.?", "Government", text)
+    text = re.sub(r"\bDept\.?", "Department", text)
+    text = re.sub(r"\bvs\.?\b", "versus", text, flags=re.I)
+    text = (text.replace("•", " ").replace("·", " ").replace("▶", " ")
+                .replace("►", " ").replace("|", " ").replace("—", ", "))
     text = _WS.sub(" ", text).strip()
     return text
+
+_GN_TAIL = re.compile(r"\s+[-–—]\s+[^-–—]{2,42}$")
+def clean_title(raw, pub, is_gnews):
+    """Strip the ' - Publisher' tail that Google News appends, so the source isn't read aloud."""
+    t = (raw or "").strip()
+    if pub and t.endswith(pub):
+        t = t[:-len(pub)]
+    t = t.rstrip(" -–—|·\u00a0")
+    if is_gnews:
+        t = _GN_TAIL.sub("", t)
+    return t.strip()
 
 def first_sentences(text, n):
     if not text:
@@ -173,11 +189,16 @@ def gather_section(name, sources, cfg):
     """Return a ranked, de-duplicated list of story dicts for one section."""
     items = []
     for label, url, weight in sources:
+        is_gnews = "news.google.com" in url
         feed = fetch_feed(url, cfg["request_timeout"])
         if not feed or not getattr(feed, "entries", None):
             continue
         for rank, e in enumerate(feed.entries[: cfg["max_pool_per_section"]]):
-            title = speakable(getattr(e, "title", "")).rstrip(".")
+            src = getattr(e, "source", None)
+            pub = ""
+            if src is not None:
+                pub = (src.get("title") if hasattr(src, "get") else getattr(src, "title", "")) or ""
+            title = speakable(clean_title(getattr(e, "title", ""), pub, is_gnews)).rstrip(".")
             if len(title) < 12:
                 continue
             summary = speakable(getattr(e, "summary", "") or getattr(e, "description", ""))
@@ -186,8 +207,10 @@ def gather_section(name, sources, cfg):
             # drop summary if it just echoes the title
             if summary and norm_title(summary)[:40] == norm_title(title)[:40]:
                 summary = ""
-            score = weight * 100 - rank          # earlier in feed + higher weight = better
+            # earlier in feed + higher weight = better; nudge stories that already carry a summary
+            score = weight * 100 - rank + (8 if summary else 0)
             items.append({"title": title, "summary": summary, "source": label,
+                          "link": getattr(e, "link", ""),
                           "key": norm_title(title), "score": score})
     return items
 
@@ -228,22 +251,32 @@ def dedupe(items, seen_keys):
 # --------------------------------------------------------------------------- #
 
 def item_to_line(it):
-    if it["summary"]:
+    if it.get("summary"):
         return f"{it['title']}. {it['summary']}"
     return f"{it['title']}."
 
+def render_text(s):
+    body = " ".join(item_to_line(it) for it in s["items"])
+    return f"{s['intro']} {body}".strip()
+
+def section_words(s):
+    return word_count(s["intro"]) + sum(word_count(item_to_line(it)) for it in s["items"])
+
+def total_words_of(sections):
+    return 25 + sum(section_words(s) for s in sections)
+
 def assemble(plan_results, cfg):
-    """plan_results: list of (section_name, intro, [items]). Returns sections sized to target."""
+    """Select stories per section, sized toward the target time.
+    Returns sections holding FULL story dicts; text is rendered later."""
     target = cfg["target_minutes"] * cfg["words_per_minute"]
-    # start with a base allocation, then top up to hit the target word budget
     base = {"Top headlines": 5, "Bhopal and Madhya Pradesh": 5, "Across India": 6,
             "Around the world": 6, "Business and markets": 5,
             "Money, tax and personal finance": 5, "Science and technology": 4,
             "Development and policy": 4}
     counts = {name: min(base.get(name, 4), len(items)) for name, _, items in plan_results}
 
-    def total_words():
-        w = 25  # greeting + outro padding
+    def total():
+        w = 25
         for name, intro, items in plan_results:
             if counts[name] == 0:
                 continue
@@ -252,21 +285,19 @@ def assemble(plan_results, cfg):
                 w += word_count(item_to_line(it))
         return w
 
-    # top up round-robin until we reach the target (or run out of stories)
     guard = 0
-    while total_words() < target and guard < 500:
+    while total() < target and guard < 500:
         progressed = False
         for name, _, items in plan_results:
             if counts[name] < len(items):
                 counts[name] += 1
                 progressed = True
-                if total_words() >= target:
+                if total() >= target:
                     break
         guard += 1
         if not progressed:
             break
-    # trim if we overshot a lot (drop from lowest-priority sections last->first)
-    while total_words() > target * 1.08:
+    while total() > target * 1.08:
         for name, _, items in reversed(plan_results):
             if counts[name] > base.get(name, 3):
                 counts[name] -= 1
@@ -277,16 +308,52 @@ def assemble(plan_results, cfg):
     sections = []
     for name, intro, items in plan_results:
         chosen = items[: counts[name]]
-        if not chosen:
-            continue
-        body = " ".join(item_to_line(it) for it in chosen)
-        sections.append({
-            "title": name,
-            "intro": intro,
-            "text": f"{intro} {body}",
-            "items": [{"title": it["title"], "source": it["source"]} for it in chosen],
-        })
+        if chosen:
+            sections.append({"title": name, "intro": intro, "items": chosen})
     return sections
+
+def trim_to_budget(sections, budget):
+    """Enrichment can lengthen the script; drop trailing low-priority items to stay near budget."""
+    while total_words_of(sections) > budget:
+        for s in reversed(sections):
+            if len(s["items"]) > 3:
+                s["items"].pop()
+                break
+        else:
+            break
+
+# ---- one-line summary enrichment (for stories whose feed gave only a headline) ------- #
+
+def fetch_meta_description(url, timeout):
+    try:
+        r = requests.get(url, headers={"User-Agent": UA}, timeout=timeout, allow_redirects=True)
+        if r.status_code != 200 or "html" not in r.headers.get("content-type", "").lower():
+            return ""
+        soup = BeautifulSoup(r.content, "lxml")
+        for attrs in ({"property": "og:description"}, {"name": "description"},
+                      {"name": "twitter:description"}):
+            tag = soup.find("meta", attrs=attrs)
+            if tag and tag.get("content"):
+                return tag["content"]
+    except Exception:
+        pass
+    return ""
+
+def enrich_summaries(sections, cfg, cap=90):
+    """Give a one-line summary to selected stories whose feed supplied only a headline."""
+    targets = [it for s in sections for it in s["items"]
+               if not it.get("summary") and it.get("link")][:cap]
+    if not targets:
+        return
+    print(f"-> fetching one-line summaries for {len(targets)} stories")
+    def work(it):
+        desc = speakable(fetch_meta_description(it["link"], 8))   # quick meta fetch
+        desc = first_sentences(_TRAILING_SRC.sub("", desc), 1)   # one line only
+        if desc and norm_title(desc)[:40] != norm_title(it["title"])[:40]:
+            it["summary"] = desc
+    with ThreadPoolExecutor(max_workers=16) as ex:
+        for _ in as_completed([ex.submit(work, it) for it in targets]):
+            pass
 
 # --------------------------------------------------------------------------- #
 # Optional Claude polish (off by default)                                     #
@@ -403,6 +470,11 @@ def main():
         print("No stories gathered — aborting.", file=sys.stderr)
         sys.exit(1)
 
+    enrich_summaries(sections, cfg)
+    trim_to_budget(sections, int(cfg["target_minutes"] * cfg["words_per_minute"] * 1.06))
+    for s in sections:
+        s["text"] = render_text(s)
+
     if cfg["use_llm"]:
         print("-> polishing with Claude")
         for s in sections:
@@ -456,7 +528,9 @@ def main():
         "word_count": full_words,
         "generated_utc": now_utc.strftime("%Y-%m-%dT%H:%M:%SZ"),
         "chapters": chapters,
-        "sections": [{"title": s["title"], "items": s["items"]} for s in sections],
+        "sections": [{"title": s["title"],
+                      "items": [{"title": it["title"], "source": it["source"]} for it in s["items"]]}
+                     for s in sections],
         "transcript": transcript,
     }
     (EPISODES_DIR / f"{date_str}.json").write_text(json.dumps(episode, ensure_ascii=False, indent=2))
