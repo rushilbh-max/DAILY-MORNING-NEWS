@@ -74,8 +74,10 @@ def build_feed_plan(days):
             ("The Hindu", "https://www.thehindu.com/news/national/feeder/default.rss", 2),
         ]),
         ("Bhopal and Madhya Pradesh", "Now, news closer to home in Bhopal and across Madhya Pradesh.", [
-            ("Local", gnews("Bhopal OR \"Madhya Pradesh\"", days), 3),
-            ("Times of India", "https://timesofindia.indiatimes.com/rssfeeds/-2128838597.cms", 2),
+            ("Free Press Journal", "https://www.freepressjournal.in/stories.rss?section=bhopal&time-period=last-24-hours", 3, r"/(bhopal|madhya-pradesh|sehore|raisen)/"),
+            ("Free Press Journal", "https://www.freepressjournal.in/stories.rss?section=indore&time-period=last-24-hours", 2, r"/(indore|ujjain|gwalior|jabalpur|madhya-pradesh)/"),
+            ("Hindustan Times", "https://www.hindustantimes.com/feeds/rss/cities/bhopal/rssfeed.xml", 2),
+            ("Local", gnews("Bhopal OR \"Madhya Pradesh\"", days), 2),
         ]),
         ("Across India", "Turning to the big national stories.", [
             ("Times of India", "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms", 3),
@@ -169,6 +171,21 @@ def norm_title(t):
     t = re.sub(r"[^a-z0-9 ]", " ", t)
     return _WS.sub(" ", t).strip()
 
+_JUNK_SUM = ("aggregated from sources", "by google news.", "comprehensive up-to-date",
+             "view full coverage on google news")
+def is_junk_summary(t):
+    tl = (t or "").lower()
+    return any(j in tl for j in _JUNK_SUM)
+
+# Final safety net: drop any whole sentence containing aggregator boilerplate,
+# no matter which path produced it, just before the script is narrated.
+def scrub_boilerplate(text):
+    if not text:
+        return ""
+    parts = re.split(r"(?<=[.!?])\s+", text)
+    kept = [p for p in parts if not is_junk_summary(p)]
+    return _WS.sub(" ", " ".join(kept)).strip()
+
 def word_count(text):
     return len(text.split())
 
@@ -186,32 +203,43 @@ def fetch_feed(url, timeout):
         return None
 
 def gather_section(name, sources, cfg):
-    """Return a ranked, de-duplicated list of story dicts for one section."""
+    """Return a ranked, de-duplicated list of story dicts for one section.
+    A source may carry an optional 4th element: a regex the story link must match
+    (used to keep an all-stories feed local to Madhya Pradesh)."""
     items = []
-    for label, url, weight in sources:
+    for src in sources:
+        label, url, weight = src[0], src[1], src[2]
+        link_filter = src[3] if len(src) > 3 else None
         is_gnews = "news.google.com" in url
         feed = fetch_feed(url, cfg["request_timeout"])
         if not feed or not getattr(feed, "entries", None):
             continue
         for rank, e in enumerate(feed.entries[: cfg["max_pool_per_section"]]):
-            src = getattr(e, "source", None)
+            link = getattr(e, "link", "")
+            if link_filter and not re.search(link_filter, link, re.I):
+                continue
+            src_tag = getattr(e, "source", None)
             pub = ""
-            if src is not None:
-                pub = (src.get("title") if hasattr(src, "get") else getattr(src, "title", "")) or ""
+            if src_tag is not None:
+                pub = (src_tag.get("title") if hasattr(src_tag, "get")
+                       else getattr(src_tag, "title", "")) or ""
             title = speakable(clean_title(getattr(e, "title", ""), pub, is_gnews)).rstrip(".")
             if len(title) < 12:
                 continue
-            summary = speakable(getattr(e, "summary", "") or getattr(e, "description", ""))
-            summary = _TRAILING_SRC.sub("", summary)
-            summary = first_sentences(summary, cfg["max_sentences_per_item"])
-            # drop summary if it just echoes the title
-            if summary and norm_title(summary)[:40] == norm_title(title)[:40]:
-                summary = ""
+            # Google News descriptions are just headline + source, never a real summary
+            summary = ""
+            if not is_gnews:
+                summary = speakable(getattr(e, "summary", "") or getattr(e, "description", ""))
+                summary = _TRAILING_SRC.sub("", summary)
+                summary = first_sentences(summary, cfg["max_sentences_per_item"])
+                # drop if it just echoes the title or is generic aggregator boilerplate
+                if summary and (norm_title(summary)[:40] == norm_title(title)[:40]
+                                or is_junk_summary(summary)):
+                    summary = ""
             # earlier in feed + higher weight = better; nudge stories that already carry a summary
             score = weight * 100 - rank + (8 if summary else 0)
             items.append({"title": title, "summary": summary, "source": label,
-                          "link": getattr(e, "link", ""),
-                          "key": norm_title(title), "score": score})
+                          "link": link, "key": norm_title(title), "score": score})
     return items
 
 _STOP = set("a an and the of to in on for at by with from as is are was were be been "
@@ -340,16 +368,21 @@ def fetch_meta_description(url, timeout):
     return ""
 
 def enrich_summaries(sections, cfg, cap=90):
-    """Give a one-line summary to selected stories whose feed supplied only a headline."""
+    """Give a one-line summary to selected stories whose feed supplied only a headline.
+    Google News article links are redirect stubs that can't be resolved server-side
+    (they return Google's own generic description), so we skip those entirely."""
+    def resolvable(link):
+        return link.startswith("http") and "google.com" not in link and "google.co" not in link
     targets = [it for s in sections for it in s["items"]
-               if not it.get("summary") and it.get("link")][:cap]
+               if not it.get("summary") and resolvable(it.get("link", ""))][:cap]
     if not targets:
         return
     print(f"-> fetching one-line summaries for {len(targets)} stories")
     def work(it):
         desc = speakable(fetch_meta_description(it["link"], 8))   # quick meta fetch
         desc = first_sentences(_TRAILING_SRC.sub("", desc), 1)   # one line only
-        if desc and norm_title(desc)[:40] != norm_title(it["title"])[:40]:
+        if (desc and not is_junk_summary(desc)
+                and norm_title(desc)[:40] != norm_title(it["title"])[:40]):
             it["summary"] = desc
     with ThreadPoolExecutor(max_workers=16) as ex:
         for _ in as_completed([ex.submit(work, it) for it in targets]):
@@ -480,7 +513,10 @@ def main():
         for s in sections:
             s["text"] = polish_section(s, cfg)
 
-    greeting = (f"Good morning. This is your Grace Bath World briefing for {dateline}. "
+    for s in sections:                         # final guaranteed boilerplate removal
+        s["text"] = scrub_boilerplate(s["text"])
+
+    greeting = (f"Good morning Rushil Bhatia. Here is your daily news for {dateline}. "
                 f"Over the next half hour: " +
                 ", ".join(s["title"].lower() for s in sections) + ". Let's begin.")
     signoff = "That is your briefing. Stay sharp, and have a strong day."
