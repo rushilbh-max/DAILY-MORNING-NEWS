@@ -43,12 +43,12 @@ CONFIG_PATH = ROOT / "config.json"
 EPISODES_DIR = ROOT / "episodes"
 
 DEFAULTS = {
-    "target_minutes": 30,
-    "words_per_minute": 150,           # edge-tts neural voice ~ this rate
+    "target_minutes": 45,
+    "words_per_minute": 125,           # real narration rate; self-calibrates (see calibration.json)
     "voice": "en-IN-NeerjaNeural",     # clearer Indian-English; en-IN-PrabhatNeural = male
     "rate": "+6%",                     # speak a touch faster to fit more news
     "max_sentences_per_item": 3,       # how much of each story to read
-    "max_pool_per_section": 22,        # how many candidate stories to gather
+    "max_pool_per_section": 30,        # how many candidate stories to gather
     "feed_window_days": 1,             # Google News "when:" recency window
     "request_timeout": 20,
     "use_llm": False,                  # overridden by env USE_LLM=1
@@ -91,18 +91,24 @@ def build_feed_plan(days):
         ]),
         ("Business and markets", "Moving to business, the economy and the markets.", [
             ("Economic Times", "https://economictimes.indiatimes.com/rssfeedstopstories.cms", 3),
+            ("Livemint Markets", "https://www.livemint.com/rss/markets", 3),
             ("The Hindu Business", "https://www.thehindu.com/business/feeder/default.rss", 2),
+            ("Livemint Industry", "https://www.livemint.com/rss/industry", 2),
             ("BBC Business", "https://feeds.bbci.co.uk/news/business/rss.xml", 1),
         ]),
         ("Money, tax and personal finance", "Now to your money — taxes, savings and personal finance.", [
-            ("Tax & GST", gnews("(GST OR \"income tax\" OR taxation OR \"tax\") India", days), 3),
-            ("ET Wealth", "https://economictimes.indiatimes.com/wealth/rssfeeds/837555174.cms", 2),
-            ("Livemint Money", gnews("personal finance OR savings OR mutual fund India", days), 1),
+            ("ET Wealth", "https://economictimes.indiatimes.com/wealth/rssfeeds/837555174.cms", 3),
+            ("Livemint Money", "https://www.livemint.com/rss/money", 3),
+            ("Tax & GST", gnews("(GST OR \"income tax\" OR taxation OR ITR) India", days), 2),
+            ("Financial Express Money", "https://www.financialexpress.com/money/feed/", 2),
         ]),
         ("Science and technology", "Next, science and technology.", [
-            ("Science", gnews("science OR research OR space OR ISRO", days), 2),
-            ("BBC Science", "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml", 2),
+            ("Livemint Tech", "https://www.livemint.com/rss/technology", 3),
             ("The Hindu Sci-Tech", "https://www.thehindu.com/sci-tech/feeder/default.rss", 2),
+            ("Livemint Science", "https://www.livemint.com/rss/science", 2),
+            ("BBC Science", "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml", 2),
+            ("Ars Technica", "https://feeds.arstechnica.com/arstechnica/index", 1),
+            ("Space & ISRO", gnews("(ISRO OR space OR research OR discovery) India", days), 1),
         ]),
         ("Development and policy", "And finally, development, infrastructure and government policy.", [
             ("Policy", gnews("(infrastructure OR economy OR scheme OR policy OR project) India", days), 3),
@@ -294,30 +300,42 @@ def total_words_of(sections):
     return 25 + sum(section_words(s) for s in sections)
 
 def assemble(plan_results, cfg):
-    """Select stories per section, sized toward the target time.
-    Returns sections holding FULL story dicts; text is rendered later."""
+    """Select stories per section, sized toward the target time, with extra weight
+    on business, money/tax and science. Returns sections holding FULL story dicts."""
     target = cfg["target_minutes"] * cfg["words_per_minute"]
-    base = {"Top headlines": 5, "Bhopal and Madhya Pradesh": 5, "Across India": 6,
-            "Around the world": 6, "Business and markets": 5,
-            "Money, tax and personal finance": 5, "Science and technology": 4,
-            "Development and policy": 4}
-    counts = {name: min(base.get(name, 4), len(items)) for name, _, items in plan_results}
+    lengths  = {name: len(items) for name, _, items in plan_results}
+    intromap = {name: intro for name, intro, _ in plan_results}
+    itemsmap = {name: items for name, _, items in plan_results}
+
+    base = {"Top headlines": 5, "Bhopal and Madhya Pradesh": 6, "Across India": 7,
+            "Around the world": 6, "Business and markets": 9,
+            "Money, tax and personal finance": 9, "Science and technology": 8,
+            "Development and policy": 5}
+    fill = {"Business and markets": 3, "Money, tax and personal finance": 3,
+            "Science and technology": 3, "Across India": 2, "Around the world": 2,
+            "Bhopal and Madhya Pradesh": 2, "Top headlines": 1, "Development and policy": 1}
+
+    counts = {name: min(base.get(name, 4), lengths[name]) for name, _, _ in plan_results}
 
     def total():
         w = 25
-        for name, intro, items in plan_results:
+        for name in counts:
             if counts[name] == 0:
                 continue
-            w += word_count(intro)
-            for it in items[: counts[name]]:
+            w += word_count(intromap[name])
+            for it in itemsmap[name][: counts[name]]:
                 w += word_count(item_to_line(it))
         return w
 
+    # weighted round-robin: priority sections appear more often, so they fill faster
+    order = []
+    for name, _, _ in plan_results:
+        order += [name] * fill.get(name, 1)
     guard = 0
-    while total() < target and guard < 500:
+    while total() < target and guard < 4000:
         progressed = False
-        for name, _, items in plan_results:
-            if counts[name] < len(items):
+        for name in order:
+            if counts[name] < lengths[name]:
                 counts[name] += 1
                 progressed = True
                 if total() >= target:
@@ -325,8 +343,10 @@ def assemble(plan_results, cfg):
         guard += 1
         if not progressed:
             break
-    while total() > target * 1.08:
-        for name, _, items in reversed(plan_results):
+    # trim overshoot from lowest-priority sections first
+    prio = [name for name, _, _ in plan_results]
+    while total() > target * 1.06:
+        for name in reversed(prio):
             if counts[name] > base.get(name, 3):
                 counts[name] -= 1
                 break
@@ -489,6 +509,18 @@ def main():
     dateline = now.strftime("%A, %B ") + str(now.day)   # portable (no %-d / %#d)
     print(f"== Building brief for {date_str} (target {cfg['target_minutes']} min) ==")
 
+    # self-calibration: use the speech rate learned from previous runs so the
+    # word budget converges on the exact target listening time
+    cal_path = EPISODES_DIR / "calibration.json"
+    if cal_path.exists():
+        try:
+            wpm = float(json.loads(cal_path.read_text()).get("wpm", 0))
+            if 90 <= wpm <= 180:
+                cfg["words_per_minute"] = wpm
+                print(f"   using learned rate {wpm} wpm")
+        except Exception:
+            pass
+
     plan = build_feed_plan(cfg["feed_window_days"])
     seen = set()
     plan_results = []
@@ -517,7 +549,7 @@ def main():
         s["text"] = scrub_boilerplate(s["text"])
 
     greeting = (f"Good morning Rushil Bhatia. Here is your daily news for {dateline}. "
-                f"Over the next half hour: " +
+                f"In today's briefing: " +
                 ", ".join(s["title"].lower() for s in sections) + ". Let's begin.")
     signoff = "That is your briefing. Stay sharp, and have a strong day."
 
@@ -551,6 +583,16 @@ def main():
             p.unlink(missing_ok=True)
         tmp.rmdir()
         print(f"   audio: {mp3_name}  ({round(duration/60,1)} min)")
+        # learn the real speech rate so tomorrow's build lands closer to the target
+        if duration > 0 and full_words > 0:
+            observed = full_words / (duration / 60.0)
+            if 90 <= observed <= 200:
+                blended = round(0.5 * cfg["words_per_minute"] + 0.5 * observed, 1)
+                cal_path.write_text(json.dumps(
+                    {"wpm": blended, "last_words": full_words,
+                     "last_minutes": round(duration / 60.0, 2),
+                     "target_minutes": cfg["target_minutes"]}, indent=2))
+                print(f"   calibration: observed {observed:.1f} wpm -> next build uses {blended} wpm")
     else:
         print("   --no-audio: skipping TTS")
 
