@@ -2,7 +2,7 @@
   "target_minutes": 45,
   "voice": "en-IN-NeerjaNeural",
   "rate": "+6%",
-  "max_sentences_per_item": 3,
+  "max_sentences_per_item": 4,
   "use_llm": false,
   "llm_model": "claude-haiku-4-5-20251001",
   "title": "Grace Bath World \u2014 Morning Brief",

@@ -47,9 +47,9 @@ DEFAULTS = {
     "words_per_minute": 125,           # real narration rate; self-calibrates (see calibration.json)
     "voice": "en-IN-NeerjaNeural",     # clearer Indian-English; en-IN-PrabhatNeural = male
     "rate": "+6%",                     # speak a touch faster to fit more news
-    "max_sentences_per_item": 3,       # how much of each story to read
-    "max_pool_per_section": 30,        # how many candidate stories to gather
-    "feed_window_days": 1,             # Google News "when:" recency window
+    "max_sentences_per_item": 4,       # how much of each story to read
+    "max_pool_per_section": 40,        # how many candidate stories to gather
+    "feed_window_days": 2,             # Google News "when:" recency window
     "request_timeout": 20,
     "use_llm": False,                  # overridden by env USE_LLM=1
     "llm_model": "claude-haiku-4-5-20251001",
@@ -79,21 +79,12 @@ def build_feed_plan(days):
             ("Hindustan Times", "https://www.hindustantimes.com/feeds/rss/cities/bhopal/rssfeed.xml", 2),
             ("Local", gnews("Bhopal OR \"Madhya Pradesh\"", days), 2),
         ]),
-        ("Across India", "Turning to the big national stories.", [
-            ("Times of India", "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms", 3),
-            ("The Hindu", "https://www.thehindu.com/news/national/feeder/default.rss", 2),
-            ("NDTV", "https://feeds.feedburner.com/ndtvnews-india-news", 1),
-        ]),
-        ("Around the world", "And here is what is happening around the world.", [
-            ("BBC World", "https://feeds.bbci.co.uk/news/world/rss.xml", 3),
-            ("Al Jazeera", "https://www.aljazeera.com/xml/rss/all.xml", 2),
-            ("The Guardian", "https://www.theguardian.com/world/rss", 2),
-        ]),
         ("Business and markets", "Moving to business, the economy and the markets.", [
             ("Economic Times", "https://economictimes.indiatimes.com/rssfeedstopstories.cms", 3),
             ("Livemint Markets", "https://www.livemint.com/rss/markets", 3),
             ("The Hindu Business", "https://www.thehindu.com/business/feeder/default.rss", 2),
             ("Livemint Industry", "https://www.livemint.com/rss/industry", 2),
+            ("Indian Express", "https://indianexpress.com/section/business/feed/", 1),
             ("BBC Business", "https://feeds.bbci.co.uk/news/business/rss.xml", 1),
         ]),
         ("Money, tax and personal finance", "Now to your money — taxes, savings and personal finance.", [
@@ -110,9 +101,21 @@ def build_feed_plan(days):
             ("Ars Technica", "https://feeds.arstechnica.com/arstechnica/index", 1),
             ("Space & ISRO", gnews("(ISRO OR space OR research OR discovery) India", days), 1),
         ]),
-        ("Development and policy", "And finally, development, infrastructure and government policy.", [
+        ("Development and policy", "Now to development, infrastructure and government policy.", [
             ("Policy", gnews("(infrastructure OR economy OR scheme OR policy OR project) India", days), 3),
             ("The Hindu", "https://www.thehindu.com/news/national/feeder/default.rss", 1),
+        ]),
+        ("Across India", "Turning to the big national stories.", [
+            ("Times of India", "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms", 3),
+            ("The Hindu", "https://www.thehindu.com/news/national/feeder/default.rss", 2),
+            ("Indian Express", "https://indianexpress.com/section/india/feed/", 2),
+            ("NDTV", "https://feeds.feedburner.com/ndtvnews-india-news", 1),
+        ]),
+        ("Around the world", "And finally, here is what is happening around the world.", [
+            ("BBC World", "https://feeds.bbci.co.uk/news/world/rss.xml", 3),
+            ("Al Jazeera", "https://www.aljazeera.com/xml/rss/all.xml", 2),
+            ("The Guardian", "https://www.theguardian.com/world/rss", 2),
+            ("Indian Express", "https://indianexpress.com/section/world/feed/", 1),
         ]),
     ]
 
@@ -387,7 +390,7 @@ def fetch_meta_description(url, timeout):
         pass
     return ""
 
-def enrich_summaries(sections, cfg, cap=90):
+def enrich_summaries(sections, cfg, cap=220):
     """Give a one-line summary to selected stories whose feed supplied only a headline.
     Google News article links are redirect stubs that can't be resolved server-side
     (they return Google's own generic description), so we skip those entirely."""
