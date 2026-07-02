@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-07-02",
+    "dateline": "Thursday, July 2",
+    "audio": "episodes/2026-07-02.mp3",
+    "json": "episodes/2026-07-02.json",
+    "duration_sec": 2907.0
+  },
+  {
     "date": "2026-07-01",
     "dateline": "Wednesday, July 1",
     "audio": "episodes/2026-07-01.mp3",
