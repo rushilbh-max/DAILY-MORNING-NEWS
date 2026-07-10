@@ -1,0 +1,716 @@
+{
+  "date": "2026-07-10",
+  "dateline": "Friday, July 10",
+  "title": "Grace Bath World — Morning Brief",
+  "audio": "episodes/2026-07-10.mp3",
+  "duration_sec": 2882.3,
+  "est_minutes": 47.7,
+  "word_count": 5881,
+  "generated_utc": "2026-07-10T00:17:14Z",
+  "chapters": [
+    {
+      "title": "Opening",
+      "start": 0.0
+    },
+    {
+      "title": "Top headlines",
+      "start": 22.2
+    },
+    {
+      "title": "Bhopal and Madhya Pradesh",
+      "start": 364.0
+    },
+    {
+      "title": "Business and markets",
+      "start": 553.8
+    },
+    {
+      "title": "Money, tax and personal finance",
+      "start": 1141.1
+    },
+    {
+      "title": "Science and technology",
+      "start": 1940.3
+    },
+    {
+      "title": "Development and policy",
+      "start": 2456.5
+    },
+    {
+      "title": "Across India",
+      "start": 2529.6
+    },
+    {
+      "title": "Around the world",
+      "start": 2833.2
+    },
+    {
+      "title": "Sign-off",
+      "start": 2877.1
+    }
+  ],
+  "sections": [
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "Mbappé magic and Dembélé finish end Morocco's run as France cruise into another semi-final",
+          "source": "Times of India"
+        },
+        {
+          "title": "Iran's Khamenei buried in Mashhad four months after US-Israeli strikes killed him",
+          "source": "Times of India"
+        },
+        {
+          "title": "Harry Brook's 79, Phil Salt's 59 crush India as England seal T20I series with 9-wicket victory",
+          "source": "Times of India"
+        },
+        {
+          "title": "E25 only being tested, no rollout decision yet: Puri",
+          "source": "Times of India"
+        },
+        {
+          "title": "Salesforce staff 'confused' as it promotes Claude in $27.7 bn app it owns",
+          "source": "Times of India"
+        },
+        {
+          "title": "J and K orders screening of books with 'anti-national' content, opposition slams move",
+          "source": "Times of India"
+        },
+        {
+          "title": "TCS Q1 revenue rises 2.7 percent , company adds over 9,000 to workforce",
+          "source": "Times of India"
+        },
+        {
+          "title": "New USCIS rules for H-1B, Green Card applicants start July 10",
+          "source": "Times of India"
+        },
+        {
+          "title": "Cash, valuables seized from Ram Temple donation 'theft' accused",
+          "source": "Times of India"
+        },
+        {
+          "title": "4 of Deepak Nandal gang killed in encounter in heart of Gurgaon",
+          "source": "Times of India"
+        },
+        {
+          "title": "2 India-flagged ships carrying crude crosses Strait of Hormuz",
+          "source": "Times of India"
+        },
+        {
+          "title": "Mark Zuckerberg returns to Elon Musk's X after three years, announces latest AI model",
+          "source": "Times of India"
+        }
+      ]
+    },
+    {
+      "title": "Bhopal and Madhya Pradesh",
+      "items": [
+        {
+          "title": "40 Routes Fixed For Running MP Government Buses, Objections Sought In 30 Days",
+          "source": "Free Press Journal"
+        },
+        {
+          "title": "Madhya Pradesh To Launch India's First Unified Digital Property Registry Tracking Portal",
+          "source": "Free Press Journal"
+        },
+        {
+          "title": "Civil Supplies Corporation Managing Director Orders Probe Into Sacks, PP Bags In Bhopal",
+          "source": "Free Press Journal"
+        },
+        {
+          "title": "Indore Bench High Court Directs Town And Country Planning To Decide Objections To Sattvaa Sector-B Layout",
+          "source": "Free Press Journal"
+        },
+        {
+          "title": "Gold Rate Today in Bhopal 10th July 2026 : 22 and 24 Carat, Gold Price in Bhopal",
+          "source": "Local"
+        },
+        {
+          "title": "ASI allows Hindus unrestricted access to Bhojshala temple after Madhya Pradesh High Court verdict",
+          "source": "Local"
+        },
+        {
+          "title": "CBI Charges Bhopal Brothers In Mahadev Betting App Case, Issues Lookout Notices",
+          "source": "Local"
+        },
+        {
+          "title": "Bhopal's bold experiment: Can smart surfaces cool India's hottest cities without air conditioners?",
+          "source": "Local"
+        },
+        {
+          "title": "Supreme Court Stays Criminal Proceedings Against Man Accused Of Forcing Madhya Pradesh Family To Convert",
+          "source": "Local"
+        },
+        {
+          "title": "Madhya Pradesh Congress chief's brother detained in drug case in Indore; Congress slams BJP govt",
+          "source": "Local"
+        },
+        {
+          "title": "Madhya Pradesh Congress chief Jitu Patwari's brother named in drug probe, political storm erupts",
+          "source": "Local"
+        },
+        {
+          "title": "Police arrest man in Bhopal for attacks on women with sharp-edged weapon",
+          "source": "Local"
+        },
+        {
+          "title": "Man killed in Chhindwara, woman injured in Seoni tiger attacks",
+          "source": "Local"
+        },
+        {
+          "title": "Madhya Pradesh Government Clears Safer Alignment For MR-12 Road In Indore",
+          "source": "Free Press Journal"
+        },
+        {
+          "title": "Madhya Pradesh High Court Seeks State's Response To PIL Seeking NIA Probe Into 'Mock Blast' During",
+          "source": "Local"
+        },
+        {
+          "title": "Madhya Pradesh govt sets up high-level committee to examine UCC feasibility",
+          "source": "Local"
+        },
+        {
+          "title": "Madhya Pradesh CM Dr Mohan Yadav releases two cheetahs in Kuno National Park",
+          "source": "Local"
+        },
+        {
+          "title": "Bhopal residents air grievances on civic issues in their colonies",
+          "source": "Local"
+        },
+        {
+          "title": "Aishbagh double murder: No leads, cops release CCTV, announce 50k reward",
+          "source": "Local"
+        },
+        {
+          "title": "Upper Lake encroachments: NGT raps admn, slaps 20k fine on BMC",
+          "source": "Local"
+        }
+      ]
+    },
+    {
+      "title": "Business and markets",
+      "items": [
+        {
+          "title": "HDFC Bank Q1 results date: Private lender to announce June quarter earnings on 18 July",
+          "source": "Livemint Markets"
+        },
+        {
+          "title": "Multibagger defence stock Apollo Micro Systems to be in focus on Friday; here's why",
+          "source": "Livemint Markets"
+        },
+        {
+          "title": "Anand Rathi Wealth Q1 Results: Net profit rises 24 percent ; AUM tops rupees 1 lakh crore",
+          "source": "Livemint Markets"
+        },
+        {
+          "title": "Newly listed textile stock Aastha Spintex eyes capacity expansion through Falcon Yarns acquisition",
+          "source": "Livemint Markets"
+        },
+        {
+          "title": "Laser Power and Infra IPO: Issue receives tepid response on Day 01, subscribed 0.17x; GMP signals healthy listing",
+          "source": "Livemint Markets"
+        },
+        {
+          "title": "SBI Funds launches biggest IPO of 2026, price band set at rupees 545-574 per share",
+          "source": "Livemint Markets"
+        },
+        {
+          "title": "US stock market today: Wall Street edges higher as chip stocks rebound; US-Iran tensions remain in focus",
+          "source": "Livemint Markets"
+        },
+        {
+          "title": "England beat India by 9 wickets to seal T20I series",
+          "source": "Economic Times"
+        },
+        {
+          "title": "TCS Q1 Results: Board declares an interim dividend of rupees 12 per share. Details here",
+          "source": "Livemint Markets"
+        },
+        {
+          "title": "Trump heir's big Bitcoin bet cost him $600 million",
+          "source": "Economic Times"
+        },
+        {
+          "title": "Russia's largest private lender Alfa Bank tests crypto trading, plans suite of crypto services ahead of govt legislation",
+          "source": "Livemint Markets"
+        },
+        {
+          "title": "TCS Q1 results: Profit climbs 5 percent YoY to rupees 13,349 crore. Key highlights from June quarter earnings",
+          "source": "Livemint Markets"
+        },
+        {
+          "title": "India's wartime buying spree leaves a LPG glut",
+          "source": "Economic Times"
+        },
+        {
+          "title": "Indiabulls share price hits 5 percent upper circuit following stock market rebound",
+          "source": "Livemint Markets"
+        },
+        {
+          "title": "Wayanad: The hills are alive, but have a warning",
+          "source": "Economic Times"
+        },
+        {
+          "title": "Top Gainers and Losers on 9 July: Kalyan Jewellers, Swiggy, Kaynes Tech, Anant Raj, Thermax among top gainers",
+          "source": "Livemint Markets"
+        },
+        {
+          "title": "Bhupender Yadav holds key green meets",
+          "source": "Economic Times"
+        },
+        {
+          "title": "Stock market today: Sensex gains over 200 points, Nifty 50 ends above 23,950; investors earn rupees 5 lakh crore in a day",
+          "source": "Livemint Markets"
+        },
+        {
+          "title": "Samsung in rejig mode to boost India play",
+          "source": "Economic Times"
+        },
+        {
+          "title": "Gold retailers navigate a tough first quarter on duty hikes, adhik maas",
+          "source": "Livemint Markets"
+        },
+        {
+          "title": "CID to probe Baruipur encounter",
+          "source": "Economic Times"
+        },
+        {
+          "title": "IPO GMPs: Kusumgar IPO versus Laser Power IPO; here's what GMP hints",
+          "source": "Livemint Markets"
+        },
+        {
+          "title": "TMC gets conditional access to rupees 440 cr in banks",
+          "source": "Economic Times"
+        },
+        {
+          "title": "Phoenix Mills' growth hinges on more than retail consumption",
+          "source": "Livemint Markets"
+        },
+        {
+          "title": "India, Afg discuss trade, agri and connectivity",
+          "source": "Economic Times"
+        },
+        {
+          "title": "Syrma SGS to Kaynes Tech: EMS stocks jump up to 7.5 percent as Centre waives customs duty on key electronic components",
+          "source": "Livemint Markets"
+        },
+        {
+          "title": "Nirav Shah joins US Senate race from Maine",
+          "source": "Economic Times"
+        },
+        {
+          "title": "Penny stock under rupees 10: NBFC share jumps 7 percent from intraday low after this AI update",
+          "source": "Livemint Markets"
+        },
+        {
+          "title": "Why micro-irrigation needs more than subsidies",
+          "source": "Economic Times"
+        },
+        {
+          "title": "Small-cap NBFC stock Aye Finance rises over 4 percent , jumps more than 60 percent in 3 months; do you own?",
+          "source": "Livemint Markets"
+        }
+      ]
+    },
+    {
+      "title": "Money, tax and personal finance",
+      "items": [
+        {
+          "title": "Foreign tax data to be included in Form 26AS",
+          "source": "ET Wealth"
+        },
+        {
+          "title": "8th pay commission: Submission window for data collection portal extended , Check date, website, process, FAQs",
+          "source": "Livemint Money"
+        },
+        {
+          "title": "Have foreign income or assets? AIS to soon show foreign assets and income details shared by foreign countries",
+          "source": "ET Wealth"
+        },
+        {
+          "title": "EPF interest being credited this month: Here's how to calculate your monthly earnings at 8.25 percent p.a",
+          "source": "Livemint Money"
+        },
+        {
+          "title": "Sukanya Samriddhi Account interest rate: How you can create rupees 50 lakh corpus for your girl child",
+          "source": "ET Wealth"
+        },
+        {
+          "title": "Heavy rains damaged your car? Here's what motor insurance covers and what it doesn't",
+          "source": "Livemint Money"
+        },
+        {
+          "title": "Renewing your car insurance this monsoon? Experts explain which add-ons are actually worth paying for",
+          "source": "Livemint Money"
+        },
+        {
+          "title": "Claiming Section 80G tax deduction? You must report these additional details when filing your ITR for AY 2026-2027",
+          "source": "ET Wealth"
+        },
+        {
+          "title": "West Bengal govt to release 50 percent of estimated Dearness Relief arrears for pensioners in Kolkata , All you need to know",
+          "source": "Livemint Money"
+        },
+        {
+          "title": "EPFO update: 10 key changes new centralised system brings to EPF, EPS subscribers",
+          "source": "ET Wealth"
+        },
+        {
+          "title": "Is rupees 80 lakh enough to retire? 31-year-old woman wants to quit govt job for 'peace'",
+          "source": "Livemint Money"
+        },
+        {
+          "title": "US-Iran war: Defence funds surge, IT lags; experts share what mutual fund investors should do",
+          "source": "Livemint Money"
+        },
+        {
+          "title": "Pension body's big move for NPS: PFRDA sets up panel to attract global pension funds; how NPS subscribers can benefit",
+          "source": "ET Wealth"
+        },
+        {
+          "title": "Already have 3-5 SIPs running? Expert shares a checklist before you add another fund",
+          "source": "Livemint Money"
+        },
+        {
+          "title": "Gold rate today (July 9, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from Joyalukkas, Malabar Gold and Diamonds, Tanishq and IBJA in Delhi, Mumbai, Hyderabad, other cities",
+          "source": "ET Wealth"
+        },
+        {
+          "title": "ITR-2 filing for AY 2026-27: Step-by-step guide to file income tax returns correctly before 31 July deadline",
+          "source": "Livemint Money"
+        },
+        {
+          "title": "ITR filing 2026: NRIs need to file Schedule FA in ITR to declare foreign asset for AY 2026-2027 in this case",
+          "source": "ET Wealth"
+        },
+        {
+          "title": "Top 5 dividend yield funds based on 5-year returns: ICICI Prudential Dividend Yield Fund leads with 19.95 percent returns",
+          "source": "Livemint Money"
+        },
+        {
+          "title": "EPFO's 2026 overhaul: key takeaways from the latest EPF, EPS, EDLI schemes",
+          "source": "Livemint Money"
+        },
+        {
+          "title": "EPFO simplifies PF fund transfer: No separate fund transfer request needed for Aadhaar-linked UAN",
+          "source": "ET Wealth"
+        },
+        {
+          "title": "ITR filing 2026: rupees 15 lakh, rupees 20 lakh, and rupees 25 lakh salary; how much tax you could pay under new versus old tax regime?",
+          "source": "ET Wealth"
+        },
+        {
+          "title": "Section 54 relief: ITAT allows tax exemption on 23 flats, wipes out rupees 8 crore demand",
+          "source": "Livemint Money"
+        },
+        {
+          "title": "SBI rejects rupees 9.48 lakh VRS claim after employee dies a month before cut-off date; HC orders payment to family for this reason",
+          "source": "ET Wealth"
+        },
+        {
+          "title": "Selling gold in 2026? Your holding period could decide how much tax you pay",
+          "source": "Livemint Money"
+        },
+        {
+          "title": "Old Pension Scheme option extended to these government employees: Will others also get it?",
+          "source": "ET Wealth"
+        },
+        {
+          "title": "ITR filing 2026: Claiming a Section 80G deduction? Don't miss this new requirement",
+          "source": "Livemint Money"
+        },
+        {
+          "title": "8th Pay Commission salary calculator: Estimated arrears for level 2-4 employees at 2.28, 2.57, 2.86 fitment factors",
+          "source": "ET Wealth"
+        },
+        {
+          "title": "Higher take-home salary or bigger retirement corpus? How the proposed EPF change could affect your future",
+          "source": "ET Wealth"
+        }
+      ]
+    },
+    {
+      "title": "Science and technology",
+      "items": [
+        {
+          "title": "Mark Zuckerberg returns to X after 3 years to unveil Meta's Muse Spark 1.1 AI model, developer API",
+          "source": "Livemint Tech"
+        },
+        {
+          "title": "Lava to launch 'Virat' series phones in India, Flipkart availability confirmed",
+          "source": "Livemint Tech"
+        },
+        {
+          "title": "Meta's new AI glasses may continuously record what users see and hear: Report",
+          "source": "Livemint Tech"
+        },
+        {
+          "title": "Moto G77 Power launched in India: Check price, specifications and sale date",
+          "source": "Livemint Tech"
+        },
+        {
+          "title": "Pixel 11 launch date revealed: Made by Google event announced for August 12",
+          "source": "Livemint Tech"
+        },
+        {
+          "title": "ChatGPT image generation down- OpenAI says 'implementing mitigation'",
+          "source": "Livemint Tech"
+        },
+        {
+          "title": "Apple now asks users before sending Apple Intelligence requests to Google Cloud",
+          "source": "Livemint Tech"
+        },
+        {
+          "title": "Apple finally brings back card payments for subscriptions and App Store purchases in India",
+          "source": "Livemint Tech"
+        },
+        {
+          "title": "Apple could bring back its iPhone X playbook for the iPhone Ultra",
+          "source": "Livemint Tech"
+        },
+        {
+          "title": "New AI agent can hack systems and deploy ransomware without human help",
+          "source": "Livemint Tech"
+        },
+        {
+          "title": "iOS 27 beta 2 leak reveals new clue about Apple's camera-equipped AirPods: Here's what we know",
+          "source": "Livemint Tech"
+        },
+        {
+          "title": "WhatsApp usernames: Will they make India's digital conversations safer or less trustworthy? Experts weigh in",
+          "source": "Livemint Tech"
+        },
+        {
+          "title": "WhatsApp username row: Zoho's Arattai to disable username feature",
+          "source": "Livemint Tech"
+        },
+        {
+          "title": "Meta spent billions on AI, but Zuckerberg says progress has been slower than expected: Report",
+          "source": "Livemint Tech"
+        },
+        {
+          "title": "WhatsApp issues username FAQs amid govt scrutiny, Can someone find you with it? Could you be impersonated? Check details",
+          "source": "Livemint Tech"
+        },
+        {
+          "title": "Oppo Reno 16, Reno 16c launched in India: Check price, specs and more",
+          "source": "Livemint Tech"
+        },
+        {
+          "title": "Meta plans to rent AI computing power as it takes on AWS, Google Cloud: Report",
+          "source": "Livemint Tech"
+        },
+        {
+          "title": "WhatsApp usernames could open the platform to impersonations and scams, warn cybersecurity experts: Here is how",
+          "source": "Livemint Tech"
+        },
+        {
+          "title": "Key details about iPhone 18 Pro leak online after hackers gain access to 630 GB data from Tata Electronics",
+          "source": "Livemint Tech"
+        },
+        {
+          "title": "Samsung Galaxy A27 5G debuts in India with 120Hz AMOLED display, price starts at rupees 28,999",
+          "source": "Livemint Tech"
+        },
+        {
+          "title": "OnePlus N6 5G launched in India with 8,000mAh battery, Dimensity 6360 Apex processor: Check price and specs",
+          "source": "Livemint Tech"
+        },
+        {
+          "title": "WhatsApp to let users reserve usernames from next week: Here's how it works",
+          "source": "Livemint Tech"
+        },
+        {
+          "title": "WhatsApp to let users chat without sharing phone numbers: Username feature coming soon",
+          "source": "Livemint Tech"
+        },
+        {
+          "title": "Will iPhone 17 Pro Max cost nearly rupees 2 lakh in India? Leak suggests so",
+          "source": "Livemint Tech"
+        },
+        {
+          "title": "Samsung Galaxy M47 5G launched in India with 6,000mAh battery, 50MP OIS camera",
+          "source": "Livemint Tech"
+        },
+        {
+          "title": "Apple prepares smart glasses to take on Meta, launch tipped for next year",
+          "source": "Livemint Tech"
+        }
+      ]
+    },
+    {
+      "title": "Development and policy",
+      "items": [
+        {
+          "title": "Indian Navy to commission indigenous stealth frigate Mahendragiri on 11 July",
+          "source": "Policy"
+        },
+        {
+          "title": "India is Building Surveillance Infrastructure on Broken Data and Bad Policing",
+          "source": "Policy"
+        },
+        {
+          "title": "Union Minister Jyotiraditya Scindia Invites Investors to Explore Tripura's Vast Growth Potential at Destination Tripura Business Conclave 2026",
+          "source": "Policy"
+        },
+        {
+          "title": "Government plans wider policy support for battery recycling, advanced chemistry cells",
+          "source": "Policy"
+        },
+        {
+          "title": "India and Japan to Co-develop Naval Radio Antenna Based on UNICORN",
+          "source": "Policy"
+        },
+        {
+          "title": "Opinion – Elections in Myanmar and Bangladesh: Implications for India",
+          "source": "Policy"
+        },
+        {
+          "title": "India: Met coke prices soften amid cautious buying; policy uncertainty weighs on import purchases",
+          "source": "Policy"
+        },
+        {
+          "title": "India fastest-growing major economy in intangible investments: Piyush Goyal",
+          "source": "Policy"
+        },
+        {
+          "title": "Hyundai Motor India Foundation Strengthens Critical Care",
+          "source": "Policy"
+        },
+        {
+          "title": "Beyond the pills: What India's latest DPCO Amendment could mean for MedTech",
+          "source": "Policy"
+        },
+        {
+          "title": "Pace Digitek Wins 2 BESS Project Agreements at India Energy Storage Week 2026",
+          "source": "Policy"
+        }
+      ]
+    },
+    {
+      "title": "Across India",
+      "items": [
+        {
+          "title": "Illegals root cause of demographic shifts in border dists: Shah",
+          "source": "Times of India"
+        },
+        {
+          "title": "PM: From chips to ships, India creating new manufacturig ecosystems",
+          "source": "Times of India"
+        },
+        {
+          "title": "Aus to return 2 idols, trident stolen from TN temples",
+          "source": "Times of India"
+        },
+        {
+          "title": "Workouts not enough,long sitting hours up cancer risk: Study",
+          "source": "Times of India"
+        },
+        {
+          "title": "SC raps AIIMS acting director over 'casual' reply",
+          "source": "Times of India"
+        },
+        {
+          "title": "Modi, Albanese rally for peace amid West Asia flare-up and China missile test",
+          "source": "Times of India"
+        },
+        {
+          "title": "Tihar food 'too spicy, oily, deep-fried': US mercenary Matthew Aaron VanDyk seeks chicken, fish, olive oil in court plea",
+          "source": "Times of India"
+        },
+        {
+          "title": "India and Australia unlock 'PACTS' to boost defence and tech ties, secure deal for uranium supply",
+          "source": "Times of India"
+        },
+        {
+          "title": "Modi, Albanese adopt new joint declaration to deepen Indo-Australian defence cooperation",
+          "source": "Times of India"
+        },
+        {
+          "title": "Row over Rath Yatra abroad: After Puri royal's latest salvo, ISKCON 'bows out of discussion'",
+          "source": "Indian Express"
+        },
+        {
+          "title": "Think tank CSDS likely to face funding cuts from Centre",
+          "source": "Indian Express"
+        },
+        {
+          "title": "India, Australia ink defence pacts, fast-track trade deal",
+          "source": "Indian Express"
+        },
+        {
+          "title": "Rainfall in eastern river basins down 20 percent since 1951: Study on water availability in Indus river system",
+          "source": "Indian Express"
+        },
+        {
+          "title": "Minister chairs key wildlife body meetings, reviews over 100 projects for clearance",
+          "source": "Indian Express"
+        },
+        {
+          "title": "Besides Hardeep Singh Nijjar, US charges Lawrence Bishnoi for attacks on Salman Khan, Gippy Grewal, Moosewala",
+          "source": "Indian Express"
+        }
+      ]
+    },
+    {
+      "title": "Around the world",
+      "items": [
+        {
+          "title": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
+          "source": "BBC World"
+        },
+        {
+          "title": "Democrat Graham Platner suspends campaign for key US Senate race after assault allegation",
+          "source": "BBC World"
+        },
+        {
+          "title": "Ex-Olympian pleads not guilty to Reflecting Pool vandalism charges",
+          "source": "BBC World"
+        }
+      ]
+    }
+  ],
+  "transcript": [
+    {
+      "title": "Opening",
+      "text": "Good morning Rushil Bhatia. Here is your daily news for Friday, July 10. In today's briefing: top headlines, bhopal and madhya pradesh, business and markets, money, tax and personal finance, science and technology, development and policy, across india, around the world. Let's begin."
+    },
+    {
+      "title": "Top headlines",
+      "text": "First, the stories leading the news this morning. Mbappé magic and Dembélé finish end Morocco's run as France cruise into another semi-final. France booked their place in the FIFA World Cup 2026 semifinals with a commanding 2-0 win over Morocco, powered by second-half goals from Kylian Mbappé and Ousmane Dembélé. Despite Yassine Bounou's penalty save and several crucial stops, Morocco could not withstand France's relentless pressure. Les Bleus now head to Dallas, where they will face either Spain or Belgium in the semifinals. Iran's Khamenei buried in Mashhad four months after US-Israeli strikes killed him. Iran's Supreme Leader Ayatollah Ali Khamenei was buried in Mashhad after a week of ceremonies. He ruled Iran for nearly thirty-seven years and died in recent airstrikes. Large crowds gathered for funeral processions which brought daily life to a standstill. His eldest son led prayers, but his successor was notably absent from the burial. Harry Brook's 79, Phil Salt's 59 crush India as England seal T20I series with 9-wicket victory. England secured a dominant nine-wicket victory over India in the fourth T20I match. This emphatic win sealed the five-match series for England with an unassailable 3-0 lead. Captain Harry Brook and opener Phil Salt led the successful chase with a strong partnership. Shreyas Iyer's unbeaten 80 was the lone highlight for the Indian batting lineup. E25 only being tested, no rollout decision yet: Puri. Petroleum minister Hardeep Singh Puri confirmed E25 is currently undergoing testing. No decision has been made regarding the rollout of this fuel blend. Road transport minister Nitin Gadkari noted ethanol's lower calorific value impacts mileage slightly. He also emphasized offering people choices of alternative fuels regionally. Salesforce staff 'confused' as it promotes Claude in $27.7 bn app it owns. Salesforce is promoting Anthropic's new Claude Tag AI agent inside Slack, the platform it bought for $27.7 billion, leaving employees confused, The Information reports. Claude Tag competes directly with Salesforce's own Slackbot and Agentforce, blurring the line between Salesforce's AI products and its partner's. With a 1 percent Anthropic stake and $300 million in annual token spending, Salesforce backs a rival that may not need Slack at all. J and K orders screening of books with 'anti-national' content, opposition slams move. J and K authorities are reviewing books in educational institutions for objectionable content. This action follows the withdrawal of books describing Kashmir as occupied territory. Political leaders have criticized the review as an attempt to control historical narratives. Schools must submit compliance reports by July nineteenth confirming book reviews. TCS Q1 revenue rises 2.7 percent , company adds over 9,000 to workforce. TCS reported June-quarter revenue of $7.6 billion, showing a modest year-on-year increase. The company added over nine thousand employees, marking significant workforce expansion. Consolidated net profit saw a sequential decline after a one-time legal charge. Operating margins decreased due to annual wage hikes, with a goal to return to twenty-five percent. New USCIS rules for H-1B, Green Card applicants start July 10. New United States Citizenship and Immigration Services rules will take effect soon. Applicants must use handwritten or properly reproduced signatures for immigration forms. Improper signatures will lead to rejection without any chance for correction. Applicants should always sign forms by hand before submitting them. Cash, valuables seized from Ram Temple donation 'theft' accused. LUCKNOW: Police Thursday conducted searches at the Ayodhya residences of three arrested accused and recovered cash and valuables. 4 of Deepak Nandal gang killed in encounter in heart of Gurgaon. Opened Fire At Bizman's House In Sushant Lok, 3 Cops Injured 2 India-flagged ships carrying crude crosses Strait of Hormuz. Indian ship Lila Vadinar successfully crossed the Strait of Hormuz carrying Kuwaiti crude oil. Another Indian vessel, Maha Roos, also transited through the strategic waterway. Seven India-bound ships with 149 seafarers await evacuation from the Persian Gulf. Vessel movement through the strait is now restricted due to escalating conflict. Mark Zuckerberg returns to Elon Musk's X after three years, announces latest AI model. Meta CEO Mark Zuckerberg announced the Muse Spark 1.1 AI model's public developer access. This marks Meta's shift towards paid enterprise offerings, challenging rivals. The advanced model excels at coding and autonomous digital operations. Developers can now build applications using Muse Spark via a new API."
+    },
+    {
+      "title": "Bhopal and Madhya Pradesh",
+      "text": "Now, news closer to home in Bhopal and across Madhya Pradesh. 40 Routes Fixed For Running MP Government Buses, Objections Sought In 30 Days. The vehicle location-tracking device will be installed in these buses, which will inform their location, speed, and command and control centres within five to ten seconds. Madhya Pradesh To Launch India's First Unified Digital Property Registry Tracking Portal. The portal is expected to be ready within one to two months, after which pilot trials will begin in major municipal corporations such as Indore, Bhopal and Gwalior, where online building permission systems are already operational or are being implemented. Civil Supplies Corporation Managing Director Orders Probe Into Sacks, PP Bags In Bhopal. The officials have directed probe team to submit the probe report within five days and attach the photographs of the PP bags and sacks to the report. Indore Bench High Court Directs Town And Country Planning To Decide Objections To Sattvaa Sector-B Layout. According to the petition, the developer, M/s Superlative Devcon LLP, obtained TNCP, colony development and RERA approvals by suppressing the pendency of a civil suit concerning ownership of the land and by submitting false affidavits. Gold Rate Today in Bhopal 10th July 2026 : 22 and 24 Carat, Gold Price in Bhopal. ASI allows Hindus unrestricted access to Bhojshala temple after Madhya Pradesh High Court verdict. CBI Charges Bhopal Brothers In Mahadev Betting App Case, Issues Lookout Notices. Bhopal's bold experiment: Can smart surfaces cool India's hottest cities without air conditioners?. Supreme Court Stays Criminal Proceedings Against Man Accused Of Forcing Madhya Pradesh Family To Convert. Madhya Pradesh Congress chief's brother detained in drug case in Indore; Congress slams BJP govt. Madhya Pradesh Congress chief Jitu Patwari's brother named in drug probe, political storm erupts. Police arrest man in Bhopal for attacks on women with sharp-edged weapon. Man killed in Chhindwara, woman injured in Seoni tiger attacks. Madhya Pradesh Government Clears Safer Alignment For MR-12 Road In Indore. The new alignment will provide a straighter approach to the bridge, eliminating the hazardous curve. Madhya Pradesh High Court Seeks State's Response To PIL Seeking NIA Probe Into 'Mock Blast' During. Madhya Pradesh govt sets up high-level committee to examine UCC feasibility. Madhya Pradesh CM Dr Mohan Yadav releases two cheetahs in Kuno National Park. Bhopal residents air grievances on civic issues in their colonies. Aishbagh double murder: No leads, cops release CCTV, announce 50k reward. Upper Lake encroachments: NGT raps admn, slaps 20k fine on BMC."
+    },
+    {
+      "title": "Business and markets",
+      "text": "Moving to business, the economy and the markets. HDFC Bank Q1 results date: Private lender to announce June quarter earnings on 18 July. HDFC Bank's Board of Directors to meet on 18 July to approve Q1FY27 financial results. Multibagger defence stock Apollo Micro Systems to be in focus on Friday; here's why. Apollo Micro Systems has signed a Share Purchase Agreement to acquire a 41.33 percent stake in Premier Explosives for rupees 1,550 crore, aiming to enhance India's defence capabilities. The deal includes an open offer for additional shares and is expected to be finalized by December 2026. Anand Rathi Wealth Q1 Results: Net profit rises 24 percent ; AUM tops rupees 1 lakh crore. Anand Rathi Wealth reported strong growth with a consolidated profit of rupees 116 crore for Q1 FY27, up 24 percent year-on-year. Revenue from operations increased 18 percent to rupees 336.4 crore, while assets under management surpassed rupees 1 lakh crore, reflecting the firm's robust client acquisition strategy. Newly listed textile stock Aastha Spintex eyes capacity expansion through Falcon Yarns acquisition. Aastha Spintex plans to double its spinning capacity from 7,700 MT to 17,457 MT through the acquisition of Falcon Yarns. The deal, paid in tranches, aims to meet growing demand. Falcon Yarns reported a revenue increase, alongside significant profit growth over the past few years. Laser Power and Infra IPO: Issue receives tepid response on Day 01, subscribed 0.17x; GMP signals healthy listing. Laser Power and Infra Ltd's IPO saw a weak response, subscribing only 0.17 times on Day 1. The company raised rupees 222 crore from anchor investors and has final allotment expected on July 14, with shares listed on July 16. SBI Funds launches biggest IPO of 2026, price band set at rupees 545-574 per share. The SBI Funds IPO will open for subscription on 14 July. US stock market today: Wall Street edges higher as chip stocks rebound; US-Iran tensions remain in focus. US stock futures showed modest gains, led by strong semiconductor buying despite ongoing Middle East tensions. The S and P 500 rose 0.2 percent while the Nasdaq 100 gained 0.61 percent . Investors are cautious amid fears over energy supply disruptions and await key economic data from the Federal Reserve. England beat India by 9 wickets to seal T20I series. India suffered another defeat in England, losing the fourth T20I by nine wickets. TCS Q1 Results: Board declares an interim dividend of rupees 12 per share. Details here. Tata Consultancy Services announced an interim dividend of rupees 12 per share while releasing its June quarter results, as recommended by its Board of Directors. Trump heir's big Bitcoin bet cost him $600 million. American Bitcoin, though, stuck with its crypto strategy and has seen its shares slump more than 95 percent from their peak. Russia's largest private lender Alfa Bank tests crypto trading, plans suite of crypto services ahead of govt legislation. TCS Q1 results: Profit climbs 5 percent YoY to rupees 13,349 crore. Key highlights from June quarter earnings. TCS Q1 results: TCS reported an almost 5 percent YoY rise in its consolidated net profit for Q1FY27 to rupees 13,349 crore. Revenue from operations for the quarter rose by 14 percent YoY to rupees 72,275 crore. India's wartime buying spree leaves a LPG glut. India's fuel retailers now have excess cooking gas supplies. Indiabulls share price hits 5 percent upper circuit following stock market rebound. Indiabulls shares saw a 5 percent increase amid a market rebound, closing at rupees 29.61. The company reported a consolidated net profit of rupees 194.26 crore for Q1 FY26, reversing last year's losses. Its total income more than doubled, reflecting strong performance in the housing market. Wayanad: The hills are alive, but have a warning. Wayanad faces escalating ecological crises and deadly landslides. Top Gainers and Losers on 9 July: Kalyan Jewellers, Swiggy, Kaynes Tech, Anant Raj, Thermax among top gainers. The Indian stock market showed a modest recovery on July 9, with major indices ending slightly higher after a significant decline. Positive momentum early on faded as investors took profits, resulting in the Nifty 50 rising 0.34 percent and the Sensex up 0.31 percent . The broader market performed better. Bhupender Yadav holds key green meets. Environment Minister Bhupender Yadav chaired key meetings on wildlife conservation issues. Stock market today: Sensex gains over 200 points, Nifty 50 ends above 23,950; investors earn rupees 5 lakh crore in a day. The Sensex ended 238 points, or 0.31 percent , higher at 76,741.82, while the Nifty 50 ended at 23,962.80, up 81 points, or 0.34 percent . Investors earned nearly rupees 5 lakh crore in a single session. Samsung in rejig mode to boost India play. Samsung is restructuring its Indian operations to improve profitability in home appliances. Gold retailers navigate a tough first quarter on duty hikes, adhik maas. While international gold prices cooled, an import duty hike and the Prime Minister's call to avoid gold purchases hurt the sector. CID to probe Baruipur encounter. West Bengal orders CID and judicial probes into the Baruipur police encounter. IPO GMPs: Kusumgar IPO versus Laser Power IPO; here's what GMP hints. The IPO market shows mixed results, with Laser Power struggling while Kusumgar attracts strong investor interest. Analysts have mixed recommendations, with Kusumgar favoured for quick gains, while Laser Power is seen as promising due to profitability and order book. TMC gets conditional access to rupees 440 cr in banks. The Calcutta High Court allowed conditional access to Trinamool Congress bank accounts. Phoenix Mills' growth hinges on more than retail consumption. Phoenix Mills' stock rose 5 percent after retail consumption beat estimates for a third straight quarter, but rental income continues to lag because most contracts are fixed and high-growth categories carry low revenue shares. India, Afg discuss trade, agri and connectivity. India and Afghanistan held a Joint Committee Meeting to strengthen their development partnership. Syrma SGS to Kaynes Tech: EMS stocks jump up to 7.5 percent as Centre waives customs duty on key electronic components. The government's waiver of basic customs duty on electronics manufacturing components until 2029 led to sharp stock gains for companies like Kaynes Technology. This initiative aims to enhance domestic production of electronics and support India's goal of becoming a global manufacturing hub. Nirav Shah joins US Senate race from Maine. Epidemiologist Nirav Shah has entered the Maine US Senate race. Penny stock under rupees 10: NBFC share jumps 7 percent from intraday low after this AI update. Penny stock Golden Legand opened at rupees 9.46 apiece today, as compared to previous close of rupees 9.27 on Wednesday. The stock touched an intraday low of rupees 9.11 on 9 July. Why micro-irrigation needs more than subsidies. India faces significant economic losses from water scarcity and weak monsoons. Small-cap NBFC stock Aye Finance rises over 4 percent , jumps more than 60 percent in 3 months; do you own?. Aye Finance shares have surged 63 percent in the last three months. The stock hit a 52-week high of rupees 184.60 on 2 July after hitting a 52-week low of rupees 88.40 on 2 April this year."
+    },
+    {
+      "title": "Money, tax and personal finance",
+      "text": "Now to your money — taxes, savings and personal finance. Foreign tax data to be included in Form 26AS. Overseas financial account information will now be included in taxpayers' Form 26AS. This move will allow taxpayers to view their foreign financial data with the Income Tax Department. It helps reconcile overseas income and assets with tax filings effectively. The CBDT has directed the Director General of Income-tax (Systems) to upload this information. 8th pay commission: Submission window for data collection portal extended , Check date, website, process, FAQs. 8th pay commission: Window for submission of data online for the 8th CPC's consideration has been extended to 31 July this year. Here's how to complete the process and some of the frequently asked questions answered... Have foreign income or assets? AIS to soon show foreign assets and income details shared by foreign countries. This is a CBDT order dated July 8, 2026 issued under Section 119 of the Income-tax Act, 1961. It is an administrative order that authorizes the Income-tax Department to upload foreign financial information received under Automatic Exchange of Information (AEOI) into taxpayers' Annual Information Statement (AIS) in Form 26AS/AIS. Know more. EPF interest being credited this month: Here's how to calculate your monthly earnings at 8.25 percent p.a. EPF interest for FY26 is being credited this month. Here's how to calculate your monthly earnings at 8.25 percent p.a. and stepwise guide to check your closing balance via passbook online on the EPFO website. Sukanya Samriddhi Account interest rate: How you can create rupees 50 lakh corpus for your girl child. SSY interest rate: The Sukanya Samriddhi Account offers an 8.2 percent annual interest rate, compounded yearly. Parents can invest up to rupees 1.5 lakh annually for a girl child's future. Consistent investment builds a significant corpus over a 21-year maturity period. Deposits and earnings under this scheme are tax-exempt, providing significant financial benefits. Heavy rains damaged your car? Here's what motor insurance covers and what it doesn't. Heavy rains can damage your car, but not every repair is covered by insurance. Here's what comprehensive policies pay for, common claim exclusions, and mistakes that could lead to claim rejection. Renewing your car insurance this monsoon? Experts explain which add-ons are actually worth paying for. A comprehensive car insurance policy may not cover every monsoon-related expense. Experts explain which add-ons are worth buying to reduce repair costs and improve financial protection. Claiming Section 80G tax deduction? You must report these additional details when filing your ITR for AY 2026-2027. ITR Filing 2026: Income Tax Return forms now require additional details for Section 80G deductions. Taxpayers must report transaction reference numbers and bank IFSC codes for donations. Schedule 80GGC also mandates providing the political party's name and PAN. These enhanced disclosures apply to AY 2026-2027 filings. West Bengal govt to release 50 percent of estimated Dearness Relief arrears for pensioners in Kolkata , All you need to know. The West Bengal government will release 50 percent of estimated Dearness Relief (DR) arrears to pensioners in the Kolkata municipal area in an interim measure that aims to provide immediate relief for state govt retirees. EPFO update: 10 key changes new centralised system brings to EPF, EPS subscribers. EPFO has centralized its member database for faster and smoother service delivery. Annual interest for FY 2025-2026 will be credited by July 15, 2026. Advance withdrawal auto-settlement limits have been raised to rupees 5 lakh. Automatic PF account transfers will occur upon job changes without separate forms. Is rupees 80 lakh enough to retire? 31-year-old woman wants to quit govt job for 'peace'. The woman said she has been employed at a PSU for the past seven years and is in a comfortable financial position. According to her post, she has no outstanding debt, follows a modest lifestyle and has accumulated significant savings over time. US-Iran war: Defence funds surge, IT lags; experts share what mutual fund investors should do. Since the start of the US-Iran war in February, the Nifty Defence Index has delivered positive returns of 18.7 percent , while the Nifty IT Index declined 12.5 percent . Experts advise investors to avoid short-term reactions, focus on diversified funds, and use SIP investments during periods of market volatility. Pension body's big move for NPS: PFRDA sets up panel to attract global pension funds; how NPS subscribers can benefit. PFRDA has formed a committee to attract global pension capital into India. This committee, named ASCEND, will create a roadmap for collaborations. Indian pension funds will partner with global funds through co-investment platforms. This initiative aims to finance infrastructure and support economic development. Already have 3-5 SIPs running? Expert shares a checklist before you add another fund. Investors who already have 3 to 5 SIPs running should review their existing portfolio before adding another fund. The expert recommends focusing on 5 key areas: goal alignment, portfolio overlap, risk balance, contribution sizing, and regular portfolio reviews. Gold rate today (July 9, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from Joyalukkas, Malabar Gold and Diamonds, Tanishq and IBJA in Delhi, Mumbai, Hyderabad, other cities. Gold prices remained steady across major Indian cities on July 9, 2026. Tanishq showed a slight increase in 22K gold jewellery prices from yesterday. Other leading jewellers like Malabar Gold and Diamonds also saw price adjustments. Consumers are advised to compare rates from different brands for better value. ITR-2 filing for AY 2026-27: Step-by-step guide to file income tax returns correctly before 31 July deadline. ITR-2 filing for AY 2026-27 requires careful reporting of capital gains, multiple properties, foreign assets and other income. Learn who must file ITR-2, key online filing steps, deadline and practical tips to submit accurate tax returns before 31 July 2026. ITR filing 2026: NRIs need to file Schedule FA in ITR to declare foreign asset for AY 2026-2027 in this case. Resident and ordinarily resident individuals must report foreign assets. This disclosure is required in Schedule FA of the income tax return. Non-resident Indians and resident but not ordinarily resident individuals are exempt. Schedule FA requires reporting peak values and beneficial ownership details. Top 5 dividend yield funds based on 5-year returns: ICICI Prudential Dividend Yield Fund leads with 19.95 percent returns. Based on 5-year CAGR performance, ICICI Prudential Dividend Yield Equity Fund has emerged as the top-performing scheme in the category, delivering 19.95 percent returns. LIC MF Dividend Yield Fund and HDFC Dividend Yield Fund follow. EPFO's 2026 overhaul: key takeaways from the latest EPF, EPS, EDLI schemes. The new EPF Scheme, 2026 does not make higher PF contributions optional. Here's what remains unchanged, what has changed, and what it means for employees and employers. EPFO simplifies PF fund transfer: No separate fund transfer request needed for Aadhaar-linked UAN. Union Labour and Employment Minister Mansukh Mandaviya has announced several changes related to Employees' Provident Fund (EPF) as the EPFO's completed the migration of its entire member database to a centralised platform. ITR filing 2026: rupees 15 lakh, rupees 20 lakh, and rupees 25 lakh salary; how much tax you could pay under new versus old tax regime?. Salaried employees face a crucial tax decision between old and new regimes. The new tax regime offers lower tax liability across various income levels. However, substantial deductions can make the old tax regime more beneficial. Taxpayers should calculate their actual tax under both systems. Section 54 relief: ITAT allows tax exemption on 23 flats, wipes out rupees 8 crore demand. A Bengaluru ITAT ruling allowed a landowner to claim capital gains exemption on 23 flats received under a redevelopment deal. The relief, however, applies to older joint development agreements executed before key tax law changes. SBI rejects rupees 9.48 lakh VRS claim after employee dies a month before cut-off date; HC orders payment to family for this reason. The Telangana High Court recently held that where an SBI employees' VRS application had already been accepted then his death before the formal retirement date would not defeat the claim of his family (legal heirs) to receive the VRS benefits. Read below to know more about what the Telangana High Court said. Selling gold in 2026? Your holding period could decide how much tax you pay. Gold ETFs, gold mutual funds and physical gold are taxed differently, with holding periods ranging from 12 to 24 months to qualify for lower long-term capital gains tax. Selling too soon could result in gains being taxed at your income-tax slab rate instead. Old Pension Scheme option extended to these government employees: Will others also get it?. The Council of Scientific and Industrial Research endorsed the Centre's decision on pension options. This move allows compassionate appointees to opt for the Old Pension Scheme. These individuals applied for jobs before January 1, 2004, but joined later. A key letter from the Department of Personnel facilitated this change for CSIR appointees. ITR filing 2026: Claiming a Section 80G deduction? Don't miss this new requirement. Taxpayers claiming deductions under Section 80G will now have to disclose payment reference details while filing their income tax return. The new disclosure is part of the Income Tax Department's push to digitally verify deduction claims. 8th Pay Commission salary calculator: Estimated arrears for level 2-4 employees at 2.28, 2.57, 2.86 fitment factors. The National Council–Joint Consultative Machinery (Staff Side) has recommended a 3.83 fitment factor under the 8th Pay Commission. Higher take-home salary or bigger retirement corpus? How the proposed EPF change could affect your future. A government proposal may allow employees to voluntarily reduce their EPF contributions. This change could increase immediate take-home salaries for many workers. However, experts caution this might significantly reduce long-term retirement wealth accumulation. The proposal primarily affects employees contributing above the statutory wage ceiling."
+    },
+    {
+      "title": "Science and technology",
+      "text": "Next, science and technology. Mark Zuckerberg returns to X after 3 years to unveil Meta's Muse Spark 1.1 AI model, developer API. Zuckerberg's first activity on the platform in over three years signaled Meta's latest push to compete directly with OpenAI and Anthropic in the rapidly expanding market for enterprise AI models. Lava to launch 'Virat' series phones in India, Flipkart availability confirmed. Lava will soon launch its new 'Virat' series of smartphones in India via Flipkart. The company has confirmed that its new online-first series will feature both 4G and 5G devices Meta's new AI glasses may continuously record what users see and hear: Report. Meta is developing AI-powered smart glasses that capture images and audio throughout the day. Moto G77 Power launched in India: Check price, specifications and sale date. Motorola has launched the Moto G77 Power in India, featuring a 7,000mAh battery, 50MP camera, and MediaTek Dimensity 6400 processor. Pixel 11 launch date revealed: Made by Google event announced for August 12. Google's next Made by Google launch event is set for August 12, 2026, in New York City. ChatGPT image generation down- OpenAI says 'implementing mitigation'. ChatGPT faced a widespread outage on Tuesday, with users reporting issues generating images and accessing past chats. OpenAI confirms it's investigating. Apple now asks users before sending Apple Intelligence requests to Google Cloud. Apple's integration of Google's AI has improved features but requires sharing user data with Google Cloud. Apple finally brings back card payments for subscriptions and App Store purchases in India. Apple has resumesdcard payments for App Store purchases in India after a four-year hiatus. Initially, only Visa and Mastercard will be accepted. Apple could bring back its iPhone X playbook for the iPhone Ultra. Apple could be planning to use the iPhone X playbook with the iPhone Ultra by delaying the initial pre-sales and orders for the foldable iPhone. New AI agent can hack systems and deploy ransomware without human help. A new report reveals that AI agents can autonomously execute ransomware attacks, evidenced by the case of JADEPUFFER, which exploited a critical vulnerability to infiltrate systems. iOS 27 beta 2 leak reveals new clue about Apple's camera-equipped AirPods: Here's what we know. Apple could be teasing a new AirPods Pro with cameras with the latest beta version of iOS 27 beta. WhatsApp usernames: Will they make India's digital conversations safer or less trustworthy? Experts weigh in. As digital platforms evolve in India, the way people identify themselves online is clearly changing too. WhatsApp's move towards usernames is more than a feature update. WhatsApp username row: Zoho's Arattai to disable username feature. Zoho's Arattai will remove its username-based account feature after the regulatory challenges faced by WhatsApp. Meta spent billions on AI, but Zuckerberg says progress has been slower than expected: Report. Meta CEO Mark Zuckerberg acknowledged the shortcomings of the company's recent restructuring and the slow development of AI agents. WhatsApp issues username FAQs amid govt scrutiny, Can someone find you with it? Could you be impersonated? Check details. Meta Platforms' messaging app WhatsApp has released detailed set of frequently asked questions (FAQs) for users on its new username feature following controversy over safety and security of the rollout. Oppo Reno 16, Reno 16c launched in India: Check price, specs and more. Oppo launched the Reno 16 series featuring Snapdragon processors and AMOLED displays. Prices in India start at rupees 46,999 for the Reno 16c and rupees 61,999 for the Reno 16 Meta plans to rent AI computing power as it takes on AWS, Google Cloud: Report. Meta is developing a cloud infrastructure to sell AI computing access, competing with AWS, Azure, and Google Cloud. WhatsApp usernames could open the platform to impersonations and scams, warn cybersecurity experts: Here is how. Meta's WhatsApp is launching usernames for privacy, enabling users to interact without disclosing phone numbers. While this can protect user identity, experts warn of risks like impersonation and scams, highlighting the necessity for robust anti-abuse measures to ensure safety amid these changes. Key details about iPhone 18 Pro leak online after hackers gain access to 630 GB data from Tata Electronics. Leaks from Tata Electronics reveal details about Apple's upcoming iPhone 18 Pro, including component suppliers and internal documents after a ransomware attack. This breach, involving over 200,000 files, threatens Apple's supplier relationships and business strategy ahead of the September launch. Samsung Galaxy A27 5G debuts in India with 120Hz AMOLED display, price starts at rupees 28,999. Samsung Galaxy A27 5G features a 6.7-inch Full HD+ Super AMOLED display, Snapdragon 6 Gen 3 chipset, 50MP triple rear camera, and 5,000mAh battery. OnePlus N6 5G launched in India with 8,000mAh battery, Dimensity 6360 Apex processor: Check price and specs. The OnePlus N6 features a 6.75-inch HD display, MediaTek Dimensity 6360 Apex processor, 8,000mAh battery, and military-grade durability. WhatsApp to let users reserve usernames from next week: Here's how it works. WhatsApp introduces a username system to eliminate the need to share your phone number. The company will allow users to select their usernames starting next week. WhatsApp to let users chat without sharing phone numbers: Username feature coming soon. WhatsApp, which says it has more than 3 billion users globally, has until now allowed users to be contacted by anyone who has their phone number. Will iPhone 17 Pro Max cost nearly rupees 2 lakh in India? Leak suggests so. The iPhone 17 Pro, currently priced at rupees 1,34,900, could reportedly retail between rupees 1,54,900 and rupees 1,69,900. The iPhone 17 Pro Max may be priced between rupees 1,84,900 and rupees 1,99,900, compared with its current price of rupees 1,49,900. Samsung Galaxy M47 5G launched in India with 6,000mAh battery, 50MP OIS camera. Samsung has launched the Galaxy M47 5G in India with a price of rupees 22,999. The phone features a Snapdragon 6 Gen 3 chipset, 6.7-inch AMOLED display, 6,000mAh battery, and a 50MP camera. Apple prepares smart glasses to take on Meta, launch tipped for next year. Apple is eyeing the smart glasses market, potentially releasing its first model next year. Apple could be looking to leverage its strong ecosystem to bring in buyers, a report claims"
+    },
+    {
+      "title": "Development and policy",
+      "text": "Now to development, infrastructure and government policy. Indian Navy to commission indigenous stealth frigate Mahendragiri on 11 July. India is Building Surveillance Infrastructure on Broken Data and Bad Policing. Union Minister Jyotiraditya Scindia Invites Investors to Explore Tripura's Vast Growth Potential at Destination Tripura Business Conclave 2026. Government plans wider policy support for battery recycling, advanced chemistry cells. India and Japan to Co-develop Naval Radio Antenna Based on UNICORN. Opinion – Elections in Myanmar and Bangladesh: Implications for India. India: Met coke prices soften amid cautious buying; policy uncertainty weighs on import purchases. India fastest-growing major economy in intangible investments: Piyush Goyal. Hyundai Motor India Foundation Strengthens Critical Care. Beyond the pills: What India's latest DPCO Amendment could mean for MedTech. Pace Digitek Wins 2 BESS Project Agreements at India Energy Storage Week 2026."
+    },
+    {
+      "title": "Across India",
+      "text": "Turning to the big national stories. Illegals root cause of demographic shifts in border dists: Shah. NEW DELHI: Terming illegal immigration as the root cause of demographic changes in border districts, Union home minister Amit Shah Thursday reiterated Modi govt's resolve to tackle and address such unnatural demographic shifts with a ruthless approach, while declaring that a robust mechanism will be put in place to make the country infiltration-free. PM: From chips to ships, India creating new manufacturig ecosystems. PM Narendra Modi Thursday praised the contribution of Indians living abroad as \"sugar in milk\", saying they make their adopted land sweeter with their presence. Aus to return 2 idols, trident stolen from TN temples. NEW DELHI: Three artefacts of cultural significance - a ceremonial bronze trident of Goddess Bhadrakali, a granite idol of sacred bull Nandi and a basalt sculpture depicting six-headed Karttikeya - originally from temples in Tamil Nadu are set to be repatriated to India from Australia. Workouts not enough,long sitting hours up cancer risk: Study. NEW DELHI: You may faithfully hit the gym every morning, go for a brisk walk or complete your daily yoga session. SC raps AIIMS acting director over 'casual' reply. NEW DELHI: SC Thursday slammed AIIMS' acting director for filing an affidavit instead of an explanation in a matter where the court had ordered a DNA test that was not conducted in time. Modi, Albanese rally for peace amid West Asia flare-up and China missile test. Amid the fresh flare-up in West Asia, PM Narendra Modi and his counterpart Anthony Albanese expressed concern over renewed escalation of tensions and called upon all parties to exercise restraint, de-escalate, and ensure protection of civilians along with uninterrupted flow of energy. Tihar food 'too spicy, oily, deep-fried': US mercenary Matthew Aaron VanDyk seeks chicken, fish, olive oil in court plea. Matthew Aaron VanDyke, arrested by NIA, seeks court permission to prepare his own meals. He claims jail food is too oily and spicy, causing health issues. VanDyke has reportedly lost significant weight since May 6. He requests specific cooking items and food supplies for his dietary needs. India and Australia unlock 'PACTS' to boost defence and tech ties, secure deal for uranium supply. Defence and security, critical technology, supply chain resilience and energy security cooperation - including finalisation of administrative arrangements for long-term supply of uranium to India - topped the agenda of the 3rd India Modi, Albanese adopt new joint declaration to deepen Indo-Australian defence cooperation. NEW DELHI: To strengthen Indo-Australian defence partnership during PM Narendra Modi's visit, India and Australia on Thursday adopted a new joint declaration on defence and security cooperation, committing to significantly deepen military engagement, strengthen defence industrial collaboration and expand maritime security cooperation. Row over Rath Yatra abroad: After Puri royal's latest salvo, ISKCON 'bows out of discussion'. While head of Puri's erstwhile royal family calls plans for Lord Jagannath Rath Yatra 'untimely', ISKCON maintains they are 'as per the shastras'. Think tank CSDS likely to face funding cuts from Centre. After probe, ICSSR 'looks at' suspending its grants which account for 90 percent of CSDS salaries: rupees 5.8 crore in 2024-25. India, Australia ink defence pacts, fast-track trade deal. Step taken to operationalise 2014 nuclear pact, secure uranium supplies to India Rainfall in eastern river basins down 20 percent since 1951: Study on water availability in Indus river system. The findings are relevant in view of India's argument that the Indus Waters Treaty with Pakistan... Minister chairs key wildlife body meetings, reviews over 100 projects for clearance. Second GIB chick born through 'jumpstart' method survives crucial initial phase, says Yadav Besides Hardeep Singh Nijjar, US charges Lawrence Bishnoi for attacks on Salman Khan, Gippy Grewal, Moosewala. \"Acts of violence committed by members and associates of the Bishnoi organised crime group, or OCG, often targeted prominent cultural, political, and business leaders in India and diaspora communities outside of India,\" US DoJ indictment says."
+    },
+    {
+      "title": "Around the world",
+      "text": "And finally, here is what is happening around the world. Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike. Aid worker Mohammed al-Wahidi had become a prominent humanitarian figure during the Israel Democrat Graham Platner suspends campaign for key US Senate race after assault allegation. The decision came days after a woman accused him of sexual assault, an accusation he says is \"categorically false\". Ex-Olympian pleads not guilty to Reflecting Pool vandalism charges. A former US Olympian canoeist denies accusations that he deliberately damaged the lining of the refurbished Lincoln Memorial Reflecting Pool."
+    },
+    {
+      "title": "Sign-off",
+      "text": "That is your briefing. Stay sharp, and have a strong day."
+    }
+  ]
+}
