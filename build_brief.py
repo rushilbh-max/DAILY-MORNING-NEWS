@@ -49,7 +49,8 @@ DEFAULTS = {
     "rate": "+6%",                     # speak a touch faster to fit more news
     "max_sentences_per_item": 4,       # how much of each story to read
     "max_pool_per_section": 40,        # how many candidate stories to gather
-    "feed_window_days": 2,             # Google News "when:" recency window
+    "feed_window_days": 1,             # Google News "when:" recency window
+    "max_age_hours": 36,               # skip feed items older than this (when dated)
     "request_timeout": 20,
     "use_llm": False,                  # overridden by env USE_LLM=1
     "llm_model": "claude-haiku-4-5-20251001",
@@ -82,23 +83,35 @@ def build_feed_plan(days):
         ("Business and markets", "Moving to business, the economy and the markets.", [
             ("Economic Times", "https://economictimes.indiatimes.com/rssfeedstopstories.cms", 3),
             ("Livemint Markets", "https://www.livemint.com/rss/markets", 3),
+            ("Business Standard", "https://www.business-standard.com/rss/markets-106.rss", 3),
+            ("Moneycontrol", "https://www.moneycontrol.com/rss/business.xml", 2),
             ("The Hindu Business", "https://www.thehindu.com/business/feeder/default.rss", 2),
             ("Livemint Industry", "https://www.livemint.com/rss/industry", 2),
+            ("Business Standard", "https://www.business-standard.com/rss/companies-101.rss", 2),
             ("Indian Express", "https://indianexpress.com/section/business/feed/", 1),
             ("BBC Business", "https://feeds.bbci.co.uk/news/business/rss.xml", 1),
         ]),
         ("Money, tax and personal finance", "Now to your money — taxes, savings and personal finance.", [
             ("ET Wealth", "https://economictimes.indiatimes.com/wealth/rssfeeds/837555174.cms", 3),
             ("Livemint Money", "https://www.livemint.com/rss/money", 3),
+            ("Moneycontrol", "https://www.moneycontrol.com/rss/personal-finance.xml", 3),
+            ("Business Standard", "https://www.business-standard.com/rss/finance-103.rss", 2),
             ("Tax & GST", gnews("(GST OR \"income tax\" OR taxation OR ITR) India", days), 2),
             ("Financial Express Money", "https://www.financialexpress.com/money/feed/", 2),
+            ("Moneycontrol Tax", gnews("(\"income tax\" OR GST OR \"tax return\") India", days), 1),
         ]),
         ("Science and technology", "Next, science and technology.", [
             ("Livemint Tech", "https://www.livemint.com/rss/technology", 3),
+            ("The Verge", "https://www.theverge.com/rss/index.xml", 3),
+            ("TechCrunch", "https://techcrunch.com/feed/", 3),
+            ("ScienceDaily", "https://www.sciencedaily.com/rss/all.xml", 3),
             ("The Hindu Sci-Tech", "https://www.thehindu.com/sci-tech/feeder/default.rss", 2),
-            ("Livemint Science", "https://www.livemint.com/rss/science", 2),
+            ("Gadgets 360", "https://www.gadgets360.com/rss/feeds", 2),
             ("BBC Science", "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml", 2),
-            ("Ars Technica", "https://feeds.arstechnica.com/arstechnica/index", 1),
+            ("Livemint Science", "https://www.livemint.com/rss/science", 2),
+            ("Ars Technica", "https://feeds.arstechnica.com/arstechnica/index", 2),
+            ("SciTechDaily", "https://scitechdaily.com/feed/", 1),
+            ("Engadget", "https://www.engadget.com/rss.xml", 1),
             ("Space & ISRO", gnews("(ISRO OR space OR research OR discovery) India", days), 1),
         ]),
         ("Development and policy", "Now to development, infrastructure and government policy.", [
@@ -214,16 +227,37 @@ def fetch_feed(url, timeout):
 def gather_section(name, sources, cfg):
     """Return a ranked, de-duplicated list of story dicts for one section.
     A source may carry an optional 4th element: a regex the story link must match
-    (used to keep an all-stories feed local to Madhya Pradesh)."""
+    (used to keep an all-stories feed local to Madhya Pradesh).
+    Feeds are fetched concurrently — the section list is long now."""
     items = []
-    for src in sources:
+    with ThreadPoolExecutor(max_workers=8) as ex:
+        futures = {ex.submit(fetch_feed, src[1], cfg["request_timeout"]): src for src in sources}
+        fetched = []
+        for fut in as_completed(futures):
+            fetched.append((futures[fut], fut.result()))
+    # keep the configured source order so weights/ranks stay deterministic
+    order = {id(s): i for i, s in enumerate(sources)}
+    fetched.sort(key=lambda p: order[id(p[0])])
+
+    for src, feed in fetched:
         label, url, weight = src[0], src[1], src[2]
         link_filter = src[3] if len(src) > 3 else None
         is_gnews = "news.google.com" in url
-        feed = fetch_feed(url, cfg["request_timeout"])
         if not feed or not getattr(feed, "entries", None):
             continue
         for rank, e in enumerate(feed.entries[: cfg["max_pool_per_section"]]):
+            # skip stale items when the feed supplies a date
+            max_age = cfg.get("max_age_hours", 0)
+            if max_age:
+                tstruct = getattr(e, "published_parsed", None) or getattr(e, "updated_parsed", None)
+                if tstruct:
+                    try:
+                        age_h = (dt.datetime.now(dt.timezone.utc)
+                                 - dt.datetime(*tstruct[:6], tzinfo=dt.timezone.utc)).total_seconds() / 3600
+                        if age_h > max_age:
+                            continue
+                    except Exception:
+                        pass
             link = getattr(e, "link", "")
             if link_filter and not re.search(link_filter, link, re.I):
                 continue
@@ -280,6 +314,43 @@ def dedupe(items, seen_keys):
             continue
         seen_keys.add(k)
         seen_token_sets.append(toks)
+        out.append(it)
+    return out
+
+# --------------------------------------------------------------------------- #
+# Broadcast history — never read the same story on two mornings                #
+# --------------------------------------------------------------------------- #
+
+HISTORY_DAYS = 10            # remember stories aired in the last N days
+
+def load_history(path, today):
+    """Return (set_of_recent_keys, pruned_history_dict)."""
+    hist = {}
+    if path.exists():
+        try:
+            hist = json.loads(path.read_text())
+        except Exception:
+            hist = {}
+    cutoff = (dt.date.fromisoformat(today) - dt.timedelta(days=HISTORY_DAYS)).isoformat()
+    hist = {d: k for d, k in hist.items() if d >= cutoff and d != today}
+    seen = {k for keys in hist.values() for k in keys}
+    return seen, hist
+
+def save_history(path, hist, today, sections):
+    hist[today] = sorted({it["key"] for s in sections for it in s["items"] if it.get("key")})
+    path.write_text(json.dumps(hist, sort_keys=True))
+
+def drop_already_aired(items, aired_keys, aired_tokens):
+    """Remove stories broadcast on a previous morning (exact match, or a very close
+    near-duplicate — the bar is deliberately high so genuine follow-up stories survive)."""
+    out = []
+    for it in items:
+        k = it.get("key", "")
+        if not k or k in aired_keys:
+            continue
+        toks = _content_tokens(k)
+        if toks and any(len(toks & s) / len(toks | s) >= 0.75 for s in aired_tokens if (toks | s)):
+            continue
         out.append(it)
     return out
 
@@ -524,14 +595,24 @@ def main():
         except Exception:
             pass
 
+    # stories already read out on a previous morning are excluded entirely
+    hist_path = EPISODES_DIR / "history.json"
+    EPISODES_DIR.mkdir(exist_ok=True)
+    aired_keys, hist = load_history(hist_path, date_str)
+    aired_tokens = [_content_tokens(k) for k in aired_keys]
+    aired_tokens = [t for t in aired_tokens if t]
+    if aired_keys:
+        print(f"   {len(aired_keys)} stories from the last {HISTORY_DAYS} days will be skipped")
+
     plan = build_feed_plan(cfg["feed_window_days"])
     seen = set()
     plan_results = []
     for name, intro, sources in plan:
         print(f"-> {name}")
-        items = dedupe(gather_section(name, sources, cfg), seen)
+        raw = dedupe(gather_section(name, sources, cfg), seen)
+        items = drop_already_aired(raw, aired_keys, aired_tokens)
         plan_results.append((name, intro, items))
-        print(f"   {len(items)} unique stories")
+        print(f"   {len(items)} new stories ({len(raw) - len(items)} already aired)")
 
     sections = assemble(plan_results, cfg)
     if not sections:
@@ -540,6 +621,7 @@ def main():
 
     enrich_summaries(sections, cfg)
     trim_to_budget(sections, int(cfg["target_minutes"] * cfg["words_per_minute"] * 1.06))
+    save_history(hist_path, hist, date_str, sections)   # remember what aired today
     for s in sections:
         s["text"] = render_text(s)
 
