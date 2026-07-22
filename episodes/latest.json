@@ -1,12 +1,12 @@
 {
-  "date": "2026-07-21",
-  "dateline": "Tuesday, July 21",
+  "date": "2026-07-22",
+  "dateline": "Wednesday, July 22",
   "title": "Grace Bath World — Morning Brief",
-  "audio": "episodes/2026-07-21.mp3",
-  "duration_sec": 2922.9,
-  "est_minutes": 47.9,
-  "word_count": 6123,
-  "generated_utc": "2026-07-21T00:08:00Z",
+  "audio": "episodes/2026-07-22.mp3",
+  "duration_sec": 2873.0,
+  "est_minutes": 47.8,
+  "word_count": 6059,
+  "generated_utc": "2026-07-22T00:04:40Z",
   "chapters": [
     {
       "title": "Opening",
@@ -14,39 +14,39 @@
     },
     {
       "title": "Top headlines",
-      "start": 22.4
+      "start": 22.5
     },
     {
       "title": "Bhopal and Madhya Pradesh",
-      "start": 374.9
+      "start": 349.3
     },
     {
       "title": "Business and markets",
-      "start": 569.8
+      "start": 501.0
     },
     {
       "title": "Money, tax and personal finance",
-      "start": 1181.5
+      "start": 1034.4
     },
     {
       "title": "Science and technology",
-      "start": 1825.1
+      "start": 1787.5
     },
     {
       "title": "Development and policy",
-      "start": 2409.0
+      "start": 2389.7
     },
     {
       "title": "Across India",
-      "start": 2490.9
+      "start": 2467.1
     },
     {
       "title": "Around the world",
-      "start": 2863.5
+      "start": 2826.8
     },
     {
       "title": "Sign-off",
-      "start": 2917.7
+      "start": 2867.8
     }
   ],
   "sections": [
@@ -54,51 +54,47 @@
       "title": "Top headlines",
       "items": [
         {
-          "title": "Trump imposes 50 percent tariffs on most Canadian goods, cites trade disputes",
+          "title": "'Government had no interest in debate': Rahul on why Cong protested outside PM's residence",
           "source": "Times of India"
         },
         {
-          "title": "'They will pay many times over': Trump as US carries out 10th night of Iran strikes",
+          "title": "Were Argentina under more pressure than usual? Messi's pep talks fuel theories – Watch",
           "source": "Times of India"
         },
         {
-          "title": "Messi suffers unwanted first in FIFA World Cup final as Spain silence Argentina icon",
+          "title": "'Open to both genders': 5,500 apply for Ram Temple Trust CEO post",
           "source": "Times of India"
         },
         {
-          "title": "Day 1 of Parliament's monsoon session washed out amid NEET, donation chori protests",
+          "title": "Europe's biggest tech firm is offering employees $20K-plus bonus if they stay until 2030",
           "source": "Times of India"
         },
         {
-          "title": "Engineers building Solar panels are using exact replicas of honeycombs made by Bees to ensure ",
+          "title": "France passes law banning social media for children under 15",
           "source": "Times of India"
         },
         {
-          "title": "Andy Burnham pledges to end rough sleeping in Britain in his first speech as new UK PM",
+          "title": "Jeff Bezos on returning to work after retirement: I just couldn't sit on sidelines",
           "source": "Times of India"
         },
         {
-          "title": "Indus Water Treaty in present form no longer exists, Pak aiding terrorism: India",
+          "title": "Sikkim tunnel collapse: 20 bodies recovered from site, state govt order SIT probe",
           "source": "Times of India"
         },
         {
-          "title": "Defence ministry seeks firms for rupees 15,000 cr high-altitude airship project",
+          "title": "Sydney mass shooting: Bondi's Indian hero gets Australian residency",
           "source": "Times of India"
         },
         {
-          "title": "Florida returned 500,000 oyster shells to Gulf, creating new reef habitat",
+          "title": "Bill Koch's Aspen estate once asked $125m, now poised to sell for $33.5m",
           "source": "Times of India"
         },
         {
-          "title": "Big Bear's famous eagle chicks need $10M habitat rescue by July 31",
+          "title": "Aquarium fish escapes into crater lake, scientists fear biodiversity risk",
           "source": "Times of India"
         },
         {
-          "title": "Vacant for decades? Why the government can't simply take over abandoned properties",
-          "source": "Times of India"
-        },
-        {
-          "title": "Supreme Court seeks more exclusive UAPA, NDPS courts to speed up trials",
+          "title": "US mosquito spraying backfires as insects evolve resistance across 84 percent blocks",
           "source": "Times of India"
         }
       ]
@@ -107,83 +103,75 @@
       "title": "Bhopal and Madhya Pradesh",
       "items": [
         {
-          "title": "CM Mohan Yadav Asks Police To Stay Alert On Farmers' Issues, Student Protests; Announces 9,000 Recruitments",
+          "title": "Ease Of Doing Business Secretariat To Come Up, Department Officers To Be Delegated",
           "source": "Free Press Journal"
         },
         {
-          "title": "MP Government Tables Medical University Amendment Bill Among 14 Bills In Assembly",
+          "title": "MP Assembly Passes Fire Safety Bill: Fines Up To rupees 5 Lakh For Norm Violations",
           "source": "Free Press Journal"
         },
         {
-          "title": "Encroachments, E-Rickshaws Slow Bhopal's First Electric Bus Trial",
+          "title": "Labour Reforms: Assembly Passes MP Code On Empowering Work Spaces Bill",
           "source": "Free Press Journal"
         },
         {
-          "title": "Doctor Alleges rupees 20 Lakh Extortion Threatened With False Rape Case In Bhopal",
+          "title": "Can Pune beat the heat? NIT Bhopal gets Rs2.1 crore project to find way out",
+          "source": "Local"
+        },
+        {
+          "title": "Madhya Pradesh Assembly passes UCC Bill amid Congress sloganeering",
+          "source": "Local"
+        },
+        {
+          "title": "MP High Court Orders Immediate Free Treatment For Indore Gas Blast Victims",
           "source": "Free Press Journal"
         },
         {
-          "title": "Farmers, Karni Sena Stopped On Way To Bhopal Over Ring Road Compensation Demand",
-          "source": "Free Press Journal"
-        },
-        {
-          "title": "A journey of hope and transformation for women and children in Madhya Pradesh",
+          "title": "This MP Family Preserves Giant Noorjahan Mangoes That Sell for Up to rupees 1500 Each",
           "source": "Local"
         },
         {
-          "title": "SC gives Centre 4-weeks to confer gallantry award on former Madhya Pradesh cop",
+          "title": "Around 40 school buses found flouting safety norms in 10-day Bhopal traffic police drive",
           "source": "Local"
         },
         {
-          "title": "19-Year-Old Arrested For Uncle's Murder In Indore; Property Dispute, Drug Addiction Suspected",
-          "source": "Free Press Journal"
-        },
-        {
-          "title": "Rain, lighting alert for Bhopal till July 23",
+          "title": "Man shoots self over loan recovery, in hosp",
           "source": "Local"
         },
         {
-          "title": "Madhya Pradesh Assembly Introduces Uniform Civil Code Bill, 2026",
+          "title": "60mm rain cools city, more likely",
           "source": "Local"
         },
         {
-          "title": "38 Years Later, High Court Awards Relief For 200 Trees",
-          "source": "Free Press Journal"
-        },
-        {
-          "title": "Confusing signboards add to mounting Metro traffic woes",
+          "title": "Tragic boat capsizes at Bargi Dam during evening storm in Madhya Pradesh",
           "source": "Local"
         },
         {
-          "title": "Bhopal Police to hold 'Run For Life' marathon against drug abuse",
+          "title": "Metro steps in where PWD did not, flood fears remain",
           "source": "Local"
         },
         {
-          "title": "NGT asks for identification, demarcation of buffer zone at Shahpura Lake",
+          "title": "Madhya Pradesh pole vaulter Kuldeep Kumar breaks national record at Bhubaneswar",
           "source": "Local"
         },
         {
-          "title": "Man killed in hit-and-run",
+          "title": "Gold Rate Today in Bhopal 21st July 2026 : 22 and 24 Carat, Gold Price in Bhopal",
           "source": "Local"
         },
         {
-          "title": "Government assures upgrade of Maha's MP Bhavan for Warkaris from state",
+          "title": "Madhya Pradesh Passes Uniform Civil Code Bill, Becomes Fourth State In Country To Do So",
           "source": "Local"
         },
         {
-          "title": "Tractor rally towards Bhopal: Water cannon, tear gas used against protesting farmers",
+          "title": "Kranti Gaud honored at SAI CRC Bhopal for cricket achievements",
           "source": "Local"
         },
         {
-          "title": "Sandipani schools to be inaugurated before Guru Purnima: CM",
+          "title": "Bhopal's Orange Line Metro Services To Expand To 20 Trips Daily Following Signalling Upgrade",
           "source": "Local"
         },
         {
-          "title": "Bill proposing varsity courses from high-rises introduced in Assembly",
-          "source": "Local"
-        },
-        {
-          "title": "Madhya Pradesh cabinet approves Uniform Civil Code",
+          "title": "Monsoon revives across Madhya Pradesh, over 30 districts get widespread rain",
           "source": "Local"
         }
       ]
@@ -192,119 +180,111 @@
       "title": "Business and markets",
       "items": [
         {
-          "title": "India's demat boom hits a trading slowdown as retail investors step away",
+          "title": "Stocks jump with chipmakers; oil rises to 5-week high",
           "source": "Livemint Markets"
         },
         {
-          "title": "Paytm Q1 Results: Net profit jumps 79 percent , revenue up 28 percent ; board opts not to proceed with bonus shares",
+          "title": "CME feeder cattle futures slump on hot weather, grain prices",
           "source": "Livemint Markets"
         },
         {
-          "title": "BlueStone Jewellery shares to be in focus on Tuesday as company turns profitable in Q1, revenue jumps 49 percent",
+          "title": "Dollar advances as oil prices rise after latest US-Iran strikes, Houthi blockade",
           "source": "Livemint Markets"
         },
         {
-          "title": "Gold, silver prices today: Comex gold and silver trade steady as geopolitical tensions fuel rate worries",
+          "title": "Gold, silver prices today: Comex gold jumps $73, silver gains $2.55 as traders assess US-Iran peace efforts",
           "source": "Livemint Markets"
         },
         {
-          "title": "Wall Street: S and P 500, Nasdaq rebound as chipmakers recover, investors brace for big tech earnings",
+          "title": "Servotech Renewable Power System Q1 Results: PAT jumps 75 percent YoY; revenue up 58 percent",
           "source": "Livemint Markets"
         },
         {
-          "title": "US stocks to buy for short term: From Nvidia to Netflix- Appreciate CEO suggests picking these 5 shares",
+          "title": "IBM shares extend losing streak, plunge 26 percent in five sessions after sales miss",
           "source": "Livemint Markets"
         },
         {
-          "title": "Suzlon Energy board to consider Q1FY27 results on July 28; shares down 10 percent in July",
+          "title": "Treasury Yields Hit Two-Month High as Oil Sparks Inflation Risk",
           "source": "Livemint Markets"
         },
         {
-          "title": "Expert view: Overweight on diversified financials, automobiles, new age tech firms, says Nandish Shah of Motilal Oswal",
+          "title": "Sebi tweaks SIF certification exam, removes currency derivatives questions",
           "source": "Livemint Markets"
         },
         {
-          "title": "Iran-US deal: Mediators propose 10-day ceasefire",
+          "title": "SC scraps Kerala HC order on Waqf Board",
           "source": "Economic Times"
         },
         {
-          "title": "US stock market today: Wall Street futures gain as easing oil prices offset lingering Middle East tensions",
+          "title": "Caliber Mining and Logistics IPO: Issue booked 154 times on Day 03; NII, QIB portions see strong demand",
           "source": "Livemint Markets"
         },
         {
-          "title": "Banks draw thinner margins on tepid credit growth",
+          "title": "Parl panel reviews disability quota data",
           "source": "Economic Times"
         },
         {
-          "title": "Aastha Spintex sets board meeting date to consider and approve 1:1 bonus shares, 100 percent final dividend",
+          "title": "Biotech IPO Gains Crush AI Listings With Standout 55 percent Return",
           "source": "Livemint Markets"
         },
         {
-          "title": "Godrej Agrovet bets big on oil palm push",
+          "title": "Pernod drops plea in $314 million India tax case",
           "source": "Economic Times"
         },
         {
-          "title": "Sobha Q1 Results: Revenue rises 50 percent , profit more than triples as margins improve",
+          "title": "Saudi Crude Flow From Red Sea Hit Record Before Houthi Warning",
           "source": "Livemint Markets"
         },
         {
-          "title": "CJP protest: More than 50 cops injured in clashes",
+          "title": "El Nino threat clouds tractor sales outlook",
           "source": "Economic Times"
         },
         {
-          "title": "Top Gainers and Losers on 20 July: Axis Bank, HDFC Bank, Ceat, India Cements, OLA, HFCL among top losers",
+          "title": "US stock market today: S and P 500, Nasdaq futures rise up to 1.4 percent as chip stocks rebound after last week's rout",
           "source": "Livemint Markets"
         },
         {
-          "title": "Judge halts Paramount–Warner Bros deal",
+          "title": "Innovation to power Glenmark Pharma's next phase",
           "source": "Economic Times"
         },
         {
-          "title": "Indian Overseas Bank share price rise 3 percent after Q1 results 2026. Do you own?",
+          "title": "SBI has no plans for further stake sale in SBI Funds after IPO: chairman Setty",
           "source": "Livemint Markets"
         },
         {
-          "title": "27 trapped in Sikkim tunnel landslide",
+          "title": "Ready, Set, IndiGo: Succession plan takes wing",
           "source": "Economic Times"
         },
         {
-          "title": "No proposal under consideration to scrap LTCG tax on equities, government clarifies",
+          "title": "Lohia Corp IPO: 10 key things investors should know before subscribing to rupees 1,101.28 crore public issue; check GMP",
           "source": "Livemint Markets"
         },
         {
-          "title": "Bengali mandatory in Government offices from Sept 1",
+          "title": "Shilpa Shetty-backed Bastian eyes fresh capital",
           "source": "Economic Times"
         },
         {
-          "title": "ISM 2.0: Can semiconductor stocks become India's next long-term wealth creators?",
+          "title": "Oil Swings as Traders Weigh Slew of Risks From Hormuz to Red Sea",
           "source": "Livemint Markets"
         },
         {
-          "title": "Bangladesh Army Chief in Turkiye for defence push",
+          "title": "View gets brighter at FCNR(B) window",
           "source": "Economic Times"
         },
         {
-          "title": "PNB shares jump 5.5 percent to 2-month high after Q1 profit more than triples; brokerages turn bullish",
+          "title": "Top Gainers and Losers on July 21: Karur Vysya Bank, TVS Motor, Zen Tech, Meesho, Thermax among top gainers today",
           "source": "Livemint Markets"
         },
         {
-          "title": "'Indus Water Treaty needs full renegotiation'",
+          "title": "Bira 91 chief Ankur Jain quits board in settlement",
           "source": "Economic Times"
         },
         {
-          "title": "UltraTech Cement Q1 Results: Net profit jumps 17 percent YoY to rupees 2,599 crore",
+          "title": "Sensex drops 238 points, Nifty 50 ends at 24,188. What drove the market down today?",
           "source": "Livemint Markets"
         },
         {
-          "title": "Trump threatens Iran with heavy reprisals",
-          "source": "Economic Times"
-        },
-        {
-          "title": "Axis Bank share price dips over 6 percent after Q1FY27 results",
-          "source": "Livemint Markets"
-        },
-        {
-          "title": "US may ban Chinese AI models: Axios",
+          "title": "Subsidy deadline may be extended for e2w",
           "source": "Economic Times"
         }
       ]
@@ -313,112 +293,112 @@
       "title": "Money, tax and personal finance",
       "items": [
         {
-          "title": "Did F and O or intraday trading last year? Your ITR filing due date isn't July 31",
+          "title": "Income-tax return: Here's a checklist of required documents for smooth ITR filing process",
           "source": "Livemint Money"
         },
         {
-          "title": "EPFO 3.0: Government plans new pension scheme for formal and unorganised sector workers, claims report explaining how it will work",
+          "title": "INR exchange rate while filing ITR to report foreign assets: Use this reference rate to convert foreign currency into INR as prescribed under income tax rules",
           "source": "ET Wealth"
         },
         {
-          "title": "Claiming a deceased family member's mutual funds made less cumbersome: What SEBI has changed",
+          "title": "EPFO: Here's how to retrieve your forgotten UAN using the official portal and Umang app , Stepwise guide",
           "source": "Livemint Money"
         },
         {
-          "title": "How NRIs, OCIs can get 45 percent annual return on $1 lakh FCNR (B) deposit as this bank in India offers 19X leverage; Should you go for it?",
+          "title": "8th Pay Commission salary calculator: Why Level 11-18 employees may see just 68 percent gross salary hike even at 2.57 fitment factor",
           "source": "ET Wealth"
         },
         {
-          "title": "Aadhaar app crosses 4 crore downloads: Full list of services available on the new app",
+          "title": "Only 4 value mutual funds delivered double-digit returns in one year. Here's why experts aren't worried",
           "source": "Livemint Money"
         },
         {
-          "title": "Buying gold? This simple COMEX calculation can tell if you are being overcharged",
+          "title": "ITR filing: Got Section 143(1) intimation after filing your income tax return? Here's what it means",
+          "source": "ET Wealth"
+        },
+        {
+          "title": "8th pay commission: Discussions ongoing, check full list of beneficiaries for pay hikes, allowances, other benefits",
           "source": "Livemint Money"
         },
         {
-          "title": "8th Pay Commission salary hike: Will 2.0 fitment factor increase gross salary by just 31 percent ? Check pay calculator",
+          "title": "ITR filing 2026: CBDT takes these steps to prevent portal glitches before July 31 deadline",
           "source": "ET Wealth"
         },
         {
-          "title": "HDFC Balanced Advantage Fund versus Parag Parikh Dynamic Asset Allocation: Same category, but equity exposure 71 percent versus 15 percent",
+          "title": "DA, DR hike: Dearness allowance for pensioners , Dearness Relief calculation, eligibility explained",
           "source": "Livemint Money"
         },
         {
-          "title": "EPS rules explained: Eligibility, withdrawal and pension",
+          "title": "Should I sell gold to buy a second home, or is it better to pledge it?",
+          "source": "ET Wealth"
+        },
+        {
+          "title": "Newly married couples: 8 health insurance mistakes to avoid",
           "source": "Livemint Money"
         },
         {
-          "title": "Job switch leads to rupees 1.69 lakh tax liability despite both employers deducting TDS correctly: Here's why Form 12B matters",
+          "title": "Retired PSU employee faces rupees 2 lakh tax demand over Form 16 omission; ITAT Pune grants relief",
           "source": "Livemint Money"
         },
         {
-          "title": "ITR filing 2026: Step-by-step guide to filing ITR-1 for AY 2026-27 before the July 31 deadline",
+          "title": "5 critical checks before buying health insurance policy to avoid claim rejections",
           "source": "ET Wealth"
         },
         {
-          "title": "How to lock and unlock your fingerprints and iris using new Aadhaar App",
+          "title": "ITR Filing 2026: CBDT upgrades income tax portal before July 31 deadline, Key changes explained",
           "source": "Livemint Money"
         },
         {
-          "title": "7 big income tax changes for 2026-27 that may reduce penalties for small mistakes",
+          "title": "8th Pay Commission salary hike: How much can Level 1 and 2 employees' gross salary rise at 2.0, 2.38 and 2.57 fitment factors?",
           "source": "ET Wealth"
         },
         {
-          "title": "The NRI guilt trap: why high salaries abroad don't always create wealth",
+          "title": "Can cooperative insurance become India's next financial inclusion story?",
           "source": "Livemint Money"
         },
         {
-          "title": "The coaching race is costing parents lakhs. Here's how to plan",
+          "title": "rupees 1 lakh investment turns into rupees 3.57 lakh in gold bonds: SGB 2019-20 Series premature redemption date today, check if you need to pay capital gains tax",
+          "source": "ET Wealth"
+        },
+        {
+          "title": "Can the government impose taxes without a law? What Article 265 says",
           "source": "Livemint Money"
         },
         {
-          "title": "rupees 1 lakh Investment turns into rupees 2.98 lakh: Sovereign Gold Bond 2021-22 Series premature redemption date today",
+          "title": "ESOPs, Crypto and two other disclosures you must make in Schedule FA of the ITR for AY 2026-2027",
           "source": "ET Wealth"
         },
         {
-          "title": "National Student Laptop Scheme 2026 is fake: PIB Fact Check reiterates warning against viral WhatsApp message",
+          "title": "Cable and DTH charges to rise 4-6 times? PIB Fact Check reveals the truth",
           "source": "Livemint Money"
         },
         {
-          "title": "ITR-4 or ITR-3? Know which ITR form to file under presumptive taxation scheme and the documents required",
-          "source": "ET Wealth"
-        },
-        {
-          "title": "Hotels can't add a service charge to your bill without informing you: CCPA acts against 41 restaurants",
+          "title": "SGB 2019-20 Series VIII redemption opens today: Check payout, eligibility and tax rules",
           "source": "Livemint Money"
         },
         {
-          "title": "Salary has to be paid before 7th day of the succeeding month under new labour code; Know what else the new labour code says about salary timeline",
+          "title": "GIFT City investments and Schedule FA reporting: why taxpayers are seeking greater clarity",
+          "source": "Livemint Money"
+        },
+        {
+          "title": "NRO FD interest rates: Earn up to 6.75 percent , SBI, HDFC Bank, PNB, ICICI Bank or Axis Bank, which offers the best rate for NRIs?",
           "source": "ET Wealth"
         },
         {
-          "title": "EPF interest rate: 8.25 percent interest credited? Here's how to check your PF balance",
+          "title": "EPS-95 pension hike: Will Centre raise minimum pension from rupees 1,000 to rupees 7,500?",
+          "source": "Livemint Money"
+        },
+        {
+          "title": "Filing ITR this year? Don't miss these 10 major changes in ITR forms",
           "source": "ET Wealth"
         },
         {
-          "title": "The Future of Insurance in India Sarbvir Singh, Joint Group CEO, PB Fintech",
-          "source": "ET Wealth"
+          "title": "New labour code: Salary must be paid by 7th of next month. What employees should know",
+          "source": "Livemint Money"
         },
         {
-          "title": "Gift tax rules: Cash, property, jewellery and shares; Here's when you'll pay tax and report it in your ITR",
-          "source": "ET Wealth"
-        },
-        {
-          "title": "7 things to know about a retirement income tool that most Indians overlook and it's not for retirees only!",
-          "source": "ET Wealth"
-        },
-        {
-          "title": "Government notifies new Income Tax Rules 2026 for stricter compliance",
-          "source": "Tax & GST"
-        },
-        {
-          "title": "Opinion: GST on laptops is a tax on education",
-          "source": "Tax & GST"
-        },
-        {
-          "title": "Income Tax Slab for Senior Citizens Above 60 Years for AY 2026-27: With Deductions, Rebates and Examples",
-          "source": "Tax & GST"
+          "title": "LTCG and STCG: Key tax rules for equity shares and mutual fund investors in FY 2025-26",
+          "source": "Livemint Money"
         }
       ]
     },
@@ -426,107 +406,107 @@
       "title": "Science and technology",
       "items": [
         {
-          "title": "Here are the 30,000 songs Sony is suing Udio's AI music generator over",
+          "title": "Neill Blomkamp's new zombie AI 'film' is just slop warmed over",
           "source": "The Verge"
         },
         {
-          "title": "Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation",
+          "title": "Meta is testing an AI bedtime story app for people with no imagination",
           "source": "TechCrunch"
         },
         {
-          "title": "Some dinosaurs could rise like giants until they grew too big",
+          "title": "Scientists found mystery bacteria inside one of the ocean's most elusive whales",
           "source": "ScienceDaily"
         },
         {
-          "title": "The FCC is planning to retroactively ban disguised DJI gadgets",
+          "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
           "source": "The Verge"
         },
         {
-          "title": "Trump's latest AI czar has already resigned",
+          "title": "These are the countries moving to ban social media for children",
           "source": "TechCrunch"
         },
         {
-          "title": "The Odyssey turned me into an IMAX believer",
-          "source": "The Verge"
-        },
-        {
-          "title": "Google is working on a new AI chip designed to make Gemini more efficient",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "An ordinary laptop solved a problem thought to require a quantum computer",
+          "title": "Ancient DNA reveals a chilling secret at China's 4,000-year-old Shimao city",
           "source": "ScienceDaily"
         },
         {
-          "title": "SpaceX in your index fund, explained",
+          "title": "Substack adds an AI detector to help spot blogs written by no one",
           "source": "The Verge"
         },
         {
-          "title": "AI's most important protocol is getting a little bit easier to use",
+          "title": "OpenAI says Hugging Face was breached by its own pre-release models",
           "source": "TechCrunch"
         },
         {
-          "title": "Earth's waters are quietly running out of oxygen, scientists warn",
+          "title": "Astronomers find the first atmosphere on a rocky world in the habitable zone",
           "source": "ScienceDaily"
         },
         {
-          "title": "Get Borderlands 3, Risk of Rain 2 and 13 other great PC games for $15",
+          "title": "Meta to alert parents if teens show signs of distress while chatting with its AI",
+          "source": "Livemint Tech"
+        },
+        {
+          "title": "Peak Design's modular Field Bracket has a finder tag built-in",
           "source": "The Verge"
         },
         {
-          "title": "X relaunches a rebuilt Android app after year-long effort",
+          "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
           "source": "TechCrunch"
         },
         {
-          "title": "Alzheimer's breakthrough: Scientists restore two hours of sleep without clearing brain plaques",
+          "title": "Watching too much TV in midlife may shrink the brain",
           "source": "ScienceDaily"
         },
         {
-          "title": "The PlayStation replica ornament is an homage to a great, yet fragile console",
+          "title": "Indian startup unveils AI-powered virtual clothes try-on app, set to debut next month",
+          "source": "Livemint Tech"
+        },
+        {
+          "title": "Nearly every Kindle is steeply discounted at Best Buy",
           "source": "The Verge"
         },
         {
-          "title": "OpenAI is scared of open-weight models. Should the US be?",
+          "title": "AI and the rise of the universal entertainment app",
           "source": "TechCrunch"
         },
         {
-          "title": "Ford's $30,000 electric truck: all the news about the company's big EV re-do",
-          "source": "The Verge"
-        },
-        {
-          "title": "Natural raises $30M to reinvent payments for AI agents , and take on Stripe",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "UCLA scientists develop mineral sunscreen without the chalky white cast",
+          "title": "A hidden \"switch-off\" signal could predict solar storms seven years early",
           "source": "ScienceDaily"
         },
         {
-          "title": "Judge pauses Paramount's attempt to buy Warner Bros. Discovery",
+          "title": "Samsung launches Back to School offers with discounts on Galaxy S26, Book6 Pro and more",
+          "source": "Livemint Tech"
+        },
+        {
+          "title": "Apple's rumored 'Upgrade' program brings lease-to-own pricing for iPhones, Macs, and iPads",
           "source": "The Verge"
         },
         {
-          "title": "Judge pauses $110B Paramount-Warner Bros. merger",
+          "title": "Bucking EV slowdown, Sila raises $300M to expand battery materials factory",
           "source": "TechCrunch"
         },
         {
-          "title": "LG's glossy OLED gaming monitor is rare to find under $400",
+          "title": "New molecular map reveals how the flu virus hijacks human cells",
+          "source": "ScienceDaily"
+        },
+        {
+          "title": "Exclusive-US, China to hold AI talks in September, sources say",
+          "source": "Livemint Tech"
+        },
+        {
+          "title": "Twitch will let parents stop their teens going live",
           "source": "The Verge"
         },
         {
-          "title": "Adobe camera app's new feature will critique your photos using AI",
+          "title": "Einride bets $38M on EV charging as it scales electric trucking",
           "source": "TechCrunch"
         },
         {
-          "title": "LG's monitors come with an unwanted addition for Windows: McAfee pop-up ads",
+          "title": "Anthropic's $1.5 billion book piracy settlement approved by judge",
           "source": "The Verge"
         },
         {
-          "title": "Hackers are exploiting recently patched WordPress bugs, putting millions of websites at risk",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "YouTube clarifies policies around AI slop and upsetting videos",
+          "title": "Apple teams up with Klarna to launch a lease-to-own program for iPhones, iPads, and Macs",
           "source": "TechCrunch"
         }
       ]
@@ -535,47 +515,47 @@
       "title": "Development and policy",
       "items": [
         {
-          "title": "Tourism and infrastructure threaten habitat of India's Himalayan salamanders",
+          "title": "India's economic outlook July 2026",
           "source": "Policy"
         },
         {
-          "title": "India-Seychelles Relations: Exploring Blue Economy Opportunities",
+          "title": "India tunnel collapse at a hydropower project kills 10 as 17 remain missing",
           "source": "Policy"
         },
         {
-          "title": "\"I think the water is a little overdone... the actual water requirements are really not that high\" says Kuldeep Jain, MD of CleanMax Enviro Energy Solutions, on why power, not water or land, is the biggest constraint for AI data centres. Speaking to Mangalam Mal",
+          "title": "Cybersecurity Preparedness in India's Expanding Digital Economy",
           "source": "Policy"
         },
         {
-          "title": "BJP describes govt's E20 as one of India's biggest public policy successes",
+          "title": "DW News. . At least 10 people were killed after a blast at a hydroelectric project in India's Sikkim state. More than two dozen remain trapped after a suspected gas explosion collapsed a tunnel. Toxic fumes have hampered rescue efforts, with authorities warnin",
           "source": "Policy"
         },
         {
-          "title": "India's infrastructure output rises 5 percent y/y in June under new series",
+          "title": "Why Strategic Persuasion is an Imperative for India",
           "source": "Policy"
         },
         {
-          "title": "Egis appoints Vipul Surana as Chief Executive Officer for India",
+          "title": "Explosion in Indian hydropower project tunnel leaves 11 dead and 14 missing",
           "source": "Policy"
         },
         {
-          "title": "'Will not be functional in present form': India firm on Indus Waters Treaty until Pakistan ends cross-border terrorism",
+          "title": "Private Job Employees Big News EPFO New Scheme 2026 Pension Boost",
           "source": "Policy"
         },
         {
-          "title": "India says allegedly leaked nuclear plant files pose no safety risk",
+          "title": "\"India Is Now A Solar Superpower Backed By Skilled Workforce\": UN Climate Chief",
           "source": "Policy"
         },
         {
-          "title": "RITES, MECON sign MoU to jointly pursue infrastructure projects in India and overseas",
+          "title": "From Reflection to Action: A Toolkit for Engaging Men and Boys for Gender Equality",
           "source": "Policy"
         },
         {
-          "title": "How India can build stronger manufacturing economy",
+          "title": "India favours local high-speed technology for Mumbai",
           "source": "Policy"
         },
         {
-          "title": "India's trade policy review at WTO slated for July 21 and 23",
+          "title": "'There Is Zero Accountability': India's 'Cockroaches' Question Modi and a Broken System",
           "source": "Policy"
         }
       ]
@@ -584,79 +564,63 @@
       "title": "Across India",
       "items": [
         {
-          "title": "J and K floods: Lal Chowk flooded, Amarnath yatra stays suspended",
+          "title": "Another SC judge, the 3rd, opts out of hearing Gadling bail plea",
           "source": "Times of India"
         },
         {
-          "title": "NC's Delhi protest draws oppn flak; BJP slams Omar for ignoring floods, PDP asks him to emulate Wangchuk",
+          "title": "Modi government picks a Sikh again to head minorities panel",
           "source": "Times of India"
         },
         {
-          "title": "Global urea prices ease after May spike, fall 40 percent in June",
+          "title": "CJP back at Jantar Mantar, cops break Congress protest at PM house",
           "source": "Times of India"
         },
         {
-          "title": "Delhi violence not spontaneous, says BJP, blames Left",
+          "title": "J and K anti-drug drive: 2,581 drug traffickers held, 1,431kg narcotics seized in 100 days",
           "source": "Times of India"
         },
         {
-          "title": "J and K flood toll climbs to 28 as fresh deaths hit Poonch, Doda; rescuers dig through debris as rain threat persists",
+          "title": "'Government had no interest in debate': Rahul Gandhi on why Congress protested outside PM's residence",
           "source": "Times of India"
         },
         {
-          "title": "\"Modi Government has become extremely arrogant\": Arvind Kejriwal on Lathi-Charge against protesters",
+          "title": "Health minister JP Nadda, MoS Jitendra Singh meet Sonam Wangchuk at Medanta Hospital: Report",
           "source": "Times of India"
         },
         {
-          "title": "'Power does not last forever': Rahul Gandhi's warning to police after tear gas, lathicharge on student protesters",
+          "title": "IED found in J and K's Rajouri, destroyed",
           "source": "Times of India"
         },
         {
-          "title": "CJP march: Police say detained protesters 'not students'; more arrests likely",
+          "title": "Israeli man held with 'narcotics' in Ladakh's Zanskar",
           "source": "Times of India"
         },
         {
-          "title": "India, Moldova discuss UNSC reforms, fight against terror",
+          "title": "'Monsoon Session will be washed out': Congress warns Centre over NEET leak, police action on youth protesters",
+          "source": "Times of India"
+        },
+        {
+          "title": "Government restores WPI linking factor; toll rates on national highways rise marginally",
+          "source": "Times of India"
+        },
+        {
+          "title": "Rahul dragged, Priyanka clings to bus door: Five pictures that defined Congress protest outside PM Modi's residence",
+          "source": "Times of India"
+        },
+        {
+          "title": "Doctor, nurse, CEO, caregiver: We tested how AI imagines gender",
+          "source": "Times of India"
+        },
+        {
+          "title": "Future of youth beyond politics, says PM Modi, calls for 'foolproof' exams",
           "source": "Indian Express"
         },
         {
-          "title": "Fake snakebite deaths, forged autopsies: Chhattisgarh probe leads to doctor's arrest",
+          "title": "Government rescinds incorrect Rajya Sabha election results notification",
           "source": "Indian Express"
         },
         {
-          "title": "Indus Waters Treaty: Government focus on Chenab projects, renegotiation",
-          "source": "Indian Express"
-        },
-        {
-          "title": "2 IPS trainees, harassment complaint, 'suicide' attempt: Case that rocked Hyderabad police academy",
-          "source": "Indian Express"
-        },
-        {
-          "title": "6 months, a plan to kill and an AI tool: What police found in Bengaluru triple murder",
-          "source": "Indian Express"
-        },
-        {
-          "title": "Stone pelted on India's first hydrogen train? Indian Railways responds to viral video",
-          "source": "Indian Express"
-        },
-        {
-          "title": "Russia-Ukraine war: 4 Indian sailors among 10 killed as missile hits ship",
-          "source": "Indian Express"
-        },
-        {
-          "title": "'He was set to get married, change jobs': 4 Indians killed in Russian attack on cargo ship off Ukraine coast",
-          "source": "Indian Express"
-        },
-        {
-          "title": "Magisterial probe ordered into killing of youth in J and K's Doda",
-          "source": "Indian Express"
-        },
-        {
-          "title": "Assam floods disrupt rail services: Over 30 trains cancelled, diverted and short-terminated – Full list",
-          "source": "Indian Express"
-        },
-        {
-          "title": "No Detailed Project Report received for metro rail extension upto Rishikesh: Centre",
+          "title": "Madhya Pradesh Assembly passes UCC Bill, Congress slams 'RSS agenda'",
           "source": "Indian Express"
         }
       ]
@@ -665,19 +629,15 @@
       "title": "Around the world",
       "items": [
         {
-          "title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
+          "title": "Dozens hurt in Bologna protests after man dies while being restrained by police",
           "source": "BBC World"
         },
         {
-          "title": "Boy, 13, dies during World Cup celebrations in Spain",
+          "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
           "source": "BBC World"
         },
         {
-          "title": "Hamas names Khalil al-Hayya as new overall leader",
-          "source": "BBC World"
-        },
-        {
-          "title": "Scores feared dead after passenger ferry capsizes off Guyana",
+          "title": "Two French firefighters die tackling blaze near Bordeaux airport",
           "source": "BBC World"
         }
       ]
@@ -686,39 +646,39 @@
   "transcript": [
     {
       "title": "Opening",
-      "text": "Good morning Rushil Bhatia. Here is your daily news for Tuesday, July 21. In today's briefing: top headlines, bhopal and madhya pradesh, business and markets, money, tax and personal finance, science and technology, development and policy, across india, around the world. Let's begin."
+      "text": "Good morning Rushil Bhatia. Here is your daily news for Wednesday, July 22. In today's briefing: top headlines, bhopal and madhya pradesh, business and markets, money, tax and personal finance, science and technology, development and policy, across india, around the world. Let's begin."
     },
     {
       "title": "Top headlines",
-      "text": "First, the stories leading the news this morning. Trump imposes 50 percent tariffs on most Canadian goods, cites trade disputes. President Trump imposed fifty percent tariffs on most Canadian goods. This action escalates trade tensions between the two nations. The tariffs apply to many goods previously protected under the USMCA agreement. This move heightens economic uncertainty and strains bilateral ties. 'They will pay many times over': Trump as US carries out 10th night of Iran strikes. United States forces conducted tenth night of strikes against Iran. These operations aim to reopen the Strait of Hormuz after recent attacks. Iran also targeted US allies Kuwait, Jordan, and Bahrain with missile barrages. Diplomatic efforts continue while the interim ceasefire agreement has collapsed. Messi suffers unwanted first in FIFA World Cup final as Spain silence Argentina icon. Spain defeated Argentina in the FIFA World Cup 2026 final after extra time. Lionel Messi experienced a rare off day, failing to create any chances for teammates. Spain's defensive strategy successfully contained the legendary Argentine forward throughout the match. Ferran Torres scored the decisive goal, securing Spain's second World Cup title. Day 1 of Parliament's monsoon session washed out amid NEET, donation chori protests. The first day of Parliament's monsoon session was disrupted by opposition protests. Opposition parties raised concerns over various issues, including temple donations and exam leaks. Frequent adjournments led to the cancellation of proceedings in both houses. A bill to increase the number of Supreme Court judges was introduced in Lok Sabha. Engineers building Solar panels are using exact replicas of honeycombs made by Bees to ensure . Engineers have developed new solar panels inspired by bee honeycombs. This innovative design significantly improves sunlight absorption and power generation. The honeycomb structure traps light, preventing reflection and increasing energy capture. Tests show substantial power output gains compared to traditional flat panels. Andy Burnham pledges to end rough sleeping in Britain in his first speech as new UK PM. Andy Burnham has become the United Kingdom's seventh prime minister in ten years. He made his first pledge to end rough sleeping across the country. Burnham met the king at Buckingham Palace before heading to Downing Street. He promised to address the cost of living and build more council homes. Indus Water Treaty in present form no longer exists, Pak aiding terrorism: India. The Indus Waters Treaty (IWT) with Pakistan will no longer function in its present form, the government has concluded hardening its position on the contentious water issue amid little indication of Islamabad discontinuing its covert backing of cross-border terrorism. Defence ministry seeks firms for rupees 15,000 cr high-altitude airship project. India's defence ministry seeks domestic firms for airship-based pseudo satellites. These platforms will provide persistent intelligence, surveillance, and reconnaissance capabilities. The program aims to offer lower-cost alternatives to existing satellite systems. Airships will hover in the stratosphere, bridging gaps between drones and satellites. Florida returned 500,000 oyster shells to Gulf, creating new reef habitat. Florida restored parts of the Gulf of Mexico by returning more than 500,000 tonnes of recycled oyster and clam shells to the sea between 2007 and 2024. The shells helped rebuild oyster reefs, improve water quality and support the return of fish, turtles and dolphins to levels not seen in over 25 years. Big Bear's famous eagle chicks need $10M habitat rescue by July 31. Thousands of people around the world are watching bald eagles Jackie and Shadow raise their two eaglets through a live nest camera in California's Big Bear Valley. As the chicks continue to grow, conservationists are also racing to raise $10 million to protect the surrounding habitat from development, highlighting the importance of preserving the forests and open spaces the eagles need to survive. Vacant for decades? Why the government can't simply take over abandoned properties. In India, the absence of a comprehensive law governing abandoned buildings leads to fragmented regulations across various legislative acts. Municipal authorities hold the authority to inspect and classify buildings as dangerous. Owners are notified to undertake necessary repairs or secure their properties, with demolition a potential option in cases of imminent risk. Both Maharashtra and Delhi enforce mandatory structural evaluations for older buildings. Supreme Court seeks more exclusive UAPA, NDPS courts to speed up trials. NEW DELHI: To address the grievance of accused facing long years of incarceration in UAPA and NDPS cases, SC Monday pushed for the establishment of additional exclusive special courts to speed up trials in NIA-investigated cases and those related to narcotic drugs registered by various police organisations."
+      "text": "First, the stories leading the news this morning. 'Government had no interest in debate': Rahul on why Cong protested outside PM's residence. Rahul Gandhi addressed students and the Prime Minister concerning the NEET paper leak. He demanded a proper discussion in Lok Sabha about the examination system. The Congress party protested outside the Prime Minister's residence over the issue. Gandhi questioned the collapsing Indian education system and rising exam costs. Were Argentina under more pressure than usual? Messi's pep talks fuel theories – Watch. Fresh footage shows Lionel Messi urging Argentina to forget everything before the World Cup final. The team delivered a subdued performance and ultimately lost the match to Spain. Messi's repeated message has fueled speculation among fans and observers. Coach Lionel Scaloni also hinted at pre-match issues without elaboration. 'Open to both genders': 5,500 apply for Ram Temple Trust CEO post. The Shri Ram Janmabhoomi Teerth Kshetra Trust is seeking a new Chief Executive Officer. Over five thousand five hundred applications have been received for the position. A selection committee is currently screening candidates based on experience and qualifications. The appointment of the new CEO is expected around mid Europe's biggest tech firm is offering employees $20K-plus bonus if they stay until 2030. ASML is reportedly offering employees a significant retention bonus. Eligible employees worldwide will receive a conditional share award valued at twenty thousand euros. This award will be granted on January 1, 2027, and will vest on January 1, 2030. The company is experiencing continued growth and development, investing in innovation and expansion. France passes law banning social media for children under 15. France has approved a nationwide ban on social media for children under fifteen. This new law also prohibits mobile phone use within high schools across the nation. President Macron wants the ban to begin at the start of the next school year. This measure aims to protect young users from harmful online content and its effects. Jeff Bezos on returning to work after retirement: I just couldn't sit on sidelines. Jeff Bezos has returned to an operational role to launch his new AI startup, Prometheus. He describes this demanding work as rewarding, which he calls \"Type 2 fun.\" Bezos believes artificial intelligence will create a labor shortage, not job losses. His new venture has secured significant funding and is now his primary focus. He is energized by the long road ahead as Prometheus scales its operations. Sikkim tunnel collapse: 20 bodies recovered from site, state govt order SIT probe. JALPAIGURI/SILIGURI: At least 20 of the 27 people trapped in a collapsed tunnel of an under-construction hydro-electric project in Sikkim's Namchi district have died. Sydney mass shooting: Bondi's Indian hero gets Australian residency. The December 2025 attack at Sydney's Bondi Beach brought global infamy to Hyderabad after a father and son from the city were named key accused in the shooting that left at least 15 people dead. Bill Koch's Aspen estate once asked $125m, now poised to sell for $33.5m. Billionaire Bill Koch's expansive Aspen estate has sold for $33.515 million after a luxury auction. The property, initially listed at $125 million, struggled to find a buyer for two years. After several price reductions, the 52-acre Elk Mountain Lodge went to a competitive bidding process. This sale highlights shifts in the ultra-luxury housing market and buyer selectivity. Aquarium fish escapes into crater lake, scientists fear biodiversity risk. Flowerhorn cichlids, bred by humans, have found their way into Lake Sampaloc, a crater lake in the Philippines. Their presence poses a significant threat to the local ecosystem, competing aggressively with native ayungin fish and disrupting aquaculture. Experts raise alarms about the potential for disease transmission and the rapid expansion of this invasive species, underscoring a pressing global issue of domesticated animals affecting natural habitats. US mosquito spraying backfires as insects evolve resistance across 84 percent blocks. New research indicates mosquito spraying is causing insect resistance. Genetic markers for resistance are now widespread across many residential blocks. This resistance is more prevalent in wealthier neighborhoods where spraying occurs frequently. Overuse of chemicals is making insecticides less effective over time."
     },
     {
       "title": "Bhopal and Madhya Pradesh",
-      "text": "Now, news closer to home in Bhopal and across Madhya Pradesh. CM Mohan Yadav Asks Police To Stay Alert On Farmers' Issues, Student Protests; Announces 9,000 Recruitments. Chief Minister Mohan Yadav on Monday directed the Madhya Pradesh Police to stay prepared for issues related to farmers, including fertiliser shortages and drought-like conditions, besides remaining alert to student protests. MP Government Tables Medical University Amendment Bill Among 14 Bills In Assembly. The Madhya Pradesh government on Monday introduced a Bill in the Assembly to establish the Madhya Pradesh Dhanvantri Health University in Ujjain. Encroachments, E-Rickshaws Slow Bhopal's First Electric Bus Trial. The first trial of Bhopal's electric buses under the PM eBus Sewa scheme exposed persistent traffic bottlenecks caused by roadside encroachments and unregulated e-rickshaws in the old city. Doctor Alleges rupees 20 Lakh Extortion Threatened With False Rape Case In Bhopal. Habibganj police have registered a case against a woman after a government doctor alleged she extorted nearly rupees 20 lakh by threatening to implicate him in a false rape case. Farmers, Karni Sena Stopped On Way To Bhopal Over Ring Road Compensation Demand. Tension gripped Shipra Square after police stopped farmers and Karni Sena Parivar members marching to Bhopal over compensation for land acquired for the Indore-Dewas Western Ring Road project. A journey of hope and transformation for women and children in Madhya Pradesh. SC gives Centre 4-weeks to confer gallantry award on former Madhya Pradesh cop. 19-Year-Old Arrested For Uncle's Murder In Indore; Property Dispute, Drug Addiction Suspected. Police have arrested a 19-year-old youth for allegedly murdering his 50-year-old uncle in Indore's Chandan Nagar area. Rain, lighting alert for Bhopal till July 23. Madhya Pradesh Assembly Introduces Uniform Civil Code Bill, 2026. 38 Years Later, High Court Awards Relief For 200 Trees. The Indore bench of the Madhya Pradesh High Court has directed the State government to pay rupees 50,000 with statutory interest as compensation for 200 Babool trees acquired for the Hari Phatak overbridge project in 1988. Confusing signboards add to mounting Metro traffic woes. Bhopal Police to hold 'Run For Life' marathon against drug abuse. NGT asks for identification, demarcation of buffer zone at Shahpura Lake. Man killed in hit-and-run. Government assures upgrade of Maha's MP Bhavan for Warkaris from state. Tractor rally towards Bhopal: Water cannon, tear gas used against protesting farmers. Sandipani schools to be inaugurated before Guru Purnima: CM. Bill proposing varsity courses from high-rises introduced in Assembly. Madhya Pradesh cabinet approves Uniform Civil Code."
+      "text": "Now, news closer to home in Bhopal and across Madhya Pradesh. Ease Of Doing Business Secretariat To Come Up, Department Officers To Be Delegated. The Madhya Pradesh Assembly passed the Ease of Doing Business Bill, establishing a dedicated Secretariat under MPIDC as the state nodal agency. MP Assembly Passes Fire Safety Bill: Fines Up To rupees 5 Lakh For Norm Violations. The Madhya Pradesh Assembly passed the Fire Safety and Emergency Services Bill, introducing penalties up to rupees 5 lakh for safety norm violations. Labour Reforms: Assembly Passes MP Code On Empowering Work Spaces Bill. The Madhya Pradesh Assembly has passed the Labour Power Code Bill, 2026, granting landmark protections to employees. Can Pune beat the heat? NIT Bhopal gets Rs2.1 crore project to find way out. Madhya Pradesh Assembly passes UCC Bill amid Congress sloganeering. MP High Court Orders Immediate Free Treatment For Indore Gas Blast Victims. The Indore Bench of the MP High Court directed the State government to ensure completely free, uninterrupted treatment for all victims of the recent illegal-boring gas pipeline blast. This MP Family Preserves Giant Noorjahan Mangoes That Sell for Up to rupees 1500 Each. Around 40 school buses found flouting safety norms in 10-day Bhopal traffic police drive. Man shoots self over loan recovery, in hosp. 60mm rain cools city, more likely. Tragic boat capsizes at Bargi Dam during evening storm in Madhya Pradesh. Metro steps in where PWD did not, flood fears remain. Madhya Pradesh pole vaulter Kuldeep Kumar breaks national record at Bhubaneswar. Gold Rate Today in Bhopal 21st July 2026 : 22 and 24 Carat, Gold Price in Bhopal. Madhya Pradesh Passes Uniform Civil Code Bill, Becomes Fourth State In Country To Do So. Kranti Gaud honored at SAI CRC Bhopal for cricket achievements. Bhopal's Orange Line Metro Services To Expand To 20 Trips Daily Following Signalling Upgrade. Monsoon revives across Madhya Pradesh, over 30 districts get widespread rain."
     },
     {
       "title": "Business and markets",
-      "text": "Moving to business, the economy and the markets. India's demat boom hits a trading slowdown as retail investors step away. Active trading accounts fell to 19.6 percent of India's 23.2 crore demat accounts in Q1 FY27, down from 26.3 percent in FY24, as weaker returns, Sebi's derivative curbs and Iran-war volatility pushed retail investors to the sidelines. Paytm Q1 Results: Net profit jumps 79 percent , revenue up 28 percent ; board opts not to proceed with bonus shares. One97 Communications reported a 28 percent YoY revenue increase to rupees 2,448 crore for Q1 FY27, driven by strong growth in Payment Services. Net profit surged 79 percent YoY to rupees 220 crore, reflecting improved operating efficiency and growth in financial services. BlueStone Jewellery shares to be in focus on Tuesday as company turns profitable in Q1, revenue jumps 49 percent. BlueStone Jewellery reported a strong Q1FY27, with a 49 percent YoY increase in retail sales to rupees 733 crore. The company also saw a 39 percent growth in same-store sales despite higher gold customs duties, and an improved EBITDA margin, reflecting strong operating leverage. Gold, silver prices today: Comex gold and silver trade steady as geopolitical tensions fuel rate worries. Gold and silver prices remained volatile amid escalating US-Iran clashes and renewed diplomatic efforts. Inflation concerns and higher interest rates may limit precious metals' upside despite geopolitical uncertainty supporting safe-haven demand. Wall Street: S and P 500, Nasdaq rebound as chipmakers recover, investors brace for big tech earnings. As of 10:15 a.m. Eastern Time, the S and P 500 rose 0.3 percent , the Dow Jones Industrial Average was down 0.2 percent , and the Nasdaq Composite was 0.5 percent higher. US stocks to buy for short term: From Nvidia to Netflix- Appreciate CEO suggests picking these 5 shares. Appreciate CEO Subho Moulik reveals five key stocks to watch. From Nvidia's AI dominance to Netflix's innovative revenue strategies, these companies showcase how the evolving landscape of technology is shaping investment opportunities. Suzlon Energy board to consider Q1FY27 results on July 28; shares down 10 percent in July. Suzlon Energy's Board of Directors will meet on July 28 to approve Q1FY27 financial results. The company reported a 5.6 percent decline in consolidated net profit for March 2026, despite rising operational revenue. Expert view: Overweight on diversified financials, automobiles, new age tech firms, says Nandish Shah of Motilal Oswal. Expert view: Nandish Shah, AVP-PCG Research and Advisory, (Fundamental) Wealth Management, Motilal Oswal Financial Services, is overweight on diversified financials, automobiles, new age tech platforms, manufacturing and industrials, and consumer discretionary sectors. Iran-US deal: Mediators propose 10-day ceasefire. Senior Iranian officials have revealed to Reuters that mediators are pushing for a 10-day ceasefire. US stock market today: Wall Street futures gain as easing oil prices offset lingering Middle East tensions. US stock futures rose on 20 July as oil prices fell amid renewed US-Iran diplomatic efforts, easing supply concerns. The S and P 500, Nasdaq-100, and Dow Jones futures gained, though geopolitical tensions in the Middle East persisted, affecting global markets and chip stocks. Banks draw thinner margins on tepid credit growth. Top private sector banks reported weaker net interest margins (NIMs) in the June quarter as sluggish retail loan demand pushed them towards lower-yielding corporate loans. Aastha Spintex sets board meeting date to consider and approve 1:1 bonus shares, 100 percent final dividend. Aastha Spintex's board will meet on July 23 to discuss a bonus issue and a final dividend for shareholders. The proposed bonus involves issuing new shares and reflects confidence in the company's growth following an acquisition to expand spinning capacity. Godrej Agrovet bets big on oil palm push. Edible oil prices are expected to stay elevated for several months ahead. Sobha Q1 Results: Revenue rises 50 percent , profit more than triples as margins improve. Sobha Ltd. reported a strong June 2026 quarter with a 50 percent year-on-year revenue rise to rupees 1,278.2 crore and a net profit tripling to rupees 50.8 crore. Despite a 35.7 percent sequential revenue decline, operating margins improved significantly. CJP protest: More than 50 cops injured in clashes. Over fifty police personnel sustained injuries during clashes with CJP protesters in New Delhi. Top Gainers and Losers on 20 July: Axis Bank, HDFC Bank, Ceat, India Cements, OLA, HFCL among top losers. The Indian stock market faced pressure on 20 July as geopolitical tensions in the Middle East weighed on investor sentiment. Rising crude prices stoked fears of tighter monetary policies, while mixed sector performances were seen. Despite losses, heavyweight stocks helped Nifty 50 end down 0.40 percent . Judge halts Paramount–Warner Bros deal. California and eleven states secured a pause on Paramount's acquisition of Warner Bros. Indian Overseas Bank share price rise 3 percent after Q1 results 2026. Do you own?. IOB share price opened at rupees 34.14 apiece today, as compared to previous close of rupees 33.81 on Friday last week. 27 trapped in Sikkim tunnel landslide. Twenty-seven workers are trapped inside a Sikkim tunnel after a landslide blocked its entrance. No proposal under consideration to scrap LTCG tax on equities, government clarifies. The central government clarifies that it has no plans to abolish the long-term capital gains tax on equity transactions for retail and domestic investors, quashing market speculation. Details here. Bengali mandatory in Government offices from Sept 1. West Bengal will mandate Bengali for all government departments starting September 1. ISM 2.0: Can semiconductor stocks become India's next long-term wealth creators?. The Union Cabinet had approved rupees 1.27 lakh crore for the second edition of India Semiconductor Mission (ISM 2.0). At the current juncture, India offers an emerging manufacturing and infrastructure story backed by policy support. Bangladesh Army Chief in Turkiye for defence push. Bangladesh Army chief General Waker-Uz-Zaman is visiting Turkiye to enhance military training partnerships. PNB shares jump 5.5 percent to 2-month high after Q1 profit more than triples; brokerages turn bullish. Punjab National Bank shares surged 5.6 percent to rupees 111.70, driven by a 214 percent net profit increase to rupees 5,253 crore for Q1FY27, supported by stronger operations and improved asset quality, reflecting a favorable earnings outlook. 'Indus Water Treaty needs full renegotiation'. India states the Indus Waters Treaty needs renegotiation due to Pakistan's inaction. UltraTech Cement Q1 Results: Net profit jumps 17 percent YoY to rupees 2,599 crore. In Q1FY27, UltraTech Cement's net profit surged 16.77 percent year-on-year to rupees 2,599.28 crore, driven by operational efficiencies and market execution. Revenue grew 15.8 percent to rupees 24,648 crore, while capacity utilisation stood at 81 percent , indicating strong demand in the construction sector. Trump threatens Iran with heavy reprisals. US President Donald Trump warned Iran that it would pay \"many times over\" for every American soldier killed after Washington announced three new military fatalities and one service member missing over the weekend. Axis Bank share price dips over 6 percent after Q1FY27 results. Axis Bank shares fell nearly 6 percent due to concerns over net interest margins despite a strong profit growth. The bank reported a consolidated net profit increase of 22.23 percent for the June quarter, yet asset quality showed a slight decline in non-performing assets. US may ban Chinese AI models: Axios. The Trump administration is exploring ways to limit access to advanced Chinese AI models."
+      "text": "Moving to business, the economy and the markets. Stocks jump with chipmakers; oil rises to 5-week high. GLOBAL-MARKETS:Stocks jump with chipmakers; oil rises to 5-week high CME feeder cattle futures slump on hot weather, grain prices. USA-LIVESTOCK/:LIVESTOCK-CME feeder cattle futures slump on hot weather, grain prices Dollar advances as oil prices rise after latest US-Iran strikes, Houthi blockade. GLOBAL-FOREX:Dollar advances as oil prices rise after latest US-Iran strikes, Houthi blockade Gold, silver prices today: Comex gold jumps $73, silver gains $2.55 as traders assess US-Iran peace efforts. Gold and silver prices rose as US-Iran ceasefire talks boosted market sentiment. Despite rising tensions, gold futures reached $4,088 and silver $59.55. Investors await the Fed's rate decision amid inflation concerns, while crude oil prices stayed high, affecting precious metal gains. Servotech Renewable Power System Q1 Results: PAT jumps 75 percent YoY; revenue up 58 percent. Servotech Renewable Power System reported a 57.7 percent YoY revenue increase to rupees 216.29 crore for Q1 FY27. Gross profit rose 86.8 percent to rupees 48.56 crore, while PAT climbed 74.5 percent to rupees 7.94 crore, driven mainly by solar products. IBM shares extend losing streak, plunge 26 percent in five sessions after sales miss. IBM's shares have plummeted 26.5 percent , reaching a multi-quarter low after a cautious sales outlook. The stock saw its biggest drop in over 50 years, attributed to shifting customer spending amid AI-related supply shortages, impacting its software and infrastructure businesses significantly. Treasury Yields Hit Two-Month High as Oil Sparks Inflation Risk. The US Treasury market fell, pushing 10- and 30-year yields to the highest levels in about two months, as a surge in crude oil prices stoked concern that inflationary pressures will prompt the Federal Reserve to raise interest rates. Sebi tweaks SIF certification exam, removes currency derivatives questions. Sebi said the existing exam will be suspended from 21 September and will be replaced with the NISM-Series-V-D: Mutual Fund SC scraps Kerala HC order on Waqf Board. The Supreme Court removed a Kerala High Court order. Caliber Mining and Logistics IPO: Issue booked 154 times on Day 03; NII, QIB portions see strong demand. Caliber Mining and Logistics' IPO saw strong demand, with oversubscriptions of 281 times for non-institutional investors and 253 times for qualified institutional buyers. The issue received bids for 114 crore shares, achieving a subscription rate of 154 times against 74.29 lakh shares offered. Parl panel reviews disability quota data. A parliamentary panel is examining the implementation of mandatory 4 percent job reservation for differently-abled persons. Biotech IPO Gains Crush AI Listings With Standout 55 percent Return. The biotechnology sector is stealing the US IPO market thunder from artificial intelligence-related listings, delivering standout returns as bankers line up a steady stream of summer debuts. Pernod drops plea in $314 million India tax case. French firm Pernod Ricard has withdrawn its court challenge against India's tax demand. Saudi Crude Flow From Red Sea Hit Record Before Houthi Warning. Saudi Arabia exported record volumes of crude oil from terminals on the Red Sea in the days and weeks before the Houthis said they would block the nation's shipments. El Nino threat clouds tractor sales outlook. Tractor industry volume growth is expected to moderate to one to four percent this fiscal year. US stock market today: S and P 500, Nasdaq futures rise up to 1.4 percent as chip stocks rebound after last week's rout. US stock futures rose sharply, driven by a recovery in chip stocks after a sell-off. Tensions in West Asia escalated as the US conducted strikes against Iran, impacting oil prices and global energy security, while earnings reports from tech giants are anticipated soon. Innovation to power Glenmark Pharma's next phase. Glenmark anticipates innovative products will drive nearly seventy percent of its revenue. SBI has no plans for further stake sale in SBI Funds after IPO: chairman Setty. SBI Funds Management on Tuesday listed at rupees 613.30 on the National Stock Exchange, a 6.85 percent premium over the initial public offering price of rupees 574 per share. Ready, Set, IndiGo: Succession plan takes wing. Rahul Bhatia has begun grooming his son Madhav Bhatia for a future leadership role at IndiGo, exposing him to executive meetings and mentoring under InterGlobe Enterprises CEO Aditya Pande. Lohia Corp IPO: 10 key things investors should know before subscribing to rupees 1,101.28 crore public issue; check GMP. Lohia Corp, a leading technical textiles machinery manufacturer, is set to launch a rupees 1,101.28 crore IPO. The firm posted FY26 revenues of rupees 17,169.95 million and plans to list on NSE and BSE on July 30, 2026, following its July subscription period. Shilpa Shetty-backed Bastian eyes fresh capital. Bastian Hospitality is raising capital from investors for expansion plans. Oil Swings as Traders Weigh Slew of Risks From Hormuz to Red Sea. Brent oil swung after rallying more than 20 percent this month, as traders weighed threats to maritime traffic from the Strait of Hormuz and the Red Sea to a key Kazakh export terminal on Russia's coast. View gets brighter at FCNR(B) window. The optimism follows RBI's disclosure that banks have collectively garnered $20.7 billion under its special incentive window, a pace that has already eased earlier concerns the scheme was struggling for traction. Top Gainers and Losers on July 21: Karur Vysya Bank, TVS Motor, Zen Tech, Meesho, Thermax among top gainers today. The Indian stock market remained range-bound due to fragile investor sentiment amid West Asian tensions. Despite modest losses in benchmark indices, broader markets performed well, supported by select sectors. Bira 91 chief Ankur Jain quits board in settlement. Bira 91 founder Ankur Jain has stepped down from the company's board. Sensex drops 238 points, Nifty 50 ends at 24,188. What drove the market down today?. The Sensex ended 238 points, or 0.31 percent , lower at 77,470.11, while the Nifty 50 settled at 24,187.70, falling 51 points, or 0.21 percent . The Nifty Midcap 100 index rose by 0.30 percent , while the Smallcap 100 index climbed 0.53 percent . Subsidy deadline may be extended for e2w. The Ministry of Heavy Industries is considering extending subsidies for domestically manufactured electric two-wheelers beyond the current July 31 deadline, although this would require additional budgetary support as the rupees 10,900-crore PM E-Drive scheme has already committed all its allocated funds."
     },
     {
       "title": "Money, tax and personal finance",
-      "text": "Now to your money — taxes, savings and personal finance. Did F and O or intraday trading last year? Your ITR filing due date isn't July 31. In India, intraday and F and O trading profits are taxed differently. Intraday trading is speculative business income, while F and O is non-speculative. Taxpayers must file ITR-3 or ITR-4 depending on specific conditions. Here are the deadlines. EPFO 3.0: Government plans new pension scheme for formal and unorganised sector workers, claims report explaining how it will work. The government is planning a new pension scheme under the EPFO 3.0 framework. This new plan aims to provide retirement benefits to workers in both formal and unorganised sectors. Members will build a retirement corpus through regular contributions invested in government-backed assets. Claiming a deceased family member's mutual funds made less cumbersome: What SEBI has changed. SEBI has asked AMFI to simplify the industry's transmission norms, making it less cumbersome for nominees and legal heirs to claim rights on mutual funds after the investor's death. Here's what changed under the revised framework. How NRIs, OCIs can get 45 percent annual return on $1 lakh FCNR (B) deposit as this bank in India offers 19X leverage; Should you go for it?. HSBC Bank's IFSC unit offers Non-Resident Indians significant leverage on FCNR(B) deposits. This strategy allows investors to borrow up to nineteen times their initial deposit amount. The potential for amplified returns arises from the spread between deposit earnings and borrowing costs. However, this leverage strategy carries risks if borrowing costs exceed deposit interest rates. Aadhaar app crosses 4 crore downloads: Full list of services available on the new app. The new Aadhaar app achieved 40 million downloads so far. The redesigned app replaces mAadhaar aap and offers a wide range of Aadhaar-related services. Full list here. Buying gold? This simple COMEX calculation can tell if you are being overcharged. By converting international gold prices into Indian rates, you can find the actual gold cost in India and better understand whether your jewellery bill reflects a reasonable price. 8th Pay Commission salary hike: Will 2.0 fitment factor increase gross salary by just 31 percent ? Check pay calculator. Central government employees anticipate significant salary raises from pay commissions. However, gross salary increases may lag behind basic pay hikes. This difference arises from various allowances that do not always scale proportionally. Historical data shows gross salary hikes have been lower than basic pay increases. HDFC Balanced Advantage Fund versus Parag Parikh Dynamic Asset Allocation: Same category, but equity exposure 71 percent versus 15 percent. Balanced advantage funds can have vastly different portfolio structures despite belonging to the same SEBI category. Variations in equity, debt and cash can lead to distinct risk profiles and return outcomes, making portfolio composition an important factor to evaluate. EPS rules explained: Eligibility, withdrawal and pension. Confused about the Employees' Pension Scheme and its rules? This guide breaks down complex aspects, including contribution methods, eligibility, and pension calculations. With increasing cases of claim rejections, being informed is key. Job switch leads to rupees 1.69 lakh tax liability despite both employers deducting TDS correctly: Here's why Form 12B matters. Switching jobs during a financial year can leave salaried employees with an unexpected tax liability even if both employers deducted TDS correctly. The gap arises because TDS is calculated employer-wise, while final tax is based on total annual income. Form 12B can help avoid this mismatch. ITR filing 2026: Step-by-step guide to filing ITR-1 for AY 2026-27 before the July 31 deadline. Students, salaried individuals, and pensioners can file ITR-1 for AY 2026-2027. The deadline for filing this income tax return is July 31, 2026. This simplified form is for resident individuals with income up to fifty lakh rupees. It covers income from salary, one house property, and other specified sources. How to lock and unlock your fingerprints and iris using new Aadhaar App. The Aadhaar biometric lock/unlock feature has gained significant adoption, with residents using it more than 1.91 crore times, according to MeitY. This security feature allows Aadhaar holders to prevent unauthorized biometric authentication using their fingerprints, iris and face data. 7 big income tax changes for 2026-27 that may reduce penalties for small mistakes. New income tax rules aim to reduce penalties for ordinary citizens. Minor foreign asset non-disclosures will not face prosecution from October 2024. Prosecution provisions are softened with reduced jail terms and graded punishments. Several penalties are converted into fixed fees to reduce litigation and bring certainty. The NRI guilt trap: why high salaries abroad don't always create wealth. Many NRIs earn in dollars but struggle to build wealth as family obligations, emotional guilt and social expectations drain savings and delay financial independence. The coaching race is costing parents lakhs. Here's how to plan. Parents are spending rupees 2-4 lakh on coaching before college admissions. With education inflation at 10-12 percent , experts warn against dipping into retirement savings or taking on debt. rupees 1 lakh Investment turns into rupees 2.98 lakh: Sovereign Gold Bond 2021-22 Series premature redemption date today. The Reserve Bank of India has set the premature redemption price for SGB 2021-22 Series-IV. Investors can redeem these bonds prematurely from July 20, 2026, after five years. Tax rules apply to capital gains on premature redemption of these bonds. National Student Laptop Scheme 2026 is fake: PIB Fact Check reiterates warning against viral WhatsApp message. PIB Fact Check has again debunked a viral WhatsApp message, first flagged in January, claiming the Government is accepting applications for free laptops under the 'National Student Laptop Scheme 2026'. It reiterated that no such scheme exists. ITR-4 or ITR-3? Know which ITR form to file under presumptive taxation scheme and the documents required. Taxpayers using the presumptive taxation scheme must select the correct Income Tax Return form. Generally, ITR-4 is suitable for individuals and HUFs with income up to fifty lakh rupees. However, certain conditions like foreign income or losses necessitate filing ITR-3. Essential documents include PAN, Aadhaar, bank details, and tax payment proofs. Hotels can't add a service charge to your bill without informing you: CCPA acts against 41 restaurants. CCPA has initiated action against 41 restaurants for automatically adding service charges to customers' bills, calling it an unfair trade practice. The move reinforces that service charges are voluntary, and restaurants must not levy them by default or without clearly informing consumers. Salary has to be paid before 7th day of the succeeding month under new labour code; Know what else the new labour code says about salary timeline. Under the new labour code, employers must pay salaries by the seventh day of the following month. Daily wage workers must be paid at the end of each workday. Employees who leave a job are entitled to receive their final dues within two working days. The code applies to all employees, regardless of salary, and introduces the role of an inspector-cum-facilitator to help resolve wage-related complaints and claims. EPF interest rate: 8.25 percent interest credited? Here's how to check your PF balance. EPFO members were expected to receive 8.25 percent interest on their EPF contributions for FY 2025-26 on July 15, 2026. The Future of Insurance in India Sarbvir Singh, Joint Group CEO, PB Fintech. India's insurance industry is changing faster than ever. Gift tax rules: Cash, property, jewellery and shares; Here's when you'll pay tax and report it in your ITR. Gifts received from specified relatives are fully exempt from income tax, regardless of their value. 7 things to know about a retirement income tool that most Indians overlook and it's not for retirees only!. An annuity is a contract with an insurance company. Government notifies new Income Tax Rules 2026 for stricter compliance. Opinion: GST on laptops is a tax on education. Income Tax Slab for Senior Citizens Above 60 Years for AY 2026-27: With Deductions, Rebates and Examples."
+      "text": "Now to your money — taxes, savings and personal finance. Income-tax return: Here's a checklist of required documents for smooth ITR filing process. Filing your income tax returns (ITR) can be a tough task for first-time taxpayers and salaried individuals alike. Here's a checklist of essential documents you'll need to make the process smooth and hassle-free. INR exchange rate while filing ITR to report foreign assets: Use this reference rate to convert foreign currency into INR as prescribed under income tax rules. Indian taxpayers must report foreign assets in their Income Tax Returns for AY 2026-27. Foreign currency amounts require conversion to Indian Rupees using SBI's TTBR exchange rate. This specific rate is mandated by the Income-tax Rules for accurate reporting. Taxpayers should use the TTBR rate applicable on the relevant date of acquisition or closing year. EPFO: Here's how to retrieve your forgotten UAN using the official portal and Umang app , Stepwise guide. The Employees' Provident Fund offers a secure retirement savings option for Indian salaried individuals offering an 8.25 percent interest rate for FY26. Here's how EPF subscribers can retrieve their UAN via the EPFO portal or Umang app. 8th Pay Commission salary calculator: Why Level 11-18 employees may see just 68 percent gross salary hike even at 2.57 fitment factor. 8th Pay Commission salary: Central government employees anticipate the 8th Pay Commission's fitment factor recommendations. A higher fitment factor could significantly increase employee payouts and basic salaries. Past pay commissions show varied gross salary hikes despite differing fitment factors. The prevailing Dearness Allowance rate influences the actual gross salary increase. Only 4 value mutual funds delivered double-digit returns in one year. Here's why experts aren't worried. Only four of the 23 value mutual funds delivered double-digit returns over the past year, while nine schemes posted losses. Experts explain why the numbers don't tell the full story and what investors should look for instead. ITR filing: Got Section 143(1) intimation after filing your income tax return? Here's what it means. After filing your Income Tax Return, you may receive a Section 143(1) intimation notice. This notice confirms the tax department's preliminary processing of your filed return. It details any adjustments made to your income, deductions, and tax liability. Taxpayers must review this intimation carefully for any discrepancies or demands. 8th pay commission: Discussions ongoing, check full list of beneficiaries for pay hikes, allowances, other benefits. The 8th Pay Commission is in discussion to recommend pay hikes and salary structure for central government employees and pensioners. Chaired by Ranjana Prakash Desai, it aims to benefit around 1 crore individuals and will submit recommendations by November 2025. ITR filing 2026: CBDT takes these steps to prevent portal glitches before July 31 deadline. ITR filing 2026: The government has addressed concerns regarding the income tax e-filing portal's performance. While usage has increased, the portal has largely remained stable, according to officials. The managed service provider, Infosys, has faced contractual penalties for project delays and outages. DA, DR hike: Dearness allowance for pensioners , Dearness Relief calculation, eligibility explained. Dearness Allowance: A fixed percentage of pensioners' monthly pension payments is aimed at mitigating inflation. However, unlike DA in salaries for central government employees, the component is known as Dearness Relief or DR. Should I sell gold to buy a second home, or is it better to pledge it?. ET Wealth Reader's Query: I am 45, and want to buy a holiday home, or what may be called a second home. I do not have any major financial commitments apart from my two daughters' education. I have also been investing through Systematic Investment plans (SIPs) for the past two years. Should I liquidate my gold investments to buy the second home, or would it be better to pledge the gold instead? Newly married couples: 8 health insurance mistakes to avoid. Newly married couples should review health insurance plans, assess coverage needs and plan for maternity benefits. This guide highlights common mistakes, including relying only on employer cover and overlooking parents' healthcare needs, to help couples make smarter financial decisions. Retired PSU employee faces rupees 2 lakh tax demand over Form 16 omission; ITAT Pune grants relief. A retired PSU employee successfully challenged a rupees 2 lakh tax demand after ITAT Pune ruled that a leave encashment exemption cannot be denied because it was omitted from Form 16. The Tribunal held that statutory tax benefits are determined by law and not by how the employer reports them. 5 critical checks before buying health insurance policy to avoid claim rejections. Choosing health insurance requires careful consideration of several important factors. Opting for a policy simply because it has a low premium can leave you underinsured and cost you more when you actually need to file a claim. Adequate coverage is crucial, especially as medical inflation is projected to rise significantly in the coming years. Read on to learn about five key factors every policyholder should assess before buying a policy. ITR Filing 2026: CBDT upgrades income tax portal before July 31 deadline, Key changes explained. The Finance Ministry has told Parliament that the Income Tax Department has strengthened the e-filing portal to handle peak traffic during the return filing season, with infrastructure capable of processing up to 1 crore IT rupees a day. 8th Pay Commission salary hike: How much can Level 1 and 2 employees' gross salary rise at 2.0, 2.38 and 2.57 fitment factors?. 8th Pay Commission salary: The fitment factor is expected to play a key role in determining salary revisions under the 8th Pay Commission. Can cooperative insurance become India's next financial inclusion story?. The proposed national cooperative life insurer is about more than adding another player, it could shift India's insurance journey from expanding access to building financial resilience. rupees 1 lakh investment turns into rupees 3.57 lakh in gold bonds: SGB 2019-20 Series premature redemption date today, check if you need to pay capital gains tax. Sovereign gold bonds: The Reserve Bank of India has set the premature redemption price for SGB 2019-20 Series-VIII. This offers investors a significant absolute return of nearly 257 percent. Tax rules apply to capital gains on premature redemption of these bonds. Can the government impose taxes without a law? What Article 265 says. Article 265 of the Indian Constitution states that no tax can be levied or collected except by the authority of law. In simple terms, every tax must be backed by a valid law passed by Parliament or a state legislature, preventing arbitrary taxation by the government. ESOPs, Crypto and two other disclosures you must make in Schedule FA of the ITR for AY 2026-2027. Indian taxpayers face new foreign asset reporting rules for AY 2026-2027. Schedule FA requires disclosures for foreign shares and overseas bank accounts. Employee stock options and cryptocurrencies also demand careful reporting considerations. Jointly held foreign accounts need accurate disclosure based on fund ownership. Cable and DTH charges to rise 4-6 times? PIB Fact Check reveals the truth. PIB Fact Check has dismissed viral claims that the Centre's draft Telecom Rules, 2026 will shut down TVs or raise cable and DTH charges by four to six times. It clarified that the draft rules contain no fee hike provision and are currently open for public consultation. SGB 2019-20 Series VIII redemption opens today: Check payout, eligibility and tax rules. RBI has opened premature redemption for SGB 2019-20 Series VIII at rupees 14,170 per unit from July 21. Before opting for an early exit, investors should understand the eligibility conditions, redemption process and the capital gains tax rules under the Income-tax Act, 2025. GIFT City investments and Schedule FA reporting: why taxpayers are seeking greater clarity. As GIFT City opens global investment opportunities for Indian residents, a key tax question remains unresolved: Do investments in IFSC funds qualify as foreign assets for Schedule FA reporting? NRO FD interest rates: Earn up to 6.75 percent , SBI, HDFC Bank, PNB, ICICI Bank or Axis Bank, which offers the best rate for NRIs?. Non-Resident Indians can park their Indian income in NRO fixed deposits. These deposits offer attractive interest rates, with some banks providing up to 6.75 percent. Banks like Bank of Baroda offer the highest rates on specific tenures. Investors should consider tax implications and Double Taxation Avoidance Agreements. EPS-95 pension hike: Will Centre raise minimum pension from rupees 1,000 to rupees 7,500?. EPS-95 pensioners' demand for a hike in the minimum pension from rupees 1,000 to rupees 7,500 per month remains unresolved. The Minister of State for Labour and Employment acknowledged that, though several stakeholders have sought a pension hike, no decision has been made on the matter yet. Filing ITR this year? Don't miss these 10 major changes in ITR forms. The due date for filing Income Tax Returns (ITRs) for AY 2026-27 is July 31, 2026, for individuals, salaried taxpayers, pensioners and others who are not required to get their accounts audited. New labour code: Salary must be paid by 7th of next month. What employees should know. The Code on Wages, 2019 prescribes when employers must pay salaries and settle final dues after an employee leaves a job. Here's what the law says about salary payment timelines, delayed wages and employee rights. LTCG and STCG: Key tax rules for equity shares and mutual fund investors in FY 2025-26. The government has ruled out changes to equity LTCG tax for now. Investors should understand STCG and LTCG rules, holding periods, tax rates, SIP taxation and redemption strategies to manage equity investments better."
     },
     {
       "title": "Science and technology",
-      "text": "Next, science and technology. Here are the 30,000 songs Sony is suing Udio's AI music generator over. Sony Music Entertainment has filed another lawsuit against Udio, accusing the AI music generator of infringing the copyright of more than 30,000 of its songs, ranging from Elvis Presley's Hound Dog to Beyoncé's Say My Name, and Harry Styles' As It Was. The lawsuit, filed in a New York court on Monday, claims that this Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation. The de-extinction startup is looking to double or triple its previous valuation, according to the report. Some dinosaurs could rise like giants until they grew too big. Two elephant-sized South American sauropods were unusually well built for standing on their hind legs. Digital tests showed that their robust femurs handled the enormous forces better than those of larger species, especially while the dinosaurs were young. The upright pose may have helped them reach treetops, frighten predators, or impress potential mates. The FCC is planning to retroactively ban disguised DJI gadgets. Last October, we told you how the FCC had given itself the power to retroactively ban gadgets that have already received its approval to be imported and sold in the United States. Now, the FCC's getting ready to wield that power for the first time, by cracking down on the \"DJI front companies\" suspected of Trump's latest AI czar has already resigned. The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar. The Odyssey turned me into an IMAX believer. After seeing Christopher Nolan's The Odyssey for the first time early last week, I came away impressed, but somewhat conflicted about two of the film's more fantastical set pieces. While those scenes were beautifully crafted and tremendously acted, there was something a little bit off about the way they hit my eye. I spent days Google is working on a new AI chip designed to make Gemini more efficient. Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently. An ordinary laptop solved a problem thought to require a quantum computer. A quantum problem once described as impossible for classical computers has now been solved using relatively modest hardware. Researchers used tensor networks to compress the overwhelming wave function created by hundreds of entangled qubits, allowing some calculations to run on a laptop. Their results matched both theoretical predictions and simulations performed with a quantum computer. The method could open new paths for exploring quantum dynamics and materials. SpaceX in your index fund, explained. Index funds are touted as one of the safest ways to invest. Rather than picking and choosing individual stocks, index funds let you bet on the market as a whole. So what happens when a company like SpaceX - a giant gamble, and, in my opinion, terribly overpriced - is fast-tracked into the Nasdaq-100? Does AI's most important protocol is getting a little bit easier to use. Under the new system, the protocol will take a looser, \"stateless\" approach to session IDs on the server side, similar to how most ordinary websites already work. Earth's waters are quietly running out of oxygen, scientists warn. Oxygen is disappearing from oceans, lakes, rivers, and coastal waters at an alarming rate, threatening aquatic life and weakening the natural processes that help regulate Earth's climate. Scientists warn that this widespread deoxygenation is closely connected to other major planetary threats, including warming, pollution, biodiversity loss, and ocean acidification. Get Borderlands 3, Risk of Rain 2 and 13 other great PC games for $15. The aptly-named \"2K Megahits 2026 Bundle\" from Humble includes 15 Steam games for $15. It's a smattering of the publisher 2K's biggest games of the 2010s, including BioShock Infinite, Risk of Rain 2, Borderlands 3, and XCOM: Enemy Unknown. The bundle will be available until August 7th, though the bundle page notes that keys for X relaunches a rebuilt Android app after year-long effort. X says the rebuilt version of its Android app is now available globally. Alzheimer's breakthrough: Scientists restore two hours of sleep without clearing brain plaques. Researchers have uncovered a surprising culprit behind sleep loss in Alzheimer's disease: the brain's own immune cells. In mice with amyloid plaques, overactive microglia triggered inflammation that kept the brain from getting enough deep, restorative sleep. Temporarily removing most of these cells restored more than two hours of sleep per day, even though the plaques remained unchanged. The PlayStation replica ornament is an homage to a great, yet fragile console. You probably know the signature PlayStation boot sound. Did you know that it's technically a multi-part chime? There's the synthy section where \"Sony Computer Entertainment\" shows onscreen with a white background. You only get to the next screen with the echo-y chimes and the color-filled PlayStation logo if your console recognizes the disc. OpenAI is scared of open-weight models. Should the US be?. Talk of banning Chinese-made open-weight LLMs reveals the challenge of turning AI into a business. Ford's $30,000 electric truck: all the news about the company's big EV re-do. The end of the Ford F-150 Lightning was also the start of a new era for the automaker. After failing to capture the market with the electric version of its popular F-Series truck, Ford is going back to the drawing board with its Universal Electric Vehicle Platform. The first offering will be a $30,000 electric Natural raises $30M to reinvent payments for AI agents , and take on Stripe. The one-year-old startup aims to reinvent financial architecture for autonomous AI transactions. UCLA scientists develop mineral sunscreen without the chalky white cast. Scientists have redesigned zinc oxide particles to create a mineral sunscreen that protects against ultraviolet radiation without leaving such a noticeable white cast. The SPF 30 formula could make sunscreen easier and more appealing to use across a wider range of skin tones. Judge pauses Paramount's attempt to buy Warner Bros. Discovery. A judge partially granted the request from a dozen state attorneys general to temporarily place the $110 billion merger of Paramount and Warner Bros. Discovery on hold, as reported by Variety and Reuters. US District Judge Araceli Martínez-Olguín said that based on the new company's market share, \"the Court is persuaded that it can presume Judge pauses $110B Paramount-Warner Bros. merger. The lawsuit from the states alleges that the deal would harm movie theaters, basic cable distributors, and audiences. LG's glossy OLED gaming monitor is rare to find under $400. If you've been thinking about upgrading your gaming monitor, LG's 27-inch 27GX704A-B pairs a glossy WOLED panel with a fast refresh rate, and it's currently on sale for $379.99 (about $70 off) at Amazon and directly from LG, marking a new low price. It originally launched at $799.99, but has been available for under $500 since Adobe camera app's new feature will critique your photos using AI. Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app. LG's monitors come with an unwanted addition for Windows: McAfee pop-up ads. A video from Gamers Nexus explains how, after connecting a new LG UltraGear monitor to a PC running Windows 11 for the first time, Windows Update is silently installing LG driver updates and the LG Monitor App Installer, without so much as a permission pop-up or notification. The app doesn't appear to include special controls Hackers are exploiting recently patched WordPress bugs, putting millions of websites at risk. Two critical security flaws in WordPress' software have given hackers the chance to remotely take over tens of millions of websites, according to an estimate by a cybersecurity researcher. YouTube clarifies policies around AI slop and upsetting videos. YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can't earn ad revenue."
+      "text": "Next, science and technology. Neill Blomkamp's new zombie AI 'film' is just slop warmed over. On Monday, District 9 and Gran Turismo director Neill Blomkamp unveiled his latest project: a 13-minute sci-fi short titled Nightborne that's loosely based on Peter Watts' 2014 novel Echopraxia. The short comes from Blomkamp's new AI startup / production company, Barley Studios, and features characters whose voices and faces are modeled after human actors. But Meta is testing an AI bedtime story app for people with no imagination. Meta's StoryKit app is only available in certain regions while the company tests how parents react to it. Scientists found mystery bacteria inside one of the ocean's most elusive whales. Scientists studying decades of pygmy sperm whale strandings have uncovered three previously unknown types of Helicobacter bacteria hiding in the animals' stomachs. All four infected whales showed serious digestive damage, including inflammation, ulcers, scarring, and parasite infestations, although the bacteria were not confirmed as the cause of death. OpenAI says it accidentally hacked Hugging Face with a new AI system. OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.6 Sol and \"an even more capable pre-release model\" discovered vulnerabilities within their sandboxed testing environment, allowing them to gain access to the internet and target Hugging Face. On July 16th, These are the countries moving to ban social media for children. Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators. Ancient DNA reveals a chilling secret at China's 4,000-year-old Shimao city. Ancient DNA from China's vast 4,000-year-old Shimao settlement is revealing how one of East Asia's earliest complex societies was organized. Researchers found that its people were largely descended from local Yellow River farming communities, but also had genetic ties to distant southern and steppe populations, pointing to extensive prehistoric contact. Substack adds an AI detector to help spot blogs written by no one. Substack will now help users determine whether what they're reading may have been written by AI. A new tool coming to the platform can scan posts, notes, replies, and comments to provide an estimate of how much text could be AI-generated or written with AI assistance, according to a blog post published on Tuesday. The OpenAI says Hugging Face was breached by its own pre-release models. OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry. Astronomers find the first atmosphere on a rocky world in the habitable zone. Astronomers have found the first confirmed atmosphere around a rocky planet in another star's habitable zone. The planet, LHS 1140 b, revealed its atmosphere through helium slowly leaking into space. Located 48 light-years away, the world may have preserved its atmosphere for billions of years, making it a promising target in the search for potentially habitable planets. Meta to alert parents if teens show signs of distress while chatting with its AI. Beyond parental alerts, Meta said it is developing capabilities to contact emergency services if any user, teen or adult, shows imminent risk of suicide in their Meta AI conversations. Peak Design's modular Field Bracket has a finder tag built-in. I am a very clumsy man. So clumsy, that I have AirTags hanging off practically every camera I own. Have I left my camera in an Uber? Yes. Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents. Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation. Watching too much TV in midlife may shrink the brain. Watching television very often in midlife may be linked to troubling brain changes decades later. In a study of about 1,700 adults, frequent TV viewers later showed smaller brain regions involved in memory, decision-making, and visual processing, along with more signs of damage in the brain's white matter. Surprisingly, sitting itself did not appear to be the main issue, since people who spent long hours seated at mentally engaging jobs often showed healthier brain patterns. Indian startup unveils AI-powered virtual clothes try-on app, set to debut next month. PointAI has launched My Wardrobe, a virtual try-on app that generates a digital twin from selfies for photorealistic clothing previews. Nearly every Kindle is steeply discounted at Best Buy. If you've been thinking about picking up a Kindle before school starts, or for your next vacation, now's a good time to do it. As part of its Black Friday in July sale, Best Buy has brought the Kindle Paperwhite back down to its all-time low of $124.99 ($35 off). It's the Kindle we recommend AI and the rise of the universal entertainment app. Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it easier to create, organize, and recommend content, those distinctions are fading, pushing companies like Spotify, Netflix, YouTube, and TikTok to become all-purpose entertainment destinations instead. A hidden \"switch-off\" signal could predict solar storms seven years early. A newly discovered turning point in the Sun's 11-year cycle could allow scientists to predict future solar activity years earlier than before. At this \"switch-off\" point, the most violent space weather abruptly ends, and the remaining number of sunspots offers clues about the next cycle's strength. Early projections suggest Solar Cycle 26 may be moderate, but a clearer forecast is expected in about two years. Samsung launches Back to School offers with discounts on Galaxy S26, Book6 Pro and more. Samsung has launched 'Back to School' offers in India, featuring discounts and no-cost EMI on Galaxy devices. Apple's rumored 'Upgrade' program brings lease-to-own pricing for iPhones, Macs, and iPads. As component and RAM shortages drive prices higher, Apple is reportedly launching an \"Apple Upgrade\" program for leasing new devices. According to Bloomberg's Mark Gurman, it will work similar to a car lease, with options to upgrade to a new device early, or keep or return the device at the end of the lease. Gurman Bucking EV slowdown, Sila raises $300M to expand battery materials factory. Sila's fresh $300 million round will help it make enough of its silicon-carbon anode material to power more than 100,000 EVs. New molecular map reveals how the flu virus hijacks human cells. Scientists uncovered how influenza A commandeers human cells, including a surprising strategy that dissolves tiny structures in the nucleus and releases proteins the virus may use to reproduce. The detailed molecular map could reveal new drug targets and help researchers study dangerous flu strains such as H5N1. Exclusive-US, China to hold AI talks in September, sources say. USA-CHINA-AI:Exclusive-US, China to hold AI talks in September, sources say Twitch will let parents stop their teens going live. Twitch is giving parents more control over how their children are using the streaming platform, including the ability to block them from broadcasting entirely. Parental controls are now available that allow guardians to link Twitch accounts with their 13- to 17-year-old children, providing account management features and a weekly email summarizing their teen's activity, including Einride bets $38M on EV charging as it scales electric trucking. The acquisition , Einride's first as a publicly traded company , will expand its EV-charging ecosystem as it works to scale its electric trucking business. Anthropic's $1.5 billion book piracy settlement approved by judge. A federal judge has signed off on Anthropic's $1.5 billion class action settlement with authors who accused the company of training its AI models on copyrighted books, as reported earlier by Reuters. In an order on Monday, Judge Araceli Martínez-Olguín writes that the settlement will provide \"meaningful relief,\" offering authors around $3,000 for each book Apple teams up with Klarna to launch a lease-to-own program for iPhones, iPads, and Macs. The new leasing program is a big change for the hardware company, and comes as it looks to raise prices on many of its products."
     },
     {
       "title": "Development and policy",
-      "text": "Now to development, infrastructure and government policy. Tourism and infrastructure threaten habitat of India's Himalayan salamanders. India-Seychelles Relations: Exploring Blue Economy Opportunities. \"I think the water is a little overdone... the actual water requirements are really not that high\" says Kuldeep Jain, MD of CleanMax Enviro Energy Solutions, on why power, not water or land, is the biggest constraint for AI data centres. Speaking to Mangalam Mal. BJP describes govt's E20 as one of India's biggest public policy successes. India's infrastructure output rises 5 percent y/y in June under new series. Egis appoints Vipul Surana as Chief Executive Officer for India. 'Will not be functional in present form': India firm on Indus Waters Treaty until Pakistan ends cross-border terrorism. India says allegedly leaked nuclear plant files pose no safety risk. RITES, MECON sign MoU to jointly pursue infrastructure projects in India and overseas. How India can build stronger manufacturing economy. India's trade policy review at WTO slated for July 21 and 23."
+      "text": "Now to development, infrastructure and government policy. India's economic outlook July 2026. India tunnel collapse at a hydropower project kills 10 as 17 remain missing. Cybersecurity Preparedness in India's Expanding Digital Economy. DW News. . At least 10 people were killed after a blast at a hydroelectric project in India's Sikkim state. More than two dozen remain trapped after a suspected gas explosion collapsed a tunnel. Toxic fumes have hampered rescue efforts, with authorities warnin. Why Strategic Persuasion is an Imperative for India. Explosion in Indian hydropower project tunnel leaves 11 dead and 14 missing. Private Job Employees Big News EPFO New Scheme 2026 Pension Boost. \"India Is Now A Solar Superpower Backed By Skilled Workforce\": UN Climate Chief. From Reflection to Action: A Toolkit for Engaging Men and Boys for Gender Equality. India favours local high-speed technology for Mumbai. 'There Is Zero Accountability': India's 'Cockroaches' Question Modi and a Broken System."
     },
     {
       "title": "Across India",
-      "text": "Turning to the big national stories. J and K floods: Lal Chowk flooded, Amarnath yatra stays suspended. Heavy rainfall inundated Srinagar's Lal Chowk and other city areas on Monday morning. Netizens criticized the government over the drainage system's alleged failure. Officials cited overwhelming rainfall, while critics questioned the Smart City infrastructure project. The Omar Abdullah cabinet previously raised concerns and ordered an external audit. NC's Delhi protest draws oppn flak; BJP slams Omar for ignoring floods, PDP asks him to emulate Wangchuk. National Conference held a protest in Delhi seeking statehood restoration. Other parties criticized the party president and chief minister for their absence. BJP stated the government should have been present to manage flood relief efforts. PDP suggested learning from activist Sonam Wangchuk's mobilization efforts. Global urea prices ease after May spike, fall 40 percent in June. Urea prices fell significantly in June, offering government relief after earlier increases. International urea prices were $572 per tonne, down from May's figures. Other fertilizer prices like diammonium phosphate and potash remained higher than last year. Sulphur prices saw the largest increase, rising 265 percent year-on-year. Delhi violence not spontaneous, says BJP, blames Left. The BJP has blamed Left-affiliated student groups for protests and violence. Organised groups were also accused of instigating and mobilising crowds. Similar allegations were made regarding the Delhi riots and ongoing legal proceedings. The party stated that the violence did not appear spontaneous and was orchestrated. J and K flood toll climbs to 28 as fresh deaths hit Poonch, Doda; rescuers dig through debris as rain threat persists. Torrential rain caused flash floods and landslides, killing twenty-eight people across Jammu division. Poonch reported twenty-three deaths, including several children, after a house collapse. Rescuers dug four bodies from rubble left by raging streams and collapsing hillsides. Amarnath Yatra and pilgrimages to Vaishno Devi shrine remained suspended for a second day. \"Modi Government has become extremely arrogant\": Arvind Kejriwal on Lathi-Charge against protesters. AAP national convener Arvind Kejriwal on Monday launched a scathing attack on the Centre over the police action against students, calling the Modi government \"extremely arrogant\" for using force against peaceful protesters. 'Power does not last forever': Rahul Gandhi's warning to police after tear gas, lathicharge on student protesters. NEW DELHI: Congress MP and Leader of Opposition in the Lok Sabha Rahul Gandhi on Monday warned police officers that 'power does not last forever' and 'accountability will certainly be enforced', saying the Constitution, not the government is their 'master'. CJP march: Police say detained protesters 'not students'; more arrests likely. NEW DELHI: Delhi Police on Monday said the protesters detained during the Cockroach Janata Party's march to Parliament were not students and that their identities were being verified. India, Moldova discuss UNSC reforms, fight against terror. The President held bilateral discussions with her Moldovan counterpart Maia Sandu. Fake snakebite deaths, forged autopsies: Chhattisgarh probe leads to doctor's arrest. Investigators claimed forged post-mortem reports were prepared, falsely showing snakebite as the cause of death in several cases. Indus Waters Treaty: Government focus on Chenab projects, renegotiation. The Indian Express has learnt that Delhi's key priority is the speedy completion of hydropower projects on the Chenab. 2 IPS trainees, harassment complaint, 'suicide' attempt: Case that rocked Hyderabad police academy. Constable who quit his job and cleared UPSC is now in hospital, a day after he was booked in a sexual harassment case 6 months, a plan to kill and an AI tool: What police found in Bengaluru triple murder. The alleged motive, according to case records: a dispute over money Shwetha had taken from her parents to spend on her partner. Stone pelted on India's first hydrogen train? Indian Railways responds to viral video. A viral video claimed India's first hydrogen train was targeted with stone pelting. Russia-Ukraine war: 4 Indian sailors among 10 killed as missile hits ship. According to the Ukrainian Air Force, Russian forces launched three Kh-59/Kh-69 cruise missiles during the attack. 'He was set to get married, change jobs': 4 Indians killed in Russian attack on cargo ship off Ukraine coast. As per the Ministry of External Affairs, on the evening of July 19, the vessel was attacked while departing the port of Odesa Magisterial probe ordered into killing of youth in J and K's Doda. Police claimed three other policemen were also injured in the attack. Assam floods disrupt rail services: Over 30 trains cancelled, diverted and short-terminated – Full list. Assam flood has disrupted rail traffic, with over 30 trains cancelled, diverted or short-terminated. No Detailed Project Report received for metro rail extension upto Rishikesh: Centre. The Centre has said it has not received a Detailed Project Report (DPR) for the urban rail extension to Rishikesh."
+      "text": "Turning to the big national stories. Another SC judge, the 3rd, opts out of hearing Gadling bail plea. New Delhi: Supreme Court judge Shree Chandrashekhar on Tuesday recused himself from hearing the bail plea of lawyer-activist Surendra Gadling in the 2016 Gadchiroli arson case. Modi government picks a Sikh again to head minorities panel. NEW DELHI: After remaining without a chief for 15 months, National Commission for Minorities (NCM) Tuesday saw its new chairman Harjit Singh Grewal, assume charge. CJP back at Jantar Mantar, cops break Congress protest at PM house. NEW DELHI: Stepping up their protest over NEET paper leak, senior Congress functionaries, including party chief Mallikarjun Kharge and Rahul Gandhi staged a surprise sit-in outside PM Modi's residence, as govt and BJP accused Rahul of precipitating confrontation with his protest in a high-security zone which showed he is a \"symbol of anarchy\". J and K anti-drug drive: 2,581 drug traffickers held, 1,431kg narcotics seized in 100 days. SRINAGAR: In the past 100 days, J and K authorities arrested 2,581 drug traffickers, seized 1,431 kg of narcotics, including 23.3 kg of heroin, and confiscated assets worth over rupees 188.8 crore under the \"Drug-Free J and K\" campaign to cripple narco-terror financing, Lieutenant Governor Manoj Sinha said Tuesday. 'Government had no interest in debate': Rahul Gandhi on why Congress protested outside PM's residence. Rahul Gandhi addressed students and the Prime Minister concerning the NEET paper leak. He demanded a proper discussion in Lok Sabha about the examination system. The Congress party protested outside the Prime Minister's residence over the issue. Gandhi questioned the collapsing Indian education system and rising exam costs. Health minister JP Nadda, MoS Jitendra Singh meet Sonam Wangchuk at Medanta Hospital: Report. Union ministers made a notable visit to activist Sonam Wangchuk, currently hospitalized at Medanta in Gurugram. This follows the Delhi High Court's ruling, which facilitated his urgent transfer from Safdarjung Hospital after his wife's appeal contested a previous decision. As Wangchuk enters the 24th day of his hunger strike, protests continue to erupt at Jantar Mantar over the alleged NEET paper leak. IED found in J and K's Rajouri, destroyed. JAMMU: Alert Army personnel discovered an Improvised Explosive Device (IED) during a search in Dalhori area of J and K's Rajouri district late Monday. Israeli man held with 'narcotics' in Ladakh's Zanskar. JAMMU/ZANSKAR: Police arrested an Israeli national after seizing suspected narcotics from his possession during a routine checking drive at Kargyak Check Post in Zanskar, Ladakh, officials said Tuesday. 'Monsoon Session will be washed out': Congress warns Centre over NEET leak, police action on youth protesters. Congress warns of a Parliament washout if discussions on NEET-UG paper leak are refused. Opposition leaders were detained after protesting outside the Prime Minister's residence. They demand a statement from the Home Minister on police actions against students. The party also calls for the resignation of the Union Education Minister. Government restores WPI linking factor; toll rates on national highways rise marginally. NEW DELHI: Toll charges on National Highways (NHs) and expressways have marginally increased at several toll plazas across the country, particularly for commercial and heavy vehicles, following a Delhi High Court order restoring the use of a linking factor to convert the Wholesale Price Index (WPI) series for revising user fees. Rahul dragged, Priyanka clings to bus door: Five pictures that defined Congress protest outside PM Modi's residence. NEW DELHI: High drama unfolded outside Prime Minister Narendra Modi's residence in Delhi on Tuesday as the Congress, led by Rahul Gandhi, arrived to stage a sit-in protest, catching security personnel off guard. Doctor, nurse, CEO, caregiver: We tested how AI imagines gender. \"The male is by nature superior, and the female inferior; the one rules, and the other is ruled.\" Future of youth beyond politics, says PM Modi, calls for 'foolproof' exams. In first remarks after police cracked down on Cockroach Janta Party-led protesters marching towards Parliament to press for the resignation of Union Education Minister Dharmendra Pradhan, Prime Minister Narendra Modi, while defending the steps taken by his government in the wake of the NEET-UG question paper leak, called for a \"foolproof system\" to prevent any Government rescinds incorrect Rajya Sabha election results notification. The rescinded notification in question was titled \"Publication of result of Biennial election to the Council of States from the State of Mizoram\". Madhya Pradesh Assembly passes UCC Bill, Congress slams 'RSS agenda'. Bill bans polygamy, criminalises practices such as triple talaq and nikah halala, mandates registration of marriages, divorces and live-in relationships, and grants equal inheritance rights irrespective of gender"
     },
     {
       "title": "Around the world",
-      "text": "And finally, here is what is happening around the world. Yemen's Houthis announce 'maritime embargo' on Saudi Arabia. The Houthis say the embargo begins immediately and is a response to a Saudi blockade of ports and airports in Yemen. Boy, 13, dies during World Cup celebrations in Spain. Two other young people were injured after a fountain partially collapsed in Salamanca's Ciudad Rodrigo. Hamas names Khalil al-Hayya as new overall leader. The Palestinian armed group's Qatar-based chief negotiator replaces Yahya Sinwar, who was killed by Israeli forces in Gaza in 2024. Scores feared dead after passenger ferry capsizes off Guyana. Sixty-seven people have been rescued but the ferry is thought to have had more than 130 people on board."
+      "text": "And finally, here is what is happening around the world. Dozens hurt in Bologna protests after man dies while being restrained by police. Thousands of people took to the streets demanding justice for a Moroccan-born man who died on Sunday. US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers. Iran says it has hit two ships in the Strait of Hormuz as well as targets in Bahrain and Jordan. Two French firefighters die tackling blaze near Bordeaux airport. The blaze close to the parking lots at Bordeaux-Mérignac Airport is said to have originated from a brush fire."
     },
     {
       "title": "Sign-off",
