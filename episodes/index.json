@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-08-28",
+    "dateline": "Friday, August 28",
+    "audio": "episodes/2026-08-28.mp3",
+    "json": "episodes/2026-08-28.json",
+    "duration_sec": 2878.1
+  },
+  {
     "date": "2026-08-27",
     "dateline": "Thursday, August 27",
     "audio": "episodes/2026-08-27.mp3",
@@ -201,12 +208,5 @@
     "audio": "episodes/2026-07-30.mp3",
     "json": "episodes/2026-07-30.json",
     "duration_sec": 2861.9
-  },
-  {
-    "date": "2026-07-29",
-    "dateline": "Wednesday, July 29",
-    "audio": "episodes/2026-07-29.mp3",
-    "json": "episodes/2026-07-29.json",
-    "duration_sec": 2887.3
   }
 ]
