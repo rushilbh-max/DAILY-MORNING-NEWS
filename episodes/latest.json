@@ -1,12 +1,12 @@
 {
-  "date": "2026-10-26",
-  "dateline": "Monday, October 26",
+  "date": "2026-10-27",
+  "dateline": "Tuesday, October 27",
   "title": "Grace Bath World — Morning Brief",
-  "audio": "episodes/2026-10-26.mp3",
-  "duration_sec": 2861.9,
-  "est_minutes": 47.8,
-  "word_count": 6133,
-  "generated_utc": "2026-10-26T01:10:15Z",
+  "audio": "episodes/2026-10-27.mp3",
+  "duration_sec": 2900.9,
+  "est_minutes": 47.9,
+  "word_count": 6150,
+  "generated_utc": "2026-10-27T02:02:59Z",
   "chapters": [
     {
       "title": "Opening",
@@ -14,39 +14,39 @@
     },
     {
       "title": "Top headlines",
-      "start": 22.4
+      "start": 22.6
     },
     {
       "title": "Bhopal and Madhya Pradesh",
-      "start": 340.5
+      "start": 371.6
     },
     {
       "title": "Business and markets",
-      "start": 615.1
+      "start": 646.2
     },
     {
       "title": "Money, tax and personal finance",
-      "start": 1337.0
+      "start": 1204.2
     },
     {
       "title": "Science and technology",
-      "start": 1917.4
+      "start": 1890.0
     },
     {
       "title": "Development and policy",
-      "start": 2413.4
+      "start": 2537.2
     },
     {
       "title": "Across India",
-      "start": 2469.1
+      "start": 2628.6
     },
     {
       "title": "Around the world",
-      "start": 2797.7
+      "start": 2852.5
     },
     {
       "title": "Sign-off",
-      "start": 2856.7
+      "start": 2895.7
     }
   ],
   "sections": [
@@ -54,43 +54,47 @@
       "title": "Top headlines",
       "items": [
         {
-          "title": "Former CJI D Y Chandrachud was more deferential to govt than needed, says Justice Kaul",
+          "title": "Harry Kane wins 2026 Ballon d'Or, becomes 1st player to claim two awards in one night",
           "source": "Times of India"
         },
         {
-          "title": "From outranking Fab Four to fight for place: Rise, reign and unraveling of Labuschagne",
+          "title": "'Not trying to reinvent the wheel': Luke Williams backs MI's core for WPL 2027",
           "source": "Times of India"
         },
         {
-          "title": "BJP calls for nationwide protest over Kharge's 'baap' remark",
+          "title": "Microsoft extends buyouts to 60,000 staff in India, US, UK and Canada",
           "source": "Times of India"
         },
         {
-          "title": "Nasa's Isaacman shares Artemis IV update as SpaceX, Blue Origin plan Moon base",
+          "title": "Delaware sank 180-foot ship bought for $1 to create artificial reef",
           "source": "Times of India"
         },
         {
-          "title": "Alabama lawyer quit practice to care for parents; court voids her condo deed",
+          "title": "Lawrence Bishnoi shifted to high-security Ahmedabad jail block housing 2008 blasts convicts",
           "source": "Times of India"
         },
         {
-          "title": "Brazil's Lula wins re-election, defeating Trump ally Bolsonaro",
+          "title": "7 civilians killed in Jordan strike on Syrian militants in retaliation to church attack",
           "source": "Times of India"
         },
         {
-          "title": "Serbia's Vucic concedes defeat as student-led movement wins parliamentary election",
+          "title": "California farmer's email experiment triples walnut crop's gross revenue",
           "source": "Times of India"
         },
         {
-          "title": "80-ton boulder at NH Polar Caves since 1922 collapses, no injuries",
+          "title": "Michigan woman buys 128-year-old church for $45K, turns it into home",
           "source": "Times of India"
         },
         {
-          "title": "Husband jailed next door missed hearing, lost home; court reopens case",
+          "title": "June 2025 decision to hold SIR taken unanimously, EC tells SC",
           "source": "Times of India"
         },
         {
-          "title": "Woman dreamt collector, built trust aiding goldsmiths, students, trans housing",
+          "title": "Bill Gates says Meta's Muse is the first great consumer AI product, but has one worry",
+          "source": "Times of India"
+        },
+        {
+          "title": "Asin's daughter, 8, can speak 12 languages, says dad; no TV or phones at home",
           "source": "Times of India"
         }
       ]
@@ -99,67 +103,75 @@
       "title": "Bhopal and Madhya Pradesh",
       "items": [
         {
-          "title": "MP CM Mohan Yadav Slams Mallikarjun Kharge Over Remarks Against PM Modi's Father; Shivraj Chouhan Questions Congress Leadership",
+          "title": "Kuno Cheetah Nirva's 19-Month-Old Cub Found Injured In Morena's Poaching-Sensitive Area, Forest STF Probes Possible Attack",
           "source": "Free Press Journal"
         },
         {
-          "title": "Bhopal Traffic Alert: Diversions Near Lal Parade Ground From 3 PM On October 26 As 25,000 Devotees Expected; Check Routes And Parking",
+          "title": "Bhopal Lokayukta To Question Jailed Rohit Gogia Over Alleged rupees 1 Crore Payment To Suspended Excise Officer Deepam Raichura",
           "source": "Free Press Journal"
         },
         {
-          "title": "Tiger Shroff Attack Case: MP STF Intensifies Surveillance After Indore Arrest; 33 Bishnoi Gang Operatives Held Across State",
+          "title": "Bhopal BJP Workers Gherao Congress Office Over Kharge's Remark On PM Modi's Father, Police Use Water Cannon; Congress Leader Injured",
           "source": "Free Press Journal"
         },
         {
-          "title": "Cancer Survivors Join AIIMS 'Run For Life' Green Run In Bhopal; Doctors Stress Early Detection, Timely Treatment And Exercise",
+          "title": "Centre Questions MP Police Dial-112 Response Time Of 22 Minutes, State Officials Say Current Average Is 12 Minutes",
           "source": "Free Press Journal"
         },
         {
-          "title": "Simhastha 2028: Senior IPS Officer Seeks Transfer Of Kshipra River's Origin To Forest Department, Calls For Removal Of Encroachments",
+          "title": "Bhopal Metro Work Triggers 22-Day Traffic Diversions Between ITI Crossing And Piplani Petrol Pump From October 27, Check Alternative Routes",
           "source": "Free Press Journal"
         },
         {
-          "title": "VHP Activists Block Road In Bhopal After Police Object To Girls Carrying Swords During Durga Vahini Yatra; Procession Later Allowed",
+          "title": "Over 1.21 Lakh Bhopal Homes To Get Sewer Connections, 30,000 New Water Taps Planned",
           "source": "Free Press Journal"
         },
         {
-          "title": "MP's Proposed Rewa Nuclear Power Plant Faces Congress Opposition; Umang Singhar Raises Safety Concerns, Vows To Take Issue To Assembly",
+          "title": "Diwali 2026 Sweets And Namkeen Prices Rise 10-15 percent In Indore, Kaju Katli Touches rupees 1,200 Per Kg As Raw Material Costs Surge",
           "source": "Free Press Journal"
         },
         {
-          "title": "Six Terminated Patwaris In Indore Await Reinstatement Despite Government Assurance; Fresh Dindori Dismissal Sparks Anger Over SVAMITVA Yojana Agitation",
-          "source": "Free Press Journal"
-        },
-        {
-          "title": "Over 30,000 Devotees Attend Shrimad Bhagwat Katha In Indore As Indresh Maharaj Highlights Divine Love And Devotion; Sharad Utsav On October 26",
-          "source": "Free Press Journal"
-        },
-        {
-          "title": "Madhya Pradesh Premier League 2026 Points Table",
+          "title": "Madhya Pradesh CM Mohan Yadav inaugurates Nishatpura Railway Station in Bhopal Akashvani News",
           "source": "Local"
         },
         {
-          "title": "NLIU Bhopal To Organise International Conference On Law, Language And Literature In February 2027; Submit ",
+          "title": "BJP protests Kharge's remarks against PM Modi's father in Bhopal",
           "source": "Local"
         },
         {
-          "title": "35-Year-Old Stockbroker Firm Agent Crushed To Death By Speeding Mini Truck In Indore While Returning From Shani Temple; Driver Caught By Locals",
+          "title": "Kolkata Woman Dies As Taxi Overturns On Ujjain-Indore Road After Mahakal Darshan, Driver Allegedly Ignored Son's Pleas To Slow Down",
           "source": "Free Press Journal"
         },
         {
-          "title": "Procurement gap worth rupees 250 crore? Madhya Pradesh acts against 392 civic officials",
+          "title": "Dengue in Bhopal: 156 Cases Reported This Year as Health Department Steps Up Prevention Drive",
           "source": "Local"
         },
         {
-          "title": "4,000 Indians stranded in Saudi Arabia after Umrah: Facing extra costs of rupees 4,000–5,000 a day; over 120 peop",
+          "title": "Supreme Court Collegium recommends appointment of 7 advocates as Madhya Pradesh High Court judges",
           "source": "Local"
         },
         {
-          "title": "MP: Seven buses gutted in fire at Bhopal bus terminal; no injuries",
+          "title": "Ujjain Artist Siddharth Bhagchandani Sets Four World Records With 111-Metre Mandana Painting Depicting Shiv Baraat In Just 32 Hours",
+          "source": "Free Press Journal"
+        },
+        {
+          "title": "Idol Immersion Water Pollution Checks Begin in Bhopal, Indore",
           "source": "Local"
         },
         {
-          "title": "IIM Indore Develops AI Framework To Safeguard Semiconductor Supply Chains From Wars, Cyberattacks And Geopolitical Disruptions; Study Identifies Safer Logistics Routes",
+          "title": "Twisha Sharma Death Case: Madhya Pradesh High Court Reserves Order On Giribala Singh's Bail",
+          "source": "Local"
+        },
+        {
+          "title": "Indore Water Supply To Be Affected In 19 Overhead Tank Zones On October 27 As Narmada Phase I And II Pumps Shut For Pipeline Repairs",
+          "source": "Free Press Journal"
+        },
+        {
+          "title": "Caretaker had also beaten his minor girlfriend in Punjab: Varun, suspect in retired IAS officer's murder, w",
+          "source": "Local"
+        },
+        {
+          "title": "Simhastha 2028 Preparations In Ujjain Divisional Commissioner Orders Faster Work On 19.8-Km Bypass And 98.7-Km Greenfield Road, Strict Quality Checks",
           "source": "Free Press Journal"
         }
       ]
@@ -168,100 +180,112 @@
       "title": "Business and markets",
       "items": [
         {
-          "title": "Capital shifting from secondary market to rupees 5 trillion IPO pipeline: Madhu Lunawat",
+          "title": "Tokenisation can unlock hidden wealth, cut borrowing costs: Mudrex CEO",
+          "source": "Business Standard"
+        },
+        {
+          "title": "Jio Platforms IPO allotment status finalised! Did you get shares - check from direct Kfin tech, NSE website links",
           "source": "Livemint Markets"
         },
         {
-          "title": "SI Arena debuts at BFSI Summit: Bringing market experts closer to investors",
+          "title": "Tokenisation offers common ledger for real-world assets, says Edul Patel",
           "source": "Business Standard"
         },
         {
-          "title": "Infosys's huge deal wins fail to give it an edge over peers",
+          "title": "Retail participation has been very strong in India, says Vikas Satija",
+          "source": "Business Standard"
+        },
+        {
+          "title": "Stock markets rebound after 4-day slump; Sensex jumps 483 points",
+          "source": "Business Standard"
+        },
+        {
+          "title": "Sembcorp Industries mulls rupees 3,750 cr IPO for India unit in Dec 2026: Firm profile; top details investors should know",
           "source": "Livemint Markets"
         },
         {
-          "title": "Senco Gold to acquire 68 percent stake in August Jewellery for rupees 68 crore",
+          "title": "Jio IPO falls short of record payday for bankers despite mega issue",
           "source": "Business Standard"
         },
         {
-          "title": "Gold, silver face fresh test as oil surge puts Fed policy decision in focus",
-          "source": "Business Standard"
-        },
-        {
-          "title": "Bond yields rise nearly 30 bps in Oct, to raise govt's interest burden",
-          "source": "Business Standard"
-        },
-        {
-          "title": "Nifty slide brings 18 month old support back to the fore",
+          "title": "Nippon Life AMC shares: Last chance to buy for rupees 9.50 interim dividend; record date, dividend yield",
           "source": "Livemint Markets"
         },
         {
-          "title": "Top 10 firms lose rupees 1.55 trillion in mcap as HDFC Bank, Bajaj Finance fall",
+          "title": "First rupees 1 crore is always earned through active income and skills: Anant Ladha",
           "source": "Business Standard"
         },
         {
-          "title": "US Stock Markets this week: Wall Street gears up for Fed rate decision; Q3 earnings from Alphabet, Microsoft, Amazon",
+          "title": "Goldman Sachs Kospi target cut: Why South Korea market experts lowered target to 9,000 from 12,000 - Explained",
           "source": "Livemint Markets"
         },
         {
-          "title": "Five IPOs to raise nearly rupees 2,600 crore as primary market stays active",
+          "title": "Anthropic opens books on AI's explosive growth and staggering costs",
           "source": "Business Standard"
         },
         {
-          "title": "PSU Q2 results 2026 preview: BEL, Coal India, IGL - Earnings estimate, brokerage target price, returns potential",
+          "title": "Brazil's Ibovespa plunges 17.3 percent as Lula defeats Bolsonaro in presidential runoff; biggest-ever one-day crash",
           "source": "Livemint Markets"
         },
         {
-          "title": "Q2 results, US Fed decision, crude oil may drive stock markets this week",
+          "title": "SIPs, multibaggers and financial freedom: Lessons from Smart Investor Arena",
           "source": "Business Standard"
         },
         {
-          "title": "Dividend buzz: Dalmia Bharat, Mazagon Dock, Coal India, NTPC, others to consider payouts this week - Check full list",
-          "source": "Livemint Markets"
-        },
-        {
-          "title": "FPIs withdraw rupees 48,056 crore from equities in Oct amid elevated oil prices",
-          "source": "Business Standard"
-        },
-        {
-          "title": "Kharge makes 'baap' remark on Modi; BJP hits back",
+          "title": "US-brokered truce begins in Oleshky",
           "source": "Economic Times"
         },
         {
-          "title": "IT stocks dividend record date this week: Cyient, LT Tech, Hexaware, Hypersoft, Sagility - Who pays most? Amount, return",
+          "title": "How to check Jio Platforms IPO allotment status online on mobile by direct link of NSE and Kfin Tech websites",
           "source": "Livemint Markets"
         },
         {
-          "title": "'India must bolster tech, economic resilience'",
+          "title": "Benchmark bond yield nears 7.5 percent on rising crude oil prices, US cues",
+          "source": "Business Standard"
+        },
+        {
+          "title": "ECI denies CEC acted alone in taking SIR decisions",
           "source": "Economic Times"
         },
         {
-          "title": "Reliance's Jio Platforms IPO allotment on Mon, Oct 26: What happens to your money if you get none, one or many lots?",
-          "source": "Livemint Markets"
+          "title": "Recipe for spotting multibaggers: Research, patience and a dash of luck",
+          "source": "Business Standard"
         },
         {
-          "title": "AI narrative needs to change for India: Citibank",
+          "title": "Fuel exports earn India 50 percent more in April-Sept",
           "source": "Economic Times"
         },
         {
-          "title": "Bertie fights off the song of turbo-charged returns",
+          "title": "Anthropic IPO: It's official now! Artificial intelligence giant files papers to sell shares to public for first time",
           "source": "Livemint Markets"
         },
         {
-          "title": "Can set-top boxes become TV's new ratings meter",
+          "title": "Eternal extends rally; stock soars 8 percent in two days post Q2 results",
+          "source": "Business Standard"
+        },
+        {
+          "title": "Centre works on integrated textile tax plan",
           "source": "Economic Times"
         },
         {
-          "title": "Stock market prediction for Monday Oct 26: Sensex, Nifty levels, top stocks to watch - Will bulls dance again?",
+          "title": "Jio Platforms IPO single-lot profit calculator: What will the listing gains be if you get an allotment? Latest GMP today",
           "source": "Livemint Markets"
         },
         {
-          "title": "Big-ticket deals fade as investor $ dip on India Inc",
+          "title": "ITC Hotels shares gain 8 percent as Q2 PAT rises 51 percent to rupees 201 cr, RevPAR up 21 percent",
+          "source": "Business Standard"
+        },
+        {
+          "title": "Tax dept nudges taxpayers on foreign assets",
           "source": "Economic Times"
         },
         {
-          "title": "Dividend, stock split, resolution plans record date Oct 26: Hexaware, Midaas, Talwalkars Better Value, Ashapura Fashion",
+          "title": "Nifty Smallcap 100 sinks 9 percent in a month Buy the dip or more pain ahead? Experts flag key levels, stocks to watch",
           "source": "Livemint Markets"
+        },
+        {
+          "title": "Ather Energy share price zooms 18 percent on Q2 turnaround, robust revenue growth",
+          "source": "Business Standard"
         }
       ]
     },
@@ -269,99 +293,111 @@
       "title": "Money, tax and personal finance",
       "items": [
         {
-          "title": "Did your balanced advantage fund buy the dip? Here's what your investment strategy should be now",
+          "title": "Latest FD interest rates after recent rate changes: ICICI Bank, Indian Bank, SBI and HDFC Bank",
           "source": "ET Wealth"
         },
         {
-          "title": "Fell for a fake trading app or guaranteed-return WhatsApp group? What to do immediately? Can you recover your money?",
+          "title": "Foreign asset disclosure: I-T dept reaches out to taxpayers with UAE properties as December 31 deadline looms",
           "source": "Livemint Money"
         },
         {
-          "title": "RBI rate hikes: How short-duration funds and high-quality corporate bonds can protect your debt portfolio",
+          "title": "5 ways to invest in gold this Dhanteras and Diwali: From jewellery and gold ETFs to digital gold",
           "source": "ET Wealth"
         },
         {
-          "title": "Indian Bank hikes interest rates on special-tenure fixed deposits , check how much 555-day and 777-day FDs are offering",
+          "title": "S and P 500 versus Nasdaq 100: Which global index fund is right for Indian investors seeking international market exposure?",
           "source": "Livemint Money"
         },
         {
-          "title": "Diwali travel rush: How to save on last-minute flight tickets and when to stop waiting for discounts",
-          "source": "ET Wealth"
-        },
-        {
-          "title": "Central government pensioners await DR hike as Bharat Pensioners Samaj seeks cabinet secretary's intervention",
+          "title": "DA hike news 2026: Good news before Diwali! Now, Dearness Allowance every month with minimum salary for these employees",
           "source": "Livemint Money"
         },
         {
-          "title": "NPS subscribers are less swayed by short-term market movements now, says Axis Pension Fund CEO Sumit Shukla",
+          "title": "EPS-95 higher pension: Pensioners' body appeals to President as retirees struggle to get higher pension",
           "source": "ET Wealth"
         },
         {
-          "title": "NPS Vatsalya: Can your child continue this pension scheme after turning 18? Know the investment rules and exit options",
+          "title": "PNB account holders alert! These accounts will be closed after November 10 - here is why",
           "source": "Livemint Money"
         },
         {
-          "title": "Debt investing strategies: How laddering, barbell, bullet and other strategies work",
+          "title": "Central Bank of India clarifies all accounts are safe after reports of 187 unauthorised transactions worth rupees 13.97 crore",
           "source": "ET Wealth"
         },
         {
-          "title": "Planning to buy gold jewellery on Dhanteras? How to check its purity beyond hallmarking Complete process explained",
+          "title": "Buy now, pay later versus credit card EMI: Cheaper versus expensive analysis - Expert explains interest, fees, hidden charges",
           "source": "Livemint Money"
         },
         {
-          "title": "Non-life insurance to play a bigger role in financial planning over the next 25 years: ICICI Lombard",
-          "source": "ET Wealth"
-        },
-        {
-          "title": "Income tax rules explained: Sold land or property? How Section 54EC bonds can help you claim capital gains tax exemption",
+          "title": "Dhanteras 2026: Buying gold jewellery? Here's how to check purity, verify BIS hallmark and avoid costly mistakes",
           "source": "Livemint Money"
         },
         {
-          "title": "Festive sales: Are discounts making you spend more? How to avoid the trap and shop smarter",
+          "title": "Gold rate and silver rate today (October 26, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from Malabar Gold and Diamonds, Joyalukkas, Kalyan Jewellers, Tanishq and IBJA in Delhi, Mumbai, Hyderabad and more cities",
           "source": "ET Wealth"
         },
         {
-          "title": "Explained: Received an interest-free loan money from employer? Know what this special benefit means; when it is taxable",
+          "title": "Flight cancellation refund: Can airlines keep the GST charged on your ticket? Here's what the tribunal ruled",
           "source": "Livemint Money"
         },
         {
-          "title": "Health insurance: 5 gaps in your policy that could leave you with a bigger bill at the time of claim",
+          "title": "13 chemical stocks: Motilal Oswal has Buy on SRF, Atul, Vinati, Galaxy; Sell on Deepak Nitrite, Fine Organic",
           "source": "ET Wealth"
         },
         {
-          "title": "Lump sum versus instalments: How nominees can receive term insurance benefits after the insured person's death",
+          "title": "Home loan restructuring: How to reduce your EMI, eligibility rules and impact on credit score explained",
           "source": "Livemint Money"
         },
         {
-          "title": "Health insurance claim settlement: Which insurers are fastest at paying approved claims?",
+          "title": "Builder missing or bankrupt? What homebuyers can do about the home loan, RERA and the IBC",
           "source": "ET Wealth"
         },
         {
-          "title": "Malabar Gold rates October 2026: 22K, 24K gold compared with Tanishq, Joyalukkas; Which jeweller offers the best prices?",
+          "title": "rupees 1 crore life insurance policy: Thinking of exiting before maturity? Check your surrender value before you take decision",
           "source": "Livemint Money"
         },
         {
-          "title": "Retirement planning: Why the US retirement model may not work for Indian retirees",
-          "source": "ET Wealth"
-        },
-        {
-          "title": "Bank holiday tomorrow Monday Oct 26: Chandigarh, Bengaluru, Shimla, Srinagar, Jammu, Agartala branch closed; here's why",
+          "title": "Retiring with rupees 2 crore? Your savings could run out in just 13 years , here's what an expert advises",
           "source": "Livemint Money"
         },
         {
-          "title": "Lifestyle inflation: Earning more, saving less? How to enjoy life without sacrificing your financial goals",
+          "title": "8 percent instant discount versus 10 percent cashback versus 1,000 reward points: Are they all the same? Know exactly which one will save more money",
           "source": "ET Wealth"
         },
         {
-          "title": "Kashmir: Hassan Mir urges month pension hike to rupees 3,000 for widows, orphans and elderly, payment of dues",
+          "title": "rupees 50 lakh FD for 5 years: How much more can your senior citizen father earn than you in small finance bank? Check returns",
           "source": "Livemint Money"
         },
         {
-          "title": "Market caps: Microcaps outperform large, mid and small caps in 2026; can they sustain the gains?",
+          "title": "How ultra-rich investors structure family trusts to protect generational wealth: Key structures, benefits and tax Rules",
+          "source": "Livemint Money"
+        },
+        {
+          "title": "Gold versus silver in investment portfolio: Expert explains why there should be different review and assessment strategy",
+          "source": "Livemint Money"
+        },
+        {
+          "title": "DA hike central government employees: Why Centre has not announced it yet; check expected hike",
           "source": "ET Wealth"
         },
         {
-          "title": "J and K Bank boosts accident insurance to rupees 1 crore for J and K government staff; Check key benefits and loan concessions",
+          "title": "Delhi old-age pension survey starts: home visits begin for 4.3 lakh beneficiaries; check payout rates and key details",
+          "source": "Livemint Money"
+        },
+        {
+          "title": "How wealthy investors use Lombard Lending to defer Capital Gains Tax: Borrowing against shares rather than selling them",
+          "source": "Livemint Money"
+        },
+        {
+          "title": "Soaring domestic and international airfares make travellers rethink year-end holidays",
+          "source": "Livemint Money"
+        },
+        {
+          "title": "The Yes Bank AT1 bond case and lessons for all investors",
+          "source": "Livemint Money"
+        },
+        {
+          "title": "Personal loan closed but credit score not improving? Experts explain why",
           "source": "Livemint Money"
         }
       ]
@@ -370,88 +406,108 @@
       "title": "Science and technology",
       "items": [
         {
-          "title": "Deepinder Goyal's Temple brain wearable: rupees 85,000 price, pre-order date and features",
+          "title": "Free Fire India launch date 2026: Is Garena releasing the game soon? What we know",
           "source": "Livemint Tech"
         },
         {
-          "title": "iFixit's look inside the iPhone Duo may explain those broken screens and hinges",
+          "title": "OpenAI announces three big science discoveries and a new way to work with academics",
           "source": "The Verge"
         },
         {
-          "title": "The best apps for tracking your reading and discovering new books",
+          "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
           "source": "TechCrunch"
         },
         {
-          "title": "Just two drinks a day may be far riskier than you think",
+          "title": "Exercise doesn't just strengthen your heart. It rewires it",
           "source": "ScienceDaily"
         },
         {
-          "title": "Tech Layoffs 2026: Job cuts near 2 lakh globally as big tech like Microsoft, Google, Oracle, Meta and more pivot to AI",
+          "title": "Apple's new iPad mini costs rupees 82,900 in India; check features, specifications and sale date",
           "source": "Livemint Tech"
         },
         {
-          "title": "Scott Walker's The Drift will get under your skin",
+          "title": "Samsung's Switch 2-ready MicroSD Express card is on sale for less than $50",
           "source": "The Verge"
         },
         {
-          "title": "Grok releases the first seven minutes of its AI-generated 'Odyssey'",
+          "title": "Cohere says Alibaba's Qwen model tried to send a file to Beijing",
           "source": "TechCrunch"
         },
         {
-          "title": "Scientists reveal the hidden danger of missing blood pressure medication",
+          "title": "A simple liquid can stop cavities without drilling, major study confirms",
           "source": "ScienceDaily"
         },
         {
-          "title": "Less than 20 folds, one cracked screen: iPhone Duo buyers raise durability concerns",
+          "title": "Grand Theft Auto VI launch: How is the highly anticipated game moving calendars as fever grips workforce",
           "source": "Livemint Tech"
         },
         {
-          "title": "A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate",
+          "title": "Anthropic is burning gas to feed the AI boom",
           "source": "The Verge"
         },
         {
-          "title": "'Cyberselfish' author takes aim at techno-libertarianism as her book returns from the dead",
+          "title": "Databricks co-founder shares his secrets for winning big enterprise customers",
           "source": "TechCrunch"
         },
         {
-          "title": "Low-dose aspirin linked to 70 percent lower dementia risk, but there's a catch",
+          "title": "A 2,700-year-old solar eclipse just revealed something surprising about Earth",
           "source": "ScienceDaily"
         },
         {
-          "title": "Zen Browser is the Arc replacement I was looking for",
+          "title": "iPhone Duo now supports Apple Pencil with iOS 27.2",
           "source": "The Verge"
         },
         {
-          "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+          "title": "Watch out, YouTube , Instagram goes from short-form to 90-minute videos",
           "source": "TechCrunch"
         },
         {
-          "title": "This mysterious mushroom makes people see hundreds of tiny humans",
+          "title": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
           "source": "ScienceDaily"
         },
         {
-          "title": "This Switch 2 sequel accessory was a few millimeters away from being good",
+          "title": "The NBA's response to gambling scandals is to add more gambling partnerships",
           "source": "The Verge"
         },
         {
-          "title": "TechCrunch Mobility: Blue-green is the color of autonomy",
+          "title": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren't happy about it",
           "source": "TechCrunch"
         },
         {
-          "title": "Three giant black holes discovered in a galaxy from the dawn of time",
+          "title": "Tiny magnetic vortices could help computers work more like your brain",
           "source": "ScienceDaily"
         },
         {
-          "title": "Now you can watch Instagram Reels on your Apple TV",
+          "title": "The RealReal won't let AI agents hog designer clothing",
           "source": "The Verge"
         },
         {
-          "title": "The hottest AI wearables and gadgets you should know about",
+          "title": "Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
           "source": "TechCrunch"
         },
         {
-          "title": "New evidence suggests spinosaurus spent most of its life underwater",
+          "title": "Archaeologists may have just found the world's oldest shipwreck",
           "source": "ScienceDaily"
+        },
+        {
+          "title": "Apple acknowledges iPhone Duo display 'issue' after reports of cracked screens",
+          "source": "The Verge"
+        },
+        {
+          "title": "This startup's self-driving excavators help dig up $600M in new funding",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Chinese scientists discover \"D-rex,\" a giant fungus with roots stretching back 65 million years",
+          "source": "ScienceDaily"
+        },
+        {
+          "title": "Nothing's eye-catching Ear 3A earbuds are matching their best price to date",
+          "source": "The Verge"
+        },
+        {
+          "title": "Anthropic's IPO filing reveals its strategy for keeping enterprise customers hooked",
+          "source": "TechCrunch"
         }
       ]
     },
@@ -459,39 +515,47 @@
       "title": "Development and policy",
       "items": [
         {
-          "title": "Bangladesh per capita GDP forecast to outstrip India's: What does it mean?",
+          "title": "Jio Platforms IPO: India's largest share sale could end cheap mobile internet for millions",
           "source": "Policy"
         },
         {
-          "title": "Twenty-five years of reshaping how state thinks about infrastructure",
+          "title": "Oracle may extend US staff separation scheme to India",
           "source": "Policy"
         },
         {
-          "title": "PIB Backgrounder",
+          "title": "Tata Communications Invests USD 450 Million in India AI Network Infrastructure",
           "source": "Policy"
         },
         {
-          "title": "Global AI companies turn to India for data centre capacity",
+          "title": "The new India-Pakistan 'cold war'",
           "source": "Policy"
         },
         {
-          "title": "Grid bottlenecks threatening India's renewable energy growth, Centre warned",
+          "title": "Geothermal (PS-12) - Geothermal Policy, Finance and Market Development: Innovation, Industrial Capability and Strategic Opportunities for Geothermal in India",
           "source": "Policy"
         },
         {
-          "title": "PM Modi warns against economic warfare, stressing need to shield country's banking system from cyber terrorism",
+          "title": "Data centres as a mainstream real estate asset class in India: Policy momentum, infrastructure expansion and market evolution",
           "source": "Policy"
         },
         {
-          "title": "India's Business Growth Hits Four-Month High in October, Hiring Nearly Stalls",
+          "title": "India a preferred destination for data centres: Why world should invest in India, Vedanta chairman Anil Agarwal explains",
           "source": "Policy"
         },
         {
-          "title": "India-US ties shift to deal-making as Trump's Iran policy looms",
+          "title": "India Needs $220 Billion To Hit 500 GW Clean Energy Goal By 2030; Keen To Attract FDI: MNRE Secretary",
           "source": "Policy"
         },
         {
-          "title": "High Impact Community Development Projects (HICDPs) (2024), MEA: Strengthening India's Community-Centered Development Partnerships",
+          "title": "PM shares an article by Member, NITI Aayog and Former Cabinet Secretary Shri Rajiv Gauba highlighting how PM's 25 years in public office have reshaped infrastructure planning and delivery",
+          "source": "Policy"
+        },
+        {
+          "title": "India's farmer ID scheme reaches 110M ahead of schedule",
+          "source": "Policy"
+        },
+        {
+          "title": "Microsoft offers voluntary exit to 60,000 employees: Company has 23,000 staff in India; decision to be made",
           "source": "Policy"
         }
       ]
@@ -500,64 +564,44 @@
       "title": "Across India",
       "items": [
         {
-          "title": "Former CJI D Y Chandrachud was more deferential to government than needed, says Justice Kaul",
+          "title": "Border patrols normal, let's work for peace: China",
           "source": "Times of India"
         },
         {
-          "title": "BJP calls protest over Kharge's 'baap' remark",
+          "title": "On Accession Day, Mehbooba blasts Sheikh Abdullah, says his pro-Pak politics turned Kashmiris suspects",
           "source": "Times of India"
         },
         {
-          "title": "Delhi Police file FIR against opposition MPs over alleged trespassing at Jamia during student protest",
+          "title": "Lawrence Bishnoi moved to high-security Ahemdabad jail block",
           "source": "Times of India"
         },
         {
-          "title": "'Creamy layer case in SC won't hit seniority of CSE-2025 batch'",
+          "title": "Centre: If OBC candidate avails age benefit, he can't migrate to gen category despite high score",
           "source": "Times of India"
         },
         {
-          "title": "BSF apprehends four Pakistani fishermen in Kutch, seizes boat",
+          "title": "Why Indian women work where they 'can', not always where they 'want'",
           "source": "Times of India"
         },
         {
-          "title": "'Too deferential to govt': Former SC judge questions ex-CJI Chandrachud's approach to appointments",
+          "title": "'New privacy law violates freedom of speech, threatens journalistic activity': Digital news body may move SC",
           "source": "Times of India"
         },
         {
-          "title": "Women founders are building India's social startups, their representation in nonprofits outpaces corporate leadership by a big margin, shows study",
+          "title": "17 prisoners escape after attacking guard at Theni jail",
           "source": "Times of India"
         },
         {
-          "title": "'Pakistan has no right': Congress distances itself from ally Farooq Abdullah's Kashmiri remark",
+          "title": "Parliaments can serve as bridges to ease global tensions, says Birla",
           "source": "Times of India"
         },
         {
-          "title": "Mallikarjun Kharge's 'baap' remark on PM Modi sparks row, BJP hits back",
+          "title": "NC defends Farooq, says speech not seditious",
           "source": "Times of India"
         },
         {
-          "title": "PM Modi inaugurates RBI's rupees 169-crore data centre, cybersecurity institute in Odisha",
-          "source": "Times of India"
-        },
-        {
-          "title": "'Don't encourage Jinnah worship': Keralam BJP chief Chandrashekhar targets CM Satheesan amid Fort Kochi video row",
-          "source": "Times of India"
-        },
-        {
-          "title": "With An AI-Generated Funeral Of Himself, Man Tries To Escape Murder Trial",
-          "source": "NDTV"
-        },
-        {
-          "title": "Kerala Judge's Minor Son Rams Mercedes-Benz Into Scooter, Rider Dies",
-          "source": "NDTV"
-        },
-        {
-          "title": "15 Shops, A Hotel Destroyed In Jammu Market Fire, Losses Estimated In Crores",
-          "source": "NDTV"
-        },
-        {
-          "title": "2 Dead, 3 Injured After Attackers In Scorpio Open Fire In Punjab's Moga",
-          "source": "NDTV"
+          "title": "Cyclone 'Arnab' LIVE updates A.P., Odisha on alert as 'Arnab' nears land",
+          "source": "The Hindu"
         }
       ]
     },
@@ -565,19 +609,15 @@
       "title": "Around the world",
       "items": [
         {
-          "title": "Israel to close West Bank crossings on election day as crackdown escalates",
+          "title": "Lula wins fourth term in dramatic Brazil election comeback",
           "source": "BBC World"
         },
         {
-          "title": "Gabon says access to social media restored after eight-month ban",
+          "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
           "source": "BBC World"
         },
         {
-          "title": "El Salvador president says bodies found in Haiti are not those of hostages",
-          "source": "BBC World"
-        },
-        {
-          "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
+          "title": "US Marine indicted for murder and robbery of woman in Japan",
           "source": "BBC World"
         }
       ]
@@ -586,39 +626,39 @@
   "transcript": [
     {
       "title": "Opening",
-      "text": "Good morning Rushil Bhatia. Here is your daily news for Monday, October 26. In today's briefing: top headlines, bhopal and madhya pradesh, business and markets, money, tax and personal finance, science and technology, development and policy, across india, around the world. Let's begin."
+      "text": "Good morning Rushil Bhatia. Here is your daily news for Tuesday, October 27. In today's briefing: top headlines, bhopal and madhya pradesh, business and markets, money, tax and personal finance, science and technology, development and policy, across india, around the world. Let's begin."
     },
     {
       "title": "Top headlines",
-      "text": "First, the stories leading the news this morning. Former CJI D Y Chandrachud was more deferential to govt than needed, says Justice Kaul. Justice Sanjay Kishan Kaul has expressed concerns about how former Chief Justice D Y Chandrachud dealt with the government. He believes Chandrachud was too lenient during the process of judicial appointments, which raises worries about the independence of the judiciary. This could potentially undermine the separation between the courts and the government, according to Kaul. From outranking Fab Four to fight for place: Rise, reign and unraveling of Labuschagne. Labuschagne has been afforded more chances than most, but Australian cricket has a history of punishing batters whose judgement deserts them against South Africa. BJP calls for nationwide protest over Kharge's 'baap' remark. Congress president Mallikarjun Kharge's comment about Prime Minister Narendra Modi's father sparked widespread outrage among BJP members. Following the incident, the BJP announced nationwide protests against Kharge's remarks, labeling them indecent and offensive. Union home minister Amit Shah criticized Congress for personal attacks and blamed it on their electoral disappointments. Kharge also condemned the ongoing Special Intensive Revision of electoral rolls, describing it as a threat to democracy. Nasa's Isaacman shares Artemis IV update as SpaceX, Blue Origin plan Moon base. NASA administrator Jared Isaacman provided an update regarding the Artemis III lunar mission and upcoming docking exercises. The agency plans for significant interactions with Elon Musk's SpaceX and Jeff Bezos' Blue Origin next year. Docking practices will involve astronaut teams launching aboard NASA's Orion capsule from Cape Canaveral. Isaacman indicated that the competition has intensified due to historical precedents set by earlier space missions. Alabama lawyer quit practice to care for parents; court voids her condo deed. The Alabama Supreme Court has affirmed a lower court's ruling that invalidated a property transfer from parents to their daughter, Holly Schumpert. Despite her dedication in caring for her ailing parents, the court determined the coastal condominium was part of a family trust, rendering the deed null. As a result, laws designed to protect elderly property owners allowed the reversal, leading to Holly having no claim to the estate. Brazil's Lula wins re-election, defeating Trump ally Bolsonaro. Brazil's president Luiz Inácio Lula da Silva was re-elected after defeating conservative challenger Flávio Bolsonaro in Sunday's presidential runoff, the country's electoral authority announced, keeping Latin America's largest economy under left-wing leadership. Serbia's Vucic concedes defeat as student-led movement wins parliamentary election. Tens of thousands of people flooded the streets of Serbia's capital on Sunday night, bringing traffic to a halt and celebrating after long-time leader Aleksandar Vucic conceded defeat in parliamentary elections to a student-backed opposition movement. 80-ton boulder at NH Polar Caves since 1922 collapses, no injuries. In a surprising turn of events on October 18, 2026, an 80-ton granite boulder collapsed at Polar Caves Park in Rumney, New Hampshire, smashing a wooden walkway and its safety rails. Fortunately, this incident resulted in no injuries. The boulder's fall is likely due to weather-related erosion. Park authorities are now assessing the situation and implementing repair plans to allow for a safe return of visitors in spring 2027. Husband jailed next door missed hearing, lost home; court reopens case. A Kansas appeals court recently vacated a previous ruling in a divorce property case, asserting that Scott L. Hale was not given a fair chance to participate. Haltingly unable to attend his hearing due to incarceration, Scott's objections to the property division were overlooked by the trial judge. The court's decision sends the matter back to the lower court for a comprehensive reassessment and new hearing. Woman dreamt collector, built trust aiding goldsmiths, students, trans housing. M Padmavathi founded the Community Renovation and Organisation Advancement Trust to promote economic empowerment in her community. This organization aids goldsmiths, underprivileged children, and transgender individuals in securing financial stability. Between 2015 and 2020, around 4,200 students benefited from after-school coaching programs, while initiatives also aimed at connecting transgender individuals with government resources and employment opportunities. Her dedication illustrates a profound commitment to uplift lives and nurture self-sufficiency."
+      "text": "First, the stories leading the news this morning. Harry Kane wins 2026 Ballon d'Or, becomes 1st player to claim two awards in one night. Harry Kane made history at the 2026 Ballon d'Or ceremony, becoming the first Englishman in 25 years to win football's most prestigious individual honour. The Bayern Munich striker also claimed the Gerd Müller Trophy, completing a historic double after scoring 73 goals for club and country. His extraordinary campaign marks a defining moment in his career and English football history. 'Not trying to reinvent the wheel': Luke Williams backs MI's core for WPL 2027. Mumbai Indians missed the Women's Premier League playoffs last season after injuries and illness disrupted their combinations and close games slipped away. New head coach Luke Williams believes the franchise can return to contention without making wholesale changes. With Harmanpreet Kaur continuing as captain, Williams wants to retain the core, fine-tune player roles and target the right additions at the October 28 auction as Mumbai look to bounce back. Microsoft extends buyouts to 60,000 staff in India, US, UK and Canada. Microsoft is offering buyouts to around 60,000 employees in India, the US, the UK and Canada under a new Voluntary Exit Offer, announced in a memo from Chief People Officer Amy Coleman. Open up to level 70, the offer has no age, tenure or performance criteria and mirrors standard severance. Employees have until early December to decide. The move follows 4,800 Microsoft layoffs in July. Delaware sank 180-foot ship bought for $1 to create artificial reef. In a strategic move to enhance marine ecosystems, the retired fishing vessel F/V Calcasieu Pass has been sunk off the Delaware coast to function as an artificial reef. This initiative, aimed at supporting diverse aquatic species, involved meticulously clearing hazardous materials before the sinking. Environmental authorities will oversee the area, monitoring the growth and health of the marine habitats it spawns in the years to come. Lawrence Bishnoi shifted to high-security Ahmedabad jail block housing 2008 blasts convicts. Gangster Lawrence Bishnoi is learnt to have been recently shifted to \"Do sau kholi\", a specialised high-security block at Ahmedabad's Sabarmati Central Jail housing 200 dangerous inmates accused of terrorism and other heinous offences, sources say. 7 civilians killed in Jordan strike on Syrian militants in retaliation to church attack. Jordan carried out airstrikes against armed groups in southern Syria on Tuesday in retaliation for a deadly attack on a Greek Orthodox Church in the Jordanian city of Karak last week, with Syrian authorities reporting at least 7 civilian deaths. California farmer's email experiment triples walnut crop's gross revenue. A walnut farmer in California revolutionized his sales with a targeted email marketing campaign. Reaching out to prior cherry customers, he uncovered 300 interested buyers for his walnuts. This approach resulted in his gross revenue tripling against wholesale prices, proving that even a small customer base can boost income stability. Consequently, many farmers are now embracing direct sales strategies to lessen financial uncertainties. Michigan woman buys 128-year-old church for $45K, turns it into home. Whitney Anderson, 45, bought a 128-year-old abandoned church in Michigan for $45,000 and is turning it into her dream home. She has spent an estimated $194,000 on renovations since June 2024 and hopes to complete most of the work by 2028. As costs could reach $400,000, Anderson describes the project as the biggest gamble of her life. June 2025 decision to hold SIR taken unanimously, EC tells SC. The Election Commission Monday filed an affidavit in SC that the chief election commissioner and the two election commissioners had unanimously taken the decision on June 24, 2025 to conduct nationwide SIR of electoral rolls and that there was no difference of opinion. Bill Gates says Meta's Muse is the first great consumer AI product, but has one worry. Microsoft co-founder Bill Gates has called Meta's Muse \"the first truly great consumer AI product\" in an interview with The Verge, revealing he congratulated chief AI officer Alexandr Wang on the personal AI agent. Gates said Muse stands out because it actually gets tasks done, but warned that open-weight AI models with removable safeguards are irresponsible, a week after Meta released its own Muse Spark Open. Asin's daughter, 8, can speak 12 languages, says dad; no TV or phones at home. Asin Thottumkal and Rahul Sharma deliberately choose to raise their daughter Arin in a tech-free environment, opting for books over screens. By fostering a love for reading, they encourage a deep learning experience. At only eight years old, Arin impressively communicates in 12 languages, highlighting her parents' commitment to her education."
     },
     {
       "title": "Bhopal and Madhya Pradesh",
-      "text": "Now, news closer to home in Bhopal and across Madhya Pradesh. MP CM Mohan Yadav Slams Mallikarjun Kharge Over Remarks Against PM Modi's Father; Shivraj Chouhan Questions Congress Leadership. Madhya Pradesh Chief Minister Mohan Yadav criticised Congress president Mallikarjun Kharge over his alleged remarks against Prime Minister Narendra Modi's father, calling them objectionable. Bhopal Traffic Alert: Diversions Near Lal Parade Ground From 3 PM On October 26 As 25,000 Devotees Expected; Check Routes And Parking. Bhopal Traffic Police have announced diversions from 3 pm on October 26 for a religious programme at Lal Parade Ground, expecting around 25,000 devotees. Tiger Shroff Attack Case: MP STF Intensifies Surveillance After Indore Arrest; 33 Bishnoi Gang Operatives Held Across State. Madhya Pradesh STF has intensified surveillance of crime networks following Pranjal Thakran's arrest in Indore in connection with the attack involving actor Tiger Shroff in Mumbai. Cancer Survivors Join AIIMS 'Run For Life' Green Run In Bhopal; Doctors Stress Early Detection, Timely Treatment And Exercise. Cancer survivors, doctors and fitness enthusiasts participated in AIIMS Bhopal's 'Run for Life – Run Against Cancer' Green Run. Simhastha 2028: Senior IPS Officer Seeks Transfer Of Kshipra River's Origin To Forest Department, Calls For Removal Of Encroachments. Ahead of Simhastha 2028, Special DG Rajababu Singh has urged authorities to transfer the Kshipra River's origin at Ujjaini village in Indore district to the Forest Department. VHP Activists Block Road In Bhopal After Police Object To Girls Carrying Swords During Durga Vahini Yatra; Procession Later Allowed. VHP activists blocked a road in Bhopal on Sunday after ACP Richa Jain objected to schoolgirls carrying swords during a Durga Vahini Shakti Sanchalan Yatra. MP's Proposed Rewa Nuclear Power Plant Faces Congress Opposition; Umang Singhar Raises Safety Concerns, Vows To Take Issue To Assembly. Congress opposed the proposed nuclear power plant in Madhya Pradesh's Rewa district, raising concerns over villagers' safety, health and environmental risks. Six Terminated Patwaris In Indore Await Reinstatement Despite Government Assurance; Fresh Dindori Dismissal Sparks Anger Over SVAMITVA Yojana Agitation. Six terminated patwaris in Indore are awaiting reinstatement despite government assurances following the withdrawal of the SVAMITVA Yojana agitation. Over 30,000 Devotees Attend Shrimad Bhagwat Katha In Indore As Indresh Maharaj Highlights Divine Love And Devotion; Sharad Utsav On October 26. Over 30,000 devotees attended the third day of Shrimad Bhagwat Katha at MR-10 Star Square in Indore on Sunday. Madhya Pradesh Premier League 2026 Points Table. NLIU Bhopal To Organise International Conference On Law, Language And Literature In February 2027; Submit . 35-Year-Old Stockbroker Firm Agent Crushed To Death By Speeding Mini Truck In Indore While Returning From Shani Temple; Driver Caught By Locals. A 35-year-old stockbroker firm agent, Anant Bhandari, was killed after a speeding mini truck hit his scooter near Trenching Ground in Indore on Saturday morning. Procurement gap worth rupees 250 crore? Madhya Pradesh acts against 392 civic officials. 4,000 Indians stranded in Saudi Arabia after Umrah: Facing extra costs of rupees 4,000–5,000 a day; over 120 peop. MP: Seven buses gutted in fire at Bhopal bus terminal; no injuries. IIM Indore Develops AI Framework To Safeguard Semiconductor Supply Chains From Wars, Cyberattacks And Geopolitical Disruptions; Study Identifies Safer Logistics Routes. IIM Indore professor Tanmoy Kundu contributed to a study developing an AI framework to protect semiconductor supply chains from wars, cyberattacks and geopolitical disruptions."
+      "text": "Now, news closer to home in Bhopal and across Madhya Pradesh. Kuno Cheetah Nirva's 19-Month-Old Cub Found Injured In Morena's Poaching-Sensitive Area, Forest STF Probes Possible Attack. A 19-month-old male cub of Kuno cheetah Nirva was found injured in Morena's Pahadgarh area on Sunday. Bhopal Lokayukta To Question Jailed Rohit Gogia Over Alleged rupees 1 Crore Payment To Suspended Excise Officer Deepam Raichura. Lokayukta police will record jailed Rohit Gogia's statement in the corruption case against suspended assistant excise commissioner Deepam Raichura. Bhopal BJP Workers Gherao Congress Office Over Kharge's Remark On PM Modi's Father, Police Use Water Cannon; Congress Leader Injured. BJP workers protested outside the Congress office in Bhopal over Mallikarjun Kharge's remarks about Prime Minister Narendra Modi's late father. Centre Questions MP Police Dial-112 Response Time Of 22 Minutes, State Officials Say Current Average Is 12 Minutes. The Union Home Ministry questioned Madhya Pradesh's Dial-112 emergency response time, citing a 22-minute average against the 12-minute national benchmark. Bhopal Metro Work Triggers 22-Day Traffic Diversions Between ITI Crossing And Piplani Petrol Pump From October 27, Check Alternative Routes. Traffic diversions will be enforced between ITI Crossing and Piplani Petrol Pump Crossing in Bhopal from October 27 to November 17 for Metro construction. Over 1.21 Lakh Bhopal Homes To Get Sewer Connections, 30,000 New Water Taps Planned. Under AMRUT 2.0, Bhopal Municipal Corporation plans sewer connections for over 1.21 lakh households and 30,000 new water taps. Diwali 2026 Sweets And Namkeen Prices Rise 10-15 percent In Indore, Kaju Katli Touches rupees 1,200 Per Kg As Raw Material Costs Surge. Diwali sweets and namkeen have become 10-15 percent costlier in Indore as rising milk, ghee, sugar, fuel and packaging expenses push up production costs. Madhya Pradesh CM Mohan Yadav inaugurates Nishatpura Railway Station in Bhopal Akashvani News. BJP protests Kharge's remarks against PM Modi's father in Bhopal. Kolkata Woman Dies As Taxi Overturns On Ujjain-Indore Road After Mahakal Darshan, Driver Allegedly Ignored Son's Pleas To Slow Down. A Kolkata woman's pilgrimage to Ujjain ended tragically when her taxi overturned near Sanwer on October 23. Dengue in Bhopal: 156 Cases Reported This Year as Health Department Steps Up Prevention Drive. Supreme Court Collegium recommends appointment of 7 advocates as Madhya Pradesh High Court judges. Ujjain Artist Siddharth Bhagchandani Sets Four World Records With 111-Metre Mandana Painting Depicting Shiv Baraat In Just 32 Hours. Ujjain artist Siddharth Bhagchandani created a 111-metre Mandana painting depicting Shiv Baraat in 32 hours, 3 minutes and 42 seconds at Ram Ghat. Idol Immersion Water Pollution Checks Begin in Bhopal, Indore. Twisha Sharma Death Case: Madhya Pradesh High Court Reserves Order On Giribala Singh's Bail. Indore Water Supply To Be Affected In 19 Overhead Tank Zones On October 27 As Narmada Phase I And II Pumps Shut For Pipeline Repairs. Water supply in several parts of Indore will be disrupted on October 27 following an 11-12-hour shutdown of Narmada Phase I and II pumps for pipeline repairs. Caretaker had also beaten his minor girlfriend in Punjab: Varun, suspect in retired IAS officer's murder, w. Simhastha 2028 Preparations In Ujjain Divisional Commissioner Orders Faster Work On 19.8-Km Bypass And 98.7-Km Greenfield Road, Strict Quality Checks. Ujjain Divisional Commissioner Asheesh Singh and Collector Raushan Kumar Singh inspected key Simhastha 2028 road projects, including the 19.8-km bypass and 98.7-km Ujjain-Jaora Greenfield road."
     },
     {
       "title": "Business and markets",
-      "text": "Moving to business, the economy and the markets. Capital shifting from secondary market to rupees 5 trillion IPO pipeline: Madhu Lunawat. Founder of The Wealth Company Mutual Fund Madhu Lunawat said perceived 10-12 percent inflation is pushing retail funds into small- mid-caps, and that high valuations and currency depreciation are keeping FIIs cautious. SI Arena debuts at BFSI Summit: Bringing market experts closer to investors. This year's edition introduces the Smart Investor (SI) Arena, a dynamic space crafted to empower retail and next-gen investors to make sharper financial moves. Infosys's huge deal wins fail to give it an edge over peers. Robust $5.2 billion deal wins in Q2 couldn't prevent Infosys from trimming its full-year growth outlook, leaving it trailing key competitors. Senco Gold to acquire 68 percent stake in August Jewellery for rupees 68 crore. Senco Gold Ltd on Sunday said it has signed agreements to acquire a 68 per cent stake in August Jewellery Pvt Ltd, which operates the 'Melorra' brand, for rupees 68 crore. The investment will be made in multiple tranches, with completion targeted by February 2027, subject to fulfilment of specified conditions, the company said in a regulatory filing. It said that including the acquisition by a promoter group entity, the overall stake in August Jewellery will reach 79 per cent, following which the company will become a subsidiary of Senco Gold. The investment will happen through fresh equity issuance, with the funds intended for the company's growth and expansion, and the discharge of existing liabilities, the filing said. Gold, silver face fresh test as oil surge puts Fed policy decision in focus. Gold and silver are expected to face fresh headwinds next week as surging crude oil prices revive inflation concerns, while the US Federal Reserve's policy decision could determine whether bullion rates stabilise or extend their downward trend, analysts said. The precious metals, already battered by elevated bond yields and a stronger dollar, will look to the Federal Reserve's October 27-28 meeting and its chair's commentary for signals on whether interest rates could stay higher for longer. The focus will also be on policy decisions from the European Central Bank and the Bank of Japan, along with US durable goods orders, consumer confidence, Personal Consumption Expenditures inflation and third-quarter GDP data. Eurozone inflation readings, developments around the US mid-term elections, Russia-Ukraine peace talks and the West Asia conflict will also remain on the radar, they added. Bond yields rise nearly 30 bps in Oct, to raise govt's interest burden. The sharp rise in government bond yields since the Reserve Bank of India's (RBI) October monetary policy review threatens to increase the government's borrowing costs and put pressure on its interest expenditure, potentially squeezing fiscal flexibility, according to experts. Yield on the 10-year benchmark government bond rose to 7.474 per cent on October 23 from 7.193 per cent on October 6, increasing about 28 basis points, according to data compiled by PTI. The rise in yields has been driven by elevated crude oil prices, a spike in global bond yields, tighter liquidity conditions in the Indian banking system and expectations of more interest rate hikes by the RBI, market experts said. \"If yields remain elevated, the cost of financing the fiscal deficit will rise, adding pressure on interest expenditure and fiscal flexibility,\" said V Ramachandra Reddy, head of treasury at Karur Vysya Bank. Nifty slide brings 18 month old support back to the fore. Analyst sets sights on last April's low of 21,743.65 as a crucial support for the Nifty 50 amid worsening macros and geopolitical headwinds Top 10 firms lose rupees 1.55 trillion in mcap as HDFC Bank, Bajaj Finance fall. The combined market valuation of eight of the top 10 most valuable firms fell by rupees 1.55 lakh crore last week, with HDFC Bank and Bajaj Finance accounting for most of the losses. In a holiday-truncated week, the 30-share BSE Sensex tumbled 1,605.44 points, or 2.15 per cent, while the 50-share NSE Nifty slumped 546.15 points, or 2.36 per cent. Tracking the weak trend in equities, the total market capitalisation of BSE-listed firms fell by rupees 20,78,774.28 crore over four sessions to rupees 4,51,83,393.14 crore from rupees 4,72,62,167.42 crore recorded on October 16. Among the top 10 listed companies, eight lost rupees 1,55,671.9 crore, while two, Tata Consultancy Services and Larsen and Toubro, closed the week with valuation gains. US Stock Markets this week: Wall Street gears up for Fed rate decision; Q3 earnings from Alphabet, Microsoft, Amazon. Alphabet, Microsoft and Amazon results to test AI investment optimism as rising oil prices and inflation weigh on markets Five IPOs to raise nearly rupees 2,600 crore as primary market stays active. Five companies, including EAAA India Alternatives, SFC Environmental Technologies, and M K Sons Fine Jewels, are set to launch their initial public offerings (IPOs) next week, seeking to raise close to rupees 2,600 crore from the primary market. BLS Polymers and Bombay Coated and Special Steels would also float their maiden public offerings during the week. Separately, several other companies, including Gujarat Victory Forging, Milestone Gears, Avaada Electro, Swara Baby Products, Integris Medtech and AGS Health, are in the pipeline for IPO, according to merchant bankers. These companies are expected to announce price band declarations and launch plans by November 5, ahead of the extended Diwali holiday period in Gujarat, where markets and business activity are likely to be affected by the post-Diwali observance of Labh Pancham from November 6 to 15, they added. PSU Q2 results 2026 preview: BEL, Coal India, IGL - Earnings estimate, brokerage target price, returns potential. BEL, Coal India and IGL are in focus ahead of their Q2 FY2026-27 results. Analysts expect BEL revenue to grow 16 percent , IGL volumes to rise 6 percent , and Coal India production to remain muted. Motilal Oswal rates all three stocks Buy, with indicated upside of 38 percent , 18 percent and 33 percent , respectively. Q2 results, US Fed decision, crude oil may drive stock markets this week. Besides, Jio Platforms' market debut, trading activity of foreign investors and global trends would also dictate investors' sentiment Dividend buzz: Dalmia Bharat, Mazagon Dock, Coal India, NTPC, others to consider payouts this week - Check full list. Several companies, including REC, Coal India, NTPC and Godrej Consumer, are set to announce September-quarter results and dividends. Meanwhile, Indian equities ended lower on Friday, with the Nifty 50 down 0.39 percent and its technical outlook remaining weak. FPIs withdraw rupees 48,056 crore from equities in Oct amid elevated oil prices. However, Foreign Portfolio Investors (FPIs) significantly moderated their selling last week and turned net buyers on two trading days, signalling some easing in selling pressure Kharge makes 'baap' remark on Modi; BJP hits back. Congress president Mallikarjun Kharge's remarks about Prime Minister Narendra Modi during an event in Patna sparked controversy. IT stocks dividend record date this week: Cyient, LT Tech, Hexaware, Hypersoft, Sagility - Who pays most? Amount, return. Five IT stocks have dividend record dates from October 26 to 30. Announced payouts include rupees 20 per share from L and T Technology Services, rupees 12 from Cyient, rupees 9.50 from Hexaware, and rupees 0.15 from Sagility. Nifty IT rose nearly 1.17 percent over five sessions despite broader market weakness. 'India must bolster tech, economic resilience'. India is encouraged to boost its domestic technology capabilities and economic resilience to face geopolitical tensions. Reliance's Jio Platforms IPO allotment on Mon, Oct 26: What happens to your money if you get none, one or many lots?. Jio Platforms' IPO was subscribed more than 22 times, making allotment uncertain, especially for investors seeking multiple lots. Applicants allotted no shares will have their blocked funds released; those allotted one 12-share lot will be charged rupees 13,428 at the upper price band. AI narrative needs to change for India: Citibank. Long-term capital-gains tax is a big factor on the equity side. Bertie fights off the song of turbo-charged returns. At Fat Cats Club the following week, Bertie looked at his portfolio returns and discovered a new meaning of the word 'equity', everything was equally bad. Can set-top boxes become TV's new ratings meter. The suspension of Broadcast Audience Research Council ratings has prompted new interest in RPD-based data collection for TV viewership. Stock market prediction for Monday Oct 26: Sensex, Nifty levels, top stocks to watch - Will bulls dance again?. The Nifty 50 fell nearly 2 percent last week as geopolitical tensions and crude oil volatility weighed on markets, taking year-to-date losses to 13.56 percent . Analysts see support near 22,300 and resistance at 22,850–22,900. Infosys, Kotak Mahindra Bank and Reliance Industries will be among stocks in focus. Big-ticket deals fade as investor $ dip on India Inc. India's consumer and retail sector saw a 58 percent decline in deal value during the September quarter. Dividend, stock split, resolution plans record date Oct 26: Hexaware, Midaas, Talwalkars Better Value, Ashapura Fashion. Hexaware Technologies, Midaas Fashions, Ashapura Intimates Fashion, and Talwalkars Better Value Fitness set October 26 as the record date for corporate actions."
+      "text": "Moving to business, the economy and the markets. Tokenisation can unlock hidden wealth, cut borrowing costs: Mudrex CEO. Business Standard Smart Investor Arena 2026: Edul Patel said tokenisation could make assets such as gold, bonds and property easier to access and use as collateral Jio Platforms IPO allotment status finalised! Did you get shares - check from direct Kfin tech, NSE website links. Jio Platforms IPO allotment status: Investors who placed their bids can now check their allotment status. Following the allotment process, successful applicants will receive shares in their demat accounts on Tuesday, October 27. Tokenisation offers common ledger for real-world assets, says Edul Patel. Mudrex CEO Edul Patel says tokenisation could improve liquidity, transparency and access to real-world assets through a common digital ledger, but regulatory safeguards remain crucial. Retail participation has been very strong in India, says Vikas Satija. Shriram Wealth's Vikas Satija says long-term investors should not fear market volatility, while AI will reshape wealth management without replacing relationship managers. Stock markets rebound after 4-day slump; Sensex jumps 483 points. Sensex gained 483 points to close at 73,606.75, while Nifty rose 153 points to 22,753.20, ending a four-day losing streak as metal, telecom and healthcare stocks rallied. Sembcorp Industries mulls rupees 3,750 cr IPO for India unit in Dec 2026: Firm profile; top details investors should know. Temasek-backed renewable energy company meets investors; proceeds to be used to repay borrowings Jio IPO falls short of record payday for bankers despite mega issue. Jio Platforms is paying 19 banks about rupees 196 crore in fees for its $3.1 billion IPO, just 0.65 percent of the issue size, as fierce competition squeezes investment banking earnings. Nippon Life AMC shares: Last chance to buy for rupees 9.50 interim dividend; record date, dividend yield. Nippon Life India Asset Management set October 28, 2026, as the record date for its rupees 9.50 interim dividend, with October 27 likely the last day to buy shares and qualify. September-quarter profit fell 6 percent to rupees 324.4 crore, partly due to a SEBI settlement, while revenue rose 21 percent . First rupees 1 crore is always earned through active income and skills: Anant Ladha. Anant Ladha, financial educator and creator, has advised people not to treat every investment option as either completely good or completely bad. Goldman Sachs Kospi target cut: Why South Korea market experts lowered target to 9,000 from 12,000 - Explained. Goldman Sachs cut its 12-month KOSPI target by 25 percent , to 9,000 from 12,000, citing doubts about the AI trade and falling chip stocks. Despite the index's steep decline and record-low valuations, the new target implies more than 60 percent upside. Anthropic opens books on AI's explosive growth and staggering costs. Anthropic's IPO filing highlights rapid revenue growth, mounting AI development costs and safety risks as the Claude maker prepares to list on Nasdaq amid investor concerns over AI valuations Brazil's Ibovespa plunges 17.3 percent as Lula defeats Bolsonaro in presidential runoff; biggest-ever one-day crash. Brazil's Ibovespa plunged 17.3 percent to an intraday low of 169,516 after President Lula defeated Flávio Bolsonaro in the presidential runoff. The fall was the exchange's biggest single-day decline and erased market optimism that had followed the first round. SIPs, multibaggers and financial freedom: Lessons from Smart Investor Arena. From SIPs and asset allocation to spotting multibaggers and achieving financial freedom, market experts shared wealth-building strategies at the BFSI Insight Summit 2026 US-brokered truce begins in Oleshky. A US-brokered truce between Russia and Ukraine has begun in the Russian-occupied city of Oleshky in southern Ukraines Kherson region, aiming to allow humanitarian aid to reach residents facing severe shortages of food and medicine. How to check Jio Platforms IPO allotment status online on mobile by direct link of NSE and Kfin Tech websites. The Jio Platforms IPO allotment is expected today, October 26, with status available through the registrar or the NSE and BSE websites. Benchmark bond yield nears 7.5 percent on rising crude oil prices, US cues. The benchmark 10-year government bond yield climbed to 7.48 per cent, its highest since October 2022, as elevated crude prices and firm US Treasury yields weighed on the market. ECI denies CEC acted alone in taking SIR decisions. The Election Commission of India filed a counter affidavit in the Supreme Court regarding Chief Election Commissioner Gyanesh Kumar. Recipe for spotting multibaggers: Research, patience and a dash of luck. Contrarian bets on capacity expansion, generational change in management, and corporate turnarounds can create opportunities for outsized returns, said experts. Fuel exports earn India 50 percent more in April-Sept. India's petroleum product export earnings increased significantly in April to September, driven by high international prices. Anthropic IPO: It's official now! Artificial intelligence giant files papers to sell shares to public for first time. Anthropic unveiled its U.S. IPO filing on Monday, outlining plans to develop AI systems that could transform the global economy while acknowledging the costs and challenges involved. Eternal extends rally; stock soars 8 percent in two days post Q2 results. Analysts at Axis Securities recommended 'BUY' on Eternal with a target price of rupees 365 per share based on an SOTP valuation. Centre works on integrated textile tax plan. An integrated tax framework for India's textile sector is being developed to improve competitiveness in global markets. Jio Platforms IPO single-lot profit calculator: What will the listing gains be if you get an allotment? Latest GMP today. If allotted one lot, the investor's holding would be worth approximately rupees 16,428 at the implied listing price, translating into an estimated gain of rupees 3,000. For an investor allotted five lots, the investment would amount to rupees 67,140. At the implied listing price, the holding would be worth rupees 82,140. ITC Hotels shares gain 8 percent as Q2 PAT rises 51 percent to rupees 201 cr, RevPAR up 21 percent. ITC Hotels said that occupancy rose 481 bps to 76 per cent and AD rupees grew 14 per cent, resulting in overall RevPAR growth of 21 per cent Y-o-Y in Q2 of FY2027. Tax dept nudges taxpayers on foreign assets. The Income-Tax Department is encouraging selected taxpayers to disclose overseas assets under a new scheme. Nifty Smallcap 100 sinks 9 percent in a month Buy the dip or more pain ahead? Experts flag key levels, stocks to watch. Small-cap stocks have suffered their steepest weekly decline since February 2025, despite a Monday recovery across Indian markets. Experts say the rebound may not signal a lasting turnaround, pointing to weak market breadth and elevated valuations. Ather Energy share price zooms 18 percent on Q2 turnaround, robust revenue growth. Ather Energy on Monday reported a consolidated net profit of rupees 1.26 crore for Q2FY27 as against a net loss of rupees 154.07 crore in Q2FY26."
     },
     {
       "title": "Money, tax and personal finance",
-      "text": "Now to your money — taxes, savings and personal finance. Did your balanced advantage fund buy the dip? Here's what your investment strategy should be now. When markets fell, BAFs had an opportunity to increase equity exposure. Many did, while others were more cautious. Fell for a fake trading app or guaranteed-return WhatsApp group? What to do immediately? Can you recover your money?. As investment participation grows in India, scammers are using messaging groups and fake apps to lure investors with promises of quick returns. Here's what to do if you fall for such frauds. RBI rate hikes: How short-duration funds and high-quality corporate bonds can protect your debt portfolio. Investors must position fixed income portfolio for further rate hikes. But this cycle may look different. Indian Bank hikes interest rates on special-tenure fixed deposits , check how much 555-day and 777-day FDs are offering. Indian Bank has raised rates by 15 basis points on its 555-day Ind Grow and 777-day Ind Prosper fixed deposits, effective October 23, 2026. Check latest rates here. Diwali travel rush: How to save on last-minute flight tickets and when to stop waiting for discounts. Waiting until the last minute in the hope of a sale can be costly. Airlines use dynamic pricing, and cheaper fares may disappear as more seats sell. If your dates are fixed, compare fares as early as possible and book when the price is reasonable for your budget. Set fare alerts to track changes, but don't delay your booking expecting for a drop in prices. Central government pensioners await DR hike as Bharat Pensioners Samaj seeks cabinet secretary's intervention. Bharat Pensioners Samaj seeks early announcement and payment of pending dearness relief instalment along with arrears; rate may rise from 60 percent to 63 percent NPS subscribers are less swayed by short-term market movements now, says Axis Pension Fund CEO Sumit Shukla. Axis Pension Fund intends to enhance its National Pension System offerings to provide better retirement savings options. The introduction of NPS Swasthya addresses the health insurance needs for older customers effectively. Despite tax benefits, low awareness continues to hinder corporate NPS uptake among employees. Further clarity on Tier NPS Vatsalya: Can your child continue this pension scheme after turning 18? Know the investment rules and exit options. NPS Vatsalya allows parents and guardians to build long-term savings for their child. Know the eligibility criteria, contribution rules, and options available when the child turns 18, including continuing, transferring, or exiting the scheme. Debt investing strategies: How laddering, barbell, bullet and other strategies work. Cutting through money jargon, one topic at a time. This week, Sanket Dhanorkar explains fixed income investing strategies and which ones suit which investors. Planning to buy gold jewellery on Dhanteras? How to check its purity beyond hallmarking Complete process explained. Ahead of Dhanteras, buyers must verify a gold item's purity before purchasing them. This ensures that the purchases does justice to the price paid by a customer. Here's how to do it. Non-life insurance to play a bigger role in financial planning over the next 25 years: ICICI Lombard. General, or non-life, insurance is expected to play a more integral role in financial planning over the next 25 years, shows an ICICI Lombard report. Income tax rules explained: Sold land or property? How Section 54EC bonds can help you claim capital gains tax exemption. Sold land or property at a profit? Section 54EC bonds can help you claim exemption on long-term capital gains. Know the eligible bonds, rupees 50 lakh investment limit, six-month deadline and five-year holding requirement under the applicable tax rules. Festive sales: Are discounts making you spend more? How to avoid the trap and shop smarter. Retailers use a bagful of psychological triggers and pricing tricks to sell more during sales. Here's how you can avoid overspending. Explained: Received an interest-free loan money from employer? Know what this special benefit means; when it is taxable. An interest-free or concessional loan from your employer can have tax implications. Understand how the taxable amount is calculated, when loans up to rupees 20,000 are exempt, and which medical loans qualify for tax exemption under income tax rules. Health insurance: 5 gaps in your policy that could leave you with a bigger bill at the time of claim. This is a global problem. A World Health Organization report found that out-of-pocket expenses for medicines and other medical products push up to 12 percent of households in European countries into poverty or deepen their financial hardship. Lump sum versus instalments: How nominees can receive term insurance benefits after the insured person's death. Term insurance provides financial protection to a policyholder's beneficiaries if the policyholder dies during the policy term. Depending on the plan, nominees can receive the death benefit as a lump sum, instalments, or a combination. Health insurance claim settlement: Which insurers are fastest at paying approved claims?. According to data from ILM Research (previously known as Beshak Research), 15 of 31 non-life insurers paid out over 95 percent of their approved health claims (including cashless hospitalisation claims, where the insured does not have to pay out of pocket) within a month in financial year 2025-26, while the rest were slower. Malabar Gold rates October 2026: 22K, 24K gold compared with Tanishq, Joyalukkas; Which jeweller offers the best prices?. Malabar Gold and Diamonds, Tanishq and Joyalukkas have different gold rates in October 2026. Here are the 22K and 24K gold prices per gram and 10 grams, and which jeweller offers the lowest listed rates before buying gold jewellery, coins, or bars. Retirement planning: Why the US retirement model may not work for Indian retirees. The Indian institutional framework poses unexpected risks. Not only is insurance costly for seniors, it's not available as a standardised social welfare benefit. Unexpected spikes in health cost can throw off a retiree's spending patterns well out of balance. Reliance on children and privatisation of senior health care poses a serious risk. Bank holiday tomorrow Monday Oct 26: Chandigarh, Bengaluru, Shimla, Srinagar, Jammu, Agartala branch closed; here's why. Banks in several Indian cities will be closed on October 26 in observance of several regional holidays. Full details here. Lifestyle inflation: Earning more, saving less? How to enjoy life without sacrificing your financial goals. Find out how lifestyle creep undermines wealth creation and how to enjoy a better standard of living without sacrificing your financial goals. Kashmir: Hassan Mir urges month pension hike to rupees 3,000 for widows, orphans and elderly, payment of dues. Apni Party leader Ghulam Hassan Mir urged the J and K govt to hike monthly pension to benefit the elderly, orphans and widows, as per a report. He also called for release of pending payments reportedly not received by beneficiaries over the past four months. Market caps: Microcaps outperform large, mid and small caps in 2026; can they sustain the gains?. Welcome to TrendMap, your guide to the performance of different investment segments. No single segment always leads. In this edition, we present a 10-year equity performance tracker, ranking annual returns across market-cap segments. Investors' risk appetite has turned more selective in 2026 so far. J and K Bank boosts accident insurance to rupees 1 crore for J and K government staff; Check key benefits and loan concessions. J and K Bank has increased accident insurance cover to rupees 1 crore for permanent Jammu and Kashmir government employees under a five-year agreement. The package includes disability protection, education assistance, preferential loan rates, waived processing fees and other banking concessions."
+      "text": "Now to your money — taxes, savings and personal finance. Latest FD interest rates after recent rate changes: ICICI Bank, Indian Bank, SBI and HDFC Bank. Several banks including ICICI Bank and Indian Bank have increased their fixed deposit interest rates recently. The Reserve Bank of India raised the repo rate, influencing banks to adjust their deposit rates. ICICI Bank now offers 6.60 percent for general citizens and 7.20 percent for senior citizens on select tenures. Indian Bank has also raised rates on specific fixed deposit options for its customers. Foreign asset disclosure: I-T dept reaches out to taxpayers with UAE properties as December 31 deadline looms. The I-T department is contacting select taxpayers who may have failed to disclose UAE properties as a voluntary foreign-asset disclosure scheme approaches its December 31 deadline. Here's all we know... 5 ways to invest in gold this Dhanteras and Diwali: From jewellery and gold ETFs to digital gold. Gold purchasing sees a significant rise during Dhanteras and Diwali, celebrated for their cultural relevance. Investors can explore various avenues like physical gold, ETFs, and digital gold options. S and P 500 versus Nasdaq 100: Which global index fund is right for Indian investors seeking international market exposure?. S and P 500 or Nasdaq 100? The S and P 500 covers over 40 percent of global stock market value, while the Nasdaq 100 offers greater technology exposure. A PPFAS report explains their differences, risks and how much Indian investors can allocate globally. DA hike news 2026: Good news before Diwali! Now, Dearness Allowance every month with minimum salary for these employees. Public health workers employed by the Municipal Corporation of Delhi are to receive a minimum monthly pay of rupees 18,000 plus DA; the civic body is to recruit 2,500 sanitation workers. EPS-95 higher pension: Pensioners' body appeals to President as retirees struggle to get higher pension. The National Confederation of Pensioners' Associations has requested intervention from President Droupadi Murmu regarding higher EPS pension issues. They demand the withdrawal of a problematic EPFO circular that affects eligibility for pensions based on internal trust rules. In addition, they seek to halt unnecessary litigation and ensure uniform treatment for all retirees. The NCPA calls for waiving punitive interest related to administrative delays on pension claims. PNB account holders alert! These accounts will be closed after November 10 - here is why. Punjab National Bank will close certain inactive, zero-balance accounts after November 10, 2026. Customers who have not operated their accounts for over three years must complete KYC and reactivate them before the deadline to avoid closure. Central Bank of India clarifies all accounts are safe after reports of 187 unauthorised transactions worth rupees 13.97 crore. In a recent statement, the Central Bank of India reassured customers that a technical issue with its RTGS server did not compromise account safety. Allegedly, 187 transactions involved 36 separate accounts. RTGS services have since been restored without further complications. Buy now, pay later versus credit card EMI: Cheaper versus expensive analysis - Expert explains interest, fees, hidden charges. BNPL and credit card EMIs allow shoppers to pay in instalments, but interest rates, processing fees and hidden charges can increase costs. Experts explain the differences, repayment conditions and how missed payments can affect credit scores. Dhanteras 2026: Buying gold jewellery? Here's how to check purity, verify BIS hallmark and avoid costly mistakes. Gold buyers should verify purity, check the six-character HUID code using the BIS Care app and examine hallmark details before purchasing jewellery this Dhanteras. BIS rules also allow consumers to claim compensation if the gold fails purity tests. Gold rate and silver rate today (October 26, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from Malabar Gold and Diamonds, Joyalukkas, Kalyan Jewellers, Tanishq and IBJA in Delhi, Mumbai, Hyderabad and more cities. Gold rate today: Gold rates showed a slight increase today in major Indian cities like Delhi, Mumbai, and Chennai. The rates reflect a rise compared to the previous day with increased demand anticipated during the festive season. Flight cancellation refund: Can airlines keep the GST charged on your ticket? Here's what the tribunal ruled. The GST tribunal has allowed Singapore Airlines to recover rupees 45.92 lakh in GST on cancelled flights after it refunded passengers. Here's what the ruling means for airline ticket refunds, cancellation charges and the GST paid by travellers. 13 chemical stocks: Motilal Oswal has Buy on SRF, Atul, Vinati, Galaxy; Sell on Deepak Nitrite, Fine Organic. Crude near $116, raw material costs up sharply and margins under pressure. Here is how Motilal Oswal sees 13 chemical stocks heading into Q2FY27 results. Home loan restructuring: How to reduce your EMI, eligibility rules and impact on credit score explained. Home loan restructuring can help borrowers struggling with EMIs by reducing monthly payments or extending the repayment tenure. However, it may increase total interest costs and affect credit scores. Here's how it works and what RBI rules say. Builder missing or bankrupt? What homebuyers can do about the home loan, RERA and the IBC. Still paying EMIs on a flat that may never be delivered? Here is what homebuyers can do about the loan, the police, RERA and insolvency court. rupees 1 crore life insurance policy: Thinking of exiting before maturity? Check your surrender value before you take decision. Surrendering a rupees 1 crore life insurance policy before maturity could mean losing your premiums. Here's how surrender values differ for term plans, ULIPs and traditional policies, and how IRDAI's revised rules affect early exit payouts. Retiring with rupees 2 crore? Your savings could run out in just 13 years , here's what an expert advises. Can a rupees 2 crore retirement corpus really fund your retirement and give you the financial freedom you need? Here's a look at how long your retirement corpus will last based on your monthly expenses, inflation, and returns on invested corpus. 8 percent instant discount versus 10 percent cashback versus 1,000 reward points: Are they all the same? Know exactly which one will save more money. An 8 percent discount, 10 percent cashback or 1,000 reward points? rupees 50 lakh FD for 5 years: How much more can your senior citizen father earn than you in small finance bank? Check returns. A rupees 50 lakh fixed deposit for five years could earn a senior citizen around rupees 1.09 lakh more than a regular depositor at Suryoday Small Finance Bank's cited rates. Compare estimated FD returns, taxation, deposit insurance and key investment considerations before investing. How ultra-rich investors structure family trusts to protect generational wealth: Key structures, benefits and tax Rules. Family trusts can help wealthy Indian families manage succession, preserve assets and control when heirs receive wealth. Their tax treatment depends on the trust's structure: discretionary trusts often face the highest tax rate. Gold versus silver in investment portfolio: Expert explains why there should be different review and assessment strategy. Experts recommend different strategies for gold and silver in your investment portfolio. A report recommends holding gold as geopolitical insurance, supported by central-bank buying, and avoiding silver until its price base strengthens. DA hike central government employees: Why Centre has not announced it yet; check expected hike. Central government employees are still waiting for the July 2026 dearness allowance (DA) hike. Delhi old-age pension survey starts: home visits begin for 4.3 lakh beneficiaries; check payout rates and key details. Delhi's old-age pension survey began on 24 October to verify 4.3 lakh beneficiaries. The door-to-door drive aims to remove duplicate, deceased and ineligible entries. Check the monthly pension amounts, the verification process and the steps eligible senior citizens should take. How wealthy investors use Lombard Lending to defer Capital Gains Tax: Borrowing against shares rather than selling them. Investors can borrow against pledged shares to raise cash while retaining ownership and delaying capital gains tax. Loans typically cover 30 percent to 60 percent of share value, with interest of 9 percent to 12 percent . Soaring domestic and international airfares make travellers rethink year-end holidays. Domestic airfares are 30-40 percent higher than a year ago as fuel costs, a weaker rupee and limited flight capacity squeeze festive travel budgets. The Yes Bank AT1 bond case and lessons for all investors. Investors must look through the recent returns and packaging of a product, understand the risks and invest only if it suits their risk appetite. Personal loan closed but credit score not improving? Experts explain why. Repaid your personal loan but see no jump in your credit score? Experts explain why bureaus can take 30-45 days to update, how closing a loan affects your credit mix, and what to check in your credit report afterwards to make sure the loan shows as closed."
     },
     {
       "title": "Science and technology",
-      "text": "Next, science and technology. Deepinder Goyal's Temple brain wearable: rupees 85,000 price, pre-order date and features. Deepinder Goyal's Temple brain-monitoring wearable is reportedly priced at rupees 85,000, including a lifetime subscription, with pre-orders opening on November 1, 2026. The device tracks changes in cerebral blood flow and generates an Entropy score to indicate physiological strain. iFixit's look inside the iPhone Duo may explain those broken screens and hinges. As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo's folding screen and gave it a 5/10 repairability score. That might not seem particularly high, but it's the best score the The best apps for tracking your reading and discovering new books. There are numerous apps on the market that promise to do just that, so we've compiled a list of some of the best ones to help you pick the right one for you. Just two drinks a day may be far riskier than you think. A major new study reveals that drinking just two alcoholic beverages a day is associated with a 1 in 25 lifetime risk of death from alcohol-related causes, challenging the idea that moderate drinking is harmless. Researchers also found no significant overall health benefits from alcohol, with risks rising as consumption increases. Tech Layoffs 2026: Job cuts near 2 lakh globally as big tech like Microsoft, Google, Oracle, Meta and more pivot to AI. Tech companies are utilising job cuts to demonstrate a commitment to margin expansion, pushing stock prices higher even as they announce internal restructuring. Scott Walker's The Drift will get under your skin. In my mind, Spooky Season music comes in two distinct flavors. There are the fun, occasionally goofy songs like \"The Monster Mash\" and John Carpenter's \"Halloween Theme.\" Then there is the genuinely terrifying: Throbbing Gristle, The Body, or Scott Walker's The Drift. This 2006 album from the singer-songwriter is truly upsetting. On it, Walker explores Grok releases the first seven minutes of its AI-generated 'Odyssey'. The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest. Scientists reveal the hidden danger of missing blood pressure medication. Missing blood pressure medication could mean losing much of its protection against heart attacks and strokes, according to an analysis of more than 91,000 people. Patients who consistently took their medication experienced an 11 percent reduction in major cardiovascular events, while those who missed too many doses saw little or no measurable benefit. Less than 20 folds, one cracked screen: iPhone Duo buyers raise durability concerns. Apple iPhone Duo buyers have reported cracked inner screens near the hinge within hours of use, with one user claiming the display broke after fewer than 20 folds. Images shared on Reddit reportedly show similar damage across multiple devices, raising concerns about the foldable phone's durability. A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate. Social media and the iPhone Duo subreddit are filled with reports of Apple's foldable failing quickly and in spectacular fashion. Some users report having the phone for only a few hours before the hinge seems to catch on something, then audibly crack and break the screen. Tellingly, the cracks all seem to happen in the 'Cyberselfish' author takes aim at techno-libertarianism as her book returns from the dead. \"That's a 12-year-old view of the world.\" Low-dose aspirin linked to 70 percent lower dementia risk, but there's a catch. A common, inexpensive medication could hold an unexpected clue to preventing dementia. Researchers found that older adults with a specific genetic profile had a 70 percent lower relative risk of dementia when taking low-dose aspirin, even though previous studies found no overall protective effect. The discovery suggests that genetics could help explain why some people benefit while others do not. Zen Browser is the Arc replacement I was looking for. I know many of you are mourning the loss of the Arc browser, and I get it. It felt like the first app in a long time to really offer a new approach to browser design. Atlassian bought the company last year and shifted its focus to developing Dia, its even more AI-focused browser. And AI delivers 'zero financial payoff' to most companies, Apollo economist says. \"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\" This mysterious mushroom makes people see hundreds of tiny humans. For nearly a century, people in distant parts of the world have reported a bizarre experience after eating certain wild mushrooms: seeing dozens or even hundreds of tiny, colorful humans moving through the real world. Now, scientists have identified a mushroom species, Lanmaoa asiatica, responsible for these extraordinary hallucinations in China and the Philippines. This Switch 2 sequel accessory was a few millimeters away from being good. The Crkd Nitro Deck was a saving grace for the original Nintendo Switch. The slide-on $59.99 accessory brought Hall effect sticks to drift-plagued consoles - no need to open up your Joy-Con for a complicated repair. The Nitro Deck 2, made for both the original Switch and the larger Switch 2, continues the tradition of TechCrunch Mobility: Blue-green is the color of autonomy. Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it. Three giant black holes discovered in a galaxy from the dawn of time. Astronomers have discovered three actively feeding black holes inside a single galaxy more than 12.5 billion light-years away, revealing a remarkable scene from the universe's infancy. Two of the black holes are separated by just 620 light-years and are expected to eventually merge, while a third lurks farther away. One weighs an astonishing 80 million suns, and another is growing faster than conventional theories predict. Now you can watch Instagram Reels on your Apple TV. Instagram is continuing its expansion into living rooms with Instagram for TV, for Apple TV. The company first started testing a version of the platform focused on Reels, live streams, and other video content, blown up for a bigger screen in December of last year. Then, in June, it launched a slew of new features The hottest AI wearables and gadgets you should know about. We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more. New evidence suggests spinosaurus spent most of its life underwater. Millions of years after animals first conquered land, some took an extraordinary evolutionary U-turn and returned to the water. Using machine learning and thousands of fossil measurements, Yale scientists have uncovered surprising clues about which prehistoric creatures truly became aquatic. Their findings suggest that Spinosaurus spent most of its life underwater, while some ancient marine reptiles previously thought to be fully aquatic actually spent considerable time on land."
+      "text": "Next, science and technology. Free Fire India launch date 2026: Is Garena releasing the game soon? What we know. Garena's Indian YouTube channels have been renamed Free Fire India Official and Free Fire India Esports, fuelling speculation about the game's return. Creators have cited October 28, 2026, as a possible launch date, but Garena has not confirmed it. OpenAI announces three big science discoveries and a new way to work with academics. Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different this time is the choice to have external experts that OpenAI describes as \"shepherds\" guiding the results in How OpenAI turned its coding tools into dots, an always-on personal assistant. Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent. Exercise doesn't just strengthen your heart. It rewires it. Regular exercise does more than strengthen the heart. New research reveals that it actually reshapes the nerves controlling how the heart functions, and the changes are surprisingly different on the left and right sides of the body. Apple's new iPad mini costs rupees 82,900 in India; check features, specifications and sale date. The latest iPad mini features an 8.5-inch screen, compared with the 8.3-inch display on its predecessor. Despite the larger screen, the tablet retains its overall dimensions, thanks to slimmer bezels Samsung's Switch 2-ready MicroSD Express card is on sale for less than $50. Running out of space on your Nintendo Switch 2? Thankfully, Samsung's P9 MicroSD Express card is discounted at multiple retailers, with the 256GB version going for $47.99 (Amazon, B and H Photo) and the 512GB version $99 (Amazon, B and H Photo). The smaller card typically sells for around $80, and the larger option usually sells between $150 and Cohere says Alibaba's Qwen model tried to send a file to Beijing. An AI model said it wouldn't use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it's probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI. A simple liquid can stop cavities without drilling, major study confirms. A simple liquid painted onto teeth in seconds can stop cavities without drilling, injections, or anesthesia, according to a major clinical trial involving young children. The inexpensive treatment could spare thousands of children painful dental procedures and surgery while paving the way for broader FDA-approved use. Grand Theft Auto VI launch: How is the highly anticipated game moving calendars as fever grips workforce. The survey found that among the 30 percent of gamers considering time off, about 35-36 percent admitted they would call in \"sick\" if they took the day off. Anthropic is burning gas to feed the AI boom. As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In documents filed with the US Securities and Exchange Commission Monday, Anthropic acknowledges that data centers are becoming increasingly reliant on \"natural gas\" Databricks co-founder shares his secrets for winning big enterprise customers. Turns out selling to big companies isn't about having the shiniest tech: It's about hitching a ride on a giant's sales team. A 2,700-year-old solar eclipse just revealed something surprising about Earth. A solar eclipse recorded more than 2,700 years ago is revealing surprising secrets about Earth's rotation and the Sun's ancient behavior. By correcting an eight-kilometer error in the location of an ancient Chinese capital, scientists were able to reconstruct a total solar eclipse that occurred in 709 BCE and obtain more accurate measurements of how fast Earth was spinning at the time. iPhone Duo now supports Apple Pencil with iOS 27.2. Apple has just released iOS 27.2, bringing Apple Pencil support to the iPhone Duo. The software update also includes an \"Edge Light\" feature for the iPhone Duo that's intended to illuminate your face during video calls. Apple previously said the iPhone Duo would add support for the Apple Pencil \"later this year.\" The company's first Watch out, YouTube , Instagram goes from short-form to 90-minute videos. After years in which every social platform (even LinkedIn!) aggressively pursued short-form video, this is a notable shift in strategy for Instagram. New 3D thermal invisibility cloak makes objects disappear from infrared cameras. Researchers have developed a groundbreaking 3D invisibility cloak that can hide complex objects from infrared cameras while protecting them from extreme heat and cold. Instead of blocking heat, the device guides it around an object, making the object appear invisible to thermal imaging from virtually any direction. Successfully built and tested, the cloak could transform electronics cooling, thermal protection, and stealth technology. The NBA's response to gambling scandals is to add more gambling partnerships. From the bright minds that brought you FTX Arena and NBA Top Shot NFT maketplace (where sales last month dropped to $762,781, which is a 99.66 percent decrease compared to the February 2021 peak of $226,350,843), the NBA announced Monday that it has new \"preferred\" prediction market deals for Kalshi and Polymarket, as well as Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren't happy about it. A small number of early adopters of the much-hyped new foldable phone from Apple have complained of screens cracking. Tiny magnetic vortices could help computers work more like your brain. Scientists have filmed tiny magnetic vortices called skyrmions melting out of an organized lattice for the first time, revealing new ways to manipulate these unusual structures. The breakthrough could help make brain-like computers a reality, potentially enabling dramatically smaller and more energy-efficient technology. The RealReal won't let AI agents hog designer clothing. The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after The Verge reported that an AI agent could be used to take advantage of The RealReal's item reserve system. On the retailer's website, Fusion startups are giving the government shares in exchange for awards. Is it worth it?. Fusion startups face a new challenge, one unrelated to plasma physics: Give the government shares in exchange for funding awards or go it alone? Archaeologists may have just found the world's oldest shipwreck. A mysterious shipwreck off Turkey's coast may be the oldest ever discovered, dating back approximately 4,500 years to the age of the Egyptian pyramids. Although the wooden vessel has disappeared, its surviving pottery cargo reveals clues about an ancient trading network that may have connected distant Mediterranean civilizations. Researchers believe the ship may have crashed against rocks during a storm while transporting valuable goods such as oil, wine, or tree resin. Apple acknowledges iPhone Duo display 'issue' after reports of cracked screens. Following reports of iPhone Duos with cracked and broken inside screens, often showing a bright line running from the center to the right side, Apple says in a statement to Bloomberg and 9to5Mac that it's aware of \"an issue impacting the inner display\" on a \"small number of iPhone Duo units.\" If your iPhone Duo This startup's self-driving excavators help dig up $600M in new funding. Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators. Chinese scientists discover \"D-rex,\" a giant fungus with roots stretching back 65 million years. Scientists have discovered a giant new fungus in China that grows up to 20 inches tall and weighs nearly five pounds, making it the largest known of its kind. Dubbed \"D-rex,\" its evolutionary lineage appears to have emerged shortly after the dinosaurs went extinct, raising intriguing questions about how that ancient catastrophe may have shaped its evolution. Nothing's eye-catching Ear 3A earbuds are matching their best price to date. If you want a decent pair of noise-canceling earbuds without spending a fortune, Nothing's Ear 3A are worth considering. The wireless earbuds offer a lot of features for the price, and they're an even better value now that all four colors are on sale at Amazon, Walmart, and Best Buy for $79 ($20 off), matching Anthropic's IPO filing reveals its strategy for keeping enterprise customers hooked. Anthropic's S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that's making enterprise customers stickier."
     },
     {
       "title": "Development and policy",
-      "text": "Now to development, infrastructure and government policy. Bangladesh per capita GDP forecast to outstrip India's: What does it mean?. Twenty-five years of reshaping how state thinks about infrastructure. PIB Backgrounder. Global AI companies turn to India for data centre capacity. Grid bottlenecks threatening India's renewable energy growth, Centre warned. PM Modi warns against economic warfare, stressing need to shield country's banking system from cyber terrorism. India's Business Growth Hits Four-Month High in October, Hiring Nearly Stalls. India-US ties shift to deal-making as Trump's Iran policy looms. High Impact Community Development Projects (HICDPs) (2024), MEA: Strengthening India's Community-Centered Development Partnerships."
+      "text": "Now to development, infrastructure and government policy. Jio Platforms IPO: India's largest share sale could end cheap mobile internet for millions. Oracle may extend US staff separation scheme to India. Tata Communications Invests USD 450 Million in India AI Network Infrastructure. The new India-Pakistan 'cold war'. Geothermal (PS-12) - Geothermal Policy, Finance and Market Development: Innovation, Industrial Capability and Strategic Opportunities for Geothermal in India. Data centres as a mainstream real estate asset class in India: Policy momentum, infrastructure expansion and market evolution. India a preferred destination for data centres: Why world should invest in India, Vedanta chairman Anil Agarwal explains. India Needs $220 Billion To Hit 500 GW Clean Energy Goal By 2030; Keen To Attract FDI: MNRE Secretary. PM shares an article by Member, NITI Aayog and Former Cabinet Secretary Shri Rajiv Gauba highlighting how PM's 25 years in public office have reshaped infrastructure planning and delivery. India's farmer ID scheme reaches 110M ahead of schedule. Microsoft offers voluntary exit to 60,000 employees: Company has 23,000 staff in India; decision to be made."
     },
     {
       "title": "Across India",
-      "text": "Turning to the big national stories. Former CJI D Y Chandrachud was more deferential to government than needed, says Justice Kaul. Justice Sanjay Kishan Kaul has expressed concerns about how former Chief Justice D Y Chandrachud dealt with the government. He believes Chandrachud was too lenient during the process of judicial appointments, which raises worries about the independence of the judiciary. This could potentially undermine the separation between the courts and the government, according to Kaul. BJP calls protest over Kharge's 'baap' remark. Congress president Mallikarjun Kharge's comment about Prime Minister Narendra Modi's father sparked widespread outrage among BJP members. Following the incident, the BJP announced nationwide protests against Kharge's remarks, labeling them indecent and offensive. Union home minister Amit Shah criticized Congress for personal attacks and blamed it on their electoral disappointments. Kharge also condemned the ongoing Special Intensive Revision of electoral rolls, describing it as a threat to democracy. Delhi Police file FIR against opposition MPs over alleged trespassing at Jamia during student protest. The Delhi Police has launched an FIR targeting Congress MPs who attended the student protests at Jamia Millia Islamia. The MPs are accused of entering the university without permission amid ongoing demands for reinstating the students' union. Protesters are also calling for a halt to disciplinary measures against students and improved campus facilities, while university officials draft guidelines for upcoming union elections, adding to the complexity of the situation. 'Creamy layer case in SC won't hit seniority of CSE-2025 batch'. The pendency of the case regarding the OBC creamy layer in Supreme Court will not affect the seniority of successful candidates of 2025 batch even though their service allocation and foundation course are still to be finalised, official sources said on Sunday. BSF apprehends four Pakistani fishermen in Kutch, seizes boat. On Sunday, four Pakistani fishermen were intercepted by the Border Security Force in the Kutch district of Gujarat. Suspected of illegally fishing in Indian waters for crabs, they were detained following precise intelligence alerts. The crew members, hailing from Chach Jaan Khan village in Sindh province, are now under investigation as the BSF maintains vigilance over the sensitive border region to thwart unauthorized entries. 'Too deferential to govt': Former SC judge questions ex-CJI Chandrachud's approach to appointments. Congress flags judicial independence concerns over claims in ex SC judge's memoir Women founders are building India's social startups, their representation in nonprofits outpaces corporate leadership by a big margin, shows study. A survey of more than 145 organisations working in the social impact space shows that over 57 percent of non-profits have at least one female founder – more than three times the 18 percent share reported among Indian startups. 'Pakistan has no right': Congress distances itself from ally Farooq Abdullah's Kashmiri remark. The Jammu and Kashmir Congress has distanced itself from National Conference (NC) president Farooq Abdullah's remarks that Pakistan was helping Kashmiris by keeping the Kashmir issue alive at international fora. Mallikarjun Kharge's 'baap' remark on PM Modi sparks row, BJP hits back. Congress president Mallikarjun Kharge triggered a controversy on Sunday with his remark, \"Modi ka baap bhi jayega\" (Modi's father will also be defeated), at a programme in Patna. PM Modi inaugurates RBI's rupees 169-crore data centre, cybersecurity institute in Odisha. Prime Minister Narendra Modi on Sunday inaugurated the Reserve Bank of India's (RBI) rupees 169-crore data centre and Cybersecurity Training Institute at Info Valley-II in Jatni, near Bhubaneswar, Odisha. 'Don't encourage Jinnah worship': Keralam BJP chief Chandrashekhar targets CM Satheesan amid Fort Kochi video row. Keralam BJP president and former Union minister Rajeev Chandrashekhar on Sunday said chief minister VD Satheesan should refrain from encouraging \"Jinnah worship\", accusing him of indulging in \"selective secularism.\" With An AI-Generated Funeral Of Himself, Man Tries To Escape Murder Trial. A dead goat was put on the pyre, and the man's face was superimposed on it. Kerala Judge's Minor Son Rams Mercedes-Benz Into Scooter, Rider Dies. The victim has been identified as Jayabalakrishnan. 15 Shops, A Hotel Destroyed In Jammu Market Fire, Losses Estimated In Crores. No deaths have been reported so far 2 Dead, 3 Injured After Attackers In Scorpio Open Fire In Punjab's Moga. Bullets injured four men, while bullet splinters reportedly hit another."
+      "text": "Turning to the big national stories. Border patrols normal, let's work for peace: China. After India accused China of carrying out activities detrimental to peace, Beijing said Monday it is strictly abiding by relevant agreements and \"conducts normal border patrol... On Accession Day, Mehbooba blasts Sheikh Abdullah, says his pro-Pak politics turned Kashmiris suspects. PDP president Mehbooba Mufti Monday launched a scathing attack on National Conference founder Sheikh Mohammad Abdullah, accusing him of fuelling anti-India sentiment despite having championed Jammu and Kashmir's accession to India and providing what she called \"Hindutva forces\" an opportunity to target the region's special status. Lawrence Bishnoi moved to high-security Ahemdabad jail block. Gangster Lawrence Bishnoi is learnt to have been recently shifted to \"Do sau kholi\", a specialised high-security block at Ahmedabad's Sabarmati Central Jail housing 200 dangerous inmates accused of terrorism and other heinous offences, sources say. Centre: If OBC candidate avails age benefit, he can't migrate to gen category despite high score. An overage OBC candidate from Tripura became eligible to take the test for recruitment of constables for CAPFs, NIA, Secretariat Security Force and rifleman in Assam Rifles after taking age-relaxation benefit available for reserved category candidates but was not selected despite securing higher marks than a selected general category candidate. Why Indian women work where they 'can', not always where they 'want'. 'New privacy law violates freedom of speech, threatens journalistic activity': Digital news body may move SC. Challenging the constitutional validity of various provisions of Digital Personal Data Protection (DPDP) Act and subsequent rules framed by govt, Digital News Publishers Association (DNPA) is likely to move Supreme Court, alleging that they were violative of the fundamental right to freedom of speech and expression and threatened the full spectrum of journalistic activity. 17 prisoners escape after attacking guard at Theni jail. Seventeen inmates allegedly assaulted a prison guard and escaped from Thekkampatti jail in Theni district on Monday, prompting police to launch a statewide manhunt and intensify vehicle checks across several districts. Parliaments can serve as bridges to ease global tensions, says Birla. Lok Sabha Speaker Om Birla said on Monday that parliaments as expressions of the people's will could serve as bridges to ease international tensions at a time of global uncertainty, heightened by regional conflicts, wars, terrorism and trade disruptions, and called on Brics legislatures to foster collective action. NC defends Farooq, says speech not seditious. The National Conference, facing all-round fire, including from ally Congress, over its president Dr Farooq Abdullah's statement praising Pakistan's diplomatic efforts on Kashmir, on Monday came out in his defence, saying his speech was not seditious and accusing the BJP of taking part of his speech out of context for political mileage. Cyclone 'Arnab' LIVE updates A.P., Odisha on alert as 'Arnab' nears land. Follow The Hindu's LIVE blog on Cyclone Arnab as Odisha and Andhra Pradesh step up precautionary measures ahead of the cyclone's expected landfall on Wednesday (October 28, 2026)."
     },
     {
       "title": "Around the world",
-      "text": "And finally, here is what is happening around the world. Israel to close West Bank crossings on election day as crackdown escalates. The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election. Gabon says access to social media restored after eight-month ban. The authorities had justified the ban by saying online content was fuelling conflict, while the opposition had condemned it as an abuse of power. El Salvador president says bodies found in Haiti are not those of hostages. Nayib Bukele says bodies delivered to soldiers are \"not our men\" amid search for Salvadorans abducted last week. Obama attacks Trump as he campaigns for Democrats ahead of midterm elections. Obama said the election was \"the last best chance to at least rein in some of the foolishness of this administration\"."
+      "text": "And finally, here is what is happening around the world. Lula wins fourth term in dramatic Brazil election comeback. The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro. Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement. The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future. US Marine indicted for murder and robbery of woman in Japan. Prosecutors have indicted Devin Jacob Ballard for a killing that has caused outrage in Japan, local media reports."
     },
     {
       "title": "Sign-off",
