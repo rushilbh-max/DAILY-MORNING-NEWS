@@ -1,12 +1,12 @@
 {
-  "date": "2026-11-10",
-  "dateline": "Tuesday, November 10",
+  "date": "2026-11-11",
+  "dateline": "Wednesday, November 11",
   "title": "Grace Bath World — Morning Brief",
-  "audio": "episodes/2026-11-10.mp3",
-  "duration_sec": 2842.2,
+  "audio": "episodes/2026-11-11.mp3",
+  "duration_sec": 2847.5,
   "est_minutes": 47.8,
-  "word_count": 6071,
-  "generated_utc": "2026-11-10T04:40:32Z",
+  "word_count": 6101,
+  "generated_utc": "2026-11-11T02:47:34Z",
   "chapters": [
     {
       "title": "Opening",
@@ -14,39 +14,39 @@
     },
     {
       "title": "Top headlines",
-      "start": 22.2
+      "start": 22.4
     },
     {
       "title": "Bhopal and Madhya Pradesh",
-      "start": 384.8
+      "start": 336.7
     },
     {
       "title": "Business and markets",
-      "start": 568.2
+      "start": 598.4
     },
     {
       "title": "Money, tax and personal finance",
-      "start": 1068.0
+      "start": 1169.3
     },
     {
       "title": "Science and technology",
-      "start": 1727.0
+      "start": 1816.9
     },
     {
       "title": "Development and policy",
-      "start": 2347.1
+      "start": 2439.8
     },
     {
       "title": "Across India",
-      "start": 2408.1
+      "start": 2508.1
     },
     {
       "title": "Around the world",
-      "start": 2798.1
+      "start": 2804.1
     },
     {
       "title": "Sign-off",
-      "start": 2837.0
+      "start": 2842.3
     }
   ],
   "sections": [
@@ -54,47 +54,51 @@
       "title": "Top headlines",
       "items": [
         {
-          "title": "Nvidia CEO Jensen Huang loses $7.4bn in 30 minutes, drops 2 spots in Forbes rich list",
+          "title": "Coded calls from Brooklyn jail: How Iran operative directed terror plots in Europe, US",
           "source": "Times of India"
         },
         {
-          "title": "3 contract workers drown during tank cleaning at Tata facility in Tamil Nadu",
+          "title": "MEA slams US court summons to Doval, RAW ex-chief Goel",
           "source": "Times of India"
         },
         {
-          "title": "'Injured throat with scissors': Kolkata techie's girlfriend 'can't remember' argument",
+          "title": "Assaulted in Tihar jail, denied treatment, claims US national Matthew VanDyke",
           "source": "Times of India"
         },
         {
-          "title": "Katy Perry faces backlash over private show at Google-owned Wiz's Thailand event",
+          "title": "Google CEO sends welcome note to Zuckerberg: Excited to serve our Cloud customer",
           "source": "Times of India"
         },
         {
-          "title": "4 lakh guests, 150 dishes: Anant Singh's goes all out for daughter's wedding",
+          "title": "India hits immunisation milestones, but why are many still missing their shots?",
           "source": "Times of India"
         },
         {
-          "title": "Why some people love giving gifts but hate receiving them",
+          "title": "16-year-old builds real-life Jarvis to control his home with voice",
           "source": "Times of India"
         },
         {
-          "title": "X locks TOI photojournalist's account after smog posts",
+          "title": "80 percent of Delhi's pollution Monday due to crackers",
           "source": "Times of India"
         },
         {
-          "title": "'Global capital for Sanatan': Akhilesh's big Ayodhya promise ahead of UP polls",
+          "title": "28-day challenge: A heart scan made me give up everything I loved",
           "source": "Times of India"
         },
         {
-          "title": "Hegseth unfazed by impeachment push, defends Trump's Iran war as 'necessary'",
+          "title": "US House blocks bid to impeach war secretary Pete Hegseth",
           "source": "Times of India"
         },
         {
-          "title": "Stock market today: Check if NSE, BSE are open or closed for Diwali-Balipratipada",
+          "title": "What Nvidia CEO first told world about the woman he has admitted having an affair with",
           "source": "Times of India"
         },
         {
-          "title": "North Dakota son loses $100-an-acre farmland deal after failing farm condition",
+          "title": "Indiana couple disputes modular home bill; court upholds $221,000 judgment",
+          "source": "Times of India"
+        },
+        {
+          "title": "Before J and K blast, how a plan to bury explosives in Faridabad village was buried",
           "source": "Times of India"
         }
       ]
@@ -103,75 +107,83 @@
       "title": "Bhopal and Madhya Pradesh",
       "items": [
         {
-          "title": "MP Government Schools Must Achieve 50 percent Pass Rate In Board Exams, Principals And Teachers Face Disciplinary Action In Bhopal",
+          "title": "Post-Diwali Air Pollution Grips Madhya Pradesh As Bhopal, Indore, Gwalior And Jabalpur Record 'Very Poor' AQI For Second Day",
           "source": "Free Press Journal"
         },
         {
-          "title": "Four Killed, Five Injured As Speeding Truck Rams SUV Carrying Family For Narmada Holy Dip In MP's Sagar",
+          "title": "Diljit Dosanjh's Indore Concert Receives Bomb Threat In Email Sent To Gwalior High Court, Singer Says '101 percent Coming On November 15'",
           "source": "Free Press Journal"
         },
         {
-          "title": "Overheard In Bhopal: Soured Relations, Bade Sahib Angry, Keeping Eyes and More",
+          "title": "Bhopal Drug Bust! DRI Seizes Cocaine Worth rupees 2.96 Crore From Grand Trunk Express; Ghanaian Woman Arrested With Drugs Hidden In Horlicks Jar",
           "source": "Free Press Journal"
         },
         {
-          "title": "MP CM Mohan Yadav Inaugurates rupees 24 Crore Kamdhenu Gaushala With Capacity For 10,000 Cattle In MP's Mhow",
+          "title": "Gwalior Railway Station Kidnapping Case: Nine GRP Personnel Rewarded For Rescuing 18-Month-Old Girl Within 24 Hours, 150 CCTV Cameras Scanned",
           "source": "Free Press Journal"
         },
         {
-          "title": "High Court Gets Bomb Threat Over Diljit Dosanjh's Indore Concert",
-          "source": "Local"
-        },
-        {
-          "title": "Adamant about buying a Thar, Madhya Pradesh farmer sets bike on fire on highway",
-          "source": "Local"
-        },
-        {
-          "title": "'Worst-ever': Before fireworks began, Bhopal's AQI was 200; It doubled a day later",
-          "source": "Local"
-        },
-        {
-          "title": "12 killed in separate overnight Madhya Pradesh fires India News",
-          "source": "Local"
-        },
-        {
-          "title": "Daily Madhya Pradesh Current Affairs for MPPSC Exam (10-11-2026)",
-          "source": "Local"
-        },
-        {
-          "title": "Indore Municipal Corporation Cleans City In Just 4.5 Hours After Diwali, Deploys 5,000 Sanitation Workers And 22 Machines",
+          "title": "MP APAAR ID Crisis 2026 Sees 28.48 Lakh Students Awaiting IDs, Bhopal Ranks Last While Indore Records Highest Backlog",
           "source": "Free Press Journal"
         },
         {
-          "title": "Swachh Survekshan awards to be presented in Delhi tomorrow: Indore, Ujjain and Jabalpur invited; Bhopal not",
-          "source": "Local"
-        },
-        {
-          "title": "Midnight house collapse kills 3 in Madhya Pradesh",
-          "source": "Local"
-        },
-        {
-          "title": "Madhya Pradesh: 12 killed in two separate fires during Diwali celebrations",
-          "source": "Local"
-        },
-        {
-          "title": "\"Will make Madhya Pradesh number one in milk production\", says CM Mohan Yadav on Govardhan Puja",
-          "source": "Local"
-        },
-        {
-          "title": "MP aims to become 'Milk Capital of India' in two years, says Mohan Yadav",
-          "source": "Local"
-        },
-        {
-          "title": "Man Stabbed To Death Over Diwali Firecracker Dispute In Bhopal",
-          "source": "Local"
-        },
-        {
-          "title": "GPS, Traffic Alerts And Smart Driving Tools Can Improve Cab Drivers' Performance, But Training Is Key, Finds IIM Indore Study",
+          "title": "Bhopal Crime News: Mobile Phone And Gold Chain Snatchings Surge Across City, Over Dozen Incidents Raise Questions Over Police Patrolling",
           "source": "Free Press Journal"
         },
         {
-          "title": "Bhopal AQI Hits Severe 404 After Diwali Fireworks, Worst in Years",
+          "title": "Once ranked among cleanest state capitals, Bhopal doesn't get Swachh invite this year",
+          "source": "Local"
+        },
+        {
+          "title": "Indore May Get Government IVF Centre At MTH Hospital As rupees 11 Crore Equipment Proposal Awaits Final Approval, Treatment Could Cost Just rupees 50,000",
+          "source": "Free Press Journal"
+        },
+        {
+          "title": "Ghanaian woman held with cocaine worth rupees 2.96 crore on Bhopal-bound train",
+          "source": "Local"
+        },
+        {
+          "title": "Swachh Survekshan: Four of MP's five major cities win awards, Bhopal misses out; state gets nine awards, In",
+          "source": "Local"
+        },
+        {
+          "title": "MoU Signed Between State Transport Authority and 'School of Planning and Architecture', Bhopal for 'Viksit Odisha 2036' Vision",
+          "source": "Local"
+        },
+        {
+          "title": "7-Year-Old Girl Allegedly Sexually Assaulted And Killed, Angry Residents Shut Markets, Block Roads Demanding Death Penalty In MP's Garoth",
+          "source": "Free Press Journal"
+        },
+        {
+          "title": "Would grope women, flee: Bhopal police checks 50 CCTV cameras to track down molester",
+          "source": "Local"
+        },
+        {
+          "title": "Bhopal Swachh Survekshan Setback Exposes Waste Management Gaps",
+          "source": "Local"
+        },
+        {
+          "title": "Uber luxury! Kareena Kapoor wears Begum of Bhopal's 30-carat emerald",
+          "source": "Local"
+        },
+        {
+          "title": "Kareena Kapoor's 30-Carat Emerald, Once Owned By The Begum Of Bhopal, Steals The Spotlight On Diwali",
+          "source": "Local"
+        },
+        {
+          "title": "Indore High Court Directs DAVV To Decide BEd Student's Pending Fourth-Semester Result Within Three Weeks After Nearly Year-Long Delay",
+          "source": "Free Press Journal"
+        },
+        {
+          "title": "Temperatures below 15°C in 17 MP cities: Bhopal and Jabalpur colder than Pachmarhi; Amarkantak records the ",
+          "source": "Local"
+        },
+        {
+          "title": "700-metre road to helipad ahead of Army Day Parade; several Bhopal roads set for facelift",
+          "source": "Local"
+        },
+        {
+          "title": "Tribal woman officer moves HC against demotion, gets relief",
           "source": "Local"
         }
       ]
@@ -180,112 +192,120 @@
       "title": "Business and markets",
       "items": [
         {
-          "title": "Upcoming IPOs: SEBI clears 8 issues, including Mahanadi Coalfields, Veritas Finance and Sagar Defence; details here",
+          "title": "Trump says Iran war 'effectively over': How's it likely to impact Sensex, Nifty, gold and silver prices? Experts' views",
           "source": "Livemint Markets"
         },
         {
-          "title": "Asian stocks rise amid falling oil prices on hopes of US-Iran talks",
+          "title": "Stock Market LIVE: GIFT Nifty jumps 300 pts; Asia markets advance; Brent below $92",
           "source": "Business Standard"
         },
         {
-          "title": "US ETFs to Buy for Samvat 2083: Samco recommends 2 ETFs with potential upside of up to 60 percent for Indian investors",
+          "title": "Festive demand, export recovery drive auto sector growth, says MOFSL",
+          "source": "Business Standard"
+        },
+        {
+          "title": "Hindalco, Airtel among 2 stock recommendations by Kotak's Shrikant Chouhan",
+          "source": "Business Standard"
+        },
+        {
+          "title": "PB Fintech: Retailers buy, FPIs turn wary in Q2; who got right end of deal?",
+          "source": "Business Standard"
+        },
+        {
+          "title": "Defaults Rattle Brazil's Shadow Banks, Spark Regulatory Scrutiny",
           "source": "Livemint Markets"
         },
         {
-          "title": "Stock market holiday: NSE, BSE to remain closed for Diwali-Balipratipada",
+          "title": "The turn of the tide: Foreign investors return, signalling longer India bet",
           "source": "Business Standard"
         },
         {
-          "title": "HUL dividend 2026: Tomorrow is the last day to buy Check payout amount, record date, history, yield and returns",
+          "title": "Chile Pension Funds' Swap Losses Narrow as Treasuries Rally",
           "source": "Livemint Markets"
         },
         {
-          "title": "HSBC upgrades Indian equities to 'overweight', cuts China to 'neutral'",
+          "title": "Wall St slips as hot inflation data fuels rate-hike jitters; Nvidia down 4 percent",
           "source": "Business Standard"
         },
         {
-          "title": "Four stocks with high dividend payout ratios to watch",
+          "title": "Fed's Bowman Warns of Stock Correction If AI Bets Don't Pan Out",
           "source": "Livemint Markets"
         },
         {
-          "title": "How to choose a foreign broker? Check the plumbing, not just the app",
+          "title": "FPIs turn net buyers in November, pump rupees 53,739 crore into Indian equities",
           "source": "Business Standard"
         },
         {
-          "title": "Stock market holiday: Closed today on Tuesday 10 November 2026 on Diwali-Balipratipada; no trading in NSE, BSE exchanges",
+          "title": "Dangote Refinery Gets $4.1 Billion Orders in Top Africa IPO",
           "source": "Livemint Markets"
         },
         {
-          "title": "NSE deploys liquid cooling for AI infra, plans over 80 GPUs this quarter",
+          "title": "World stocks rise as oil slips below $90 on hopes of US-Iran peace talks",
           "source": "Business Standard"
         },
         {
-          "title": "IFSCA may let researchers in GIFT City to launch model portfolios",
-          "source": "Business Standard"
-        },
-        {
-          "title": "JPMorgan Weighs Big Discount to Lure Lenders for Software Debt",
-          "source": "Livemint Markets"
-        },
-        {
-          "title": "Pharmacy retail stock Entero Healthcare zooms 33 percent in 1 week; hits new high",
-          "source": "Business Standard"
-        },
-        {
-          "title": "EIB's Calvino Says US Turmoil Is Driving Capital to Europe",
-          "source": "Livemint Markets"
-        },
-        {
-          "title": "Data Patterns shares zoom 9 percent post Q2 show, nearly double from Jan lows",
-          "source": "Business Standard"
-        },
-        {
-          "title": "BPO jobs on a seesaw as bots call the shots",
+          "title": "Local partner wanted for Xiaomi 'home' coming",
           "source": "Economic Times"
         },
         {
-          "title": "Top Yen Forecaster Predicts 147 Per Dollar as Rate Gap Narrows",
+          "title": "Wall St retreats as hot inflation data, Fed comments fuel rate worries",
           "source": "Livemint Markets"
         },
         {
-          "title": "Nvidia's shares slide as chip giant probes CEO Huang over spy claims",
+          "title": "Bullish signals! GIFT Nifty jumps 1 percent as crude oil prices test $90/bbl",
           "source": "Business Standard"
         },
         {
-          "title": "Philanthropists back AI for public good",
+          "title": "Tighter risk filters guide Prosus' India fintech push",
           "source": "Economic Times"
         },
         {
-          "title": "Viking Loses 1.2 percent in October After Eschewing Many Big AI Bets",
+          "title": "Top stocks to watch today: Cochin Shipyard, MRF, Tata Power shares in focus on Wednesday, 11 November Full list",
           "source": "Livemint Markets"
         },
         {
-          "title": "IRB Infra share price climbs 7 percent as toll collections boost Q2 earnings",
+          "title": "Corn Soars After USDA Cuts American Yield in Another Surprise",
+          "source": "Livemint Markets"
+        },
+        {
+          "title": "Oil prices fall as Trump signals pause in military action against Iran",
           "source": "Business Standard"
         },
         {
-          "title": "Are banks open or closed today on November 10?",
+          "title": "Energy infra startups see bigger cheques",
           "source": "Economic Times"
         },
         {
-          "title": "Oil down more than $7 a barrel in post settlement trade as Trump signals restraint on Iran",
+          "title": "Gold falls nearly 3 percent as CPI tops forecasts, lifting dollar and yields",
           "source": "Livemint Markets"
         },
         {
-          "title": "Ashok Leyland, Paytm down after 6-day rally; analyst flags positive charts",
-          "source": "Business Standard"
-        },
-        {
-          "title": "COP31's money milestone comes with a trust deficit",
+          "title": "Q-comm delivers huge festive triumph for D2C brands",
           "source": "Economic Times"
         },
         {
-          "title": "Canadian dollar underperforms most G10 currencies as oil falls",
+          "title": "Soybeans, corn rally after USDA pegs US harvest, stocks below expectations",
           "source": "Livemint Markets"
         },
         {
-          "title": "Uno Minda zooms 26 percent in November, stock nears record high; here's why",
-          "source": "Business Standard"
+          "title": "Nvidia sell-off deepens, fall 6.3 percent ; wipes $10 billion off Jensen Huang's wealth, slips to 12th on Forbes rich list",
+          "source": "Livemint Markets"
+        },
+        {
+          "title": "Who is Alice, the woman linked to Jensen Huang?",
+          "source": "Economic Times"
+        },
+        {
+          "title": "Nifty PSU Bank Index Performance: Bank of India, UCO Bank among 7 stocks rebound 15–56 percent from 1-yr lows - here's why",
+          "source": "Livemint Markets"
+        },
+        {
+          "title": "US SEC seeks to close Musk, Tesla settlement fund",
+          "source": "Economic Times"
+        },
+        {
+          "title": "FPIs return to Dalal Street amid AI sell-off and oil slump; Can proposed tax cuts sustain inflows?",
+          "source": "Livemint Markets"
         }
       ]
     },
@@ -293,111 +313,111 @@
       "title": "Money, tax and personal finance",
       "items": [
         {
-          "title": "Sensex crash survival guide: 10 moves to protect your savings, save tax and keep investing",
+          "title": "Bank holiday today: Are banks open or closed in your state today on November 11, 2026?",
           "source": "ET Wealth"
         },
         {
-          "title": "Gold, silver prices today, 10 Nov Tuesday: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata",
+          "title": "8th Pay Commission: Will central government employees get salary hike in 2027? What 1 January 2026 effective date means",
           "source": "Livemint Money"
         },
         {
-          "title": "Stop your SIP too early or start your SWP too soon? Here's how to get the timing right",
+          "title": "Bank holiday today November 11 Wednesday: Branches closed in these 5 states , Full list and reasons behind no banking",
+          "source": "Livemint Money"
+        },
+        {
+          "title": "A financial report card from the future",
+          "source": "Livemint Money"
+        },
+        {
+          "title": "Financial planning for DINK couples in India: 10 money moves for two incomes",
           "source": "ET Wealth"
         },
         {
-          "title": "Received Diwali bonus or cash from your employer? Know rupees 15,000 exemption limit and when income tax applies Explained",
+          "title": "NSE EGRs: Want to invest in gold without buying jewellery or coins? Check how to buy electronic gold receipts online",
           "source": "Livemint Money"
         },
         {
-          "title": "Bank holiday today, 10 Nov Tuesday: Bank branches closed in Ahmedabad, Bengaluru, Mumbai and 4 other cities; here's why",
+          "title": "Bhai Dooj 2026: Transferring rupees 5 lakh to your sister? Know when a sibling's cash gift is tax-free and when it is taxable",
           "source": "Livemint Money"
         },
         {
-          "title": "Senior citizen FD rates: Suryoday Bank offers 8.6 percent on five-year deposits; compare rates at SBI, HDFC Bank and others",
+          "title": "20 years of service recognised: Retired woman IAF officer wins 15-year legal battle for pension as AFT alters ruling",
           "source": "Livemint Money"
         },
         {
-          "title": "Bank locker found surrendered, jewellery missing? How to protect your valuables, avoid costly dispute Experts explain",
+          "title": "SIP versus lump sum: Which strategy delivers higher mutual fund returns? Global 30-yr data reveals what worked better",
           "source": "Livemint Money"
         },
         {
-          "title": "Received cash from customers and deposited it in your bank account? When can income tax authorities tax it",
+          "title": "7th Pay Commission: Level 5 salary rises to rupees 62,224 with 63 percent DA, here's why your place of posting alters final figure",
           "source": "Livemint Money"
         },
         {
-          "title": "Parag Parikh Flexi Cap adds Netflix, exits Meta: What changed in its October portfolio? Check latest stock picks",
+          "title": "EPS-95 higher pension: NCPA asks EPFO to withdraw January 2025 circular and stop rejecting retirees' claims",
           "source": "Livemint Money"
         },
         {
-          "title": "Planning a big wedding? One unexpected event could derail it; can insurance save the day? All you need to know",
+          "title": "8th Pay Commission: rupees 69,000 minimum pay, rupees 15,768 more HRA? Check 5 key NC-JCM demands",
+          "source": "ET Wealth"
+        },
+        {
+          "title": "Bihar DA hike ahead of Chhath Puja: State govt employees' allowance rises from 60 percent to 63 percent , check details",
           "source": "Livemint Money"
         },
         {
-          "title": "NPS returns: Choosing a pension fund for retirement? Why subscribers should look beyond one-year performance",
+          "title": "Need rupees 8 lakh a year in retirement? Know the ideal withdrawal rate for your rupees 2-crore corpus",
+          "source": "ET Wealth"
+        },
+        {
+          "title": "Bhai Dooj gift tax rules: Got money or gold from your brother? Check when festival presents become taxable",
           "source": "Livemint Money"
         },
         {
-          "title": "Buying gold jewellery? Government makes hallmarking mandatory in six more districts across India. Check the full list",
+          "title": "Hindu Succession Act, 1956: Can a grandson claim a share in property inherited by his father? Supreme Court clarifies",
           "source": "Livemint Money"
         },
         {
-          "title": "F and F payout tax rules: Switched jobs, received full and final settlement? Know which components are taxable",
+          "title": "Central govt pension rules clarified: Who can commute pension without medical tests and when is examination compulsory",
           "source": "Livemint Money"
         },
         {
-          "title": "Diwali firecracker injuries: Will health insurance cover burns, eye damage and hospital bills? Know what is covered",
+          "title": "Salary slip shows PF deduction, but is the full amount reaching your EPF account? How to check and report shortfalls",
           "source": "Livemint Money"
         },
         {
-          "title": "Sold your house and accepted rupees 11 lakh in cash? ITAT deletes penalty, citing seller's lack of awareness of tax rules",
+          "title": "Salary credited? 5 smart ways to manage monthly expenses, build savings and start investing from your first job",
           "source": "Livemint Money"
         },
         {
-          "title": "Claude Personal Finance versus ChatGPT Finances: 5 key differences in privacy, features and bank access",
+          "title": "Banks open or closed tomorrow, 11 Nov 2026? Check closures in Kanpur, Lucknow, Shimla, Kolkata, Gangtok and Imphal",
           "source": "Livemint Money"
         },
         {
-          "title": "rupees 670-cr investment fraud: How a former mason allegedly lured 7,400 investors with 4 percent monthly returns",
+          "title": "Delayed PF deposits? EPFO offers lower penalties under VISHWAS 2026 scheme, but employers must apply by 28 December",
           "source": "Livemint Money"
         },
         {
-          "title": "Nifty 50 ETFs or index funds? Compare returns, expense ratios and tracking errors before choosing where to invest",
+          "title": "8th Pay Commission: rupees 69,000 minimum basic pay, higher HRA and increment rate , What changes NC-JCM seek?",
           "source": "Livemint Money"
         },
         {
-          "title": "LTCG tax: India taxes capital gains. These countries don't: Singapore, Hong Kong and more",
+          "title": "EPS pension hike: EPFO shifts venue of November 19 CBT meeting to Delhi; will government approve rupees 3,000 minimum pension?",
           "source": "Livemint Money"
         },
         {
-          "title": "Indian travellers can avail 10 percent discount on UPI payments at Dubai Duty Free , Check offer cap, other details",
+          "title": "Foreign equities under pressure: what should investors do?",
           "source": "Livemint Money"
         },
         {
-          "title": "rupees 2,000 monthly SIP to rupees 4.8 crore corpus: How a 38-year-old achieved financial independence without stock-picking",
+          "title": "How travellers are working around pricey flights for winter holidays",
           "source": "Livemint Money"
         },
         {
-          "title": "Will your old cheque book become invalid after December 31, 2026? RBI debunks viral claim",
+          "title": "Bhai Dooj 2026 financial gift: Gold ETFs for your sibling? How it differs from mutual funds? Process, rules explained",
           "source": "Livemint Money"
         },
         {
-          "title": "EPF account correction: How to fix incorrect name, date of birth online in 5 steps",
-          "source": "Livemint Money"
-        },
-        {
-          "title": "Purchased gold during Dhanteras, Diwali puja done? Want to keep in bank locker? Rules, limits for keeping at home here",
-          "source": "Livemint Money"
-        },
-        {
-          "title": "UCO Bank paid widow's pending pension arrears, but why did court still impose a rupees 15,000 fine?",
-          "source": "Livemint Money"
-        },
-        {
-          "title": "8th Pay Commission: Expert explains report deadline, when revised salaries and pensions may take effect",
-          "source": "Livemint Money"
-        },
-        {
-          "title": "Two incomes, no cradle: what India's DINK couples are telling policymakers",
+          "title": "Wrong details in PF account can delay your money; EPFO explains how to correct them online in 5 easy steps",
           "source": "Livemint Money"
         }
       ]
@@ -406,107 +426,107 @@
       "title": "Science and technology",
       "items": [
         {
-          "title": "Australia to mandate AI breach reporting, create regulator after OpenAI breach",
+          "title": "Banks seek to rein in soaring AI agent costs, McKinsey says",
           "source": "Livemint Tech"
         },
         {
-          "title": "David Ellison says AI could be the 'biggest creative unlock in modern history'",
+          "title": "Microsoft's DLSS competitor is out for the Xbox Ally X and works in handheld mode",
           "source": "The Verge"
         },
         {
-          "title": "Jensen Huang's alleged honeypot scandal has inspired some top-notch memes",
+          "title": "X launches its own clipping feature to spur influencer engagement",
           "source": "TechCrunch"
         },
         {
-          "title": "Alzheimer's may have early warning signs outside the brain",
+          "title": "Scientists discover a giant 66-pound rodent that lived 34 million years ago",
           "source": "ScienceDaily"
         },
         {
-          "title": "rupees 85,000 Temple versus Apple Watch and Garmin: How does Deepinder Goyal's wearable compare with popular fitness trackers?",
-          "source": "Livemint Tech"
-        },
-        {
-          "title": "What could China get from Jensen Huang?",
+          "title": "The VR Disney Plus app on Meta Quest now has 3D movies",
           "source": "The Verge"
         },
         {
-          "title": "Anthropic reportedly plans to move forward with IPO plans",
+          "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
           "source": "TechCrunch"
         },
         {
-          "title": "Scientists finally discover why we learn to love bitter coffee",
+          "title": "Why heart attacks can still happen even when bad cholesterol is low",
           "source": "ScienceDaily"
         },
         {
-          "title": "PCs are getting less RAM for the first time: Why are 32GB and 64GB systems losing ground? Reason here",
+          "title": "Entered a fake birthday on Instagram? Meta's AI can now identify users posing as adults",
           "source": "Livemint Tech"
         },
         {
-          "title": "Here's what Trump said he knew about Jensen Huang",
+          "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
           "source": "The Verge"
         },
         {
-          "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
+          "title": "OpenAI, Anthropic face new oversight as New York's AI safety law takes effect",
           "source": "TechCrunch"
         },
         {
-          "title": "Common supplement could help fight psoriasis, scientists discover",
+          "title": "237-million-year-old fossils reveal a bizarre armored sea amphibian",
           "source": "ScienceDaily"
         },
         {
-          "title": "Honor 700 series' unusual rear screen could do more than take selfies: Here's what it may reveal about your health",
+          "title": "GTA 6 release date confirmed for November 19: Pre-load, New Zealand early access, PC update and £1 million car",
           "source": "Livemint Tech"
         },
         {
-          "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+          "title": "Sony cancels live-service shooter Fairgames",
           "source": "The Verge"
         },
         {
-          "title": "Hotel giant Wyndham exposed customer data after app security lapse",
+          "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
           "source": "TechCrunch"
         },
         {
-          "title": "NASA reveals bold new plan to return astronauts to the Moon in 2028",
+          "title": "NASA's CHAPEA Mars crew finally emerges after more than a year in isolation",
           "source": "ScienceDaily"
         },
         {
-          "title": "Pebble Qore Ultra review: Whoop-like health tracking at rupees 5,999, but what are the trade-offs?",
+          "title": "Apple introduces $50 AI usage packs for Creator Studio apps: What users get and how they work",
           "source": "Livemint Tech"
         },
         {
-          "title": "MSI's refurbished QD-OLED gaming monitor is on sale for under $300",
+          "title": "The PlayStation Plus PC app is shutting down next month",
           "source": "The Verge"
         },
         {
-          "title": "A short seller flagged Nvidia CEO's ties to a suspected Chinese spy six months before the scandal",
+          "title": "X-energy gets green light to build its first small modular nuclear reactors",
           "source": "TechCrunch"
         },
         {
-          "title": "After 40 years, CERN finds evidence of a one-in-10-billion particle decay",
+          "title": "NASA offers $500,000 to develop next-generation electric rocket engines",
           "source": "ScienceDaily"
         },
         {
-          "title": "ASUS Zenbook 14 launched in India with Ceraluminum body, OLED display and up to 33-hour battery",
+          "title": "AI could eliminate up to 70 percent of manual risk tasks in banks, free capacity for strategic roles: McKinsey",
           "source": "Livemint Tech"
         },
         {
-          "title": "The global pledge to use AI for climate good is a cruel joke",
+          "title": "Starlink Mini 2 adds a swappable battery",
           "source": "The Verge"
         },
         {
-          "title": "The race is on to sue Nvidia",
+          "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
           "source": "TechCrunch"
         },
         {
-          "title": "Caltech robot makes history by building a structure in space",
+          "title": "Global fossil fuel emissions set to fall in 2026, but total CO2 keeps rising",
           "source": "ScienceDaily"
         },
         {
-          "title": "Samsung Galaxy S27 launch tipped for early 2027: 4 models, new Pro variant and expected specs",
-          "source": "Livemint Tech"
+          "title": "The US is winning the AI race. Jensen Huang could have blown it",
+          "source": "The Verge"
         },
         {
-          "title": "Apple's $50 Intelligence Usage Packs extend access to some AI features",
+          "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Google's Pixel Tag tracker is now available",
           "source": "The Verge"
         }
       ]
@@ -515,43 +535,47 @@
       "title": "Development and policy",
       "items": [
         {
-          "title": "India's Energy Storage Scheme Targets $10 Billion Investment",
+          "title": "China Is Nibbling at India's Domination of Bhutan's Economy",
           "source": "Policy"
         },
         {
-          "title": "India is an important partner for Slovenia's economic growth: Ambassador Tomaž Mencin",
+          "title": "Should India worry about money flowing overseas?",
           "source": "Policy"
         },
         {
-          "title": "Manufacturing Momentum:Building a Self-Reliant India",
+          "title": "Where is India Most Ready for Wind Repowering? Assessing opportunities across India's leading wind states",
           "source": "Policy"
         },
         {
-          "title": "Designing for multigenerational users in India's evolving digital economy",
+          "title": "India moves to retain military recruits amid border risks and troop gaps",
           "source": "Policy"
         },
         {
-          "title": "APAC transformer demand rises as China and India upgrade grids",
+          "title": "Policy predictability key to more foreign investment Hindustan Times",
           "source": "Policy"
         },
         {
-          "title": "India and the Global Housing Crisis: Rethinking Housing Policy",
+          "title": "India–South Korea Cooperation on Alternative Maritime Fuels and Port Energy Systems",
           "source": "Policy"
         },
         {
-          "title": "Southeast Asia's Cybercrime–Cyber Slavery Nexus: Implications for India",
+          "title": "India to provide grant for expansion of Sri Lanka's emergency ambulance service",
           "source": "Policy"
         },
         {
-          "title": "India wants to become a $10 Trillion economy. First, it must learn to measure itself",
+          "title": "Lakshadweep and Andaman and Nicobar Islands to drive India's Blue Economy push through tuna, seaweed and ornamental fisheries",
           "source": "Policy"
         },
         {
-          "title": "GE Vernova appointed for 6GW transmission project in India",
+          "title": "India on track for $1 trillion exports in FY27, says Piyush Goyal",
           "source": "Policy"
         },
         {
-          "title": "GE Vernova to Support India's Energy Transition With 6-GW HVDC Transmission Project",
+          "title": "European carmakers may set up manufacturing units in India soon: Goyal",
+          "source": "Policy"
+        },
+        {
+          "title": "Electronics Inc runs ops update to build AI infra",
           "source": "Policy"
         }
       ]
@@ -560,72 +584,48 @@
       "title": "Across India",
       "items": [
         {
-          "title": "India, US plan joint crackdown on transnational drug cartels, synthetic drug trade",
+          "title": "Parl panel drops NCR air pollution from agenda, Cong's Maken raises objection",
           "source": "Times of India"
         },
         {
-          "title": "Hasina seeks passport, Dhaka calls it political stunt and seeks extradition",
+          "title": "Being underweight with high BP can be a problem too: Study",
           "source": "Times of India"
         },
         {
-          "title": "'Global capital for Sanatan pilgrimage': Akhilesh's big Ayodhya promise ahead of 2027 UP polls",
+          "title": "EC: Code of conduct applies to retd govt officials in state jobs",
           "source": "Times of India"
         },
         {
-          "title": "Three workers killed during water tank maintenance at Tata iPhone parts factory in Tamil Nadu",
+          "title": "Unesco: Women ahead in higher edu, but rural-urban gap hits schoolgirls",
           "source": "Times of India"
         },
         {
-          "title": "Fearing winter polls, Ladakh political parties, social bodies plan protests",
+          "title": "Days after talks with NC 'rebels', Farooq moots advisory groups for ministers",
           "source": "Times of India"
         },
         {
-          "title": "Chinese nationals stream from poor localities of Dhaka, claim those are in Delhi: Report",
+          "title": "Ladakh hill council polls on Dec 4, protests erupt over winter timing",
           "source": "Times of India"
         },
         {
-          "title": "'Scrap rupees 500 notes': CM Naidu seeks to phase out big currency to curb corruption",
+          "title": "Evening newswrap: Sonia Gandhi's memoir sparks row; India condemns Chinese vloggers; MEA reacts to US midterm results, and more",
           "source": "Times of India"
         },
         {
-          "title": "Adult vaccination remains low; elderly miss cover against flu and shingles",
+          "title": "CPCB explains why official AQI is capped at 500 despite private apps showing higher readings",
           "source": "Times of India"
         },
         {
-          "title": "Lawyers' boycott makes man stay in jail despite bail",
+          "title": "Chemical-free crackers: RSS chief extols traditional Diwali practices as severe pollution chokes Delhi",
           "source": "Times of India"
         },
         {
-          "title": "Diwali is 'Eid of joy', says Kharge; Congress insulting Sanatan culture: BJP",
+          "title": "'Bogus movement led by bogus leader': Union minister takes jibe at Rahul over ethanol blending row",
           "source": "Times of India"
         },
         {
-          "title": "Bihar govt bans firecrackers, private boat operations near ghats ahead of Chhath Puja",
+          "title": "2008 CRPF camp attack convict shot dead by unknown gunman in UP",
           "source": "Times of India"
-        },
-        {
-          "title": "Delhi Police issues notice to Mamata Banerjee as witness in 2013 protest case",
-          "source": "Times of India"
-        },
-        {
-          "title": "'There is an old saying': BJP MLA Papiya Adhikari explains her 'firecrackers cure illness' remark, apologises",
-          "source": "Times of India"
-        },
-        {
-          "title": "Arpita Singh, celebrated artist who painted real women, dies at 89",
-          "source": "Times of India"
-        },
-        {
-          "title": "PM Modi speaks with Zelenskyy, discusses efforts for Russia-Ukraine peace deal",
-          "source": "Times of India"
-        },
-        {
-          "title": "'I warned you before too': Kejriwal takes swipe at Yogi over SIR, congratulates Akhilesh in advance",
-          "source": "Times of India"
-        },
-        {
-          "title": "Vellore Shooting Adds To Tamil Nadu's Law And Order Debate After Diwali Killings",
-          "source": "NDTV"
         }
       ]
     },
@@ -633,15 +633,15 @@
       "title": "Around the world",
       "items": [
         {
-          "title": "France accuses Iran of supermarket fridge hacking",
+          "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
           "source": "BBC World"
         },
         {
-          "title": "Turkey steel factory blast kills at least 17 people",
+          "title": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
           "source": "BBC World"
         },
         {
-          "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
+          "title": "Anti-homosexuality laws in Trinidad and Tobago overturned",
           "source": "BBC World"
         }
       ]
@@ -650,39 +650,39 @@
   "transcript": [
     {
       "title": "Opening",
-      "text": "Good morning Rushil Bhatia. Here is your daily news for Tuesday, November 10. In today's briefing: top headlines, bhopal and madhya pradesh, business and markets, money, tax and personal finance, science and technology, development and policy, across india, around the world. Let's begin."
+      "text": "Good morning Rushil Bhatia. Here is your daily news for Wednesday, November 11. In today's briefing: top headlines, bhopal and madhya pradesh, business and markets, money, tax and personal finance, science and technology, development and policy, across india, around the world. Let's begin."
     },
     {
       "title": "Top headlines",
-      "text": "First, the stories leading the news this morning. Nvidia CEO Jensen Huang loses $7.4bn in 30 minutes, drops 2 spots in Forbes rich list. Nvidia's CEO Jensen Huang faced a notable drop in net worth, tumbling from $162.2 billion to $154.7 billion, following revelations of an ongoing investigation into his supposed involvement with a Chinese spy. The resulting unrest caused Nvidia's shares to plunge by more than 7 percent , raising alarms about its market stability as broader questions emerge regarding Nokia's dealings in China and their national security ramifications. 3 contract workers drown during tank cleaning at Tata facility in Tamil Nadu. Three contract workers tragically drowned while cleaning inside a feed tank at Tata Marigold Company. The deceased, identified as Kaveri, J Akmal, and Sarath Kumar, were all from Rayakottai. They were rescued and taken to a nearby hospital, where they were pronounced dead. Authorities have initiated an inquiry to investigate the circumstances surrounding this incident. 'Injured throat with scissors': Kolkata techie's girlfriend 'can't remember' argument. Sarthak Sarkar, a software engineer, was found murdered in his rental flat in Kolkata after a domestic dispute. His live-in partner, Sanchalika Basu, and her mother, Moumita Basu, have been arrested in connection with the case. Investigators are examining conflicting statements provided by the arrested women regarding the circumstances of Sarkar's death. The couple reportedly argued over allegations of extramarital affairs shortly before the incident occurred. Katy Perry faces backlash over private show at Google-owned Wiz's Thailand event. Wiz, a cybersecurity firm under Google's wing, hosted a lavish five-day retreat in Thailand, featuring a performance by Katy Perry. However, the event sparked considerable online controversy, as critics highlighted the company's ties to Israel and opulent gatherings. This isn't the first time Perry has faced backlash; she previously encountered protests during an Australian performance. Wiz's penchant for high-profile events has drawn scrutiny from various quarters. 4 lakh guests, 150 dishes: Anant Singh's goes all out for daughter's wedding. Anant Singh is organizing an elaborate wedding for his daughter in Ladma village on November 25. The event will showcase a luxury Land Rover Defender and a BMW for family members. Horse racing will also occur, with substantial prizes for the winners to attract participants from multiple states. A wide variety of food dishes will be served, totaling over 150 options. Why some people love giving gifts but hate receiving them. Gift-giving can be a joyful experience for many, yet receiving gifts often induces anxiety due to feelings of obligation or inadequacy. Studies suggest that recipients may stress more about reciprocating than givers anticipate. To ease this tension, it's vital to distinguish gratitude from the pressure to return favors. Embracing gifts as expressions of kindness can foster a more positive experience for both parties involved. X locks TOI photojournalist's account after smog posts. Amidst rising air quality concerns, Anindya Chattopadhyay, a dedicated photographer, found himself at the center of a storm when his X account faced a lock due to smog images taken around NH9 and Lodhi Garden after Diwali. Committed to truth-telling through his lens, Chattopadhyay was undeterred by the backlash, with the Delhi government refuting any involvement in this controversial decision. 'Global capital for Sanatan': Akhilesh's big Ayodhya promise ahead of UP polls. Akhilesh Yadav has articulated a bold vision to elevate Ayodhya as the ultimate hub for Sanatan pilgrimage on a global scale. He stressed the importance of honest temple management and top-notch infrastructure to rejuvenate devotees' trust. Additionally, Yadav has committed to tackling local economic challenges and safeguarding the interests of traditional boatmen. Hegseth unfazed by impeachment push, defends Trump's Iran war as 'necessary'. Facing a growing push for his impeachment, US secretary of war Pete Hegseth has defended US President Donald Trump's military campaign against Iran under Operation Epic Fury, describing it as \"necessary\" despite questions over its political and electoral fallout after midterm setback. Stock market today: Check if NSE, BSE are open or closed for Diwali-Balipratipada. With the festive season bringing changes to the regular trading calendar, investors may be wondering whether the stock market will remain open or closed today, Tuesday, November 10. Following a special Muhurat trading session on Sunday and a regular session on Monday, both the BSE and NSE will remain closed today on account of Diwali-Balipratipada. Regular trading will resume on Wednesday, November 11. North Dakota son loses $100-an-acre farmland deal after failing farm condition. The North Dakota Supreme Court ruled that a man could not buy his parents' farmland for $100 an acre because he failed to meet their condition of actively farming it. It also ordered a lower court to calculate damages for his use of the property."
+      "text": "First, the stories leading the news this morning. Coded calls from Brooklyn jail: How Iran operative directed terror plots in Europe, US. A US indictment alleges that an Iran-backed operative jailed in New York used coded calls with family members to coordinate a plot against RAF Fairford, a British air base housing US troops. The accused and two associates are also alleged to have planned nearly 20 attacks targeting Jewish communities across Europe and the US. MEA slams US court summons to Doval, RAW ex-chief Goel. 'Pannun's Lawsuit Frivolous, His Claims Fabricated' Assaulted in Tihar jail, denied treatment, claims US national Matthew VanDyke. Matthew VanDyke alleged that he experienced assaults during his time in Tihar jail while awaiting trial. He claimed he was physically attacked and denied medical attention by prison authorities. VanDyke, along with six Ukrainians, faced accusations of connections to armed groups in Myanmar. He was granted bail due to an incomplete chargesheet from the National Investigation Agency. Google CEO sends welcome note to Zuckerberg: Excited to serve our Cloud customer. Meta's Muse Ember, Muse Spark 1.3, and Muse Wonder are now available through Google Cloud's managed APIs. These models are designed for various complex tasks including software engineering, workflow automation, and document processing. Google CEO Sundar Pichai welcomed the collaboration, which integrates Meta's AI with Google Cloud offerings. Muse Ember emphasizes efficiency and cost-effectiveness for daily tasks across different applications. India hits immunisation milestones, but why are many still missing their shots?. India's vigorous vaccination campaigns have made remarkable strides in eliminating diseases such as smallpox and polio. Yet, disparities still exist in immunization coverage between various states and communities. Current initiatives aim to enhance accessibility and monitoring of vaccinations, especially addressing caregiver hesitancy and obstacles encountered by migrants. Raising awareness and consistent follow-up will be vital in boosting vaccination rates in the future. 16-year-old builds real-life Jarvis to control his home with voice. A young innovator has created a voice-activated home automation system reminiscent of Iron Man's JARVIS. This invention empowers users to manage their lighting effortlessly through voice commands, eliminating the hassle of reaching for switches. It's an excellent solution for the elderly and those with mobility challenges, showcasing the exciting intersection of technology and daily life, making modern homes smarter and more accessible. 80 percent of Delhi's pollution Monday due to crackers. Firecracker emissions accounted for more than 80 percent of Delhi's pollution load on Monday, a day after Diwali, according to the Indian Institute of Tropical Meteorology's models, highlighting the sharp impact of fireworks on the capital's air quality. 28-day challenge: A heart scan made me give up everything I loved. Eleven years of experiments on myself, and my numbers are better now than when I was suffering. Here is what I got wrong. US House blocks bid to impeach war secretary Pete Hegseth. House Republican leaders and White House officials on Tuesday night blocked an effort to impeach US secretary of war Pete Hegseth, securing a procedural victory for President Donald Trump. What Nvidia CEO first told world about the woman he has admitted having an affair with. Nvidia CEO Jensen Huang publicly acknowledged an affair that has raised concerns over his leadership. Following his admission, Nvidia initiated an independent investigation into reports concerning foreign intelligence involvement. Huang expressed remorse for his actions towards his family and colleagues while committing to cooperate with the inquiry. US President Donald Trump commented on the situation, stating that the FBI is investigating the matter. Indiana couple disputes modular home bill; court upholds $221,000 judgment. An Indiana couple withheld the remaining payment for a $211,235 modular home, citing construction problems. The Indiana Court of Appeals upheld a $221,704 judgment against them, finding that the builder had substantially performed its contractual obligations and that the couple had prevented it from completing the remaining work. Before J and K blast, how a plan to bury explosives in Faridabad village was buried. An explosion occurred at the Nowgam police station in Srinagar, killing nine individuals including law enforcement and forensic personnel. This explosion was linked to explosives moved from Haryana to Jammu and Kashmir for criminal investigation. The explosives had been seized in connection with a terror module involving Al"
     },
     {
       "title": "Bhopal and Madhya Pradesh",
-      "text": "Now, news closer to home in Bhopal and across Madhya Pradesh. MP Government Schools Must Achieve 50 percent Pass Rate In Board Exams, Principals And Teachers Face Disciplinary Action In Bhopal. Madhya Pradesh's school education department has mandated a minimum 50 percent pass rate in government school board examinations. Four Killed, Five Injured As Speeding Truck Rams SUV Carrying Family For Narmada Holy Dip In MP's Sagar. Four people were killed and five others injured when a speeding truck collided head-on with an SUV on NH-44 near Gopalpura in MP's Sagar district. Overheard In Bhopal: Soured Relations, Bade Sahib Angry, Keeping Eyes and More. Overheard column explores speculation circulating through Madhya Pradesh's bureaucratic corridors. MP CM Mohan Yadav Inaugurates rupees 24 Crore Kamdhenu Gaushala With Capacity For 10,000 Cattle In MP's Mhow. Chief Minister Mohan Yadav inaugurated the rupees 24 crore Kamdhenu Gaushala in Mhow, built across 26 hectares with capacity for 10,000 cattle. High Court Gets Bomb Threat Over Diljit Dosanjh's Indore Concert. Adamant about buying a Thar, Madhya Pradesh farmer sets bike on fire on highway. 'Worst-ever': Before fireworks began, Bhopal's AQI was 200; It doubled a day later. 12 killed in separate overnight Madhya Pradesh fires India News. Daily Madhya Pradesh Current Affairs for MPPSC Exam (10-11-2026). Indore Municipal Corporation Cleans City In Just 4.5 Hours After Diwali, Deploys 5,000 Sanitation Workers And 22 Machines. Indore Municipal Corporation launched a massive post-Diwali cleanliness drive on Monday, deploying 5,000 sanitation workers and 22 machines. Swachh Survekshan awards to be presented in Delhi tomorrow: Indore, Ujjain and Jabalpur invited; Bhopal not. Midnight house collapse kills 3 in Madhya Pradesh. Madhya Pradesh: 12 killed in two separate fires during Diwali celebrations. \"Will make Madhya Pradesh number one in milk production\", says CM Mohan Yadav on Govardhan Puja. MP aims to become 'Milk Capital of India' in two years, says Mohan Yadav. Man Stabbed To Death Over Diwali Firecracker Dispute In Bhopal. GPS, Traffic Alerts And Smart Driving Tools Can Improve Cab Drivers' Performance, But Training Is Key, Finds IIM Indore Study. An IIM Indore study involving 479 cab drivers found that GPS navigation, traffic updates and parking assistance can improve perceived driving efficiency. Bhopal AQI Hits Severe 404 After Diwali Fireworks, Worst in Years."
+      "text": "Now, news closer to home in Bhopal and across Madhya Pradesh. Post-Diwali Air Pollution Grips Madhya Pradesh As Bhopal, Indore, Gwalior And Jabalpur Record 'Very Poor' AQI For Second Day. Air pollution remained a concern across Madhya Pradesh for the second consecutive day after Diwali. Diljit Dosanjh's Indore Concert Receives Bomb Threat In Email Sent To Gwalior High Court, Singer Says '101 percent Coming On November 15'. The Gwalior Bench of Madhya Pradesh High Court received a threatening email referencing Diljit Dosanjh's November 15 Indore concert, Amitabh Bachchan's residence and prominent temples. Bhopal Drug Bust! DRI Seizes Cocaine Worth rupees 2.96 Crore From Grand Trunk Express; Ghanaian Woman Arrested With Drugs Hidden In Horlicks Jar. The Directorate of Revenue Intelligence arrested a Ghanaian woman at Bhopal Junction after seizing 591 grams of cocaine valued at rupees 2.96 crore aboard the Grand Trunk Express. Gwalior Railway Station Kidnapping Case: Nine GRP Personnel Rewarded For Rescuing 18-Month-Old Girl Within 24 Hours, 150 CCTV Cameras Scanned. Nine GRP personnel have been rewarded for rescuing an 18-month-old girl kidnapped from Gwalior railway station on August 3, 2026. MP APAAR ID Crisis 2026 Sees 28.48 Lakh Students Awaiting IDs, Bhopal Ranks Last While Indore Records Highest Backlog. Madhya Pradesh has 28.48 lakh APAAR IDs pending despite generating 1.21 crore IDs for students. Bhopal Crime News: Mobile Phone And Gold Chain Snatchings Surge Across City, Over Dozen Incidents Raise Questions Over Police Patrolling. A surge in mobile phone and gold chain snatchings across Bhopal during October and November has raised concerns over police patrolling. Once ranked among cleanest state capitals, Bhopal doesn't get Swachh invite this year. Indore May Get Government IVF Centre At MTH Hospital As rupees 11 Crore Equipment Proposal Awaits Final Approval, Treatment Could Cost Just rupees 50,000. Indore may soon get a government IVF centre at MTH Hospital, with an rupees 11 crore equipment proposal awaiting final approval. Ghanaian woman held with cocaine worth rupees 2.96 crore on Bhopal-bound train. Swachh Survekshan: Four of MP's five major cities win awards, Bhopal misses out; state gets nine awards, In. MoU Signed Between State Transport Authority and 'School of Planning and Architecture', Bhopal for 'Viksit Odisha 2036' Vision. 7-Year-Old Girl Allegedly Sexually Assaulted And Killed, Angry Residents Shut Markets, Block Roads Demanding Death Penalty In MP's Garoth. A seven-year-old girl was found dead near a well in Lukka village under Garoth police station limits, a day after disappearing. Would grope women, flee: Bhopal police checks 50 CCTV cameras to track down molester. Bhopal Swachh Survekshan Setback Exposes Waste Management Gaps. Uber luxury! Kareena Kapoor wears Begum of Bhopal's 30-carat emerald. Kareena Kapoor's 30-Carat Emerald, Once Owned By The Begum Of Bhopal, Steals The Spotlight On Diwali. Indore High Court Directs DAVV To Decide BEd Student's Pending Fourth-Semester Result Within Three Weeks After Nearly Year-Long Delay. The Madhya Pradesh High Court's Indore Bench directed DAVV to consider BEd student Jagrati Solanki's representation concerning her undeclared fourth-semester ATKT result. Temperatures below 15°C in 17 MP cities: Bhopal and Jabalpur colder than Pachmarhi; Amarkantak records the . 700-metre road to helipad ahead of Army Day Parade; several Bhopal roads set for facelift. Tribal woman officer moves HC against demotion, gets relief."
     },
     {
       "title": "Business and markets",
-      "text": "Moving to business, the economy and the markets. Upcoming IPOs: SEBI clears 8 issues, including Mahanadi Coalfields, Veritas Finance and Sagar Defence; details here. India's IPO pipeline is gaining pace, with eight companies, including Mahanadi Coalfields, Veritas Finance, Razorpay and MakeMyTrip's Indian subsidiary, moving closer to public offerings. Their proposed issues range from fresh capital raises to offers for sale, and vary widely in size and structure. Asian stocks rise amid falling oil prices on hopes of US-Iran talks. Asian markets gained as Brent crude slipped 1 percent to $91.56 a barrel after Trump signalled a pause in further military strikes against Iran, easing inflation concerns ahead of key US price data US ETFs to Buy for Samvat 2083: Samco recommends 2 ETFs with potential upside of up to 60 percent for Indian investors. Samco Wealth recommends US-listed energy ETF XLE and healthcare ETF XLV as long-term hedges against oil-price volatility and rupee depreciation. It sees potential upside of 47 percent and 60 percent , respectively, and suggests holding both for at least two years. Stock market holiday: NSE, BSE to remain closed for Diwali-Balipratipada. Stock market holiday today: Stock markets will remain closed on Tuesday, November 10, on account of Diwali HUL dividend 2026: Tomorrow is the last day to buy Check payout amount, record date, history, yield and returns. HUL dividend 2026: HUL announced the interim dividend alongside its September-quarter results on October 28. The dividend amounts to 1,900 percent of the face value of rupees 1 per equity share. HSBC upgrades Indian equities to 'overweight', cuts China to 'neutral'. HSBC upgraded Indian equities to 'overweight' after a market correction, citing reasonable valuations, resilient earnings and strong credit growth, while downgrading Chinese stocks to 'neutral Four stocks with high dividend payout ratios to watch. Dividend-paying companies can be an important part of an investor's portfolio, particularly for those looking for regular income. How to choose a foreign broker? Check the plumbing, not just the app. Buying foreign stock can now be achieved in just a few taps, but you need to know who sits behind those taps and who regulates them Stock market holiday: Closed today on Tuesday 10 November 2026 on Diwali-Balipratipada; no trading in NSE, BSE exchanges. Stock market holiday: The Indian stock market will remain closed for trading on Tuesday, November 10, on account of Diwali NSE deploys liquid cooling for AI infra, plans over 80 GPUs this quarter. The exchange plans to scale GPU capacity beyond 80 this quarter and eventually to 224, while extending liquid cooling technology to its co-location data centre in the future. IFSCA may let researchers in GIFT City to launch model portfolios. The proposed framework requires research entities to disclose portfolio risks, investment strategies and rebalancing schedules, while benchmarking performance against relevant indices JPMorgan Weighs Big Discount to Lure Lenders for Software Debt. Banks led by JPMorgan Chase and Co. could offer one of the year's biggest discounts to sell some of the $5 billion in debt for software firm Qualtrics International Inc. that the underwriters were stuck holding a few months ago. Pharmacy retail stock Entero Healthcare zooms 33 percent in 1 week; hits new high. Entero Healthcare Solutions' share price moved higher by 4 percent to rupees 2,095.30, also its new high, bouncing back 7 percent from its intraday low of rupees 1,967 on Monday. EIB's Calvino Says US Turmoil Is Driving Capital to Europe. Europe is set to benefit from recent market turmoil in the US as investors seek a safe haven, according to European Investment Bank President Nadia Calvino. Data Patterns shares zoom 9 percent post Q2 show, nearly double from Jan lows. Data Patterns posted a profit after tax (PAT) of 21.97 crore in Q2 FY27 as against 49.19 crore in Q2 FY26, a reduction of 55.3 per cent year-on-year (YoY). BPO jobs on a seesaw as bots call the shots. Voice AI is driving call centres even as hiring grows, but the shift towards complex tasks leaves freshers scrambling for a new career ladder. Top Yen Forecaster Predicts 147 Per Dollar as Rate Gap Narrows. Neil Parker has spent nearly three decades tracking the yen, through financial crises and sharp currency swings. Now, the top dollar-yen forecaster in Bloomberg's latest rankings sees the Japanese currency rallying toward 147 per dollar next year as Japan's interest-rate gap with the US narrows. Nvidia's shares slide as chip giant probes CEO Huang over spy claims. Nvidia's shares tumbled more than 6 percent in Frankfurt trading, extending last ​week's selloff and pushing the stock to fresh multi-month lows Philanthropists back AI for public good. From Flipkart's Binny Bansal to Chrys Capital's Ashish Dhawan and Karishma Sanghvi of Sun Pharma, a growing number of entrepreneurs are writing cheques for AI that can diagnose diseases, empower teachers, modernise courts and strengthen public services, betting that the technology can create social returns as significant as commercial ones. Viking Loses 1.2 percent in October After Eschewing Many Big AI Bets. Viking Global Investors' flagship hedge fund dropped 1.2 percent last month, faring better than many of its rivals after largely avoiding high-flying artificial-intelligence stocks. IRB Infra share price climbs 7 percent as toll collections boost Q2 earnings. IRB Infra share price target: MOFSL has retained its earnings estimates and reiterated a 'Buy' rating on IRB Infra stock, with a target price of rupees 22. Are banks open or closed today on November 10?. Bank holiday today: Bank branches in few states will be closed on November 10, 2026. Oil down more than $7 a barrel in post settlement trade as Trump signals restraint on Iran. GLOBAL-OIL:Oil down more than $7 a barrel in post settlement trade as Trump signals restraint on Iran Ashok Leyland, Paytm down after 6-day rally; analyst flags positive charts. Ashok Leyland and Paytm were down up to 3 percent in Friday's intraday trades, having rallied up to 23 percent in the preceding six trading sessions. COP31's money milestone comes with a trust deficit. COP31 commenced in Antalya, where climate finance was added to the agenda after negotiations. Canadian dollar underperforms most G10 currencies as oil falls. CANADA-FOREX/:CANADA FX DEBT-Canadian dollar underperforms most G10 currencies as oil falls Uno Minda zooms 26 percent in November, stock nears record high; here's why. Uno Minda's share price hit a 52-week high of rupees 1,367.50, gaining 4 percent on the NSE in Monday's intraday deals."
+      "text": "Moving to business, the economy and the markets. Trump says Iran war 'effectively over': How's it likely to impact Sensex, Nifty, gold and silver prices? Experts' views. US-Iran war: For Indian markets, any signs of de-escalation between the US and Iran could be positive, particularly if they lead to a sustained decline in crude oil prices. Stock Market LIVE: GIFT Nifty jumps 300 pts; Asia markets advance; Brent below $92. Sensex Today Stock Market LIVE Updates Wednesday: The GIFT Nifty indicated a gap-up open for the Nifty50 index. Asian markets were trading higher in early deals Festive demand, export recovery drive auto sector growth, says MOFSL. The medium-term sector outlook remains favourable, supported by steady volume growth, product launches, improving exports and a gradual recovery in rural demand. Hindalco, Airtel among 2 stock recommendations by Kotak's Shrikant Chouhan. Shrikant Chouhan remains constructive on Hindalco's outlook, supported by strong copper profitability, gradual recovery at Novelis, and continued progress on strategic growth initiatives. PB Fintech: Retailers buy, FPIs turn wary in Q2; who got right end of deal?. According to analysts, FPIs' response was a reaction to the policy shock, even as retail investors focused on the business. Defaults Rattle Brazil's Shadow Banks, Spark Regulatory Scrutiny. Investors keep pouring money into Brazil's so-called shadow-banking market even as defaults continue to climb. The turn of the tide: Foreign investors return, signalling longer India bet. FPIs bought rupees 53,172 crore of equities and rupees 7,480 crore of government bonds in the first nine days of November, ending a 10-month streak of monthly equity outflows. Chile Pension Funds' Swap Losses Narrow as Treasuries Rally. Chilean pension funds narrowed their market-value losses on foreign interest-rate swaps in October as a rally in US Treasuries provided some relief to a system under heavy pressure from politicians to reduce risks and boost payments. Wall St slips as hot inflation data fuels rate-hike jitters; Nvidia down 4 percent. Wall Street fell after stronger-than-expected US inflation data fuelled expectations of a December Fed rate hike, while Brent crude briefly dropped below $90 a barrel. Fed's Bowman Warns of Stock Correction If AI Bets Don't Pan Out. Federal Reserve Governor Michelle Bowman said she sees a number of risks to economic activity from financial markets, including a sharp downturn in stock prices if returns on investments in artificial intelligence fall short of expectations. FPIs turn net buyers in November, pump rupees 53,739 crore into Indian equities. Foreign investors turned net buyers of Indian equities in November, infusing rupees 53,739 crore in the first nine days after two consecutive months of outflows, driven by the AI-led sell-off in global markets, strong domestic earnings growth and attractive large-cap valuations. The latest investment follows net outflows of rupees 34,843 crore in October and rupees 35,861 crore in September, according to data available with the depositories. \"The sudden change in FPI stance was triggered by the AI sell-off in the US and other AI markets like South Korea, Taiwan and Japan. \"This sell-off, in turn, was triggered by fears surrounding data centre spending in the US. Dangote Refinery Gets $4.1 Billion Orders in Top Africa IPO. Africa's biggest refinery attracted about 5.85 trillion naira ($4.1 billion) of applications for shares in the continent's largest public offering to date, almost three times the amount it sought to raise, according to people familiar with the matter. World stocks rise as oil slips below $90 on hopes of US-Iran peace talks. European and US equity futures gain as easing oil prices lift investor sentiment ahead of US inflation data that could shape expectations for the Federal Reserve's interest rate outlook Local partner wanted for Xiaomi 'home' coming. The proposal is in the exploratory phase, but the Chinese technology company is set to begin evaluating potential Indian suppliers, according to one of the persons who did not wish to be identified. Wall St retreats as hot inflation data, Fed comments fuel rate worries. USA-STOCKS/ (UPDATE 6, GRAPHIC):US STOCKS-Wall St retreats as hot inflation data, Fed comments fuel rate worries Bullish signals! GIFT Nifty jumps 1 percent as crude oil prices test $90/bbl. A decline in oil could also influence the ​interest rate outlook amid easing inflation fears. Tighter risk filters guide Prosus' India fintech push. The Amsterdam-listed technology investor is also close to investing in artificial intelligence-led credit management startup Oolka, people familiar with the matter said. Top stocks to watch today: Cochin Shipyard, MRF, Tata Power shares in focus on Wednesday, 11 November Full list. Corn Soars After USDA Cuts American Yield in Another Surprise. Corn surged the most in three months after the US Department of Agriculture surprised traders with a bigger-than-expected cut to yield and production of America's most widely grown crop. Oil prices fall as Trump signals pause in military action against Iran. Brent crude falls 1.7 percent to $90.99 a barrel and WTI drops 1.8 percent as Trump's remarks ease concerns over prolonged supply disruptions in the Middle East Energy infra startups see bigger cheques. Bengaluru-based Enerzolve, which makes smart meters, power conversion systems and energy storage systems, is in talks to raise $20 million from existing investors Jungle Ventures and Kae Capital as well as Schneider Electric, people aware of the matter told ET. Gold falls nearly 3 percent as CPI tops forecasts, lifting dollar and yields. GLOBAL-PRECIOUS:Gold falls nearly 3 percent as CPI tops forecasts, lifting dollar and yields Q-comm delivers huge festive triumph for D2C brands. Beauty brand Pilgrim and healthy snacks brand Open Secret both doubled their sales year-on-year (YoY) during the festive period, driven by purchases on quick-commerce platforms. Soybeans, corn rally after USDA pegs US harvest, stocks below expectations. GLOBAL-GRAINS/ (UPDATE 2):GRAINS-Soybeans, corn rally after USDA pegs US harvest, stocks below expectations Nvidia sell-off deepens, fall 6.3 percent ; wipes $10 billion off Jensen Huang's wealth, slips to 12th on Forbes rich list. The latest crash in Nvidia shares has dealt a major blow to Jensen Huang's net worth, which is on track to decline by another $10 billion to $145.6 billion from $154 billion at the previous close, according to Forbes. Who is Alice, the woman linked to Jensen Huang?. Alice Huang, a finance professional, has transitioned to the AI chip industry with Megaspeed International. Nifty PSU Bank Index Performance: Bank of India, UCO Bank among 7 stocks rebound 15–56 percent from 1-yr lows - here's why. State-owned bank stocks have rallied sharply, with the Nifty PSU Bank index posting its biggest one-day gain in nearly two years. Strong quarterly profits, improving asset quality and returning foreign investment have supported the recovery. US SEC seeks to close Musk, Tesla settlement fund. In a filing in Manhattan federal court, the SEC asked a federal judge to close the Fair Fund, created after Musk settled the SEC case in 2018 charging him with securities fraud for posting on August 7, 2018, that he had \"funding secured\" to potentially take Tesla private. FPIs return to Dalal Street amid AI sell-off and oil slump; Can proposed tax cuts sustain inflows?. FPIs have poured rupees 53,739 crore into Indian equities in November so far. The inflows have helped the Nifty 50 extend its winning streak to seven consecutive sessions, enabling the benchmark index to pare its year-to-date losses to 4.15 percent ."
     },
     {
       "title": "Money, tax and personal finance",
-      "text": "Now to your money — taxes, savings and personal finance. Sensex crash survival guide: 10 moves to protect your savings, save tax and keep investing. Sensex and Nifty down for months? Here are 10 practical steps on SIPs, emergency funds, tax-loss harvesting and safe withdrawals to protect your savings through a long slump. Gold, silver prices today, 10 Nov Tuesday: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata. Gold and silver prices declined on 10 November as investors awaited key US inflation data. Check the latest 24K and 22K gold rates and silver prices across major Indian cities and key factors influencing international bullion prices. Stop your SIP too early or start your SWP too soon? Here's how to get the timing right. Learn how to pace SIPs during your earning years and when to start an SWP in retirement, with simple rules to keep your money growing and your corpus safe. Received Diwali bonus or cash from your employer? Know rupees 15,000 exemption limit and when income tax applies Explained. With Diwali celebrations over, salaried employees should understand how employers' festive gifts, vouchers and cash bonuses are taxed. The rules prescribe different tax treatments for these benefits, which can affect employees' taxable income and overall tax liability. Bank holiday today, 10 Nov Tuesday: Bank branches closed in Ahmedabad, Bengaluru, Mumbai and 4 other cities; here's why. Bank branches in several cities across India will remain closed on Tuesday, 10 November due to a regional bank holiday. Check the complete list of affected cities, whether online banking services will continue and what customers should know before planning branch visits. Senior citizen FD rates: Suryoday Bank offers 8.6 percent on five-year deposits; compare rates at SBI, HDFC Bank and others. Senior citizens can earn up to 8.6 percent on five-year FDs. Suryoday Small Finance Bank offers the highest rate, followed by Jana and DCB Bank at 8 percent . Here is a comparison of FD rates across small finance, private and public sector banks. Bank locker found surrendered, jewellery missing? How to protect your valuables, avoid costly dispute Experts explain. A Delhi consumer commission ordered a bank to compensate a woman after her joint bank locker was surrendered without her consider and jewellery allegedly went missing from it. Here's how to protect your valuables in such cases. Received cash from customers and deposited it in your bank account? When can income tax authorities tax it. An insurance agent's rupees 35.09 lakh cash deposits during demonetisation were treated as unexplained income. ITAT Jaipur deleted the addition after accepting records showing the money came from policyholder premiums. Parag Parikh Flexi Cap adds Netflix, exits Meta: What changed in its October portfolio? Check latest stock picks. PPFAS Flexi Cap Fund added Netflix, exited Meta Platforms and reduced Microsoft in October 2026. It also increased investments in DLF, Maruti Suzuki, M and M and other Indian stocks. Here's a look at its latest portfolio and long-term rolling returns. Planning a big wedding? One unexpected event could derail it; can insurance save the day? All you need to know. Wedding insurance can help Indian families recover costs if unforeseen events such as fire, theft, severe illness or extreme weather disrupt celebrations. Here's how it works. NPS returns: Choosing a pension fund for retirement? Why subscribers should look beyond one-year performance. Choosing an NPS pension fund based on one-year returns can be misleading. Investors should assess rolling returns, upside and downside performance, and volatility to understand how consistently a scheme has beaten its benchmark across different market cycles. Buying gold jewellery? Government makes hallmarking mandatory in six more districts across India. Check the full list. The government has expanded mandatory gold jewellery hallmarking to six more districts, taking coverage to 398 districts across 26 states and UTs. Here's the complete list of additions and what buyers should check before purchasing gold jewellery. F and F payout tax rules: Switched jobs, received full and final settlement? Know which components are taxable. When employment ends, employers settle outstanding dues after the last working day and deduct applicable TDS. Here's how each component of the payout is taxed. Diwali firecracker injuries: Will health insurance cover burns, eye damage and hospital bills? Know what is covered. Firecracker injuries during Diwali can lead to significant medical bills. While health insurance covers serious burns and eye injuries requiring hospitalisation, minor outpatient treatment and consumables may be excluded. Sold your house and accepted rupees 11 lakh in cash? ITAT deletes penalty, citing seller's lack of awareness of tax rules. ITAT Jaipur deleted an rupees 11 lakh penalty on a farmer who accepted cash while selling his house for rupees 22.5 lakh. The tribunal cited his lack of awareness of tax rules and held that reasonable cause justified relief under Section 273B. Claude Personal Finance versus ChatGPT Finances: 5 key differences in privacy, features and bank access. Anthropic's Claude Personal Finance and OpenAI's ChatGPT Finances offer AI-powered budgeting, spending analysis and financial planning through linked bank accounts. However, they differ in data privacy settings, advertising policies and plans to expand financial services. rupees 670-cr investment fraud: How a former mason allegedly lured 7,400 investors with 4 percent monthly returns. Hyderabad businessman Nanavath Bhupal Naik is accused of running a rupees 670-crore investment fraud that affected about 7,400 people. Here's how he pulled off the massive fraud. Nifty 50 ETFs or index funds? Compare returns, expense ratios and tracking errors before choosing where to invest. Nifty 50 ETFs and index funds track the same benchmark but differ in trading, liquidity and investment convenience. Anand Rathi Wealth's Protima Dhawan explains five parameters to compare and why she prefers actively managed equity funds. LTCG tax: India taxes capital gains. These countries don't: Singapore, Hong Kong and more. After a pause of 14 long years, it was reintroduced in 2018 by then finance minister Arun Jaitley, who argued that the 'return on investment in equity is already quite attractive' and there's a strong case for bringing long-term capital gains from listed equities into the tax net. Indian travellers can avail 10 percent discount on UPI payments at Dubai Duty Free , Check offer cap, other details. Indian travellers can now avail a 10 percent discount while shopping at Dubai Duty Free on eligible purchases through UPI, according to an official statement by NPCI International Payments. Here's all you need to know. rupees 2,000 monthly SIP to rupees 4.8 crore corpus: How a 38-year-old achieved financial independence without stock-picking. A 38-year-old investor has built a rupees 4.8 crore investment portfolio after starting with a rupees 2,000 monthly SIP. His wealth creation journey highlights disciplined mutual fund investing, career growth, regular savings and financial independence without individual stock-picking or IPO bets. Will your old cheque book become invalid after December 31, 2026? RBI debunks viral claim. Will old your cheque book become invalid after December 31, 2026? The RBI has clarified claims that existing CTS cheque books become invalid from the new year. Here's all you need to know... EPF account correction: How to fix incorrect name, date of birth online in 5 steps. Wrong details in your EPF account? Follow EPFO's 5-step joint declaration process to correct them online, plus 2.36 lakh grievances resolved in October. Purchased gold during Dhanteras, Diwali puja done? Want to keep in bank locker? Rules, limits for keeping at home here. Amid this festive season, we answer how much gold you can keep at home legally, if there's a penalty for exceeding limits, rules about declaration, investments, what the tax requirement is, and more. UCO Bank paid widow's pending pension arrears, but why did court still impose a rupees 15,000 fine?. The complainant alleged that despite multiple official communications from the pension-sanctioning authorities, repeated visits to the branch, and formal representations, the bank failed to release the correctly revised family pension. 8th Pay Commission: Expert explains report deadline, when revised salaries and pensions may take effect. 8th Pay Commission report is due around May 2027. Know about interim reports, extensions and when the revised salary and pension may be implemented. Two incomes, no cradle: what India's DINK couples are telling policymakers. Rather than pressure people to have children, policymakers should make parenting more affordable and strengthen pensions and elder care for those who remain childfree."
+      "text": "Now to your money — taxes, savings and personal finance. Bank holiday today: Are banks open or closed in your state today on November 11, 2026?. On November 11, 2026, banks will observe holidays in specific states for various regional festivals. These festivals include Laxmi Puja, Ningol Chakkouba, and Bhai Dooj. Some states will continue to operate normally despite these closures. Bank customers should confirm the holiday schedule before visiting their local branches. 8th Pay Commission: Will central government employees get salary hike in 2027? What 1 January 2026 effective date means. The 8th Pay Commission has until May 2027, to submit its recommendations. But will central government employees receive revised salaries in 2027? Know the expected timeline, government approval process, possible 1 January 2026 effective date and fitment factor. Bank holiday today November 11 Wednesday: Branches closed in these 5 states , Full list and reasons behind no banking. Bank branches will remain closed in 6 cities across five states on 11 November due to regional festivals. Check the complete list of affected cities, the reasons behind the closures and which banking services customers can access today. A financial report card from the future. A conversation with his 80-year-old self forces Mohit to confront the long-term consequences of his financial choices, and rethink the decisions he makes today. Financial planning for DINK couples in India: 10 money moves for two incomes. Two salaries don't automatically mean more wealth. Learn how DINK couples in India can plan cash flow, insurance, goals, FIRE, parents and estate, step by step. NSE EGRs: Want to invest in gold without buying jewellery or coins? Check how to buy electronic gold receipts online. Electronic gold receipts let Indian investors own gold digitally while it is stored in Sebi-approved vaults. Here's how it works and how to purchase units online. Bhai Dooj 2026: Transferring rupees 5 lakh to your sister? Know when a sibling's cash gift is tax-free and when it is taxable. A rupees 5 lakh gift from a brother to his sister is tax-free under the Income-tax Act, 2025. However, siblings must follow cash transaction rules. Know when gifts are exempt, when they become taxable and how to transfer money legally. 20 years of service recognised: Retired woman IAF officer wins 15-year legal battle for pension as AFT alters ruling. AFT's Chandigarh Bench rules that Wing Commander Chandi is entitled to pension and other retirement benefits after modification of its 2015 judgment. SIP versus lump sum: Which strategy delivers higher mutual fund returns? Global 30-yr data reveals what worked better. SIP investments outperformed lump-sum investing in six of 10 major global equity markets over 30 years, according to DSP Mutual Fund. Japan recorded the biggest SIP advantage, while Brazil delivered higher returns through lump-sum investments. 7th Pay Commission: Level 5 salary rises to rupees 62,224 with 63 percent DA, here's why your place of posting alters final figure. Basic pay of rupees 29,200, Dearness Allowance, HRA and Transport Allowance determine monthly gross salary; annual earnings reach approximately rupees 7.47 lakh in X-class cities. EPS-95 higher pension: NCPA asks EPFO to withdraw January 2025 circular and stop rejecting retirees' claims. The NCPA has urged EPFO to stop rejecting EPS-95 higher pension claims, withdraw its January 2025 circular and withdraw pending court appeals, alleging that retirees are being denied benefits through technicalities despite the Supreme Court's 2022 judgment. 8th Pay Commission: rupees 69,000 minimum pay, rupees 15,768 more HRA? Check 5 key NC-JCM demands. The National Council of the Joint Consultative Machinery (NC-JCM), the main central government employees' body, has submitted its recommendations to the 8th Pay Commission. Bihar DA hike ahead of Chhath Puja: State govt employees' allowance rises from 60 percent to 63 percent , check details. The Bihar Cabinet has approved a three-percentage-point increase in dearness allowance for state employees and dearness relief for pensioners, effective July 1, 2026. Need rupees 8 lakh a year in retirement? Know the ideal withdrawal rate for your rupees 2-crore corpus. When it comes to retirement planning, we all keep reading about investment strategies on amassing a certain amount. Bhai Dooj gift tax rules: Got money or gold from your brother? Check when festival presents become taxable. Gifts received from a brother are exempt from income tax, regardless of value. Here's when it becomes taxable. Hindu Succession Act, 1956: Can a grandson claim a share in property inherited by his father? Supreme Court clarifies. The Supreme Court has clarified that a grandson cannot claim a birthright in property inherited by his father under the Hindu Succession Act, 1956. The ruling explains when inherited property becomes the father's exclusive property. Central govt pension rules clarified: Who can commute pension without medical tests and when is examination compulsory. The government has clarified pension commutation rules for central government retirees, identifying five categories eligible to commute pension without medical tests. Pensioners must meet the one-year deadline, while others may need medical examination. Salary slip shows PF deduction, but is the full amount reaching your EPF account? How to check and report shortfalls. Salary-slip deductions do not guarantee that employers deposit provident fund contributions. Here's how employees can check the status and report discrepancies, if any. Salary credited? 5 smart ways to manage monthly expenses, build savings and start investing from your first job. Your first salary is an opportunity to build sound financial habits. From budgeting and creating an emergency fund to buying health insurance, managing credit cards and starting SIPs, here are five money decisions young earners should make early. Banks open or closed tomorrow, 11 Nov 2026? Check closures in Kanpur, Lucknow, Shimla, Kolkata, Gangtok and Imphal. Banks will be closed in Gangtok, Imphal, Kanpur, Kolkata, Lucknow and Shimla on Wednesday, November 11, for regional festivals. Details here. Delayed PF deposits? EPFO offers lower penalties under VISHWAS 2026 scheme, but employers must apply by 28 December. EPFO's VISHWAS 2026 scheme allows eligible employers to settle pending PF damage disputes at reduced rates, starting at 0.25 percent per month. The one-time settlement window closes on 28 December 2026. Interest and PF contributions remain payable. 8th Pay Commission: rupees 69,000 minimum basic pay, higher HRA and increment rate , What changes NC-JCM seek?. The NC-JCM has proposed major changes for central government employees under the 8th Pay Commission, including higher minimum pay, 6 percent annual increments, increased pensions and allowances, and doubling leave encashment to 600 days. EPS pension hike: EPFO shifts venue of November 19 CBT meeting to Delhi; will government approve rupees 3,000 minimum pension?. EPFO has shifted the venue of its 240th CBT meeting on 19 November from Gujarat to New Delhi. The meeting comes amid media reports suggesting a possible increase in the minimum EPS pension from rupees 1,000 to rupees 3,000. Foreign equities under pressure: what should investors do?. Indian investors are looking beyond domestic equities, but recent overseas market corrections underline why global exposure should be a long-term diversification strategy, not a bet on past returns. How travellers are working around pricey flights for winter holidays. Travellers are finding creative ways to preserve their winter holidays despite soaring airfares. Some are swapping flights for trains and road trips, while others are choosing domestic destinations over international ones. Bhai Dooj 2026 financial gift: Gold ETFs for your sibling? How it differs from mutual funds? Process, rules explained. With Bhai Dooj around the corner, consider gifting your sibling gold ETFs instead of traditional gold. Know how to transfer ETF units through demat accounts, how gifting differs from mutual funds, the available transfer routes, costs and tax implications. Wrong details in PF account can delay your money; EPFO explains how to correct them online in 5 easy steps. Incorrect personal or employment details in your EPF account could create hurdles when withdrawing money, transferring PF balance, or settling claims. EPFO has highlighted its Joint Declaration facility, allowing members to request corrections to their records through the Member Portal."
     },
     {
       "title": "Science and technology",
-      "text": "Next, science and technology. Australia to mandate AI breach reporting, create regulator after OpenAI breach. OPENAI-CYBERSECURITY-AUSTRALIA:Australia to mandate AI breach reporting, create regulator after OpenAI breach David Ellison says AI could be the 'biggest creative unlock in modern history'. During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you zoom out and look at production, AI really has the potential to Jensen Huang's alleged honeypot scandal has inspired some top-notch memes. The internet is having a field day with Nvidia's Jensen Huang's alleged honeypot scandal. Alzheimer's may have early warning signs outside the brain. A surprising discovery suggests that some early signs of Alzheimer's disease may begin outside the brain. Using miniature laboratory systems made from human cells, scientists found that genetic mutations associated with inherited Alzheimer's can disrupt nerve-to-muscle connections without any involvement from the brain or spinal cord. This could help explain why some patients experience changes in balance, walking, and coordination long before memory problems develop. rupees 85,000 Temple versus Apple Watch and Garmin: How does Deepinder Goyal's wearable compare with popular fitness trackers?. Deepinder Goyal's rupees 85,000 Temple wearable claims to track heart rate, brain blood-flow signals and physiological strain. But how does it compare with Apple Watch and Garmin, and are its claims backed by independent research? What could China get from Jensen Huang?. It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range of up-and-coming AI companies in recent years, with about Anthropic reportedly plans to move forward with IPO plans. The AI company is expected to set its valuation range this week, the Wall Street Journal reported. Scientists finally discover why we learn to love bitter coffee. Scientists have uncovered a hidden gut-to-brain dopamine pathway that helps explain why bitter coffee and other initially unpleasant flavors can become favorites over time. The discovery reveals how the brain learns to crave certain foods and could eventually lead to new ways of reshaping eating habits and food preferences. PCs are getting less RAM for the first time: Why are 32GB and 64GB systems losing ground? Reason here. AI-driven memory shortage pushes DRAM prices higher; CPU-Z survey shows growing preference for lower-capacity RAM as 16GB systems gain ground Here's what Trump said he knew about Jensen Huang. President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been \"​​unfaithful\" to his wife, and the company has opened an investigation into Huang. Recent articles from The New Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago. The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported. Common supplement could help fight psoriasis, scientists discover. Scientists have discovered that pantethine, a readily available vitamin B5 derivative, can calm overactive immune cells and may help fight psoriasis. The supplement prevented psoriasis in mice and showed promising results in a small human trial, revealing an unexpected connection between cholesterol and autoimmune inflammation. Honor 700 series' unusual rear screen could do more than take selfies: Here's what it may reveal about your health. Honor's new 700 series has a surprise rear display that could track heart rate, show notifications and even help take selfies. Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang. The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access to Hotel giant Wyndham exposed customer data after app security lapse. Exclusive: Wyndham left a hardcoded credential in its customer app, allowing anyone to access customer data. The hotel giant wouldn't say if it has the ability to check for any past unauthorized access. NASA reveals bold new plan to return astronauts to the Moon in 2028. NASA has revealed an accelerated plan to land astronauts on the Moon in 2028, with SpaceX and Blue Origin developing competing lunar landers and a crucial orbital test scheduled for 2027. Faster rocket preparations, new lightweight spacesuits, and redesigned missions could help pave the way for a permanent lunar presence and future human exploration of Mars. Pebble Qore Ultra review: Whoop-like health tracking at rupees 5,999, but what are the trade-offs?. The Pebble Qore Ultra is a screenless fitness band priced at rupees 5,999, offering AI-powered health insights, HRV monitoring, Body Age tracking and over 100 sports modes without requiring a subscription. MSI's refurbished QD-OLED gaming monitor is on sale for under $300. One of the best upgrades you can make to your PC gaming setup is an OLED monitor. Fortunately, MSI's factory-reconditioned Mag 272QP X24 is on sale at Woot through November 18th with a 180-day manufacturer warranty for $290.99, which is more than $100 cheaper than the full MSRP of $399.99. MSI's 27-inch screen is well-featured A short seller flagged Nvidia CEO's ties to a suspected Chinese spy six months before the scandal. Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive. After 40 years, CERN finds evidence of a one-in-10-billion particle decay. CERN scientists have finally found evidence of a particle decay so rare that it happens only once in roughly 10 billion decays, ending a search spanning more than 40 years. The breakthrough could help physicists uncover hidden particles and forces that lie beyond the reach of today's most powerful accelerators. ASUS Zenbook 14 launched in India with Ceraluminum body, OLED display and up to 33-hour battery. ASUS Zenbook 14 launched in India starting at rupees 1,36,990, with Intel, AMD, and Snapdragon options. See variant prices, display, battery claims and EMI offers. The global pledge to use AI for climate good is a cruel joke. At this point, reading through the latest splashy pledge to use AI for the good of the environment feels like downing a nonalcoholic beer. Admittedly, I'm suspicious from the onset. How can this be good? But I love beer and our planet enough to give it a whirl - and hey, why not try a The race is on to sue Nvidia. Nvidia's stock slid more than 4 percent after its board opened an investigation into Jensen Huang's relationship with a suspected Chinese spy, and one securities law expert says the company's earlier insistence that it was all \"normal\" could turn into a very expensive problem. Caltech robot makes history by building a structure in space. For the first time, a robot has autonomously built part of a structure in space, demonstrating a breakthrough that could fundamentally change space exploration. The technology could one day allow scientists to construct enormous telescopes, communications antennas, and solar power stations in orbit, far beyond the size limits of today's rockets. Samsung Galaxy S27 launch tipped for early 2027: 4 models, new Pro variant and expected specs. Samsung Galaxy S27 leaks: four models, 200MP cameras on the Pro and Ultra, a privacy display, magnetic charging, and a likely Jan-Feb 2027 launch. Here's what we know. Apple's $50 Intelligence Usage Packs extend access to some AI features. After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a built-in AI assistant to do things like \"start a new song, set"
+      "text": "Next, science and technology. Banks seek to rein in soaring AI agent costs, McKinsey says. BANKS-AI/SUR Microsoft's DLSS competitor is out for the Xbox Ally X and works in handheld mode. Microsoft is now rolling out Automatic Super Resolution (Auto SR), an upscaling technology that competes with Nvidia's DLSS, for the Xbox Ally X, Xbox Ally X20, and select Windows Copilot Plus PCs, the company announced today. Auto SR is also getting some new features alongside this official release. In April, Microsoft started testing Auto SR X launches its own clipping feature to spur influencer engagement. X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral. Scientists discover a giant 66-pound rodent that lived 34 million years ago. Scientists have uncovered fossils of a giant rodent that lived in Thailand 34 million years ago, revealing that enormous rodents evolved much earlier than previously thought. Named Yakamys sirindhornae, the ancient animal may have weighed around 66 pounds, roughly twice as much as other known rodents of its time. The VR Disney Plus app on Meta Quest now has 3D movies. Disney is bringing more than 60 3D movies to the Disney Plus app on Meta Quest. The movies will be available to Disney Plus subscribers as part of an updated Disney Plus app that's rolling out today. The 3D movies you can check out include The Avengers and Black Panther, Meta says. But the updated OpenAI acquires Odessia, travel startup created by Sonder founder. OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry. Why heart attacks can still happen even when bad cholesterol is low. Even when bad cholesterol is brought down to healthy levels, some people remain at risk of heart attacks, and scientists may have discovered why. Researchers identified two types of fat-carrying particles that appear to promote inflammation and damage blood vessels through mechanisms beyond cholesterol buildup. Entered a fake birthday on Instagram? Meta's AI can now identify users posing as adults. Meta is expanding its AI-powered age-detection technology globally to identify teenagers who use fake birth dates to appear as adults on Instagram. The move will place more users aged 13 to 17 under Teen Account safety settings, while Meta is also introducing Apple's age-range signal in Australia. Oura is acquiring medical AI chatbot startup Counsel Health. Oura announced its quarterly earnings today and said it agreed to acquire Counsel Health for $625 million, after adding the company's AI chatbot to its app earlier this year. Counsel Health calls itself an \"AI-native primary care company,\" using the app to deliver AI-generated responses and insights based on users' health data reported from their OpenAI, Anthropic face new oversight as New York's AI safety law takes effect. New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines. 237-million-year-old fossils reveal a bizarre armored sea amphibian. A bizarre, heavily armored amphibian roamed the oceans 237 million years ago, despite the fact that modern amphibians cannot survive entirely in saltwater. Discovered in China, the giant salamander-sized creature may be the first known amphibian to have adapted to a fully marine existence. GTA 6 release date confirmed for November 19: Pre-load, New Zealand early access, PC update and £1 million car. Rockstar Games has confirmed November 19, 2026, as the GTA 6 release date, with digital pre-loading starting November 10 for PS5 and Xbox Series X S. Ahead of launch, reports detail New Zealand's early access, the unconfirmed PC version and a real-life GTA-inspired Grotti Cheetah. Sony cancels live-service shooter Fairgames. Sony has canceled Fairgames, a heist game announced in 2023, according to Bloomberg. Fairgames had once been part of Sony's big planned push for PlayStation live service games, but the company ended up canceling some planned live service titles, including in the God of War and The Last of Us franchises, and it shut down Proximal Ventures raises debut fund to back startups bringing AI to drug development. Former SignalFire investor Sahir Raoof raises $27.5 million for new fund targeting AI in pharma. NASA's CHAPEA Mars crew finally emerges after more than a year in isolation. After more than a year of simulated life on Mars, four NASA volunteers have finally emerged from isolation, bringing a remarkable space exploration experiment to an end. Their experiences growing food, conserving resources, and overcoming Mars-like challenges could help NASA prepare for humanity's future on the Moon and Mars. Apple introduces $50 AI usage packs for Creator Studio apps: What users get and how they work. Apple has introduced $49.99 one-time AI usage packs for Creator Studio subscribers who exhaust their free monthly limits, starting with Logic Pro. Available in India and seven other countries, the packs offer 12-month validity. The PlayStation Plus PC app is shutting down next month. Sony is retiring the PlayStation Plus app for PC on December 10th. Sony says it will notify users directly about the shutdown. The app allowed PlayStation Plus Premium subscribers to stream certain games on PC, but according to Sony, not many people are using that perk: With a very small number of eligible PlayStation Plus X-energy gets green light to build its first small modular nuclear reactors. X-energy received a construction permit from the U.S. Nuclear Regulatory Commission to build four reactors in Texas. NASA offers $500,000 to develop next-generation electric rocket engines. NASA is putting $500,000 on the line in a new competition to accelerate the development of advanced electric rocket engines for satellites and future space exploration. The AMPERE Challenge will reward up to two U.S. companies with cash prizes and access to NASA testing facilities to help bring promising propulsion technology closer to real-world missions. AI could eliminate up to 70 percent of manual risk tasks in banks, free capacity for strategic roles: McKinsey. Artificial intelligence could eliminate 60-70 per cent of manual operational tasks in banks' risk functions, allowing lenders to redirect resources towards deeper risk analysis, strategic decision-making and AI development, according to a report by McKinsey. Starlink Mini 2 adds a swappable battery. SpaceX announced a new version of its all-in-one satellite internet terminal that integrates a dish, Wi-Fi router, and now a battery into a single device about the size of a laptop. According to some users on X who shared screenshots of invitations to order Starlink Mini 2, the dish is priced at $999, which includes All 7 Anthropic founders will each cash out about $250M in IPO. Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company. Global fossil fuel emissions set to fall in 2026, but total CO2 keeps rising. Global fossil fuel emissions are projected to fall in 2026 as renewable energy and electric vehicles gain ground, but rising emissions from deforestation threaten to push total CO2 emissions to a new record. Scientists warn that the world's remaining carbon budget for limiting warming to 1.5°C could be exhausted in less than four years, even as a lasting decline in emissions appears increasingly within reach. The US is winning the AI race. Jensen Huang could have blown it. As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people. He also wears a cool leather jacket. Which makes Oura to acquire AI-native primary care startup Counsel Health for $625M. The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing \"uncertainty in the IPO market.\" Google's Pixel Tag tracker is now available. After years of third-party Android trackers from companies like Samsung, Motorola, and Pebblebee, Google's Pixel Tag is now available for purchase. First announced in August, the Pixel Tag is designed to work with Google's tracking network and app that was renamed the Find Hub last year. The Pixel Tag is priced similar to Apple's AirTag"
     },
     {
       "title": "Development and policy",
-      "text": "Now to development, infrastructure and government policy. India's Energy Storage Scheme Targets $10 Billion Investment. India is an important partner for Slovenia's economic growth: Ambassador Tomaž Mencin. Manufacturing Momentum:Building a Self-Reliant India. Designing for multigenerational users in India's evolving digital economy. APAC transformer demand rises as China and India upgrade grids. India and the Global Housing Crisis: Rethinking Housing Policy. Southeast Asia's Cybercrime–Cyber Slavery Nexus: Implications for India. India wants to become a $10 Trillion economy. First, it must learn to measure itself. GE Vernova appointed for 6GW transmission project in India. GE Vernova to Support India's Energy Transition With 6-GW HVDC Transmission Project."
+      "text": "Now to development, infrastructure and government policy. China Is Nibbling at India's Domination of Bhutan's Economy. Should India worry about money flowing overseas?. Where is India Most Ready for Wind Repowering? Assessing opportunities across India's leading wind states. India moves to retain military recruits amid border risks and troop gaps. Policy predictability key to more foreign investment Hindustan Times. India–South Korea Cooperation on Alternative Maritime Fuels and Port Energy Systems. India to provide grant for expansion of Sri Lanka's emergency ambulance service. Lakshadweep and Andaman and Nicobar Islands to drive India's Blue Economy push through tuna, seaweed and ornamental fisheries. India on track for $1 trillion exports in FY27, says Piyush Goyal. European carmakers may set up manufacturing units in India soon: Goyal. Electronics Inc runs ops update to build AI infra."
     },
     {
       "title": "Across India",
-      "text": "Turning to the big national stories. India, US plan joint crackdown on transnational drug cartels, synthetic drug trade. Top security officials from India and the US gathered in New Delhi to address narcotics syndicates. The discussions focused on establishing a framework to combat synthetic drug flows and secure supply chains. NCB Director General Anurag Garg emphasized a network-centric enforcement model to target cartels and facilitators. Both nations endorsed operational milestones, including initiatives to prevent the diversion of synthetic drug precursors. Hasina seeks passport, Dhaka calls it political stunt and seeks extradition. Ousted Bangladeshi Prime Minister Sheikh Hasina has requested a new passport from the Bangladesh High Commission. The request aims to facilitate her planned return to Bangladesh after two years in exile. Bangladesh authorities have labeled the request a political stunt and emphasized her extradition due to criminal convictions. Indian officials have stated that the extradition matter should be handled through existing legal processes. 'Global capital for Sanatan pilgrimage': Akhilesh's big Ayodhya promise ahead of 2027 UP polls. Akhilesh Yadav has articulated a bold vision to elevate Ayodhya as the ultimate hub for Sanatan pilgrimage on a global scale. He stressed the importance of honest temple management and top-notch infrastructure to rejuvenate devotees' trust. Additionally, Yadav has committed to tackling local economic challenges and safeguarding the interests of traditional boatmen. Three workers killed during water tank maintenance at Tata iPhone parts factory in Tamil Nadu. Three workers were killed in an incident at Tata Electronics' facility in Hosur, Tamil Nadu, during water tank maintenance work on Tuesday. Fearing winter polls, Ladakh political parties, social bodies plan protests. Political parties and civil society groups in Ladakh, apprehensive that the administration might hold Hill Council elections in Dec, on Monday said a winter election schedule would disenfranchise a significant section of the population as nearly 25 percent of Ladakhis migrate to other parts of the country during the harsh winter season. Chinese nationals stream from poor localities of Dhaka, claim those are in Delhi: Report. The setting is Dhaka, but the audience in China is told it is Delhi. 'Scrap rupees 500 notes': CM Naidu seeks to phase out big currency to curb corruption. Andhra Pradesh chief minister N Chandrababu Naidu advocates for the abolition of rupees 500 and other high-value banknotes to combat corruption and promote a shift to digital transactions, which he believes is vital for economic enhancement. The recent local election results revealed a strong tilt toward the National Democratic Alliance, especially in urban regions, indicating a robust affirmation of democratic ideals and effective governance across Andhra Pradesh. Adult vaccination remains low; elderly miss cover against flu and shingles. Despite vaccines being available to prevent several infections that can be particularly serious for older people, adult immunisation remains low in India. Lawyers' boycott makes man stay in jail despite bail. The accused in an abetment of suicide case who got bail from Supreme Court after spending one year in custody had to stay in jail for another one and a half months as lawyers refused to represent him before the trial court in Baghpat in Uttar Pradesh, which was to pass a formal order to release him and impose terms and conditions for the same. Diwali is 'Eid of joy', says Kharge; Congress insulting Sanatan culture: BJP. BJP on Monday flayed Congress president Mallikarjun Kharge for referring to Diwali as \"khushiyon ki ek Eid\", saying the invocation of a Muslim festival symbolised the opposition's \"politics of appeasement and disregard for Hindu sentiments\". Bihar govt bans firecrackers, private boat operations near ghats ahead of Chhath Puja. The Bihar government on Monday stepped up safety preparations for Chhath Puja, directing district administrations to impose a ban on firecrackers near ghats and prohibit private boat operations during the four-day festival from November 13 to 16. Delhi Police issues notice to Mamata Banerjee as witness in 2013 protest case. Delhi Police on Monday served a notice to former West Bengal chief minister Mamata Banerjee, asking her to record her statement in connection with a 2013 case involving a confrontation with police, news agency PTI reported, citing sources. 'There is an old saying': BJP MLA Papiya Adhikari explains her 'firecrackers cure illness' remark, apologises. West Bengal BJP MLA Papiya Adhikari on Monday defended herself after facing criticism for claiming that bursting firecrackers helps kill germs and viruses. Arpita Singh, celebrated artist who painted real women, dies at 89. Some critics dubbed her the female M F Husain while others saw echoes of Marc Chagall in her gravity-defying figures. PM Modi speaks with Zelenskyy, discusses efforts for Russia-Ukraine peace deal. Prime Minister Narendra Modi on Monday held a telephone conversation with Ukrainian president Volodymyr Zelenskyy, during which the two leaders discussed the ongoing Russia-Ukraine conflict, recent diplomatic developments and ways to strengthen bilateral cooperation. 'I warned you before too': Kejriwal takes swipe at Yogi over SIR, congratulates Akhilesh in advance. Aam Aadmi Party chief Arvind Kejriwal on Monday took a swipe at Uttar Pradesh chief minister Yogi Adityanath over his remarks on the Special Intensive Revision (SIR) of electoral rolls. Vellore Shooting Adds To Tamil Nadu's Law And Order Debate After Diwali Killings. The victim was identified as 43-year-old Gnanavel"
+      "text": "Turning to the big national stories. Parl panel drops NCR air pollution from agenda, Cong's Maken raises objection. As the Capital chokes under the haze of polluted air, a Parliamentary panel's decision to drop the issue without citing any reason from the meeting agenda for Nov 17 has evoked a sharp reaction from Congress' Rajya MP Ajay Maken who is a member of the standing committee on home affairs. Being underweight with high BP can be a problem too: Study. While obesity with hypertension is the most widely recognised high-risk category, a recent study has shown that being underweight with elevated blood pressure or hypertension may also be a high-risk sub-group in Asian populations. EC: Code of conduct applies to retd govt officials in state jobs. EC Tuesday directed that the \"political neutrality\" provision of model code of conduct (MCC) will henceforth apply not just to serving govt employees in poll-bound states but also to retired govt officials and staffers attached, employed or re-employed by state govts. Unesco: Women ahead in higher edu, but rural-urban gap hits schoolgirls. India has made substantial progress in closing the gender gap in education, with women now outpacing men in higher education. Days after talks with NC 'rebels', Farooq moots advisory groups for ministers. Days after 15 of 25 \"rebel\" National Conference (NC) legislators called for replacing all eight J and K cabinet ministers and removing CM Omar Abdullah's adviser, party president Farooq Abdullah announced Tuesday an informal advisory group of MLAs for each minister. Ladakh hill council polls on Dec 4, protests erupt over winter timing. Kargil shut down Tuesday and political groups in Leh threatened an agitation after Ladakh announced Dec 4 elections to its eight autonomous hill development councils, rejecting demands to avoid holding the polls during the harsh winter months. Evening newswrap: Sonia Gandhi's memoir sparks row; India condemns Chinese vloggers; MEA reacts to US midterm results, and more. Sonia Gandhi shared her surprise at Pranab Mukherjee's ambition for the prime minister role in 2010. His daughter Sharmishtha questioned the surprise, expressing that such aspirations are valid in politics. India condemned an anti-India campaign by Chinese vloggers in Dhaka, urging the Bangladesh government to act against it. The country also expressed its continued bipartisan support for ties with the US after recent midterm elections. CPCB explains why official AQI is capped at 500 despite private apps showing higher readings. The Central Pollution Control Board on Tuesday defended its air quality monitoring methodology, explaining why official AQI readings are capped at 500 even as private monitoring apps reported levels as high as 1,800 in Delhi after Diwali. Chemical-free crackers: RSS chief extols traditional Diwali practices as severe pollution chokes Delhi. RSS chief Mohan Bhagwat noted that firecrackers used in earlier times were free of harmful chemicals and helped eliminate insects, while lighting ghee-fuelled lamps served to purify the air.Addressing a gathering in Nagpur, Bhagwat called for an environment-friendly Diwali, asserting that traditional festive practices were deeply rooted in science.The RSS chief's comments come at a time when air quality in Delhi and several other metropolitan cities has deteriorated to the \"poor\" and \"severe\" categories due to the bursting of firecrackers.\"There was science behind these traditional practices,\" he said, invoking the phrase \"Vatavaran shuddh, jeevan shuddh\" (a clean environment leads to a pure life).He further said that \"dharma\" serves to unite society and that women often possess a deeper understanding of it than men.Bhagwat noted that Diwali is celebrated over five days across the world, bringing joy to Indians as people come together to exchange greetings and good wishes. 'Bogus movement led by bogus leader': Union minister takes jibe at Rahul over ethanol blending row. Union minister Pralhad Joshi on Tuesday stepped up his attack on Congress over ethanol blending in petrol row and accused it of misleading the public over the issue. 2008 CRPF camp attack convict shot dead by unknown gunman in UP. An unknown gunman shot dead Mohammad Sharif, an accused linked to the 2008 CRPF camp attack, on Tuesday."
     },
     {
       "title": "Around the world",
-      "text": "And finally, here is what is happening around the world. France accuses Iran of supermarket fridge hacking. Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up. Turkey steel factory blast kills at least 17 people. Eyewitnesses say the explosion shook the ground, with one believing an earthquake had hit near the Habas Demir Celik plant in Aliaga. Judge denies motion to dismiss Lindsay Clancy's murder case. The ruling means the case can move forward, possibly with reduced charges in a new trial."
+      "text": "And finally, here is what is happening around the world. US House blocks bid to impeach Defence Secretary Pete Hegseth, for now. Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year. Violence erupts in Bangladesh as ousted PM's supporters stage protest. Supporters of Sheikh Hasina want her to return from exile in India. Anti-homosexuality laws in Trinidad and Tobago overturned. The ruling brings to an end an 11-year legal battle by dual-citizen Jason Jones."
     },
     {
       "title": "Sign-off",
