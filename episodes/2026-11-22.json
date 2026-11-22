@@ -1,0 +1,680 @@
+{
+  "date": "2026-11-22",
+  "dateline": "Sunday, November 22",
+  "title": "Grace Bath World — Morning Brief",
+  "audio": "episodes/2026-11-22.mp3",
+  "duration_sec": 2883.8,
+  "est_minutes": 47.8,
+  "word_count": 6119,
+  "generated_utc": "2026-11-22T03:10:31Z",
+  "chapters": [
+    {
+      "title": "Opening",
+      "start": 0.0
+    },
+    {
+      "title": "Top headlines",
+      "start": 22.5
+    },
+    {
+      "title": "Bhopal and Madhya Pradesh",
+      "start": 404.0
+    },
+    {
+      "title": "Business and markets",
+      "start": 635.9
+    },
+    {
+      "title": "Money, tax and personal finance",
+      "start": 1252.5
+    },
+    {
+      "title": "Science and technology",
+      "start": 1865.3
+    },
+    {
+      "title": "Development and policy",
+      "start": 2452.1
+    },
+    {
+      "title": "Across India",
+      "start": 2526.2
+    },
+    {
+      "title": "Around the world",
+      "start": 2833.0
+    },
+    {
+      "title": "Sign-off",
+      "start": 2878.6
+    }
+  ],
+  "sections": [
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "9 family members killed as pilgrims' vehicle crashes into truck in Rajasthan",
+          "source": "Times of India"
+        },
+        {
+          "title": "Watch: Missile seen approaching aircraft in video as Iran claims US F-16 was hit",
+          "source": "Times of India"
+        },
+        {
+          "title": "'As Mumbai Indians we feel like underdogs now': MI coach Robin Uthappa",
+          "source": "Times of India"
+        },
+        {
+          "title": "Why Canadian billionaire Kevin O'Leary thinks Anthropic could be the next Amazon",
+          "source": "Times of India"
+        },
+        {
+          "title": "Brooklyn musician says landlord ignored cracks before collapse killed 8; sues",
+          "source": "Times of India"
+        },
+        {
+          "title": "580 army drone tenders seek China-linked parts, industry body flags security risk",
+          "source": "Times of India"
+        },
+        {
+          "title": "720/9! Team India rewrite record books, post highest-ever Test total in NZ",
+          "source": "Times of India"
+        },
+        {
+          "title": "10-year-old Anvi swims 36 km to Gateway of India in 8.5 hours",
+          "source": "Times of India"
+        },
+        {
+          "title": "Russian 'triple-tap' strike on Zelenskyy's hometown kills child, wounds 60",
+          "source": "Times of India"
+        },
+        {
+          "title": "As Florida uses robot rabbits to catch pythons; study reveals when snakes climb trees",
+          "source": "Times of India"
+        },
+        {
+          "title": "Texas man accused of posing as veteran to win $1.6m contracts, supply fake gear",
+          "source": "Times of India"
+        }
+      ]
+    },
+    {
+      "title": "Bhopal and Madhya Pradesh",
+      "items": [
+        {
+          "title": "Madhya Pradesh Political Punch: Minister's Money, Diwali Milan, Earning Bad Name, Book Revives Hope and More",
+          "source": "Free Press Journal"
+        },
+        {
+          "title": "Tome And Plume: Bhopal Reveals Its Soulful Winter Charm In Silver Sunlight",
+          "source": "Free Press Journal"
+        },
+        {
+          "title": "MP's Historic Bajranggarh Fort Under Threat From Alleged Illegal Mining And Blasting In Guna; NGT Issues Notices To Five Authorities",
+          "source": "Free Press Journal"
+        },
+        {
+          "title": "MP's Vindhya Irrigation Projects Worth rupees 9,617 Crore Face Years Of Delays; 16 Schemes Incomplete, Costs Escalate Despite Repeated Deadline Extensions",
+          "source": "Free Press Journal"
+        },
+        {
+          "title": "MP To Have Five Cheetah Habitats As Project Cheetah Eyes Major Expansion; Two More Sanctuaries Identified, Leopard Threat Looms Over Kuno Cubs",
+          "source": "Free Press Journal"
+        },
+        {
+          "title": "Bhopal BMC Seals 348 Properties But Leaves Arera Colony, Rohit Nagar Largely Untouched In Third-Phase Demolition Drive; Supreme Court Hearing On November 23",
+          "source": "Free Press Journal"
+        },
+        {
+          "title": "Latest Hockey News and Updates",
+          "source": "Local"
+        },
+        {
+          "title": "Two held with 66g smack worth rupees 2L in Chhola",
+          "source": "Local"
+        },
+        {
+          "title": "DAY 01 The Madhya Pradesh Women's Asian Champions Trophy Bhopal 2026 kicked off with an exciting day of international hockey, featuring thrilling encounters, impressive performances and plenty of action on the field. Teams showcased their skill, determ",
+          "source": "Local"
+        },
+        {
+          "title": "SMAT 2026, Madhya Pradesh versus Andhra: Ricky Bhui's crucial knock of 57(37) versus Madhya Pradesh",
+          "source": "Local"
+        },
+        {
+          "title": "SMAT 2026, Madhya Pradesh versus Andhra: Shaik Rasheed shines with 51(42) versus Madhya Pradesh",
+          "source": "Local"
+        },
+        {
+          "title": "SMAT 2026, Madhya Pradesh versus Andhra: Match Highlights",
+          "source": "Local"
+        },
+        {
+          "title": "MP's Mhow-Gorakhpur Special Train To Run On November 22 Via Indore, Ujjain And Varanasi; Check Timings, Route And Stoppages",
+          "source": "Free Press Journal"
+        },
+        {
+          "title": "Youth dies after falling down stairs at friends' house in Bajaria",
+          "source": "Local"
+        },
+        {
+          "title": "Women Asian Champions: Holders India survive late Korea scare to post second straight win",
+          "source": "Local"
+        },
+        {
+          "title": "Builder couple held for cheating five flat buyers of lakhs in Ayodhya Nagar",
+          "source": "Local"
+        },
+        {
+          "title": "Bhopal–Raipur paneer shipment intercepted, 1.5 tonnes destroyed; firms deny ownership",
+          "source": "Local"
+        },
+        {
+          "title": "Two deaths in Madhya Pradesh's Sagar district, Congress alleges illicit liquor consumption",
+          "source": "Local"
+        }
+      ]
+    },
+    {
+      "title": "Business and markets",
+      "items": [
+        {
+          "title": "Best 3 stocks to buy under rupees 100: IDFC First Bank, Jayaswal Neco Industries, Sagility by Sumeet Bagadia Targets, SL",
+          "source": "Livemint Markets"
+        },
+        {
+          "title": "Paint companies eye stronger Q3 demand on festival shift, weddings",
+          "source": "Business Standard"
+        },
+        {
+          "title": "Gold rate today in India at 14-month low; will it hit rupees 1 lakh? Experts list out 3 reasons for gold price drop in 2026",
+          "source": "Livemint Markets"
+        },
+        {
+          "title": "Dividend jackpot in chemicals: Indo Borax, GOCL and Bayer CropScience offer yields of up to 10 percent Check details",
+          "source": "Livemint Markets"
+        },
+        {
+          "title": "Max Healthcare, Fortis, Apollo, Aster: Hospital stocks steal show on D-Street with up to 14 percent rally - Buy now or wait?",
+          "source": "Livemint Markets"
+        },
+        {
+          "title": "Bitcoin price crash: ​Falls to lowest level in two years - What's behind plunge of world's largest cryptocurrency",
+          "source": "Livemint Markets"
+        },
+        {
+          "title": "Stock split reset: SanDisk stock crashes 87.5 percent overnight? Here's what investors need to know about its 8-for-1 split",
+          "source": "Livemint Markets"
+        },
+        {
+          "title": "PSU versus Private banks: Who is powering Nifty Bank's record-high rally after 5 percent surge? SBI, HDFC, AU, Canara target price",
+          "source": "Livemint Markets"
+        },
+        {
+          "title": "Gold, silver price crash: DSP Mutual Fund turns bullish on bullion, reveals new buying strategy; check price levels",
+          "source": "Livemint Markets"
+        },
+        {
+          "title": "At least 24 dead in Nigeria when boat capsizes",
+          "source": "Economic Times"
+        },
+        {
+          "title": "Mahanadi CoalFields IPO GMP Check: Down 92 percent from rupees 9.25 to rupees 0.7, issue struggles to attract bids- Subscribe or avoid?",
+          "source": "Livemint Markets"
+        },
+        {
+          "title": "Iran says Hormuz may reopen on 'reasonable' terms",
+          "source": "Economic Times"
+        },
+        {
+          "title": "Taiwan Widens Short Sale Curbs After Shares Plunge on AI Concern",
+          "source": "Livemint Markets"
+        },
+        {
+          "title": "Deadly Mexico violence leaves 11 dead",
+          "source": "Economic Times"
+        },
+        {
+          "title": "Hindalco versus NALCO versus Vedanta Aluminium versus Hindustan Zinc: Which metal stocks to buy for good returns? Target, SL",
+          "source": "Livemint Markets"
+        },
+        {
+          "title": "India's men are getting serious about skincare",
+          "source": "Economic Times"
+        },
+        {
+          "title": "Patanjali Foods dividend 2026 announcement news: Board to consider 2nd interim dividend on Nov 26 - Check history, yield",
+          "source": "Livemint Markets"
+        },
+        {
+          "title": "Pattinson, no need to get so shaken and stirred",
+          "source": "Economic Times"
+        },
+        {
+          "title": "GREED and fear Report: Jefferies Chris Wood hikes India exposure for 2nd time in 3 weeks, cuts Taiwan New Allocations",
+          "source": "Livemint Markets"
+        },
+        {
+          "title": "Costco Thanksgiving closure: Why US fears grow",
+          "source": "Economic Times"
+        },
+        {
+          "title": "Upcoming dividend, split, rights issue record dates next week, Nov 23-27: Pashupati Cotspin, Zee Ent, Varvee, and more",
+          "source": "Livemint Markets"
+        },
+        {
+          "title": "Balen Shah visit signals Nepal's India policy shift",
+          "source": "Economic Times"
+        },
+        {
+          "title": "Gold versus silver price crash compared: White metal loses 65 percent , gold sheds 37 percent from record highs Wealth wiped, returns",
+          "source": "Livemint Markets"
+        },
+        {
+          "title": "Revanth Reddy faces dissent within Congress",
+          "source": "Economic Times"
+        },
+        {
+          "title": "Nvidia versus Anthropic shares: AI chip stock tanks 14 percent while Claude-maker falls 8.5 percent - See who wins in earnings, valuation?",
+          "source": "Livemint Markets"
+        },
+        {
+          "title": "Vacant seats in TN, Telangana, Bengal back in focus",
+          "source": "Economic Times"
+        },
+        {
+          "title": "Bitcoin crashes to over two-year low below $60,000 level: What do experts expect from crypto markets going ahead?",
+          "source": "Livemint Markets"
+        }
+      ]
+    },
+    {
+      "title": "Money, tax and personal finance",
+      "items": [
+        {
+          "title": "Bank holidays next week: SBI, HDFC, ICICI branches will be closed on these five days from 23-30 Nov. Check RBI calendar",
+          "source": "Livemint Money"
+        },
+        {
+          "title": "Company FD interest rates in November 2026: Muthoot Capital offers 8.95 percent ; compare Shriram, Bajaj Finance and others now",
+          "source": "Livemint Money"
+        },
+        {
+          "title": "Nvidia's fall: when a white swan is mistaken for a black one",
+          "source": "Livemint Money"
+        },
+        {
+          "title": "8th Pay Commission: MSA and IRTSA proposals show how fitment factors could reshape central government salary structures",
+          "source": "Livemint Money"
+        },
+        {
+          "title": "Gujarat trader with 2 PANs gets another chance in rupees 7.60 lakh tax dispute after ITAT directs I-T Department to reassess case",
+          "source": "Livemint Money"
+        },
+        {
+          "title": "ITAT Bangalore relief to businessman in rupees 12 crore tax case: Why Income Tax Department's seizure failed",
+          "source": "Livemint Money"
+        },
+        {
+          "title": "Income Tax rules: Delhi ITAT holds capital gains on transfer of US entity not taxable in India , Expert explains why",
+          "source": "Livemint Money"
+        },
+        {
+          "title": "Gold prices crash nearly 10 percent in a week: Mega reasons behind massive yellow metal rate fall – List",
+          "source": "Livemint Money"
+        },
+        {
+          "title": "ETO-NEXT-GEN INVESTING WHAT MATTERS",
+          "source": "ET Wealth"
+        },
+        {
+          "title": "Key income tax rules: Foreign Disclosure Scheme – What happens if taxman values your assets higher than you declared?",
+          "source": "Livemint Money"
+        },
+        {
+          "title": "Gold, debt and equity: Which portfolio mix offers better returns with lower volatility? 25 years of data provide answer",
+          "source": "Livemint Money"
+        },
+        {
+          "title": "NRE FD interest rates in November 2026: PNB, Kotak, Federal Bank offer up to 6.80 percent ; compare top bank rates for NRIs now",
+          "source": "Livemint Money"
+        },
+        {
+          "title": "Golden lessons from past gold price fluctuations amid current gold price crash , 32 percent down from its peak in 2026",
+          "source": "Livemint Money"
+        },
+        {
+          "title": "Silver prices crash 64.2 percent from January peak: Check latest rates in Delhi, Mumbai, Chennai and other cities",
+          "source": "Livemint Money"
+        },
+        {
+          "title": "Builder fails to provide documents for home loan disbursal; later cancels flat over unpaid dues: How Noida couple won?",
+          "source": "Livemint Money"
+        },
+        {
+          "title": "Bought gold on Diwali? Prices fall 12.9 percent in a fortnight: Check today's value of your 22K and 24K gold purchases in India",
+          "source": "Livemint Money"
+        },
+        {
+          "title": "Credit card fraud: Software engineer loses rupees 5.47 lakh despite not sharing OTP or PIN; here's how to protect your money",
+          "source": "Livemint Money"
+        },
+        {
+          "title": "5 money lessons from MJ DeMarco's bestseller 'The Millionaire Fastlane': How to 'Crack the Code to Wealth and Live Rich'",
+          "source": "Livemint Money"
+        },
+        {
+          "title": "8th Pay Commission: BPMS union seeks 6 percent increment, OPS restoration; check demands on fitment factor, DA merger and more",
+          "source": "Livemint Money"
+        },
+        {
+          "title": "RBI Guv opens financial inclusion camp in Maharashtra, focuses on re-KYC",
+          "source": "Business Standard"
+        },
+        {
+          "title": "CBIC proposes draft GST changes to shield genuine buyers from ITC loss",
+          "source": "Business Standard"
+        },
+        {
+          "title": "Small businesses can deliver 100 times more impact from loans: RBI chief",
+          "source": "Business Standard"
+        },
+        {
+          "title": "GST Network adds metro rail as fifth mode of transport in e-way bill system",
+          "source": "Business Standard"
+        },
+        {
+          "title": "EPF is becoming a retirement income plan. Is it a better one?",
+          "source": "Business Standard"
+        },
+        {
+          "title": "Irdai fines Star Health rupees 2 crore over unjustified health claim rejections",
+          "source": "Business Standard"
+        },
+        {
+          "title": "King, Stubb and Kasiva > India Legal 500 law firm profiles News and developments",
+          "source": "Tax & GST"
+        },
+        {
+          "title": "Haryana GST Officer Arrested For Bribery, Assets Worth rupees 1.86 Crore Seized",
+          "source": "Tax & GST"
+        }
+      ]
+    },
+    {
+      "title": "Science and technology",
+      "items": [
+        {
+          "title": "Meet Ishita Jain, the Google AI GTM leader driving business growth and working with enterprises across Southeast Asia",
+          "source": "Livemint Tech"
+        },
+        {
+          "title": "Amazon is complaining about NYC Council on shipping labels, too",
+          "source": "The Verge"
+        },
+        {
+          "title": "Signal restricts mobile screenshots as it confronts 'existential threat' of AI surveillance",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "AI may not work like the human brain after all, scientists discover",
+          "source": "ScienceDaily"
+        },
+        {
+          "title": "GTA 6-inspired luxury collection unveiled: Caviar launches gold-plated iPhones, Samsung Fold8 and Ray-Ban smart glasses",
+          "source": "Livemint Tech"
+        },
+        {
+          "title": "The UN fails to agree on rules regulating 'killer robots'",
+          "source": "The Verge"
+        },
+        {
+          "title": "A tale of two Nvidias",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "GTA 6 console comparison: PS5 Pro takes the lead – why is it the best option? How do PS5 and Xbox stack up?",
+          "source": "Livemint Tech"
+        },
+        {
+          "title": "The FBI and USDA were reportedly hacked",
+          "source": "The Verge"
+        },
+        {
+          "title": "Trump says reported FBI database hack is 'not good'",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "A giant star swallowed another star. James Webb reveals the aftermath",
+          "source": "ScienceDaily"
+        },
+        {
+          "title": "GTA 6 reportedly cost over $1 billion: How many copies does Rockstar need to sell to recover its budget?",
+          "source": "Livemint Tech"
+        },
+        {
+          "title": "John Roberts, the voice of Linda Belcher, is just happy to finish a thing",
+          "source": "The Verge"
+        },
+        {
+          "title": "Here are the top AI agents that can live in your text messages",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Amazon's first digital photo frame is up to 50 percent off for Black Friday",
+          "source": "The Verge"
+        },
+        {
+          "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Motorola Android 17 eligible phones list India: Check Edge, Razr, Moto G, and 29 other models set to get the update",
+          "source": "Livemint Tech"
+        },
+        {
+          "title": "Can Anthropic afford to put safety first?",
+          "source": "The Verge"
+        },
+        {
+          "title": "Alaska, your next governor is a Wikipedia nerd",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "CERT-In flags unauthorised payments beyond financial sector",
+          "source": "Livemint Tech"
+        },
+        {
+          "title": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
+          "source": "The Verge"
+        },
+        {
+          "title": "Startup sues Apple in India over tap-to-share contacts feature",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Huawei reveals ultra-thin Watch Air ahead of November 24 launch: Check design, features, colours, and what to expect",
+          "source": "Livemint Tech"
+        },
+        {
+          "title": "Chess.com's next move is a new hub for classic games, from mahjong to sudoku",
+          "source": "The Verge"
+        },
+        {
+          "title": "GTA 6 beats Avengers Endgame, GTA 5 to become fastest-selling entertainment release with $3.79 billion Day 1 sales",
+          "source": "Livemint Tech"
+        },
+        {
+          "title": "The Xiaomi 18 Pro proves two screens aren't better than one",
+          "source": "The Verge"
+        }
+      ]
+    },
+    {
+      "title": "Development and policy",
+      "items": [
+        {
+          "title": "PM Modi calls upon Indian industries to seize new opportunities arising from country's growth story",
+          "source": "Policy"
+        },
+        {
+          "title": "Khelo India Sports Goods Manufacturing Scheme, 2026: Ministry Of Youth Affairs And Sports",
+          "source": "Policy"
+        },
+        {
+          "title": "Litigation Funding for Contract Disputes in India: A 2026 Guide for Business Owners",
+          "source": "Policy"
+        },
+        {
+          "title": "India's Financial Resilience: Rupee, Rising Debt and Monsoon Risks",
+          "source": "Policy"
+        },
+        {
+          "title": "Botswana-Born Cheetah Gives Birth to Four Cubs in Wild, India's Cheetah Population Rises to 62",
+          "source": "Policy"
+        },
+        {
+          "title": "India, Canada conclude sixth round of talks for proposed trade pact",
+          "source": "Policy"
+        },
+        {
+          "title": "Fix Education Now Or Lose India's Future",
+          "source": "Policy"
+        },
+        {
+          "title": "India restricts cut flower imports to Chennai, Amritsar airports, Kandla port",
+          "source": "Policy"
+        },
+        {
+          "title": "Climate Science Into Services For India Forum (CSSIF), 2026",
+          "source": "Policy"
+        },
+        {
+          "title": "'Look at India': Trump cites 7 percent growth to criticise US Fed's rate policy",
+          "source": "Policy"
+        },
+        {
+          "title": "Shaping India's future of learning: How NEP 2020 is transforming education beyond rote memorisation",
+          "source": "Policy"
+        }
+      ]
+    },
+    {
+      "title": "Across India",
+      "items": [
+        {
+          "title": "ICMR: Common antibiotics losing potency as drug resistance rises",
+          "source": "Times of India"
+        },
+        {
+          "title": "Ganges treaty: Bangladesh and India meeting today",
+          "source": "Times of India"
+        },
+        {
+          "title": "Amit Shah and Sergio Gor laud joint India-US effort in transnational narcotics network bust",
+          "source": "Times of India"
+        },
+        {
+          "title": "India's cyber security agency Cert-IN flags payment fraud in govt-linked platforms",
+          "source": "Times of India"
+        },
+        {
+          "title": "India crosses 1 crore HPV vax in 9 months",
+          "source": "Times of India"
+        },
+        {
+          "title": "Over 10k postgraduate medical seats in blocked category; govt may review float system",
+          "source": "Times of India"
+        },
+        {
+          "title": "Humayun, Sher Shah and 'one fort': Pakistan minister highlights Purana Quila's layered history at SCO forum",
+          "source": "Times of India"
+        },
+        {
+          "title": "China's support to Pakistan during Operation Sindoor impacted Indian planning: US panel",
+          "source": "Times of India"
+        },
+        {
+          "title": "Reflecting on Purana Qila's history, Pakistan minister invokes Humanyun and Sher Shah Suri at SCO civilisational dialogue to assert cultural diversity",
+          "source": "Times of India"
+        },
+        {
+          "title": "Jharkhand CM Hemant Soren writes to CJI seeking urgent appointment of HC chief justice successor",
+          "source": "Times of India"
+        },
+        {
+          "title": "'Don't dislike BJP': Shehzad Poonawalla on quitting politics; calls rift with brother ideological",
+          "source": "Times of India"
+        },
+        {
+          "title": "NGT scanner on waste dumping near J and K's saffron fields",
+          "source": "Times of India"
+        },
+        {
+          "title": "NCB busts interstate pharma drugs syndicate",
+          "source": "Times of India"
+        }
+      ]
+    },
+    {
+      "title": "Around the world",
+      "items": [
+        {
+          "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+          "source": "BBC World"
+        },
+        {
+          "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+          "source": "BBC World"
+        },
+        {
+          "title": "FBI reportedly investigating apparent hack of its criminal database",
+          "source": "BBC World"
+        }
+      ]
+    }
+  ],
+  "transcript": [
+    {
+      "title": "Opening",
+      "text": "Good morning Rushil Bhatia. Here is your daily news for Sunday, November 22. In today's briefing: top headlines, bhopal and madhya pradesh, business and markets, money, tax and personal finance, science and technology, development and policy, across india, around the world. Let's begin."
+    },
+    {
+      "title": "Top headlines",
+      "text": "First, the stories leading the news this morning. 9 family members killed as pilgrims' vehicle crashes into truck in Rajasthan. Nine individuals died in a tragic accident involving a vehicle carrying family members in Rajasthan. The group was returning home from visiting a religious shrine in Khatu Shyam. The accident occurred near Shambhupura on the Kota-Udaipur highway during the night. Authorities are ensuring that the injured receive the necessary medical treatment and care. Watch: Missile seen approaching aircraft in video as Iran claims US F-16 was hit. Iran has released footage claiming it struck a US F-16 fighter jet over the Persian Gulf. The video purportedly shows a missile hitting the aircraft, causing an emergency landing. While Washington denied the claim, insisting no F-16 was attacked, Iran insisted on its air defense's action against the aircraft. It clarified the operation was conducted by the Iranian Army's Air Defence. 'As Mumbai Indians we feel like underdogs now': MI coach Robin Uthappa. Robin Uthappa's appointment as Mumbai Indians' batting coach marks a new chapter in his cricketing journey, one that has quietly taken shape through individual coaching over the past few years. He discusses his philosophy of building trust, creating a happy environment, working with established players, making technical adjustments in a fast-paced T20 format and helping MI rediscover their identity. Why Canadian billionaire Kevin O'Leary thinks Anthropic could be the next Amazon. AI giant Anthropic has celebrated a milestone initial public offering, amassing a staggering $81.3 billion, which catapults its valuation to an impressive $1.5 trillion. Kevin O'Leary, an influential investor, commended the company's enterprise-driven approach focused on instilling trust and security among business clients. Notably, Amazon holds a substantial 14.7 percent share worth $225 billion, while Alphabet, Google's parent company, controls 13. Brooklyn musician says landlord ignored cracks before collapse killed 8; sues. In the wake of a devastating building collapse in Brooklyn that claimed eight lives, a musician has taken legal action against the landlord for ignoring warnings about visible cracks weeks prior. The lawsuit also raises alarms about nearby construction projects lacking proper structural support. Authorities are now probing the oversight of such projects in densely populated neighborhoods, questioning the responsiveness to residents' concerns before the tragic incident occurred. 580 army drone tenders seek China-linked parts, industry body flags security risk. Cautioning the govt against sourcing drones with Chinese components, the country's industry body Drone Federation India (DFI) has told senior defence officials that as many as 689 tenders floated on govt e-Marketplace (GeM) by the Indian military and govt bodies over nearly six years were found to specify Chinese drones and drone components. 720/9! Team India rewrite record books, post highest-ever Test total in NZ. India's 720/9 became the biggest total ever scored in a Test innings on New Zealand soil. The previous best was the hosts' 715/6 declared against Bangladesh in Hamilton in 2019. India also broke the record for the highest Test total against New Zealand. The West Indies had earlier held the record with their 660/5 declared at the Basin Reserve in Wellington in 1995. 10-year-old Anvi swims 36 km to Gateway of India in 8.5 hours. Anvi Suvarna, a 10-year-old swimmer from Dombivli, completed a significant 36-km swim in open water. This achievement follows her earlier 17-km swim, marking notable progress in her endurance training. Her swim aimed to raise awareness about water conservation and marine pollution issues facing Maharashtra. Support from her parents has played a crucial role in her journey as a young athlete. Russian 'triple-tap' strike on Zelenskyy's hometown kills child, wounds 60. A Russian ballistic missile attack on Ukrainian President Volodymyr Zelenskyy's hometown of Kryvyi Rih killed two people, including a seven-year-old boy, and wounded 60 others, including six children, local officials said on Saturday. As Florida uses robot rabbits to catch pythons; study reveals when snakes climb trees. In 2025, Florida implemented solar-powered robotic rabbit decoys designed to attract Burmese pythons for removal efforts. Researchers tracked 346 pythons from 2017 to 2024 to study their climbing behavior. The study found that juvenile pythons are more likely to climb trees compared to adults. A recent competition in 2026 resulted in 280 pythons being removed by participants. Texas man accused of posing as veteran to win $1.6m contracts, supply fake gear. Marcelo Fascino, a 24-year-old from San Antonio, Texas, stands accused of securing more than $1.6 million in federal contracts by deceitfully claiming his business was owned by veterans. He allegedly misrepresented his military background, impersonated government officials, and manipulated suppliers to stifle competition. Furthermore, investigators found he sold counterfeit military gear, mislabeling it as American-made but failing to meet specifications. He faces several charges as the investigation proceeds."
+    },
+    {
+      "title": "Bhopal and Madhya Pradesh",
+      "text": "Now, news closer to home in Bhopal and across Madhya Pradesh. Madhya Pradesh Political Punch: Minister's Money, Diwali Milan, Earning Bad Name, Book Revives Hope and More. Madhya Pradesh's political circles are buzzing with speculation over a minister's alleged investments, a BJP leader's elaborate Diwali gatherings and a Congress legislator's renewed ambitions. Tome And Plume: Bhopal Reveals Its Soulful Winter Charm In Silver Sunlight. Winter transforms Bhopal into a picturesque retreat, with misty mornings, golden sunlight over its lakes and chilly evenings around bonfires. MP's Historic Bajranggarh Fort Under Threat From Alleged Illegal Mining And Blasting In Guna; NGT Issues Notices To Five Authorities. The National Green Tribunal has issued notices to five authorities over alleged illegal mining and blasting near MP's historic Bajranggarh Fort in Guna. MP's Vindhya Irrigation Projects Worth rupees 9,617 Crore Face Years Of Delays; 16 Schemes Incomplete, Costs Escalate Despite Repeated Deadline Extensions. Sixteen irrigation projects across MP's Vindhya region remain incomplete despite expenditure of rupees 3,430.56 crore, with revised costs reaching rupees 9,617.92 crore. MP To Have Five Cheetah Habitats As Project Cheetah Eyes Major Expansion; Two More Sanctuaries Identified, Leopard Threat Looms Over Kuno Cubs. Madhya Pradesh plans to expand Project Cheetah to five locations, adding Dubri and Bagdara wildlife sanctuaries to Kuno, Gandhi Sagar and Veerangana Durgawati. Bhopal BMC Seals 348 Properties But Leaves Arera Colony, Rohit Nagar Largely Untouched In Third-Phase Demolition Drive; Supreme Court Hearing On November 23. Bhopal Municipal Corporation's third-phase drive against commercial activities in residential properties left several establishments in Arera Colony and Rohit Nagar untouched. Latest Hockey News and Updates. Two held with 66g smack worth rupees 2L in Chhola. DAY 01 The Madhya Pradesh Women's Asian Champions Trophy Bhopal 2026 kicked off with an exciting day of international hockey, featuring thrilling encounters, impressive performances and plenty of action on the field. Teams showcased their skill, determ. SMAT 2026, Madhya Pradesh versus Andhra: Ricky Bhui's crucial knock of 57(37) versus Madhya Pradesh. SMAT 2026, Madhya Pradesh versus Andhra: Shaik Rasheed shines with 51(42) versus Madhya Pradesh. SMAT 2026, Madhya Pradesh versus Andhra: Match Highlights. MP's Mhow-Gorakhpur Special Train To Run On November 22 Via Indore, Ujjain And Varanasi; Check Timings, Route And Stoppages. Western Railway will operate train number 09327 from MP's Mhow to Gorakhpur on November 22 to accommodate festive-season demand. Youth dies after falling down stairs at friends' house in Bajaria. Women Asian Champions: Holders India survive late Korea scare to post second straight win. Builder couple held for cheating five flat buyers of lakhs in Ayodhya Nagar. Bhopal–Raipur paneer shipment intercepted, 1.5 tonnes destroyed; firms deny ownership. Two deaths in Madhya Pradesh's Sagar district, Congress alleges illicit liquor consumption."
+    },
+    {
+      "title": "Business and markets",
+      "text": "Moving to business, the economy and the markets. Best 3 stocks to buy under rupees 100: IDFC First Bank, Jayaswal Neco Industries, Sagility by Sumeet Bagadia Targets, SL. Stock market prediction: Sumeet Bagadia believes that Dalal Street bias has improved following the sharp rally in Indian indices Paint companies eye stronger Q3 demand on festival shift, weddings. Paint companies expect stronger demand and volume growth in Q3FY27, but margins remain under pressure as price increases have yet to fully offset input cost inflation Gold rate today in India at 14-month low; will it hit rupees 1 lakh? Experts list out 3 reasons for gold price drop in 2026. Gold rate today in India: MCX gold rate finished at 14-month low of rupees 1,21,949 per 10 gm on Friday, whereas gold price in the international market ended at $3,539/oz Dividend jackpot in chemicals: Indo Borax, GOCL and Bayer CropScience offer yields of up to 10 percent Check details. Indo Borax and Chemicals led the three specialty chemical stocks with a 10.3 percent FY26 dividend yield, followed by GOCL Corporation at 9.7 percent and Bayer CropScience at 4.6 percent . The companies announced dividends of rupees 40, rupees 30 and rupees 150 per share, respectively. Max Healthcare, Fortis, Apollo, Aster: Hospital stocks steal show on D-Street with up to 14 percent rally - Buy now or wait?. Hospital stocks rallied up to 14 percent over five trading sessions amid optimism about corporate earnings and growth prospects. Apollo Hospitals, Fortis, Max Healthcare and Aster DM Quality Care all advanced on Friday, with brokerages maintaining Buy ratings on Apollo, Fortis and Max. Bitcoin price crash: ​Falls to lowest level in two years - What's behind plunge of world's largest cryptocurrency. Analysts said the cryptocurrency market is experiencing a sharp deterioration in investor confidence, with market participants increasingly moving away from riskier investments Stock split reset: SanDisk stock crashes 87.5 percent overnight? Here's what investors need to know about its 8-for-1 split. SanDisk completed an eight-for-one stock split, giving eligible shareholders seven additional shares for each share held. The adjustment lowered the per-share price from $755.16 to about $94.40 without changing investors' ownership or the company's market value PSU versus Private banks: Who is powering Nifty Bank's record-high rally after 5 percent surge? SBI, HDFC, AU, Canara target price. Banking stocks led the November market rally, with Nifty Bank rising around 16 percent month-to-date to a record intraday high of 64,485 on November 20. PSU and private bank indexes also advanced sharply, while brokerages cited healthy credit demand and robust lending pipelines. Gold, silver price crash: DSP Mutual Fund turns bullish on bullion, reveals new buying strategy; check price levels. Gold prices plunged to a 14-month low, recording their steepest weekly decline in eight months amid interest-rate concerns and an AI-stock selloff. DSP Mutual Fund is gradually buying gold and silver as prices fall, using predefined price levels rather than trying to predict a market bottom. At least 24 dead in Nigeria when boat capsizes. At least 24 people were killed after a boat carrying mourners to a funeral capsized in Nigeria's Bayelsa state. Mahanadi CoalFields IPO GMP Check: Down 92 percent from rupees 9.25 to rupees 0.7, issue struggles to attract bids- Subscribe or avoid?. Mahanadi Coalfields' rupees 8,981 crore IPO remained undersubscribed after two days, while its grey-market premium plunged 92 percent to rupees 0.70, implying just 0.51 percent potential listing gains. Brokerages remain positive on its production scale, cash flows and dividends, but near-term investor demand is weak. Iran says Hormuz may reopen on 'reasonable' terms. Iranian Foreign Minister Abbas Araghchi has said reopening the Strait of Hormuz would be possible if Washington accepts reasonable conditions under international law, while demanding that the US acknowledge past mistakes. Taiwan Widens Short Sale Curbs After Shares Plunge on AI Concern. Taiwan widened curbs on short sales of local stocks and said it has been buying shares, stepping up efforts to revive confidence after the island's benchmark index had its worst weekly fall in 35 years. Deadly Mexico violence leaves 11 dead. The capture of Mexico's most-wanted cartel boss, Fausto Isidro Meza Flores, triggered deadly violence in Sinaloa, leaving seven suspected gunmen and four soldiers dead. Hindalco versus NALCO versus Vedanta Aluminium versus Hindustan Zinc: Which metal stocks to buy for good returns? Target, SL. Metal stocks including Hindalco, NALCO, Vedanta Aluminium and Hindustan Zinc came under pressure as base metal prices fell. Systematix remained positive on the companies, citing earnings growth, and named Vedanta Aluminium its preferred non-ferrous pick. India's men are getting serious about skincare. Ranveer Singh and Aman Gupta have introduced the brand H.I.M to cater to Indian men's skincare requirements. Patanjali Foods dividend 2026 announcement news: Board to consider 2nd interim dividend on Nov 26 - Check history, yield. Patanjali Foods will meet on November 26, 2026, to consider and approve a second interim dividend for FY27. The amount and record date have not been announced. Its trading window has been closed since November 21 and will reopen 48 hours after the dividend declaration. Pattinson, no need to get so shaken and stirred. Robert Pattinson has been cast as the new James Bond, sparking various reactions among audiences. GREED and fear Report: Jefferies Chris Wood hikes India exposure for 2nd time in 3 weeks, cuts Taiwan New Allocations. Jefferies strategist Christopher Wood raised India's allocation in his Asia Pacific ex-Japan portfolio to 15 percent , shifting one percentage point from Taiwan. The move follows a two-point increase earlier in November, as global technology stocks sell off. Costco Thanksgiving closure: Why US fears grow. Costco is preparing to close all its US warehouses on Thanksgiving Day, November 26 amid doomsday fears in the United States. Upcoming dividend, split, rights issue record dates next week, Nov 23-27: Pashupati Cotspin, Zee Ent, Varvee, and more. At least nine companies have corporate actions scheduled for November 23–27, including dividends, a rights issue, a buyback, and a stock split. Meanwhile, Nifty and Sensex extended their winning streaks to four sessions, with banking stocks leading weekly gains. Balen Shah visit signals Nepal's India policy shift. During Shah's visit, the two Prime Ministers will inaugurate projects related to connectivity and energy cooperation and lay the foundation for new projects. Gold versus silver price crash compared: White metal loses 65 percent , gold sheds 37 percent from record highs Wealth wiped, returns. Gold and silver have plunged from January 2026 record highs, but silver suffered the steeper correction: MCX silver fell 65 percent , versus gold's 37 percent . After silver's sharp November 20 decline, gold retained slightly higher returns for investors who bought in October 2025 and held through the correction. Revanth Reddy faces dissent within Congress. Rajagopal Reddy has accused Revanth Reddy of discriminating against his constituency in the allocation of government funds. Nvidia versus Anthropic shares: AI chip stock tanks 14 percent while Claude-maker falls 8.5 percent - See who wins in earnings, valuation?. Nvidia and Anthropic shares fell sharply amid a broader technology sell-off, raising questions about AI valuations and the returns on heavy industry spending. Nvidia remains highly profitable, while Anthropic is growing rapidly but faces substantial costs and losses. Vacant seats in TN, Telangana, Bengal back in focus. With the death of Kolathur MLA versus Babu in Tamil Nadu, the state now has six vacant Assembly seats. Bitcoin crashes to over two-year low below $60,000 level: What do experts expect from crypto markets going ahead?. Bitcoin price today: The world's largest cryptocurrency is trading near over two-year lows on 21 November, below the $60,000 level. The overall crypto market cap also slipped by 7.58 percent to $1.95 trillion."
+    },
+    {
+      "title": "Money, tax and personal finance",
+      "text": "Now to your money — taxes, savings and personal finance. Bank holidays next week: SBI, HDFC, ICICI branches will be closed on these five days from 23-30 Nov. Check RBI calendar. Bank holidays next week: Check which five days public and private sector lenders including the State Bank of India and HDFC Bank will be closed for customers across different regions during the week 23-30 November. Company FD interest rates in November 2026: Muthoot Capital offers 8.95 percent ; compare Shriram, Bajaj Finance and others now. Company FD interest rates reach 8.95 percent in November 2026, led by Muthoot Capital Services. Compare one-year, three-year and five-year returns from Shriram Finance, Bajaj Finance and other leading companies. Nvidia's fall: when a white swan is mistaken for a black one. Calling an event a black swan is comfortable because it absolves everybody, including the analysts who praised the company and the investors who put too much of their savings in it. If nobody could have seen it coming, nobody is obliged to look, and nobody is to blame. 8th Pay Commission: MSA and IRTSA proposals show how fitment factors could reshape central government salary structures. The 8th Pay Commission faces two contrasting salary proposals from MSA and IRTSA. Compare their fitment factors, proposed basic salaries and potential impact on the pay gap between junior and senior central government employees. Gujarat trader with 2 PANs gets another chance in rupees 7.60 lakh tax dispute after ITAT directs I-T Department to reassess case. The dispute arose after the taxpayer was allegedly allotted two Permanent Account Numbers (PANs) due to a clerical error ITAT Bangalore relief to businessman in rupees 12 crore tax case: Why Income Tax Department's seizure failed. The tribunal allowed the Income Tax Department to treat the seized cash as business income Income Tax rules: Delhi ITAT holds capital gains on transfer of US entity not taxable in India , Expert explains why. Income Tax rules: The Delhi Bench of the Income Tax Appellate Tribunal (ITAT) has held that capital gains on transfer of a US entity, in the case of FireEye Ireland, is not taxable in India. Expert explains why... Gold prices crash nearly 10 percent in a week: Mega reasons behind massive yellow metal rate fall – List. Gold prices have crashed nearly 10 percent in a week, hitting a 14-month low. A stronger US dollar, Federal Reserve rate hike expectations, persistent inflation and an AI-linked stock market sell-off are among the five major reasons behind the bullion correction. ETO-NEXT-GEN INVESTING WHAT MATTERS. Rajesh Saluja, MD and CEO, ASK Private Wealth, highlights why building a resilient portfolio and avoiding permanent capital loss should be key priorities for young investors at the ET Wealth Expo in Mumbai. Key income tax rules: Foreign Disclosure Scheme – What happens if taxman values your assets higher than you declared?. The Foreign Disclosure Scheme 2026 offers eligible taxpayers a one-time opportunity to declare undisclosed foreign assets. But what if the taxman values your assets higher than what you declared? Here are the key rules you need to know. Gold, debt and equity: Which portfolio mix offers better returns with lower volatility? 25 years of data provide answer. A 25-year analysis of equity, debt and gold returns and volatility reveals how investors can balance portfolio growth and risk. Find out which asset allocation mix has delivered better returns without exposing portfolios to excessive volatility. NRE FD interest rates in November 2026: PNB, Kotak, Federal Bank offer up to 6.80 percent ; compare top bank rates for NRIs now. NRIs can earn up to 6.80 percent interest on NRE fixed deposits in November 2026. Compare the latest NRE FD rates offered by PNB, Kotak Mahindra Bank, Federal Bank, HDFC Bank and ICICI Bank, along with key investment considerations. Golden lessons from past gold price fluctuations amid current gold price crash , 32 percent down from its peak in 2026. Gold prices have fallen nearly 32 percent from their January 2026 peak. Historical data reveals that after sharp corrections, gold took around 6-10 years to regain its previous highs. What past cycles tell investors about the road to recovery. Silver prices crash 64.2 percent from January peak: Check latest rates in Delhi, Mumbai, Chennai and other cities. Silver rate today, 21 November: Check the latest silver prices per kg and 100 gm in Delhi, Mumbai, Chennai, Kolkata and other cities. Understand why silver prices have crashed and what buyers should consider before investing. Builder fails to provide documents for home loan disbursal; later cancels flat over unpaid dues: How Noida couple won?. A Noida couple paid rupees 7.5 lakh for a rupees 77.35 lakh flat and secured a rupees 64 lakh home loan. After the builder allegedly failed to provide the documents needed for loan disbursal and cancelled the allotment, the couple approached the consumer commission. Bought gold on Diwali? Prices fall 12.9 percent in a fortnight: Check today's value of your 22K and 24K gold purchases in India. Gold prices have declined nearly 12.9 percent since Diwali on November 8, 2026. Check the latest 22-carat and 24-carat gold rates and understand how the correction affects the indicative value of your festive gold purchases. Credit card fraud: Software engineer loses rupees 5.47 lakh despite not sharing OTP or PIN; here's how to protect your money. A Bengaluru techie lost rupees 5.47 lakh to credit card fraud despite claiming he had not shared his OTP, PIN or card details. Here's how such frauds can happen, steps to protect your cards and how to report unauthorised transactions. 5 money lessons from MJ DeMarco's bestseller 'The Millionaire Fastlane': How to 'Crack the Code to Wealth and Live Rich'. MJ DeMarco's The Millionaire Fastlane challenges the conventional path of studying, working and investing for decades. He argues that wealth comes from building scalable businesses that solve real problems, create value and generate income without requiring an owner's constant labor. 8th Pay Commission: BPMS union seeks 6 percent increment, OPS restoration; check demands on fitment factor, DA merger and more. The Bharatiya Pratiraksha Mazdoor Sangh (BPMS) has submitted key demands to the 8th Pay Commission, including a 6 percent annual increment, restoration of OPS, 50 percent DA merger with basic pay, higher insurance cover, and pension benefits for Central Government employees. RBI Guv opens financial inclusion camp in Maharashtra, focuses on re-KYC. Malhotra also visited stalls set up by banks, Centres for Financial Literacy (CFLs) and self-help groups (SHGs), and interacted with their representatives CBIC proposes draft GST changes to shield genuine buyers from ITC loss. CBIC proposes GST law amendments to protect genuine buyers from losing input tax credit due to suppliers' invalid claims while targeting fraudulent invoicing Small businesses can deliver 100 times more impact from loans: RBI chief. The RBI Governor said his appeal was based on the gains achieved through banks' efforts to extend services to rural communities and economically weaker sections GST Network adds metro rail as fifth mode of transport in e-way bill system. The GST Network (GSTN) has added metro rail as a new mode of transport in the e-way bill system. Currently, the facility has also been released in the \"Sandbox environment\" for API users to test and make necessary changes to their systems. Its roll-out in the live API environment will be announced separately, GSTN, which manages the IT backbone of Goods and Services Tax, said. The facility follows a government notification dated October 26. EPF is becoming a retirement income plan. Is it a better one?. Instalments and easier withdrawals are coming, but tax and interest rules are still unwritten Irdai fines Star Health rupees 2 crore over unjustified health claim rejections. The insurance regulator found that Star Health rejected claims on untenable grounds, made unsupported deductions and failed to adequately explain its decisions to policyholders. King, Stubb and Kasiva > India Legal 500 law firm profiles News and developments. Haryana GST Officer Arrested For Bribery, Assets Worth rupees 1.86 Crore Seized."
+    },
+    {
+      "title": "Science and technology",
+      "text": "Next, science and technology. Meet Ishita Jain, the Google AI GTM leader driving business growth and working with enterprises across Southeast Asia. Ishita Jain has joined Google in an AI Go-to Amazon is complaining about NYC Council on shipping labels, too. Amazon is leaving no venue unexplored in its fight against the New York City Council and the Delivery Protection Act. The company is now putting labels on shipments claiming that the Council could add up to $5 to any Amazon order. The Delivery Protection Act would effectively ban the sort of third-party arrangements Amazon currently Signal restricts mobile screenshots as it confronts 'existential threat' of AI surveillance. Signal is limiting users' ability to take screenshots in both its Android and iOS apps. AI may not work like the human brain after all, scientists discover. AI may not think like the human brain after all, according to a striking new discovery that challenges how scientists understand artificial intelligence. Researchers found that even AI models that closely predict brain activity may rely on internal processes the brain doesn't use, raising important questions about their reliability in neuroscience research. GTA 6-inspired luxury collection unveiled: Caviar launches gold-plated iPhones, Samsung Fold8 and Ray-Ban smart glasses. Luxury brand Caviar has unveiled its Most Wanted collection of customised smartphones and Ray-Ban smart glasses inspired by GTA 6. The designs draw on the game's Miami-inspired aesthetic, featuring neon colours, gold finishes and premium materials. The UN fails to agree on rules regulating 'killer robots'. One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations. According to NPR: Before the negotiations got underway, the A tale of two Nvidias. We got two very different pictures of Nvidia , the company's latest earnings report versus. the tech executives loudly calling for Jensen Huang's return. GTA 6 console comparison: PS5 Pro takes the lead – why is it the best option? How do PS5 and Xbox stack up?. A omparison finds the PS5 Pro delivers the best GTA 6 experience, with sharper visuals, extra ray-traced shadows and steadier performance. The standard PS5 and Xbox Series X are broadly similar, while Xbox Series S makes the biggest visual and performance compromises. All four consoles target 30 FPS. The FBI and USDA were reportedly hacked. Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked. In reporting on the FBI hack, CNN noted that this is the second such attack on the agency in the last few months, this time targeting the National Crime Information Center (NCIC), which federal, state, and local law Trump says reported FBI database hack is 'not good'. The FBI is reportedly investigating a hack of the National Crime Information Center. A giant star swallowed another star. James Webb reveals the aftermath. Astronomers have witnessed a spectacular cosmic collision in the Andromeda galaxy, where a small star spiraled into a giant star 18,000 times brighter than the Sun, triggering a violent eruption. NASA's James Webb Space Telescope captured the aftermath just 47 days later, revealing new details about how two stars can merge into one. GTA 6 reportedly cost over $1 billion: How many copies does Rockstar need to sell to recover its budget?. GTA 6's development budget is reportedly above $1 billion, but Rockstar has not confirmed the figure. At its $79.99 standard price, the game would need to sell millions of copies to cover its costs, even before other expenses. John Roberts, the voice of Linda Belcher, is just happy to finish a thing. You probably know John Roberts best as the voice of Linda Belcher on Bob's Burgers. The show just wrapped up its 16th season and shows no signs of slowing down anytime soon. The show remains a reliable source of laughs, top-notch puns, and frankly wholesome fun. Comedy is just part of Roberts' life, however. Here are the top AI agents that can live in your text messages. We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work. Amazon's first digital photo frame is up to 50 percent off for Black Friday. Amazon only announced its first digital photo frame less than a month ago, but it's already getting a sizable discount for Black Friday. You can currently grab the Alexa Photo Frame at Amazon and Best Buy starting at $114 ($115 off), making it a great holiday gift for anyone who loves displaying family photos. If Is selling an AI version of your face to this microdrama startup the future of Hollywood?. An actor has licensed his face to a microdrama startup , in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too. Motorola Android 17 eligible phones list India: Check Edge, Razr, Moto G, and 29 other models set to get the update. Motorola has named 29 smartphones eligible for Android 17, including models from its Edge, Razr and Moto G series. Nine phones are already receiving the stable update, while 20 more are scheduled to get it in the coming months. Can Anthropic afford to put safety first?. Today, I'm talking with Hayden Field, The Verge's senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conversation, except to Alaska, your next governor is a Wikipedia nerd. Jonathan Kreiss-Tomkins, Alaska's governor-elect, has made more than 13,000 WIkipedia edits. CERT-In flags unauthorised payments beyond financial sector. The Indian Computer Emergency Response Team (CERT-In) has flagged unauthorised payments beyond the financial sector, with reported cases affecting technology service providers that support government-linked payments and platforms that handle payouts to vendors and business partners. Our go-to earbuds for taking calls have fallen to their lowest price to date. If you're looking for a new pair of earbuds, the Soundcore Liberty 5 Pro are on sale for $129.99 at Amazon, Best Buy, and Walmart right now. That's the lowest price we've seen for Anker's excellent wireless earbuds, which normally retail for $169.99 and come in four colors (black, white, blue, and pink) all of Startup sues Apple in India over tap-to-share contacts feature. A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India. Huawei reveals ultra-thin Watch Air ahead of November 24 launch: Check design, features, colours, and what to expect. Huawei said this ultra-slim build is engineered to deliver a lightweight and comfortable fit for everyday wear. Chess.com's next move is a new hub for classic games, from mahjong to sudoku. Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. They're all part of Chess's new Classic Games platform, which is launching GTA 6 beats Avengers Endgame, GTA 5 to become fastest-selling entertainment release with $3.79 billion Day 1 sales. Workforce management tech company UKG reported that time-off requests for the day GTA 6 launched were roughly 20 percent higher than in comparable pre The Xiaomi 18 Pro proves two screens aren't better than one. Xiaomi introduced a second screen to its flagship phones with last year's 17 Pros, but didn't release them outside China. That means the new 18 Pro and Pro Max are the first chance I've had to find out if a screen on the back of a phone is any more useful now than it was"
+    },
+    {
+      "title": "Development and policy",
+      "text": "Now to development, infrastructure and government policy. PM Modi calls upon Indian industries to seize new opportunities arising from country's growth story. Khelo India Sports Goods Manufacturing Scheme, 2026: Ministry Of Youth Affairs And Sports. Litigation Funding for Contract Disputes in India: A 2026 Guide for Business Owners. India's Financial Resilience: Rupee, Rising Debt and Monsoon Risks. Botswana-Born Cheetah Gives Birth to Four Cubs in Wild, India's Cheetah Population Rises to 62. India, Canada conclude sixth round of talks for proposed trade pact. Fix Education Now Or Lose India's Future. India restricts cut flower imports to Chennai, Amritsar airports, Kandla port. Climate Science Into Services For India Forum (CSSIF), 2026. 'Look at India': Trump cites 7 percent growth to criticise US Fed's rate policy. Shaping India's future of learning: How NEP 2020 is transforming education beyond rote memorisation."
+    },
+    {
+      "title": "Across India",
+      "text": "Turning to the big national stories. ICMR: Common antibiotics losing potency as drug resistance rises. Antibiotics used to treat common bacterial infections are increasingly losing their effectiveness, with a new Indian Council of Medical Research (ICMR) report finding only 18.4 percent of E. Ganges treaty: Bangladesh and India meeting today. India and Bangladesh will meet under the Joint Rivers Commission (JRC) in Dhaka on Sunday, ahead of the expiry of the Ganges Water Sharing Treaty, signed on Dec 12, 1996. Amit Shah and Sergio Gor laud joint India-US effort in transnational narcotics network bust. Union home minister Amit Shah and US ambassador to India Sergio Gor Saturday lauded the breakthrough success of 'Operation Monsoon Thunder,' underscoring the deepening Indo India's cyber security agency Cert-IN flags payment fraud in govt-linked platforms. India's cyber security agency has said payment fraud extends beyond banks and financial firms to companies that process govt-linked payments and platforms paying vendors and business partners. India crosses 1 crore HPV vax in 9 months. India has administered more than one crore doses of the HPV vaccine in less than nine months of launching its national campaign, covering nearly 87 percent of the annual target of 1.2 crore 14-year-old girls, according to the Union health ministry. Over 10k postgraduate medical seats in blocked category; govt may review float system. More than 10,000 postgraduate medical seats were listed under the blocked category after Round 2 of NEET-PG 2026 counselling, with the data indicating that some candidates were holding one seat through All India counselling and another through state counselling simultaneously, prompting the govt to consider changes to the newly introduced float system. Humayun, Sher Shah and 'one fort': Pakistan minister highlights Purana Quila's layered history at SCO forum. At the SCO Civilisational Dialogue Forum, hosted at Delhi's Purana Quila, Pakistan's minister Musadik Malik elaborated on the site's historical relevance, paying tribute to Mughal emperor Humayun and Afghan ruler Sher Shah Suri. He emphasized the necessity of dialogue among various cultures. The forum, which was kicked off by Prime Minister Narendra Modi, seeks to illuminate India's diverse civilizational heritage via displays and archaeological findings. China's support to Pakistan during Operation Sindoor impacted Indian planning: US panel. A US commission has claimed that China's backing of Pakistan during Operation Sindoor had complicated Indian operational planning and tied down Indian military resources, advancing China's goal of constraining and suppressing India's rise as a peer competitor in the Indo Reflecting on Purana Qila's history, Pakistan minister invokes Humanyun and Sher Shah Suri at SCO civilisational dialogue to assert cultural diversity. Venue of the first civilisational dialogue under the Shanghai Cooperation Organisation Forum, Purana Qila symbolised civilisational continuity but in the case of Pakistan with a different perspective. Jharkhand CM Hemant Soren writes to CJI seeking urgent appointment of HC chief justice successor. Jharkhand chief minister Hemant Soren wrote a letter to Chief Justice of India Surya Kant and the Supreme Court Collegium, urging them to expedite the appointment of a successor to Jharkhand High Court Chief Justice M S Sonak, who is due to retire on November 27. 'Don't dislike BJP': Shehzad Poonawalla on quitting politics; calls rift with brother ideological. Shehzad Poonawalla clarified that his exit from active politics is not due to dislike for the BJP. He expressed his ongoing support for Prime Minister Narendra Modi and other BJP leaders. Differences with his brother Tehseen Poonawalla were framed as a clash of principles rather than personal issues. Shehzad emphasized that every person in India should identify as Hindu. NGT scanner on waste dumping near J and K's saffron fields. National Green Tribunal (NGT) has constituted a committee of experts to assess environmental damage and inspect a municipal dumping site in J and K's Pampore after an activist filed a petition alleging such waste disposals were threatening the area's vast saffron fields. NCB busts interstate pharma drugs syndicate. The Narcotics Control Bureau (NCB) has busted an interstate network involved in supplying pharmaceutical drugs from Delhi to the Kashmir Valley and has arrested four suspects so far."
+    },
+    {
+      "title": "Around the world",
+      "text": "And finally, here is what is happening around the world. Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting. Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine. Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out. Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities. FBI reportedly investigating apparent hack of its criminal database. The National Crime Information Center database is used by federal and local law enforcement to share information."
+    },
+    {
+      "title": "Sign-off",
+      "text": "That is your briefing. Stay sharp, and have a strong day."
+    }
+  ]
+}
